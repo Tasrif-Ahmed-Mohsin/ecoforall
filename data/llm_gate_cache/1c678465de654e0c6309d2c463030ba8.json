@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and low debt, the economy is in a sharp recession with negative growth, while moderate political instability and social unrest warrant elevated political and societal weights, though no major climate shocks are present.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and low debt, the economy is in a sharp recession with negative growth, while moderate political instability and social unrest warrant elevated political and societal weights, though no major climate shocks are present.\"\n}",
+  "_cache_key": "1c678465de654e0c6309d2c463030ba8",
+  "_iso3": "ARE",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan faces moderate economic fragility (high debt, unemployment, current account deficit) and political instability (sanctions, protests, conflicts), but no major environmental shocks, so economy and politics dominate while human society reflects social tensions.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan faces moderate economic fragility (high debt, unemployment, current account deficit) and political instability (sanctions, protests, conflicts), but no major environmental shocks, so economy and politics dominate while human society reflects social tensions.\"\n}",
+  "_cache_key": "43ac0a0c4a0656b8dd9b7679310e0920",
+  "_iso3": "JOR",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

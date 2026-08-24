@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high current account deficit and moderate debt, the economy is growing strongly with no ongoing crises, so economic factors dominate, while political and social risks are moderate but not acute.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high current account deficit and moderate debt, the economy is growing strongly with no ongoing crises, so economic factors dominate, while political and social risks are moderate but not acute.\"\n}",
+  "_cache_key": "227756a23c4d196cb86083717d7d4b62",
+  "_iso3": "DJI",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

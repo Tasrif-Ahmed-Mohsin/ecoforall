@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Rwanda has moderate growth and investment but a large current account deficit and low income, while political stability is decent yet conflict and protest indicators are elevated, so economic fundamentals dominate but political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Rwanda has moderate growth and investment but a large current account deficit and low income, while political stability is decent yet conflict and protest indicators are elevated, so economic fundamentals dominate but political risks warrant a notable share.\"\n}",
+  "_cache_key": "ba0b0a701144239149cf64ae00f700bd",
+  "_iso3": "RWA",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, moderately unstable country with mild political tensions and external sanctions, but no acute crisis, so economic fundamentals dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG is a low-income, moderately unstable country with mild political tensions and external sanctions, but no acute crisis, so economic fundamentals dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "ff250f41e9bd25ee6cf9199843ddf950",
+  "_iso3": "MDG",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

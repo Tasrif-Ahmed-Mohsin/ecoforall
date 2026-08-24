@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Yemen is in a severe political and conflict-driven crisis with high instability, sanctions, and negative diplomatic interactions, making politics the dominant driver of near-term GDP collapse, while economic fundamentals are weak but secondary and social unrest is elevated but less directly growth-determining.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Yemen is in a severe political and conflict-driven crisis with high instability, sanctions, and negative diplomatic interactions, making politics the dominant driver of near-term GDP collapse, while economic fundamentals are weak but secondary and social unrest is elevated but less directly growth-determining.\"\n}",
+  "_cache_key": "f5eb67b518aaef198abf4b2aac5343e8",
+  "_iso3": "YEM",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

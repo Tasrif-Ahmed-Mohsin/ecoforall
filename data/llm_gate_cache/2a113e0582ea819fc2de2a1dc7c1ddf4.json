@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Uganda in 2004 shows moderate growth, low inflation, no active crises, and stable political conditions, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given ongoing but non-crisis-level tensions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Uganda in 2004 shows moderate growth, low inflation, no active crises, and stable political conditions, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given ongoing but non-crisis-level tensions.\"\n}",
+  "_cache_key": "2a113e0582ea819fc2de2a1dc7c1ddf4",
+  "_iso3": "UGA",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

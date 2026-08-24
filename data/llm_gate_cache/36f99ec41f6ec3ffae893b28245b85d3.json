@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Niger faces severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) alongside large external imbalances and low income, making politics nearly as important as the weak economic fundamentals for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Niger faces severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) alongside large external imbalances and low income, making politics nearly as important as the weak economic fundamentals for short-term growth.\"\n}",
+  "_cache_key": "36f99ec41f6ec3ffae893b28245b85d3",
+  "_iso3": "NER",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

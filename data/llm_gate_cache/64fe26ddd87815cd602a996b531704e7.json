@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Chile is a stable high-income economy with moderate political stress (protests, sanctions) and mild environmental risks, so economic fundamentals dominate but political and social factors warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Chile is a stable high-income economy with moderate political stress (protests, sanctions) and mild environmental risks, so economic fundamentals dominate but political and social factors warrant notable weight.\"\n}",
+  "_cache_key": "64fe26ddd87815cd602a996b531704e7",
+  "_iso3": "CHL",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

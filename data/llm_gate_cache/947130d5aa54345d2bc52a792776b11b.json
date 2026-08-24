@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "NLD is a stable, high-income economy with no crises, so economic fundamentals dominate, while structural factors like demographics and climate have modest influence over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NLD is a stable, high-income economy with no crises, so economic fundamentals dominate, while structural factors like demographics and climate have modest influence over a 5-year horizon.\"\n}",
+  "_cache_key": "947130d5aa54345d2bc52a792776b11b",
+  "_iso3": "NLD",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

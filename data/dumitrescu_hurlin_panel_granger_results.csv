@@ -1,0 +1,31 @@
+hypothesis,direction,y_var,x_var,lags,n_countries,avg_t,w_bar,z_tilde,p_value,pct_countries_causal,p_bonferroni,significant_bonferroni,significant_fdr_05
+Trust -> GDP Growth,psychology_trust -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,psychology_trust,1,95,29.0,1.4256,2.0424,0.041107,10.5,1.0,False,False
+Trust -> GDP Growth,psychology_trust -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,psychology_trust,2,95,29.0,3.7796,6.5158,0.0,12.6,0.0,True,True
+Social Cohesion -> GDP Growth,psychology_social_cohesion -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,psychology_social_cohesion,1,95,29.0,1.4417,2.1389,0.032442,9.5,0.97326,False,False
+Social Cohesion -> GDP Growth,psychology_social_cohesion -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,psychology_social_cohesion,2,95,29.0,3.0447,3.5188,0.000434,7.4,0.01302,True,True
+Education -> GDP Growth,society_education -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,society_education,1,95,29.0,1.7168,3.7805,0.000157,8.4,0.00471,True,True
+Education -> GDP Growth,society_education -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,society_education,2,95,29.0,3.9645,7.2698,0.0,18.9,0.0,True,True
+Fear -> Material Conflict,psychology_fear -> material_conflict_annual_sum,material_conflict_annual_sum,psychology_fear,1,95,30.0,1.4243,2.0663,0.038801,8.4,1.0,False,False
+Fear -> Material Conflict,psychology_fear -> material_conflict_annual_sum,material_conflict_annual_sum,psychology_fear,2,95,30.0,2.9553,3.2109,0.001323,12.6,0.03969,True,True
+Fear -> Protest Unrest,psychology_fear -> protest_unrest_annual_sum,protest_unrest_annual_sum,psychology_fear,1,95,30.0,1.5939,3.0847,0.002037,9.5,0.06111,False,True
+Fear -> Protest Unrest,psychology_fear -> protest_unrest_annual_sum,protest_unrest_annual_sum,psychology_fear,2,95,30.0,2.8486,2.7725,0.005563,10.5,0.16689,False,True
+Trust -> Political Stability,psychology_trust -> stability_momentum_annual_mean,stability_momentum_annual_mean,psychology_trust,1,95,30.0,1.7481,4.0099,6.1e-05,11.6,0.00183,True,True
+Trust -> Political Stability,psychology_trust -> stability_momentum_annual_mean,stability_momentum_annual_mean,psychology_trust,2,95,30.0,3.5294,5.5699,0.0,11.6,0.0,True,True
+Disaster Damage -> Social Fear,disaster_economic_damage_usd -> psychology_fear,psychology_fear,disaster_economic_damage_usd,1,50,31.0,1.4576,1.6665,0.09561,12.0,1.0,False,False
+Disaster Damage -> Social Fear,disaster_economic_damage_usd -> psychology_fear,psychology_fear,disaster_economic_damage_usd,2,50,31.0,2.3698,0.6097,0.542059,8.0,1.0,False,False
+Temp Anomaly -> Social Fear,temp_anomaly_celsius -> psychology_fear,psychology_fear,temp_anomaly_celsius,1,50,31.0,1.5885,2.2395,0.025126,14.0,0.75378,False,True
+Temp Anomaly -> Social Fear,temp_anomaly_celsius -> psychology_fear,psychology_fear,temp_anomaly_celsius,2,50,31.0,2.8308,1.9936,0.046192,4.0,1.0,False,False
+Disaster Damage -> Institutional Trust,disaster_economic_damage_usd -> psychology_trust,psychology_trust,disaster_economic_damage_usd,1,50,31.0,1.0865,0.0419,0.966579,2.0,1.0,False,False
+Disaster Damage -> Institutional Trust,disaster_economic_damage_usd -> psychology_trust,psychology_trust,disaster_economic_damage_usd,2,50,31.0,1.8104,-1.0696,0.284801,2.0,1.0,False,False
+Disaster Damage -> GDP Growth,disaster_economic_damage_usd -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,disaster_economic_damage_usd,1,50,63.6,1.1721,0.6499,0.515765,4.0,1.0,False,False
+Disaster Damage -> GDP Growth,disaster_economic_damage_usd -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,disaster_economic_damage_usd,2,50,63.6,2.4091,1.1155,0.264656,8.0,1.0,False,False
+Temp Anomaly -> GDP Growth,temp_anomaly_celsius -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,temp_anomaly_celsius,1,50,63.6,4.6522,17.0467,0.0,42.0,0.0,True,True
+Temp Anomaly -> GDP Growth,temp_anomaly_celsius -> gdp_pc_growth_1y_fwd,gdp_pc_growth_1y_fwd,temp_anomaly_celsius,2,50,63.6,6.4184,14.3304,0.0,36.0,0.0,True,True
+Stability -> Renewable Adoption,stability_momentum_annual_mean -> renewable_energy_pct_share,renewable_energy_pct_share,stability_momentum_annual_mean,1,50,65.0,0.7171,-1.492,0.135697,0.0,1.0,False,False
+Stability -> Renewable Adoption,stability_momentum_annual_mean -> renewable_energy_pct_share,renewable_energy_pct_share,stability_momentum_annual_mean,2,50,65.0,1.4143,-2.1615,0.03066,0.0,0.9198,False,False
+Sanctions -> CO2 Emissions,sanctions_coercion_annual_sum -> co2_emissions_per_capita,co2_emissions_per_capita,sanctions_coercion_annual_sum,1,50,65.0,0.9335,-0.4712,0.637465,4.0,1.0,False,False
+Sanctions -> CO2 Emissions,sanctions_coercion_annual_sum -> co2_emissions_per_capita,co2_emissions_per_capita,sanctions_coercion_annual_sum,2,50,65.0,2.2804,0.6982,0.48507,2.0,1.0,False,False
+GDP Growth -> Trust (Feedback),gdp_pc_growth_1y_fwd -> psychology_trust,psychology_trust,gdp_pc_growth_1y_fwd,1,95,29.0,1.7721,4.1104,3.9e-05,12.6,0.00117,True,True
+GDP Growth -> Trust (Feedback),gdp_pc_growth_1y_fwd -> psychology_trust,psychology_trust,gdp_pc_growth_1y_fwd,2,95,29.0,3.357,4.7925,2e-06,12.6,6e-05,True,True
+Inflation -> Fear (Feedback),inflation_rate -> psychology_fear,psychology_fear,inflation_rate,1,95,30.0,2.4904,8.4654,0.0,11.6,0.0,True,True
+Inflation -> Fear (Feedback),inflation_rate -> psychology_fear,psychology_fear,inflation_rate,2,95,30.0,3.3108,4.6717,3e-06,11.6,9e-05,True,True

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Yemen faces severe political instability, high conflict intensity, and sanctions, which dominate the growth outlook, while economic vulnerabilities and social unrest are secondary but relevant.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen faces severe political instability, high conflict intensity, and sanctions, which dominate the growth outlook, while economic vulnerabilities and social unrest are secondary but relevant.\"\n}",
+  "_cache_key": "5e7fc215b7c0919197900810da6973f3",
+  "_iso3": "YEM",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

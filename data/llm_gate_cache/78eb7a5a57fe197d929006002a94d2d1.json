@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Spain in 2003 is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic fundamentals, with minor roles for political, environmental, and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain in 2003 is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic fundamentals, with minor roles for political, environmental, and social factors.\"\n}",
+  "_cache_key": "78eb7a5a57fe197d929006002a94d2d1",
+  "_iso3": "ESP",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

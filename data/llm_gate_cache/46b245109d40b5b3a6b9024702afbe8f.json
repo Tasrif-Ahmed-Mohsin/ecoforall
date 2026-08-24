@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran faces high inflation, sanctions, and political instability, but no acute conflict or major climate disaster, so economic and political factors dominate while social and environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces high inflation, sanctions, and political instability, but no acute conflict or major climate disaster, so economic and political factors dominate while social and environmental risks are moderate.\"\n}",
+  "_cache_key": "46b245109d40b5b3a6b9024702afbe8f",
+  "_iso3": "IRN",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

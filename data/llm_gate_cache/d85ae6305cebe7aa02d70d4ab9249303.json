@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDA is a middle-income economy with high investment and growth but large external imbalances and moderate inflation, making economic factors dominant, while political instability and social tensions add moderate risk, with limited environmental data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDA is a middle-income economy with high investment and growth but large external imbalances and moderate inflation, making economic factors dominant, while political instability and social tensions add moderate risk, with limited environmental data.\"\n}",
+  "_cache_key": "d85ae6305cebe7aa02d70d4ab9249303",
+  "_iso3": "MDA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

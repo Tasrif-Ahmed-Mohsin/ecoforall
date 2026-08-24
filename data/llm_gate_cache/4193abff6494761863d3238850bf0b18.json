@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Tanzania has moderate growth and investment, but high protest pressure, low institutional trust, and social cohesion risks elevate political and societal factors for the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Tanzania has moderate growth and investment, but high protest pressure, low institutional trust, and social cohesion risks elevate political and societal factors for the near-term outlook.\"\n}",
+  "_cache_key": "4193abff6494761863d3238850bf0b18",
+  "_iso3": "TZA",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

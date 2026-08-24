@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2008 shows moderate growth, high inflation, and investment, but with notable political instability, environmental vulnerabilities (floods, droughts, storms), and social pressures, so economic fundamentals dominate but political and environmental risks are significant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh in 2008 shows moderate growth, high inflation, and investment, but with notable political instability, environmental vulnerabilities (floods, droughts, storms), and social pressures, so economic fundamentals dominate but political and environmental risks are significant for a 5-year horizon.\"\n}",
+  "_cache_key": "0e11ac0dfb702fc2a7ba1bd45a44e8d9",
+  "_iso3": "BGD",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

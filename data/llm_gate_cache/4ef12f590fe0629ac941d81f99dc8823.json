@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "SLE faces moderate economic fragility with high inflation and low investment, but significant political instability and conflict risk dominate the medium-term outlook, while social pressures add secondary risk.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"SLE faces moderate economic fragility with high inflation and low investment, but significant political instability and conflict risk dominate the medium-term outlook, while social pressures add secondary risk.\"\n}",
+  "_cache_key": "4ef12f590fe0629ac941d81f99dc8823",
+  "_iso3": "SLE",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

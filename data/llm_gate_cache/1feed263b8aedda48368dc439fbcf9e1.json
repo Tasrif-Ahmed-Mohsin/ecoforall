@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Yemen is in a severe political crisis with extreme instability, high conflict intensity, and massive protests, which will dominate short-term GDP growth, while economic fundamentals are weak but secondary to the ongoing political collapse.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen is in a severe political crisis with extreme instability, high conflict intensity, and massive protests, which will dominate short-term GDP growth, while economic fundamentals are weak but secondary to the ongoing political collapse.\"\n}",
+  "_cache_key": "1feed263b8aedda48368dc439fbcf9e1",
+  "_iso3": "YEM",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

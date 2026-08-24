@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "The economy is stable with no ongoing crises, moderate inflation, and positive growth trajectory, so economic factors dominate, while political and social indicators show no acute stress warranting higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.1,\n  \"environment\": 0.05,\n  \"human_society\": 0.1,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is stable with no ongoing crises, moderate inflation, and positive growth trajectory, so economic factors dominate, while political and social indicators show no acute stress warranting higher weights.\"\n}",
+  "_cache_key": "20e221eb7951b031a8fe865963d56ccd",
+  "_iso3": "NPL",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

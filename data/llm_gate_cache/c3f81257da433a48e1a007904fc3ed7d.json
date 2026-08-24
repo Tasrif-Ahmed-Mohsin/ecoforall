@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2011 is emerging from conflict with moderate political instability and sanctions, but the economy is relatively stable with positive growth and high oil revenues, so economic factors dominate while political risks remain significant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2011 is emerging from conflict with moderate political instability and sanctions, but the economy is relatively stable with positive growth and high oil revenues, so economic factors dominate while political risks remain significant.\"\n}",
+  "_cache_key": "c3f81257da433a48e1a007904fc3ed7d",
+  "_iso3": "IRQ",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High political instability, sanctions, and conflict intensity dominate the outlook, while moderate economic fundamentals and low inflation provide some buffer, but social unrest adds further risk.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High political instability, sanctions, and conflict intensity dominate the outlook, while moderate economic fundamentals and low inflation provide some buffer, but social unrest adds further risk.\"\n}",
+  "_cache_key": "7ca4bba8cb43cb22e53c636846eb5279",
+  "_iso3": "BEN",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kazakhstan is a stable, upper-middle-income economy with moderate growth, low debt, and no current crises, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kazakhstan is a stable, upper-middle-income economy with moderate growth, low debt, and no current crises, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "f2316a4202cb6dfa29c278b4ba9716de",
+  "_iso3": "KAZ",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

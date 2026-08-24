@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "LKA shows moderate economic fragility with high debt and negative growth trajectory, but political instability and social tensions (protests, low trust) are significant enough to elevate their weights, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LKA shows moderate economic fragility with high debt and negative growth trajectory, but political instability and social tensions (protests, low trust) are significant enough to elevate their weights, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "6bc84672a731a73ab007085736613f24",
+  "_iso3": "LKA",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

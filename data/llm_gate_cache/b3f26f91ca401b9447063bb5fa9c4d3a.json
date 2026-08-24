@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces severe political instability (very low stability, high protests, sanctions) and economic vulnerabilities (high current account deficit, negative recent growth), so politics and economy dominate, with social unrest adding risk, while environmental data is too limited to weight heavily.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mauritania faces severe political instability (very low stability, high protests, sanctions) and economic vulnerabilities (high current account deficit, negative recent growth), so politics and economy dominate, with social unrest adding risk, while environmental data is too limited to weight heavily.\"\n}",
+  "_cache_key": "b3f26f91ca401b9447063bb5fa9c4d3a",
+  "_iso3": "MRT",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.06,
+  "human_society": 0.06,
+  "confidence": 0.85,
+  "reasoning": "Germany in 2010 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.06,\n  \"human_society\": 0.06,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Germany in 2010 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "3c96e83c1d4accbe2fea762e8d02c7f8",
+  "_iso3": "DEU",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

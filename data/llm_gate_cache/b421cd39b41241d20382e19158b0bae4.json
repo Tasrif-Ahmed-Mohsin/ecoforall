@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB faces high debt, inflation, and negative recent growth, but political instability and protests are moderate, so economic factors dominate while political risks remain significant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB faces high debt, inflation, and negative recent growth, but political instability and protests are moderate, so economic factors dominate while political risks remain significant.\"\n}",
+  "_cache_key": "b421cd39b41241d20382e19158b0bae4",
+  "_iso3": "ZMB",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

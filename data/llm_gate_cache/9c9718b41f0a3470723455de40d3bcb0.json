@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "COG shows moderate economic fundamentals with high investment and current account surplus, but significant political instability, conflict, and negative sentiment warrant a substantial political weight, while environmental and social data are too limited to assign high importance.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"COG shows moderate economic fundamentals with high investment and current account surplus, but significant political instability, conflict, and negative sentiment warrant a substantial political weight, while environmental and social data are too limited to assign high importance.\"\n}",
+  "_cache_key": "9c9718b41f0a3470723455de40d3bcb0",
+  "_iso3": "COG",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and low debt, the economy is the primary driver, but political instability and sanctions risk, alongside moderate environmental and social pressures, warrant meaningful weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and low debt, the economy is the primary driver, but political instability and sanctions risk, alongside moderate environmental and social pressures, warrant meaningful weights over a 5-year horizon.\"\n}",
+  "_cache_key": "3547ac88715f2527865156af633d52b1",
+  "_iso3": "SAU",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

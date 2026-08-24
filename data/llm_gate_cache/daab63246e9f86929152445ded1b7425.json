@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Tanzania is a low-income, stable economy with moderate inflation and debt, but high investment and recent growth, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Tanzania is a low-income, stable economy with moderate inflation and debt, but high investment and recent growth, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and low trust.\"\n}",
+  "_cache_key": "daab63246e9f86929152445ded1b7425",
+  "_iso3": "TZA",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

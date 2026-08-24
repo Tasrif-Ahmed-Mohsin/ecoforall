@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "High inflation, currency crisis, and negative recent growth dominate the outlook, but ongoing political instability and sanctions add significant risk, while environmental and social factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High inflation, currency crisis, and negative recent growth dominate the outlook, but ongoing political instability and sanctions add significant risk, while environmental and social factors are less immediate.\"\n}",
+  "_cache_key": "3019b3718e58e735607a6dde6def3948",
+  "_iso3": "SUR",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

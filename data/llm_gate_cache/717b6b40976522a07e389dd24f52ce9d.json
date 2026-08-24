@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "NIC faces high political instability, sanctions, and negative conflict sentiment, while economic fundamentals are mixed with high inflation and negative recent growth, making politics nearly as important as the economy for short-term GDP growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"NIC faces high political instability, sanctions, and negative conflict sentiment, while economic fundamentals are mixed with high inflation and negative recent growth, making politics nearly as important as the economy for short-term GDP growth.\"\n}",
+  "_cache_key": "717b6b40976522a07e389dd24f52ce9d",
+  "_iso3": "NIC",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

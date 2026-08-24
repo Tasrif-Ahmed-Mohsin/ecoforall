@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZMB faces high debt, high inflation, and a large current account deficit, but political instability and conflict indicators are also elevated, so economic fundamentals dominate while political risks are substantial.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"ZMB faces high debt, high inflation, and a large current account deficit, but political instability and conflict indicators are also elevated, so economic fundamentals dominate while political risks are substantial.\"\n}",
+  "_cache_key": "e6fe8cf00c77082d9f683ef3a87c3cf2",
+  "_iso3": "ZMB",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

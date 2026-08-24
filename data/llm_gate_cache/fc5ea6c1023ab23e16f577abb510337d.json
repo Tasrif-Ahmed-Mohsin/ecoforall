@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Estonia is a high-income, fast-growing economy with no active crises, but political instability and high protest/sanction pressures warrant a moderate political weight, while environmental and social data are too limited to be major drivers.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Estonia is a high-income, fast-growing economy with no active crises, but political instability and high protest/sanction pressures warrant a moderate political weight, while environmental and social data are too limited to be major drivers.\"\n}",
+  "_cache_key": "fc5ea6c1023ab23e16f577abb510337d",
+  "_iso3": "EST",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

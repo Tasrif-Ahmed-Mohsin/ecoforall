@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "Ukraine in 2011 faces high political instability, conflict, and sanctions, alongside moderate economic imbalances and social strain, making politics and economy the dominant drivers, with human society also significant due to low trust and high protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Ukraine in 2011 faces high political instability, conflict, and sanctions, alongside moderate economic imbalances and social strain, making politics and economy the dominant drivers, with human society also significant due to low trust and high protest pressure.\"\n}",
+  "_cache_key": "dce5d23ea1c1bb8b70983a43ee11a0b6",
+  "_iso3": "UKR",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

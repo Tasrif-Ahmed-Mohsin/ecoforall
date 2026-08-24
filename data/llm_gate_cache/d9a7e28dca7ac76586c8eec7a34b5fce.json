@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, low investment, and recent negative growth signal economic fragility, while political instability, conflict, and sanctions elevate political risk, with social unrest also relevant but less dominant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, low investment, and recent negative growth signal economic fragility, while political instability, conflict, and sanctions elevate political risk, with social unrest also relevant but less dominant.\"\n}",
+  "_cache_key": "d9a7e28dca7ac76586c8eec7a34b5fce",
+  "_iso3": "ERI",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

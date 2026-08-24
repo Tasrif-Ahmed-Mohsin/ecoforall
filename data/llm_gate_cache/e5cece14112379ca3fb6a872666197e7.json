@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "CZE is a stable, high-income EU economy with moderate inflation and low unemployment, so economic fundamentals dominate the 1-year outlook, while political and social indicators are relatively benign despite some negative sentiment.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"CZE is a stable, high-income EU economy with moderate inflation and low unemployment, so economic fundamentals dominate the 1-year outlook, while political and social indicators are relatively benign despite some negative sentiment.\"\n}",
+  "_cache_key": "e5cece14112379ca3fb6a872666197e7",
+  "_iso3": "CZE",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

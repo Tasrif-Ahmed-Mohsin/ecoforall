@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Greece in 2011 is in a severe sovereign debt and austerity crisis with high unemployment, negative growth, and high debt, making economic factors dominant, but political instability and social unrest from protests and low trust also significantly weigh on the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Greece in 2011 is in a severe sovereign debt and austerity crisis with high unemployment, negative growth, and high debt, making economic factors dominant, but political instability and social unrest from protests and low trust also significantly weigh on the outlook.\"\n}",
+  "_cache_key": "d7e88eb006b4d57440388e1c16379079",
+  "_iso3": "GRC",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mali faces moderate political instability and social unrest, but the economy is the primary driver given low income, high debt, and external imbalances, while environmental data is too limited to warrant a higher weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mali faces moderate political instability and social unrest, but the economy is the primary driver given low income, high debt, and external imbalances, while environmental data is too limited to warrant a higher weight.\"\n}",
+  "_cache_key": "b416d163cc6d41803acf6fc8b42d983c",
+  "_iso3": "MLI",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

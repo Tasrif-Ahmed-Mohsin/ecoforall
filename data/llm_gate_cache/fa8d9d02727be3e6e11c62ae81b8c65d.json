@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Tanzania in 2007 is a low-income, stable economy with moderate growth, moderate inflation, and a large current account deficit, making economic fundamentals the primary driver, while political stability and social conditions play secondary but non-negligible roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Tanzania in 2007 is a low-income, stable economy with moderate growth, moderate inflation, and a large current account deficit, making economic fundamentals the primary driver, while political stability and social conditions play secondary but non-negligible roles.\"\n}",
+  "_cache_key": "fa8d9d02727be3e6e11c62ae81b8c65d",
+  "_iso3": "TZA",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2005 shows moderate economic imbalances (high inflation, unemployment, current account deficit) but no acute crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight, with environment negligible.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia in 2005 shows moderate economic imbalances (high inflation, unemployment, current account deficit) but no acute crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight, with environment negligible.\"\n}",
+  "_cache_key": "6669606f16e241157c263700287fccd4",
+  "_iso3": "SRB",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

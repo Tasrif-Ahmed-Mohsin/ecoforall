@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2010 faces moderate growth but high political instability, sanctions, and conflict, while environmental risks and social pressures are secondary to the immediate political-economic fragility.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ethiopia in 2010 faces moderate growth but high political instability, sanctions, and conflict, while environmental risks and social pressures are secondary to the immediate political-economic fragility.\"\n}",
+  "_cache_key": "6eec320dc4fa260d20dd9ffcabb16fdf",
+  "_iso3": "ETH",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

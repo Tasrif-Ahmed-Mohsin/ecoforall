@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "ARE is a stable, high-income economy with moderate inflation, low debt, and positive growth trajectory, so economic fundamentals dominate, while political, environmental, and social indicators show no acute crisis.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ARE is a stable, high-income economy with moderate inflation, low debt, and positive growth trajectory, so economic fundamentals dominate, while political, environmental, and social indicators show no acute crisis.\"\n}",
+  "_cache_key": "3220cd17ba4ec38d637c4c7b0152f756",
+  "_iso3": "ARE",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

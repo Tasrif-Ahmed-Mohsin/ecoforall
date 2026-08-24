@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High-income oil exporter with strong external surplus and low debt, but political instability and social tensions warrant moderate political and societal weights, while environmental factors are negligible given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High-income oil exporter with strong external surplus and low debt, but political instability and social tensions warrant moderate political and societal weights, while environmental factors are negligible given limited data.\"\n}",
+  "_cache_key": "acda1f1660f547c151b0402f0150b783",
+  "_iso3": "OMN",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

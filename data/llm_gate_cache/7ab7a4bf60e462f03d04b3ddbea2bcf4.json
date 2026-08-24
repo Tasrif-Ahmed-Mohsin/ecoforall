@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MMR is a low-income, high-debt, high-inflation economy with recent strong growth but significant political instability and social unrest, making economic fundamentals and political risk the dominant drivers over the next 3 years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MMR is a low-income, high-debt, high-inflation economy with recent strong growth but significant political instability and social unrest, making economic fundamentals and political risk the dominant drivers over the next 3 years.\"\n}",
+  "_cache_key": "7ab7a4bf60e462f03d04b3ddbea2bcf4",
+  "_iso3": "MMR",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

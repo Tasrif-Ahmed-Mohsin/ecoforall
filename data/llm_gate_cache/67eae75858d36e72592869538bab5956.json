@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MKD is a stable, lower-middle-income economy with no ongoing crises, so economic fundamentals dominate, but moderate political instability and social tensions warrant a modest political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD is a stable, lower-middle-income economy with no ongoing crises, so economic fundamentals dominate, but moderate political instability and social tensions warrant a modest political weight.\"\n}",
+  "_cache_key": "67eae75858d36e72592869538bab5956",
+  "_iso3": "MKD",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

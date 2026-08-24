@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDV is a high-income economy with severe external imbalances and recent growth volatility, but political instability and conflict indicators are elevated, warranting a significant political weight alongside the dominant economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDV is a high-income economy with severe external imbalances and recent growth volatility, but political instability and conflict indicators are elevated, warranting a significant political weight alongside the dominant economic factors.\"\n}",
+  "_cache_key": "87f3bd6d2905aa91db02b92744a18ccf",
+  "_iso3": "MDV",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

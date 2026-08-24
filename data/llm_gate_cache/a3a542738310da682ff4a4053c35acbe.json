@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Italy is a stable, high-income economy with moderate debt and unemployment but no acute crises, so economic fundamentals dominate, while political and social factors play a secondary role and environmental risks are minimal over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Italy is a stable, high-income economy with moderate debt and unemployment but no acute crises, so economic fundamentals dominate, while political and social factors play a secondary role and environmental risks are minimal over this 5-year horizon.\"\n}",
+  "_cache_key": "a3a542738310da682ff4a4053c35acbe",
+  "_iso3": "ITA",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

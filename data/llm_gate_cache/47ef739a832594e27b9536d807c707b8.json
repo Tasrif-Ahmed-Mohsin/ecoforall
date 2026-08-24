@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "RUS in 2007 is a stable, high-income economy with strong growth, low debt, and no crises, so economic fundamentals dominate, while moderate political risks (sanctions, conflict intensity) and structural factors (demographics, climate) warrant smaller but non-negligible weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"RUS in 2007 is a stable, high-income economy with strong growth, low debt, and no crises, so economic fundamentals dominate, while moderate political risks (sanctions, conflict intensity) and structural factors (demographics, climate) warrant smaller but non-negligible weights.\"\n}",
+  "_cache_key": "47ef739a832594e27b9536d807c707b8",
+  "_iso3": "RUS",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

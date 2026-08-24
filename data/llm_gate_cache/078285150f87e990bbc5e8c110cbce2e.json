@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Honduras faces large external imbalances and moderate inflation, but political instability and high protest/sanction levels warrant a significant political weight, while environmental and social factors are less critical over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Honduras faces large external imbalances and moderate inflation, but political instability and high protest/sanction levels warrant a significant political weight, while environmental and social factors are less critical over this 5-year horizon.\"\n}",
+  "_cache_key": "078285150f87e990bbc5e8c110cbce2e",
+  "_iso3": "HND",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

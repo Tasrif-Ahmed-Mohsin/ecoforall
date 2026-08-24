@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Austria is a stable high-income economy, but the ongoing banking crisis and moderate political/social tensions warrant a slightly lower economic weight and higher human_society weight than usual, while environmental factors remain minor.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Austria is a stable high-income economy, but the ongoing banking crisis and moderate political/social tensions warrant a slightly lower economic weight and higher human_society weight than usual, while environmental factors remain minor.\"\n}",
+  "_cache_key": "1160d5897fd13ae4d53545794d5ce07c",
+  "_iso3": "AUT",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Moderate-income economy with high investment and current account surplus but notable political instability, protests, and sanctions warrant a significant political weight, while the 5-year horizon increases structural risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate-income economy with high investment and current account surplus but notable political instability, protests, and sanctions warrant a significant political weight, while the 5-year horizon increases structural risks.\"\n}",
+  "_cache_key": "65bc8def34827aa24e5bba1e8103d61d",
+  "_iso3": "DJI",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

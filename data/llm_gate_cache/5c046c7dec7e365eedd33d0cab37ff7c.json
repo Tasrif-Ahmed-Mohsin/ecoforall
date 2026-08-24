@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Honduras faces moderate political instability and sanctions, but the economy is the primary driver given moderate debt, inflation, and investment levels, with social and environmental factors playing minor roles over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Honduras faces moderate political instability and sanctions, but the economy is the primary driver given moderate debt, inflation, and investment levels, with social and environmental factors playing minor roles over a 3-year horizon.\"\n}",
+  "_cache_key": "5c046c7dec7e365eedd33d0cab37ff7c",
+  "_iso3": "HND",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

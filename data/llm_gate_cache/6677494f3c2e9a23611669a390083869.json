@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "MMR is a low-income, fast-growing economy with moderate inflation and external deficits, but political instability and social tensions warrant a notable non-economic weight, while environmental data is too limited to be significant.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MMR is a low-income, fast-growing economy with moderate inflation and external deficits, but political instability and social tensions warrant a notable non-economic weight, while environmental data is too limited to be significant.\"\n}",
+  "_cache_key": "6677494f3c2e9a23611669a390083869",
+  "_iso3": "MMR",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

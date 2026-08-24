@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2007 shows moderate growth with stable political conditions but notable environmental vulnerabilities and social pressures, so economic fundamentals dominate while other domains contribute modestly.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bangladesh in 2007 shows moderate growth with stable political conditions but notable environmental vulnerabilities and social pressures, so economic fundamentals dominate while other domains contribute modestly.\"\n}",
+  "_cache_key": "aa3019c5ebc87619e0e7bd6f454d6bf1",
+  "_iso3": "BGD",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

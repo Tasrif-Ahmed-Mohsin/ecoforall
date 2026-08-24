@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, deflation, and low investment dominate the outlook, but political instability and protests add significant risk, while social pressures and limited environmental data play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, deflation, and low investment dominate the outlook, but political instability and protests add significant risk, while social pressures and limited environmental data play secondary roles.\"\n}",
+  "_cache_key": "c995ded927c07afe0d045c3fb325de1e",
+  "_iso3": "ERI",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TCD is a low-income, fragile state with negative growth, high protest and conflict indicators, and external imbalances, so economic fundamentals dominate but political instability and social unrest are significant risks over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TCD is a low-income, fragile state with negative growth, high protest and conflict indicators, and external imbalances, so economic fundamentals dominate but political instability and social unrest are significant risks over the 3-year horizon.\"\n}",
+  "_cache_key": "9d94294a5f697c7d158b354f41f5c573",
+  "_iso3": "TCD",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

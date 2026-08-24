@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Nigeria faces a severe recession (-8.3% growth in 2020) with high inflation and external imbalances, making economic factors dominant, but political instability, protests, and conflict also weigh heavily, while moderate environmental and social stresses add secondary risks.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Nigeria faces a severe recession (-8.3% growth in 2020) with high inflation and external imbalances, making economic factors dominant, but political instability, protests, and conflict also weigh heavily, while moderate environmental and social stresses add secondary risks.\"\n}",
+  "_cache_key": "96fe1cd696f2b3a365575bcb496852a8",
+  "_iso3": "NGA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

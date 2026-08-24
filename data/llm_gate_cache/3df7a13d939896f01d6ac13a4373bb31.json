@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Honduras is a lower-middle-income economy with moderate debt and external imbalances, but political instability, high protest pressure, and conflict intensity elevate political risk, while social tensions and weak institutions also weigh on medium-term growth prospects.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Honduras is a lower-middle-income economy with moderate debt and external imbalances, but political instability, high protest pressure, and conflict intensity elevate political risk, while social tensions and weak institutions also weigh on medium-term growth prospects.\"\n}",
+  "_cache_key": "3df7a13d939896f01d6ac13a4373bb31",
+  "_iso3": "HND",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

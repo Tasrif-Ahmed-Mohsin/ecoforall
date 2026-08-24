@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Yemen is in a severe conflict with high conflict intensity, massive material conflicts, and sanctions, making political factors dominant, while the economy is already shattered and inflation is high, but the immediate growth path is driven by conflict dynamics and social instability.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen is in a severe conflict with high conflict intensity, massive material conflicts, and sanctions, making political factors dominant, while the economy is already shattered and inflation is high, but the immediate growth path is driven by conflict dynamics and social instability.\"\n}",
+  "_cache_key": "a28e4313d676b2b6ac3afb67256d5b01",
+  "_iso3": "YEM",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, massive current account deficit, and moderate growth suggest economic fragility, while elevated protest and conflict indicators point to political and social instability that could disrupt investment and growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, massive current account deficit, and moderate growth suggest economic fragility, while elevated protest and conflict indicators point to political and social instability that could disrupt investment and growth.\"\n}",
+  "_cache_key": "b6a15fcb0e45d5eb7c3487d9019e53fd",
+  "_iso3": "MNE",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

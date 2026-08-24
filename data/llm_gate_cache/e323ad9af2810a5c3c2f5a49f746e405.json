@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Korea is a stable, high-income economy with no crises, moderate debt, and solid growth, so economic fundamentals dominate the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.8,\n  \"politics\": 0.1,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Korea is a stable, high-income economy with no crises, moderate debt, and solid growth, so economic fundamentals dominate the near-term outlook.\"\n}",
+  "_cache_key": "e323ad9af2810a5c3c2f5a49f746e405",
+  "_iso3": "KOR",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

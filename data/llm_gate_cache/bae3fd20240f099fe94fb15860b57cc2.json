@@ -1,0 +1,14 @@
+{
+  "economy": 0.7894736842105262,
+  "politics": 0.10526315789473684,
+  "environment": 0.05263157894736842,
+  "human_society": 0.05263157894736842,
+  "confidence": 0.05,
+  "reasoning": "Chile in 2007 is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth forecast, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.05,\n  \"reasoning\": \"Chile in 2007 is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth forecast, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "bae3fd20240f099fe94fb15860b57cc2",
+  "_iso3": "CHL",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

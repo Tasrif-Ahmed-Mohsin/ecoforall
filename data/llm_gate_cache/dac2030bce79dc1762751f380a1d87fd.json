@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Greece in 2008 faces a severe banking crisis, large current account deficit, and high debt, making economic factors dominant, but political instability and social unrest (protests, low trust) add significant downside risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Greece in 2008 faces a severe banking crisis, large current account deficit, and high debt, making economic factors dominant, but political instability and social unrest (protests, low trust) add significant downside risks.\"\n}",
+  "_cache_key": "dac2030bce79dc1762751f380a1d87fd",
+  "_iso3": "GRC",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

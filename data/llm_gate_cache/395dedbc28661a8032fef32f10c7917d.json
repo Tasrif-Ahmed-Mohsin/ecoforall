@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "Malaysia is a stable, upper-middle-income economy with moderate debt, low unemployment, and no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors play minor but non-negligible roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Malaysia is a stable, upper-middle-income economy with moderate debt, low unemployment, and no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors play minor but non-negligible roles over a 5-year horizon.\"\n}",
+  "_cache_key": "395dedbc28661a8032fef32f10c7917d",
+  "_iso3": "MYS",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

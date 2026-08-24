@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "PNG is a lower-middle-income, resource-dependent economy with moderate debt and high current account surplus, but political instability and conflict risks (despite moderate scores) and a 5-year horizon elevate the importance of politics and structural factors, while limited environmental and social data keep their weights lower.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PNG is a lower-middle-income, resource-dependent economy with moderate debt and high current account surplus, but political instability and conflict risks (despite moderate scores) and a 5-year horizon elevate the importance of politics and structural factors, while limited environmental and social data keep their weights lower.\"\n}",
+  "_cache_key": "cb7d29a94d08b9aaafb222c571f1a14d",
+  "_iso3": "PNG",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

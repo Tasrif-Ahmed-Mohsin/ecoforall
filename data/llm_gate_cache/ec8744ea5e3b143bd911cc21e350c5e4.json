@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Gabon's moderate income, high debt, and recent negative growth suggest economic vulnerabilities dominate, but elevated political instability, protests, and sanctions warrant a significant political risk premium, while environmental and social factors are less immediate given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Gabon's moderate income, high debt, and recent negative growth suggest economic vulnerabilities dominate, but elevated political instability, protests, and sanctions warrant a significant political risk premium, while environmental and social factors are less immediate given limited data.\"\n}",
+  "_cache_key": "ec8744ea5e3b143bd911cc21e350c5e4",
+  "_iso3": "GAB",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

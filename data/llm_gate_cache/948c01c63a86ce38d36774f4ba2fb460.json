@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Iceland is a stable, high-income economy with no current crises, so economic fundamentals dominate, though moderate political instability and protest activity warrant a modest political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Iceland is a stable, high-income economy with no current crises, so economic fundamentals dominate, though moderate political instability and protest activity warrant a modest political weight.\"\n}",
+  "_cache_key": "948c01c63a86ce38d36774f4ba2fb460",
+  "_iso3": "ISL",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

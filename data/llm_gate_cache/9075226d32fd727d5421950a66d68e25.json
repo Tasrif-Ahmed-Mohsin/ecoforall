@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high unemployment and negative inflation, the economy is the dominant driver given the recent sharp contraction and recovery dynamics, with moderate social and political factors due to protests and low trust but no acute crisis.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high unemployment and negative inflation, the economy is the dominant driver given the recent sharp contraction and recovery dynamics, with moderate social and political factors due to protests and low trust but no acute crisis.\"\n}",
+  "_cache_key": "9075226d32fd727d5421950a66d68e25",
+  "_iso3": "PAN",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

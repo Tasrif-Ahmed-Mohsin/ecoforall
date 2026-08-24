@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Egypt in 2006 is a stable, non-crisis emerging economy with moderate growth and no major political or environmental shocks, so economic fundamentals dominate the short-term outlook, with modest roles for political and social factors given ongoing protests and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Egypt in 2006 is a stable, non-crisis emerging economy with moderate growth and no major political or environmental shocks, so economic fundamentals dominate the short-term outlook, with modest roles for political and social factors given ongoing protests and low trust.\"\n}",
+  "_cache_key": "43f32fec78bf6128ecadeb92baa37f98",
+  "_iso3": "EGY",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

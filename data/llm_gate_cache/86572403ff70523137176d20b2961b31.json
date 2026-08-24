@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, high-debt economy with large external imbalances and moderate inflation, but political instability, sanctions, and protests add significant risk, while social pressures are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GMB is a low-income, high-debt economy with large external imbalances and moderate inflation, but political instability, sanctions, and protests add significant risk, while social pressures are secondary.\"\n}",
+  "_cache_key": "86572403ff70523137176d20b2961b31",
+  "_iso3": "GMB",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

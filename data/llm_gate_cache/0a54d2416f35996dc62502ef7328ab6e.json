@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "IDN in 2008 is a stable emerging economy with no ongoing crises, moderate growth, and manageable inflation, so economic fundamentals dominate the short-term outlook, with minor contributions from political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"IDN in 2008 is a stable emerging economy with no ongoing crises, moderate growth, and manageable inflation, so economic fundamentals dominate the short-term outlook, with minor contributions from political and social factors.\"\n}",
+  "_cache_key": "0a54d2416f35996dc62502ef7328ab6e",
+  "_iso3": "IDN",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

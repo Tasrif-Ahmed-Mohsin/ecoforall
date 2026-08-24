@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Honduras faces moderate political instability and sanctions, but the economy is not in crisis, so economic fundamentals dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Honduras faces moderate political instability and sanctions, but the economy is not in crisis, so economic fundamentals dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "6dbd4e61f72cddb42cddf94ab9537657",
+  "_iso3": "HND",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

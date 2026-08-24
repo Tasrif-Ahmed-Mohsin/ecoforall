@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Latvia faces a severe banking crisis, high inflation, large current account deficit, and negative recent growth, making economic factors dominant, but political instability and social protests elevate political and societal risks, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Latvia faces a severe banking crisis, high inflation, large current account deficit, and negative recent growth, making economic factors dominant, but political instability and social protests elevate political and societal risks, while environmental factors are negligible.\"\n}",
+  "_cache_key": "d26a4c62bc40560a4afd9dc25887bfc1",
+  "_iso3": "LVA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

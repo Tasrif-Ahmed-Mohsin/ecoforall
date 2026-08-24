@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bangladesh is a lower-middle-income economy with moderate growth and investment, but political instability, protests, and conflict raise political risk, while social and environmental factors play secondary but non-negligible roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bangladesh is a lower-middle-income economy with moderate growth and investment, but political instability, protests, and conflict raise political risk, while social and environmental factors play secondary but non-negligible roles over a 5-year horizon.\"\n}",
+  "_cache_key": "4c5c811fedfddd218909c49d8871adf9",
+  "_iso3": "BGD",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

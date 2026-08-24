@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "SAU is a high-income, oil-dependent economy with moderate fiscal and external buffers, but severe political instability, high protest pressure, and sanctions risk warrant a significant political weight, while climate and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SAU is a high-income, oil-dependent economy with moderate fiscal and external buffers, but severe political instability, high protest pressure, and sanctions risk warrant a significant political weight, while climate and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "b1ef4b8dbfc336217c2f212c3cb284d8",
+  "_iso3": "SAU",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

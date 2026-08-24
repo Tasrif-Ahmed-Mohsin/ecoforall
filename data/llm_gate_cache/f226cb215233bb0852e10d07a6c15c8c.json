@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Albania in 2013 faces moderate political instability and high unemployment, but the dominant near-term driver is the ongoing economic recovery with moderate debt and external imbalances, so economy gets the largest weight while politics remains significant due to instability and protests.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania in 2013 faces moderate political instability and high unemployment, but the dominant near-term driver is the ongoing economic recovery with moderate debt and external imbalances, so economy gets the largest weight while politics remains significant due to instability and protests.\"\n}",
+  "_cache_key": "f226cb215233bb0852e10d07a6c15c8c",
+  "_iso3": "ALB",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

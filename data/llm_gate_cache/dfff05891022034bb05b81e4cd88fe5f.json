@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Cameroon in 2016 shows moderate economic growth with low inflation and no active crises, but political instability and protest pressure warrant a notable political weight, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon in 2016 shows moderate economic growth with low inflation and no active crises, but political instability and protest pressure warrant a notable political weight, while environmental and social data are limited.\"\n}",
+  "_cache_key": "dfff05891022034bb05b81e4cd88fe5f",
+  "_iso3": "CMR",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan is a lower-middle-income economy with moderate growth, high inflation, and external imbalances, but political instability, protests, and sanctions add significant risk, while social factors like low trust and cohesion are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan is a lower-middle-income economy with moderate growth, high inflation, and external imbalances, but political instability, protests, and sanctions add significant risk, while social factors like low trust and cohesion are secondary.\"\n}",
+  "_cache_key": "a3a758466472c77467c5cc9f8a4b6d66",
+  "_iso3": "UZB",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

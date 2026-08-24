@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CAF is a low-income, fragile state with severe political instability, sanctions, and conflict, making politics nearly as important as the weak macroeconomic fundamentals, while environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CAF is a low-income, fragile state with severe political instability, sanctions, and conflict, making politics nearly as important as the weak macroeconomic fundamentals, while environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "c46da2c3be55be4e64aad2f1d37a4abb",
+  "_iso3": "CAF",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

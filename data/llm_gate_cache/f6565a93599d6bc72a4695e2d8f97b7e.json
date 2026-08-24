@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan faces high political instability and conflict, but the economy is still the primary driver of short-term GDP growth, with elevated inflation, large external deficit, and low investment, while social and environmental factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Afghanistan faces high political instability and conflict, but the economy is still the primary driver of short-term GDP growth, with elevated inflation, large external deficit, and low investment, while social and environmental factors are less immediate.\"\n}",
+  "_cache_key": "f6565a93599d6bc72a4695e2d8f97b7e",
+  "_iso3": "AFG",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

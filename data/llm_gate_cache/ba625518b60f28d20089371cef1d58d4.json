@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh's growth is primarily driven by economic fundamentals (investment, moderate debt, positive current account), but political instability and protests, along with moderate environmental risks, warrant significant but secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bangladesh's growth is primarily driven by economic fundamentals (investment, moderate debt, positive current account), but political instability and protests, along with moderate environmental risks, warrant significant but secondary weights.\"\n}",
+  "_cache_key": "ba625518b60f28d20089371cef1d58d4",
+  "_iso3": "BGD",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

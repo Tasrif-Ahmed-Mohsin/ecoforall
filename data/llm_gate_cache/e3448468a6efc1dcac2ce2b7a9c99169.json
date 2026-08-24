@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BLZ faces a sovereign debt crisis, high unemployment, and negative political stability with sanctions and protests, making economic and political factors dominant, while environmental and social data are limited and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BLZ faces a sovereign debt crisis, high unemployment, and negative political stability with sanctions and protests, making economic and political factors dominant, while environmental and social data are limited and less immediate.\"\n}",
+  "_cache_key": "e3448468a6efc1dcac2ce2b7a9c99169",
+  "_iso3": "BLZ",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

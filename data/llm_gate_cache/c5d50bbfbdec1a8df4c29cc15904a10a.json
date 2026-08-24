@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Chile is a stable, high-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors play minor roles given the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Chile is a stable, high-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors play minor roles given the 5-year horizon.\"\n}",
+  "_cache_key": "c5d50bbfbdec1a8df4c29cc15904a10a",
+  "_iso3": "CHL",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "MAR shows moderate economic fundamentals but high political instability, conflict, and sanctions, with social unrest and low trust, making politics and human_society key drags on growth over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"MAR shows moderate economic fundamentals but high political instability, conflict, and sanctions, with social unrest and low trust, making politics and human_society key drags on growth over a 5-year horizon.\"\n}",
+  "_cache_key": "685aeb36030907bff4b4c5c8bc062b2c",
+  "_iso3": "MAR",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

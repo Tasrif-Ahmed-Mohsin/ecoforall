@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana shows moderate economic growth with high investment but external imbalances and inflation, while political stability is moderate and environmental risks (floods, droughts) are present, so economy dominates but structural and climate factors gain weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ghana shows moderate economic growth with high investment but external imbalances and inflation, while political stability is moderate and environmental risks (floods, droughts) are present, so economy dominates but structural and climate factors gain weight over a 5-year horizon.\"\n}",
+  "_cache_key": "98018662abf94b64159b2e48e3e5056e",
+  "_iso3": "GHA",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

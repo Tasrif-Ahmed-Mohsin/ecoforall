@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "CZE is a stable, high-income EU economy with no major crises, so economic fundamentals dominate, while moderate political and social factors (e.g., low political stability, high protest counts) and longer-term structural trends warrant modest attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"CZE is a stable, high-income EU economy with no major crises, so economic fundamentals dominate, while moderate political and social factors (e.g., low political stability, high protest counts) and longer-term structural trends warrant modest attention.\"\n}",
+  "_cache_key": "89fbaf6ad7b9687668631939e471b43b",
+  "_iso3": "CZE",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

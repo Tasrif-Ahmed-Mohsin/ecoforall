@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Uganda is a low-income, politically fragile country with moderate instability and social tensions, so economic fundamentals dominate but political risk and social factors are significant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Uganda is a low-income, politically fragile country with moderate instability and social tensions, so economic fundamentals dominate but political risk and social factors are significant for a 5-year horizon.\"\n}",
+  "_cache_key": "cb34852561a17ab94937456d1c0f4a12",
+  "_iso3": "UGA",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

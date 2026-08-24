@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt, low investment, and moderate inflation signal economic fragility, while elevated political instability and conflict intensity warrant a substantial political weight, though no acute crisis dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, low investment, and moderate inflation signal economic fragility, while elevated political instability and conflict intensity warrant a substantial political weight, though no acute crisis dominates.\"\n}",
+  "_cache_key": "863d6050295cb4605701c75b8dc73665",
+  "_iso3": "ERI",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

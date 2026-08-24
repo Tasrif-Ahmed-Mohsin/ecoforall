@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Given moderate growth, low debt, but political instability and high protest/sanction pressures, economic fundamentals remain primary, with politics elevated due to conflict and sanctions, while social and environmental factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Given moderate growth, low debt, but political instability and high protest/sanction pressures, economic fundamentals remain primary, with politics elevated due to conflict and sanctions, while social and environmental factors are secondary.\"\n}",
+  "_cache_key": "92e45493b6ce82ea04d813955c6ca368",
+  "_iso3": "ECU",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

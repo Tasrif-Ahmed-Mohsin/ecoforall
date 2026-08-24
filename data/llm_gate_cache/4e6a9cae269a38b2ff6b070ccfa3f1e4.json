@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Kazakhstan is experiencing a banking crisis with high inflation and moderate political instability, but no major conflict or environmental disaster, so economic factors dominate while political risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Kazakhstan is experiencing a banking crisis with high inflation and moderate political instability, but no major conflict or environmental disaster, so economic factors dominate while political risks are elevated.\"\n}",
+  "_cache_key": "4e6a9cae269a38b2ff6b070ccfa3f1e4",
+  "_iso3": "KAZ",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

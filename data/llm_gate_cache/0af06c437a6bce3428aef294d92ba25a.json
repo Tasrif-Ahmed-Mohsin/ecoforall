@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF is in a mild recession with high unemployment and negative growth trajectory, but no acute crisis, so economic factors dominate while political instability and social tensions warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF is in a mild recession with high unemployment and negative growth trajectory, but no acute crisis, so economic factors dominate while political instability and social tensions warrant moderate attention.\"\n}",
+  "_cache_key": "0af06c437a6bce3428aef294d92ba25a",
+  "_iso3": "ZAF",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

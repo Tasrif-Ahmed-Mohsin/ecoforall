@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Vietnam in 2007 is a stable, emerging economy with moderate inflation and external imbalances, but no major political or environmental crises, so economic fundamentals dominate while other domains play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Vietnam in 2007 is a stable, emerging economy with moderate inflation and external imbalances, but no major political or environmental crises, so economic fundamentals dominate while other domains play secondary roles.\"\n}",
+  "_cache_key": "bac46a8ed4454141bf88f56130a79e6d",
+  "_iso3": "VNM",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

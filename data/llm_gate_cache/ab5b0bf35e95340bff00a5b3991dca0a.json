@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Jordan's economy is stable with moderate growth, low inflation, and no active crises, but high debt and unemployment warrant a strong economic focus, while political and social factors are secondary given moderate stability and trust levels.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Jordan's economy is stable with moderate growth, low inflation, and no active crises, but high debt and unemployment warrant a strong economic focus, while political and social factors are secondary given moderate stability and trust levels.\"\n}",
+  "_cache_key": "ab5b0bf35e95340bff00a5b3991dca0a",
+  "_iso3": "JOR",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Venezuela faces severe political instability, sanctions, and social unrest alongside high inflation and debt, making political and economic factors dominant, with moderate social stress and minor environmental risks.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Venezuela faces severe political instability, sanctions, and social unrest alongside high inflation and debt, making political and economic factors dominant, with moderate social stress and minor environmental risks.\"\n}",
+  "_cache_key": "7c37de8f3e5b96cb05f240833194d0e3",
+  "_iso3": "VEN",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

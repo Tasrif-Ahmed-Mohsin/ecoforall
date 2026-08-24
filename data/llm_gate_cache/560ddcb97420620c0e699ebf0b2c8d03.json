@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Somalia is a low-income, politically unstable state with high conflict and sanctions, so political risk heavily weighs on near-term growth, while the weak economic base and social pressures also matter, but environmental data is too limited to assign much weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Somalia is a low-income, politically unstable state with high conflict and sanctions, so political risk heavily weighs on near-term growth, while the weak economic base and social pressures also matter, but environmental data is too limited to assign much weight.\"\n}",
+  "_cache_key": "560ddcb97420620c0e699ebf0b2c8d03",
+  "_iso3": "SOM",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

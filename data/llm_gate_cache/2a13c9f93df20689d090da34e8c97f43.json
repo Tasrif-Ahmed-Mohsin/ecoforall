@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Romania in 2009 is recovering from a sharp recession with moderate debt and inflation, but political stability is decent and social indicators are mixed, so economic factors dominate while human and political factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Romania in 2009 is recovering from a sharp recession with moderate debt and inflation, but political stability is decent and social indicators are mixed, so economic factors dominate while human and political factors play secondary roles.\"\n}",
+  "_cache_key": "2a13c9f93df20689d090da34e8c97f43",
+  "_iso3": "ROU",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

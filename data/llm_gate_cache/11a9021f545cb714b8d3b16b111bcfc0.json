@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "High inflation, debt, and negative recent growth signal economic fragility, while severe political instability and conflict raise crisis risk, but no major environmental or social shocks dominate the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"High inflation, debt, and negative recent growth signal economic fragility, while severe political instability and conflict raise crisis risk, but no major environmental or social shocks dominate the near-term outlook.\"\n}",
+  "_cache_key": "11a9021f545cb714b8d3b16b111bcfc0",
+  "_iso3": "ETH",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

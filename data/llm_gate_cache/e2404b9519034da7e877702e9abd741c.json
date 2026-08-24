@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2006 is a lower-middle-income transition economy with moderate political instability and social tensions, but no acute crisis, so economic fundamentals and structural reforms dominate, while political and social factors are significant but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ukraine in 2006 is a lower-middle-income transition economy with moderate political instability and social tensions, but no acute crisis, so economic fundamentals and structural reforms dominate, while political and social factors are significant but secondary.\"\n}",
+  "_cache_key": "e2404b9519034da7e877702e9abd741c",
+  "_iso3": "UKR",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

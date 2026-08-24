@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Gabon is a stable, upper-middle-income oil exporter with moderate debt and low inflation, so near-term growth is primarily driven by economic fundamentals, though political stability and social pressures warrant a modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Gabon is a stable, upper-middle-income oil exporter with moderate debt and low inflation, so near-term growth is primarily driven by economic fundamentals, though political stability and social pressures warrant a modest weight.\"\n}",
+  "_cache_key": "f52645d7513e2ff02e615038b233485f",
+  "_iso3": "GAB",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

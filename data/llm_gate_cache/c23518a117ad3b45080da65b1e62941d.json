@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, politically fragile economy with high inflation, large external deficit, and low investment, but the short horizon and moderate conflict intensity suggest economic fundamentals dominate, with political risk elevated due to sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNB is a low-income, politically fragile economy with high inflation, large external deficit, and low investment, but the short horizon and moderate conflict intensity suggest economic fundamentals dominate, with political risk elevated due to sanctions and protests.\"\n}",
+  "_cache_key": "c23518a117ad3b45080da65b1e62941d",
+  "_iso3": "GNB",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, post-conflict economy with moderate political instability and social unrest, but no major environmental shocks, so economic fundamentals and political risks dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, post-conflict economy with moderate political instability and social unrest, but no major environmental shocks, so economic fundamentals and political risks dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "aef87284983ee3760fd580b4d5549ba7",
+  "_iso3": "TJK",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

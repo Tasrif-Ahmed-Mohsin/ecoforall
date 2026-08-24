@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ faces high inflation, external deficits, and political instability (very low stability, protests, sanctions), but no acute crisis, so economic fundamentals and political risk dominate, with social tensions secondary and environment less relevant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"KGZ faces high inflation, external deficits, and political instability (very low stability, protests, sanctions), but no acute crisis, so economic fundamentals and political risk dominate, with social tensions secondary and environment less relevant.\"\n}",
+  "_cache_key": "36cb1ca1d7a0410aae0f2cc9c4fabda4",
+  "_iso3": "KGZ",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

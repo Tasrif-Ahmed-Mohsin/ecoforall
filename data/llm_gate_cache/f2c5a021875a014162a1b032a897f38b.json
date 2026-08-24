@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Romania in 2010 is a stable, middle-income EU member with moderate debt, recovering from a mild recession, and no active crises, so economic fundamentals dominate while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Romania in 2010 is a stable, middle-income EU member with moderate debt, recovering from a mild recession, and no active crises, so economic fundamentals dominate while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "f2c5a021875a014162a1b032a897f38b",
+  "_iso3": "ROU",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

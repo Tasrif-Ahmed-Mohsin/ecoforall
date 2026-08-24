@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "AFG in 2005 has high debt, high inflation, and a large current account surplus, but also significant political instability and conflict indicators, making politics nearly as important as the economy for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"AFG in 2005 has high debt, high inflation, and a large current account surplus, but also significant political instability and conflict indicators, making politics nearly as important as the economy for short-term growth.\"\n}",
+  "_cache_key": "1703bb3f087f849cafcfbee75de149b7",
+  "_iso3": "AFG",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

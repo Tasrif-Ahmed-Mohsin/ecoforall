@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MUS faces a severe recession (-14.5% growth in 2020), high debt, and external imbalances, but political stability is moderate with some conflict and sanctions, so economic factors dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MUS faces a severe recession (-14.5% growth in 2020), high debt, and external imbalances, but political stability is moderate with some conflict and sanctions, so economic factors dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "c2943d1be92e37c8f178b6268146812c",
+  "_iso3": "MUS",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

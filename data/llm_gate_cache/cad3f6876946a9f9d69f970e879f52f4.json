@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE faces high inflation, large current account deficit, and moderate debt, but political instability and protests add significant risk, while environmental data is limited and social pressures are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE faces high inflation, large current account deficit, and moderate debt, but political instability and protests add significant risk, while environmental data is limited and social pressures are moderate.\"\n}",
+  "_cache_key": "cad3f6876946a9f9d69f970e879f52f4",
+  "_iso3": "SLE",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Ireland is a stable, high-income economy with strong recent growth and low unemployment, but elevated inflation and moderate political instability (sanctions, protests) warrant a modest political weight, while environmental and social factors are minor over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland is a stable, high-income economy with strong recent growth and low unemployment, but elevated inflation and moderate political instability (sanctions, protests) warrant a modest political weight, while environmental and social factors are minor over a 1-year horizon.\"\n}",
+  "_cache_key": "b9d2d2e689e6e1e1db1e7aa4f67a0eff",
+  "_iso3": "IRL",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

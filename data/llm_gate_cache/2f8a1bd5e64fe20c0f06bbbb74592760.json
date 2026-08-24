@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Uganda's low income, high current account deficit, and moderate debt make economic fundamentals key, but political instability, protests, and low institutional trust add significant political and social risks over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Uganda's low income, high current account deficit, and moderate debt make economic fundamentals key, but political instability, protests, and low institutional trust add significant political and social risks over a 5-year horizon.\"\n}",
+  "_cache_key": "2f8a1bd5e64fe20c0f06bbbb74592760",
+  "_iso3": "UGA",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

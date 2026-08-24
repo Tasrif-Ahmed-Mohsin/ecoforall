@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia's high growth, large external deficit, and moderate inflation make economic factors dominant, but political instability and social tensions warrant notable weight for the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia's high growth, large external deficit, and moderate inflation make economic factors dominant, but political instability and social tensions warrant notable weight for the short-term outlook.\"\n}",
+  "_cache_key": "359e8b236a5c3675b1342e78b05ab9c8",
+  "_iso3": "GEO",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

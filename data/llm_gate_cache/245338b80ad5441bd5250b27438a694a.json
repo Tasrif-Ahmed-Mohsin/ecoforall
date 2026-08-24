@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2003 shows moderate economic stability with low crises, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social factors are secondary for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh in 2003 shows moderate economic stability with low crises, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social factors are secondary for a 1-year horizon.\"\n}",
+  "_cache_key": "245338b80ad5441bd5250b27438a694a",
+  "_iso3": "BGD",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

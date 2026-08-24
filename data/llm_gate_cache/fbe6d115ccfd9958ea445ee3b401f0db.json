@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Denmark is a stable, high-income economy with a banking crisis but strong fundamentals, so economic factors dominate, while political, environmental, and social risks are moderate but not severe.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Denmark is a stable, high-income economy with a banking crisis but strong fundamentals, so economic factors dominate, while political, environmental, and social risks are moderate but not severe.\"\n}",
+  "_cache_key": "fbe6d115ccfd9958ea445ee3b401f0db",
+  "_iso3": "DNK",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

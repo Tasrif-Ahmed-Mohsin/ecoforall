@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cambodia's growth is heavily reliant on external demand and investment, but political instability, sanctions, and social tensions warrant a significant political weight, while environmental factors are less immediate given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cambodia's growth is heavily reliant on external demand and investment, but political instability, sanctions, and social tensions warrant a significant political weight, while environmental factors are less immediate given limited data.\"\n}",
+  "_cache_key": "bf5dae2788d9039970412961030e755c",
+  "_iso3": "KHM",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

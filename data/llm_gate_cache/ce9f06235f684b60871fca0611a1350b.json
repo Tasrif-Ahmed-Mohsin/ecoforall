@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Romania in 2005 is a stable, upper-middle-income EU accession country with moderate inflation, high current account deficit, and strong recent growth, so economic fundamentals dominate, while political stability and social factors play secondary roles and environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Romania in 2005 is a stable, upper-middle-income EU accession country with moderate inflation, high current account deficit, and strong recent growth, so economic fundamentals dominate, while political stability and social factors play secondary roles and environmental data is too limited to matter.\"\n}",
+  "_cache_key": "ce9f06235f684b60871fca0611a1350b",
+  "_iso3": "ROU",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

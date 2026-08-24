@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Argentina in 2003 is emerging from a severe economic and debt crisis with high unemployment, massive public debt, and recent negative growth, but political stability is improving and no active crises are present, so economic recovery dynamics dominate while political risk remains elevated due to past instability and social unrest.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina in 2003 is emerging from a severe economic and debt crisis with high unemployment, massive public debt, and recent negative growth, but political stability is improving and no active crises are present, so economic recovery dynamics dominate while political risk remains elevated due to past instability and social unrest.\"\n}",
+  "_cache_key": "8861cd35dec7910b8ad80d6acaca8f43",
+  "_iso3": "ARG",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

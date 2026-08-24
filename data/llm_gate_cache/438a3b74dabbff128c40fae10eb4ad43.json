@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDA is a lower-middle-income economy with a recent banking crisis, high current account deficit, and moderate debt, making economic fundamentals the primary driver, but political instability and high protest/sanction activity add significant risk, while environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDA is a lower-middle-income economy with a recent banking crisis, high current account deficit, and moderate debt, making economic fundamentals the primary driver, but political instability and high protest/sanction activity add significant risk, while environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "438a3b74dabbff128c40fae10eb4ad43",
+  "_iso3": "MDA",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

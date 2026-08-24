@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "CIV is a low-income, politically fragile country with moderate growth and high protest/sanction pressures, so economic fundamentals dominate but political instability and social tensions warrant significant weight, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"CIV is a low-income, politically fragile country with moderate growth and high protest/sanction pressures, so economic fundamentals dominate but political instability and social tensions warrant significant weight, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "b77fb445115baf7226bc9499f83885e1",
+  "_iso3": "CIV",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

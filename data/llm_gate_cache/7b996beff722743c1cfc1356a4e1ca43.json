@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LSO is a low-income, politically unstable country with high protest and conflict indicators, but no active banking or currency crisis, so economic fundamentals dominate while political risk significantly weighs on short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LSO is a low-income, politically unstable country with high protest and conflict indicators, but no active banking or currency crisis, so economic fundamentals dominate while political risk significantly weighs on short-term growth.\"\n}",
+  "_cache_key": "7b996beff722743c1cfc1356a4e1ca43",
+  "_iso3": "LSO",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

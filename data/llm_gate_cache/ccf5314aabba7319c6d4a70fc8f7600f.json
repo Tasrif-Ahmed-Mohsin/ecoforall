@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "India in 2006 is a stable, growing emerging economy with moderate inflation and no active crises, so economic fundamentals dominate the 1-year outlook, while political and social factors play a secondary role and environmental risks are minimal.",
+  "_raw_response": "{\n  \"economy\": 0.7,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.1,\n  \"confidence\": 0.75,\n  \"reasoning\": \"India in 2006 is a stable, growing emerging economy with moderate inflation and no active crises, so economic fundamentals dominate the 1-year outlook, while political and social factors play a secondary role and environmental risks are minimal.\"\n}",
+  "_cache_key": "ccf5314aabba7319c6d4a70fc8f7600f",
+  "_iso3": "IND",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

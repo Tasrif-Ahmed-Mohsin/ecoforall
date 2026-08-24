@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High debt, negative current account, and moderate inflation dominate the near-term outlook, but elevated conflict and sanctions add political risk, while environmental and social data are too sparse to materially shift the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, negative current account, and moderate inflation dominate the near-term outlook, but elevated conflict and sanctions add political risk, while environmental and social data are too sparse to materially shift the forecast.\"\n}",
+  "_cache_key": "5ebf504a5a65f75617dc2384650ac8bf",
+  "_iso3": "ERI",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

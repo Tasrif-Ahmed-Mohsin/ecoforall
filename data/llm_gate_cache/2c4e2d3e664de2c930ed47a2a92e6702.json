@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan faces high debt, large current account deficit, and elevated unemployment, but no active crisis, so economic fundamentals dominate, with moderate political risk from regional instability and social pressures from low trust and high protest activity.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan faces high debt, large current account deficit, and elevated unemployment, but no active crisis, so economic fundamentals dominate, with moderate political risk from regional instability and social pressures from low trust and high protest activity.\"\n}",
+  "_cache_key": "2c4e2d3e664de2c930ed47a2a92e6702",
+  "_iso3": "JOR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

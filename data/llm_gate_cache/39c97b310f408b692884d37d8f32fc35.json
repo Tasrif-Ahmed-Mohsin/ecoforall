@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Spain is a stable, high-income economy with moderate debt and unemployment but no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain is a stable, high-income economy with moderate debt and unemployment but no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "39c97b310f408b692884d37d8f32fc35",
+  "_iso3": "ESP",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

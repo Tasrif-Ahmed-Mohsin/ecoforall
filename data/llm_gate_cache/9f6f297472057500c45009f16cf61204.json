@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Pakistan faces moderate economic instability with high debt and inflation, but significant political fragility (low stability, sanctions, conflict) and social unrest (low trust, high fear) warrant elevated political and social weights, while environmental risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Pakistan faces moderate economic instability with high debt and inflation, but significant political fragility (low stability, sanctions, conflict) and social unrest (low trust, high fear) warrant elevated political and social weights, while environmental risks are secondary.\"\n}",
+  "_cache_key": "9f6f297472057500c45009f16cf61204",
+  "_iso3": "PAK",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

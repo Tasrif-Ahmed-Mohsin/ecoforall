@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK faces high inflation, a large current account deficit, and moderate political instability with protests and sanctions, making economic fundamentals and political risks the dominant short-term growth drivers, while environmental and social factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK faces high inflation, a large current account deficit, and moderate political instability with protests and sanctions, making economic fundamentals and political risks the dominant short-term growth drivers, while environmental and social factors are less immediate.\"\n}",
+  "_cache_key": "2bea948dc95780ba27efde87f0a735fa",
+  "_iso3": "TJK",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

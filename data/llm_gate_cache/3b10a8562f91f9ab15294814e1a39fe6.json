@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.75,
+  "reasoning": "Japan in 2012 is a stable, high-income economy with no ongoing crises, so near-term GDP growth is driven primarily by economic fundamentals, with minor roles for political, environmental, and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Japan in 2012 is a stable, high-income economy with no ongoing crises, so near-term GDP growth is driven primarily by economic fundamentals, with minor roles for political, environmental, and social factors.\"\n}",
+  "_cache_key": "3b10a8562f91f9ab15294814e1a39fe6",
+  "_iso3": "JPN",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.06,
+  "human_society": 0.06,
+  "confidence": 0.85,
+  "reasoning": "Finland in 2008 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.06,\n  \"human_society\": 0.06,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Finland in 2008 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "b3a4bc19b89baa362ef6cff5a30ab9e4",
+  "_iso3": "FIN",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

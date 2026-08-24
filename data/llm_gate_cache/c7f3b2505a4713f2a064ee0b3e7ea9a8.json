@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Korea in 2004 is a stable, high-income economy with no crises, strong growth, and healthy fundamentals, so economic factors dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Korea in 2004 is a stable, high-income economy with no crises, strong growth, and healthy fundamentals, so economic factors dominate the short-term forecast.\"\n}",
+  "_cache_key": "c7f3b2505a4713f2a064ee0b3e7ea9a8",
+  "_iso3": "KOR",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

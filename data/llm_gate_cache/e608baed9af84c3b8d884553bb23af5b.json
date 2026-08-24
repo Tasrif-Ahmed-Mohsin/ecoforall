@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB faces high inflation, elevated debt, and external imbalances, but no active crises, so economic fundamentals dominate, with moderate political risk from protests and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB faces high inflation, elevated debt, and external imbalances, but no active crises, so economic fundamentals dominate, with moderate political risk from protests and sanctions.\"\n}",
+  "_cache_key": "e608baed9af84c3b8d884553bb23af5b",
+  "_iso3": "ZMB",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

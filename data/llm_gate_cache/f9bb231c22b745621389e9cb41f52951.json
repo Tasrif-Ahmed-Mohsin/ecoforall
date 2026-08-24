@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High investment and recent strong growth dominate the outlook, but moderate political instability and protest pressure warrant a notable political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and recent strong growth dominate the outlook, but moderate political instability and protest pressure warrant a notable political weight.\"\n}",
+  "_cache_key": "f9bb231c22b745621389e9cb41f52951",
+  "_iso3": "DJI",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

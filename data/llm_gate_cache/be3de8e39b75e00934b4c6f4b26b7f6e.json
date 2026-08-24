@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Kazakhstan in 2004 is a stable, resource-rich economy with moderate growth, low debt, and no active crises, so economic fundamentals dominate, but political instability and environmental risks (droughts, storms) warrant modest attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Kazakhstan in 2004 is a stable, resource-rich economy with moderate growth, low debt, and no active crises, so economic fundamentals dominate, but political instability and environmental risks (droughts, storms) warrant modest attention over a 5-year horizon.\"\n}",
+  "_cache_key": "be3de8e39b75e00934b4c6f4b26b7f6e",
+  "_iso3": "KAZ",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

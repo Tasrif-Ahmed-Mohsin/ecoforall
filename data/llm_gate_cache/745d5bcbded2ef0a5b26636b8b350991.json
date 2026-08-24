@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Senegal faces moderate political instability and social tensions, but the economy is not in crisis, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Senegal faces moderate political instability and social tensions, but the economy is not in crisis, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "745d5bcbded2ef0a5b26636b8b350991",
+  "_iso3": "SEN",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

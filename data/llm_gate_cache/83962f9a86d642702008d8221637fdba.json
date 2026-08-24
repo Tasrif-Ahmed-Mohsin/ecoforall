@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Argentina is emerging from a severe crisis with high debt and unemployment, but has stabilized with positive growth and no current crises, so economic fundamentals dominate, while political and social factors remain moderately important due to lingering instability and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Argentina is emerging from a severe crisis with high debt and unemployment, but has stabilized with positive growth and no current crises, so economic fundamentals dominate, while political and social factors remain moderately important due to lingering instability and low trust.\"\n}",
+  "_cache_key": "83962f9a86d642702008d8221637fdba",
+  "_iso3": "ARG",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

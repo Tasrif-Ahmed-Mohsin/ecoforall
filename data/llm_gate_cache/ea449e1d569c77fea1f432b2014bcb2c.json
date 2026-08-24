@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana's moderate growth, high current account deficit, and rising debt suggest economic vulnerabilities dominate, but political stability is moderate and social/demographic factors (young age, urbanization) add structural influence over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana's moderate growth, high current account deficit, and rising debt suggest economic vulnerabilities dominate, but political stability is moderate and social/demographic factors (young age, urbanization) add structural influence over a 5-year horizon.\"\n}",
+  "_cache_key": "ea449e1d569c77fea1f432b2014bcb2c",
+  "_iso3": "GHA",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

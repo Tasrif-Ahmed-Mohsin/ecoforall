@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "India in 2009 faces moderate political instability and social tensions, but the dominant driver for 5-year growth is the economic recovery from the global financial crisis, with structural factors like investment and demographics playing a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"India in 2009 faces moderate political instability and social tensions, but the dominant driver for 5-year growth is the economic recovery from the global financial crisis, with structural factors like investment and demographics playing a secondary role.\"\n}",
+  "_cache_key": "352e9d429d0e3a66a34275c2cc14f446",
+  "_iso3": "IND",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

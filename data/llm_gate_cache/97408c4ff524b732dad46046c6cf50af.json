@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.9,
+  "reasoning": "France in 2006 is a stable, high-income economy with no ongoing crises, moderate debt, and positive growth, so economic fundamentals dominate the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.90,\n  \"reasoning\": \"France in 2006 is a stable, high-income economy with no ongoing crises, moderate debt, and positive growth, so economic fundamentals dominate the near-term outlook.\"\n}",
+  "_cache_key": "97408c4ff524b732dad46046c6cf50af",
+  "_iso3": "FRA",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

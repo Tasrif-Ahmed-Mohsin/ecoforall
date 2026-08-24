@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ has high debt, moderate instability, and social pressures, but no acute crisis, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ has high debt, moderate instability, and social pressures, but no acute crisis, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "9fca0cfc9f3a65874aa0e33783155863",
+  "_iso3": "KGZ",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

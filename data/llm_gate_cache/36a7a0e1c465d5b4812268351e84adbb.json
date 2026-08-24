@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "COG faces moderate political instability and conflict, but the dominant driver is the economic adjustment from a recent sharp contraction and high investment, with elevated debt and inflation posing risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"COG faces moderate political instability and conflict, but the dominant driver is the economic adjustment from a recent sharp contraction and high investment, with elevated debt and inflation posing risks.\"\n}",
+  "_cache_key": "36a7a0e1c465d5b4812268351e84adbb",
+  "_iso3": "COG",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "THA is a stable, upper-middle-income economy with moderate inflation and debt, but high unemployment is low and growth is positive, so economic fundamentals dominate, while political and social tensions are moderate and environmental risks are present but not extreme.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"THA is a stable, upper-middle-income economy with moderate inflation and debt, but high unemployment is low and growth is positive, so economic fundamentals dominate, while political and social tensions are moderate and environmental risks are present but not extreme.\"\n}",
+  "_cache_key": "e9fbf048c9252aa9e0c3d963bb728415",
+  "_iso3": "THA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

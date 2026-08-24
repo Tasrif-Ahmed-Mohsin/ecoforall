@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Canada is a stable high-income economy, but the 2020 recession, high debt, and negative political stability indicators warrant a moderate political weight, while environmental and social factors are less pressing over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Canada is a stable high-income economy, but the 2020 recession, high debt, and negative political stability indicators warrant a moderate political weight, while environmental and social factors are less pressing over a 3-year horizon.\"\n}",
+  "_cache_key": "aa0c26ce1ea4c5deb056cfc97c899e51",
+  "_iso3": "CAN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

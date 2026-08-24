@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2011 shows moderate growth with high inflation and external deficits, but political instability and protest pressure warrant elevated political weight, while environmental risks and social tensions are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh in 2011 shows moderate growth with high inflation and external deficits, but political instability and protest pressure warrant elevated political weight, while environmental risks and social tensions are secondary.\"\n}",
+  "_cache_key": "85fd5e06f0d2ab7c4be5b5cf1179d733",
+  "_iso3": "BGD",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

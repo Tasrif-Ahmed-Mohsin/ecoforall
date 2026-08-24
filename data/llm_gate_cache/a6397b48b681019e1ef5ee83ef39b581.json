@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Indonesia faces moderate political instability and social tensions, but the economy is recovering from the pandemic with stable inflation and investment, so economic factors dominate while political and social risks warrant significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Indonesia faces moderate political instability and social tensions, but the economy is recovering from the pandemic with stable inflation and investment, so economic factors dominate while political and social risks warrant significant weight.\"\n}",
+  "_cache_key": "a6397b48b681019e1ef5ee83ef39b581",
+  "_iso3": "IDN",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

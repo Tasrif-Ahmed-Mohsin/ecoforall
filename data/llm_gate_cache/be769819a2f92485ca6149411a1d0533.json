@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high current account surplus and low debt, extreme political instability and high protest/sanction levels warrant elevated political weight, while the economy remains the primary driver in this otherwise stable, high-income setting.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high current account surplus and low debt, extreme political instability and high protest/sanction levels warrant elevated political weight, while the economy remains the primary driver in this otherwise stable, high-income setting.\"\n}",
+  "_cache_key": "be769819a2f92485ca6149411a1d0533",
+  "_iso3": "LBY",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

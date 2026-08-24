@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE is in a severe deflationary spiral with collapsing investment and negative growth, but political instability, sanctions, and extreme social distress (low trust, high fear, high protest) are equally critical for the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE is in a severe deflationary spiral with collapsing investment and negative growth, but political instability, sanctions, and extreme social distress (low trust, high fear, high protest) are equally critical for the medium-term outlook.\"\n}",
+  "_cache_key": "de3d10bbf947af340095f6c51903ea15",
+  "_iso3": "ZWE",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

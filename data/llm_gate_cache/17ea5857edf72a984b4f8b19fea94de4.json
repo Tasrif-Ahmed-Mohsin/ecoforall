@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Iraq faces moderate political instability and conflict, high social distrust and protest pressure, and environmental vulnerabilities (droughts, floods), while its economy is recovering from recent volatility, so a balanced weighting with a slight economic tilt is appropriate for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq faces moderate political instability and conflict, high social distrust and protest pressure, and environmental vulnerabilities (droughts, floods), while its economy is recovering from recent volatility, so a balanced weighting with a slight economic tilt is appropriate for a 5-year horizon.\"\n}",
+  "_cache_key": "17ea5857edf72a984b4f8b19fea94de4",
+  "_iso3": "IRQ",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

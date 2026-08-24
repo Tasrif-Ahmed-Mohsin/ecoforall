@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Oman faces a large current account deficit, low growth, and high political instability with sanctions and conflict, making economic and political factors dominant, while social trust and optimism are weak but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Oman faces a large current account deficit, low growth, and high political instability with sanctions and conflict, making economic and political factors dominant, while social trust and optimism are weak but secondary.\"\n}",
+  "_cache_key": "721630ab83cbfaa4789820d6387ce0be",
+  "_iso3": "OMN",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

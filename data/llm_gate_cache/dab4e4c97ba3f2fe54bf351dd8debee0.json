@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "TWN is a stable, high-income economy with no major crises, so economic fundamentals dominate the 1-year growth outlook, with modest political and social factors given the elevated protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TWN is a stable, high-income economy with no major crises, so economic fundamentals dominate the 1-year growth outlook, with modest political and social factors given the elevated protest and conflict indicators.\"\n}",
+  "_cache_key": "dab4e4c97ba3f2fe54bf351dd8debee0",
+  "_iso3": "TWN",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

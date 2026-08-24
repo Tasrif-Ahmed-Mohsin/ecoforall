@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Turkey faces moderate economic imbalances (high current account deficit, moderate inflation) and significant political instability (very low political stability, high protests, sanctions), but no acute crisis, so economy and politics dominate, with social and environmental factors secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Turkey faces moderate economic imbalances (high current account deficit, moderate inflation) and significant political instability (very low political stability, high protests, sanctions), but no acute crisis, so economy and politics dominate, with social and environmental factors secondary.\"\n}",
+  "_cache_key": "6a1352b73069b49e66a908d6aab633d1",
+  "_iso3": "TUR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

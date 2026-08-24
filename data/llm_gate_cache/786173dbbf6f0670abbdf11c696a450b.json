@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Venezuela is in a severe economic collapse with hyperinflation and massive debt, but political instability, sanctions, and social unrest are equally critical, while environmental risks and social factors add moderate pressure over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Venezuela is in a severe economic collapse with hyperinflation and massive debt, but political instability, sanctions, and social unrest are equally critical, while environmental risks and social factors add moderate pressure over the 5-year horizon.\"\n}",
+  "_cache_key": "786173dbbf6f0670abbdf11c696a450b",
+  "_iso3": "VEN",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

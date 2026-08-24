@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Thailand in 2012 shows a stable macroeconomic environment with low unemployment, moderate debt, and positive recent growth, while political and environmental risks are present but not dominant, so economic factors should dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Thailand in 2012 shows a stable macroeconomic environment with low unemployment, moderate debt, and positive recent growth, while political and environmental risks are present but not dominant, so economic factors should dominate the forecast.\"\n}",
+  "_cache_key": "2012c333e86a1a63d3e67232c3076558",
+  "_iso3": "THA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

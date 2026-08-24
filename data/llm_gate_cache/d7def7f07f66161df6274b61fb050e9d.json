@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high political instability and external imbalances, the Maldives' growth is primarily driven by tourism and investment, with no active crisis, so economic factors dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high political instability and external imbalances, the Maldives' growth is primarily driven by tourism and investment, with no active crisis, so economic factors dominate the short-term outlook.\"\n}",
+  "_cache_key": "d7def7f07f66161df6274b61fb050e9d",
+  "_iso3": "MDV",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

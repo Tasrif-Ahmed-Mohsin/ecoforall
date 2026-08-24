@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI faces a currency crisis, high inflation, and unemployment, but political instability and conflict are also significant, while environmental and social data are limited, so economic and political factors dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI faces a currency crisis, high inflation, and unemployment, but political instability and conflict are also significant, while environmental and social data are limited, so economic and political factors dominate the forecast.\"\n}",
+  "_cache_key": "f3bb082216fcee1ff276c98a1388039a",
+  "_iso3": "HTI",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Uruguay is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political and social factors are moderate and environment is minimal.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Uruguay is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political and social factors are moderate and environment is minimal.\"\n}",
+  "_cache_key": "43fa1ab7937dc4a925963e5bbf08dc1d",
+  "_iso3": "URY",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

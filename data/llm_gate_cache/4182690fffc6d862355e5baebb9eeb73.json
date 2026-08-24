@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.65,
+  "reasoning": "MAR is a middle-income economy with moderate debt, high external imbalance, and recent growth slowdown, but significant political instability, conflict, and social unrest elevate political and human_society risks, while environmental data is limited and less relevant over this horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.65,\n  \"reasoning\": \"MAR is a middle-income economy with moderate debt, high external imbalance, and recent growth slowdown, but significant political instability, conflict, and social unrest elevate political and human_society risks, while environmental data is limited and less relevant over this horizon.\"\n}",
+  "_cache_key": "4182690fffc6d862355e5baebb9eeb73",
+  "_iso3": "MAR",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

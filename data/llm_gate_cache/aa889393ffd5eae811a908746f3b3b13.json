@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Mexico faces moderate political instability and social tensions, but the economy is the primary driver given moderate inflation, low unemployment, and a recent growth rebound, while environmental factors are less pressing over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Mexico faces moderate political instability and social tensions, but the economy is the primary driver given moderate inflation, low unemployment, and a recent growth rebound, while environmental factors are less pressing over a one-year horizon.\"\n}",
+  "_cache_key": "aa889393ffd5eae811a908746f3b3b13",
+  "_iso3": "MEX",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

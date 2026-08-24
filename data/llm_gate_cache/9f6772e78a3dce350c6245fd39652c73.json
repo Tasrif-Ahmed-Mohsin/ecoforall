@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The economy is in a severe recession with high unemployment and deflation, but political stability is moderate and social indicators are mixed, so economic factors dominate while social and political risks add modest uncertainty.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The economy is in a severe recession with high unemployment and deflation, but political stability is moderate and social indicators are mixed, so economic factors dominate while social and political risks add modest uncertainty.\"\n}",
+  "_cache_key": "9f6772e78a3dce350c6245fd39652c73",
+  "_iso3": "PAN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

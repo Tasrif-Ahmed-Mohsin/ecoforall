@@ -1,0 +1,14 @@
+{
+  "economy": 0.6111111111111112,
+  "politics": 0.22222222222222224,
+  "environment": 0.05555555555555556,
+  "human_society": 0.11111111111111112,
+  "confidence": 0.1,
+  "reasoning": "ECU is a middle-income economy with moderate inflation, low debt, and no current crises, but political instability and social tensions warrant elevated political and societal weights, while the 5-year horizon increases the importance of structural factors.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.10,\n  \"reasoning\": \"ECU is a middle-income economy with moderate inflation, low debt, and no current crises, but political instability and social tensions warrant elevated political and societal weights, while the 5-year horizon increases the importance of structural factors.\"\n}",
+  "_cache_key": "760182ae40151f59284391a8a635a6c4",
+  "_iso3": "ECU",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

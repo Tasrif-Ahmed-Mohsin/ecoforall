@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, post-Soviet economy with moderate inflation, high debt, and low investment, but recent growth is strong and no acute crises are present, so economic fundamentals dominate, while political instability and conflict indicators warrant a notable but secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TJK is a low-income, post-Soviet economy with moderate inflation, high debt, and low investment, but recent growth is strong and no acute crises are present, so economic fundamentals dominate, while political instability and conflict indicators warrant a notable but secondary weight.\"\n}",
+  "_cache_key": "fd12b7406a8e9199be72f0473309cda4",
+  "_iso3": "TJK",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

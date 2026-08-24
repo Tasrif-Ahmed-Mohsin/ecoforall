@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Rwanda is a low-income, aid-dependent economy with moderate inflation and external deficits, but political stability is high and no major crises are present, so economic fundamentals dominate while social and political factors play a supporting role over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Rwanda is a low-income, aid-dependent economy with moderate inflation and external deficits, but political stability is high and no major crises are present, so economic fundamentals dominate while social and political factors play a supporting role over the 5-year horizon.\"\n}",
+  "_cache_key": "6c21617b429f6daf2fbed4633b15d75c",
+  "_iso3": "RWA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

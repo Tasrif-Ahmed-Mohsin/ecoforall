@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Oman faces moderate political instability and sanctions, but its high-income, low-inflation economy with strong investment and low unemployment suggests economic factors dominate, while social trust and optimism are weak but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Oman faces moderate political instability and sanctions, but its high-income, low-inflation economy with strong investment and low unemployment suggests economic factors dominate, while social trust and optimism are weak but not crisis-level.\"\n}",
+  "_cache_key": "209d941af35d7615a4ae71726ed50548",
+  "_iso3": "OMN",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

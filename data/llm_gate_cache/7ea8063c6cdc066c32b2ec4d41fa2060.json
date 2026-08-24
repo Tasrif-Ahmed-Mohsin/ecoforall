@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "Senegal faces severe political instability, sanctions, and conflict, alongside high external imbalances and low growth, making politics and economy the dominant drivers, with social factors also significant due to low trust and high protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Senegal faces severe political instability, sanctions, and conflict, alongside high external imbalances and low growth, making politics and economy the dominant drivers, with social factors also significant due to low trust and high protest pressure.\"\n}",
+  "_cache_key": "7ea8063c6cdc066c32b2ec4d41fa2060",
+  "_iso3": "SEN",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

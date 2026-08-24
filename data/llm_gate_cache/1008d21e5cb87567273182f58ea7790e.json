@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Iran in 2006 is a relatively stable, oil-exporting economy with moderate inflation and high investment, but sanctions and political tensions warrant a notable political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran in 2006 is a relatively stable, oil-exporting economy with moderate inflation and high investment, but sanctions and political tensions warrant a notable political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "1008d21e5cb87567273182f58ea7790e",
+  "_iso3": "IRN",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

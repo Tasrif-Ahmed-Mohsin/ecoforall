@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "GBR is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"GBR is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over the 5-year horizon.\"\n}",
+  "_cache_key": "94d75c282c6d59f6d6584f42b62e0890",
+  "_iso3": "GBR",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

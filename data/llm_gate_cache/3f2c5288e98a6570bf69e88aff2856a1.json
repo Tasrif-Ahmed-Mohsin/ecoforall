@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNQ is a middle-income economy with high external imbalances and recent negative growth, but no active political or environmental crises, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNQ is a middle-income economy with high external imbalances and recent negative growth, but no active political or environmental crises, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "3f2c5288e98a6570bf69e88aff2856a1",
+  "_iso3": "GNQ",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

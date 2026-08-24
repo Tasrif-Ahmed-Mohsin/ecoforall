@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TKM shows strong recent growth, moderate inflation, high investment, but a large current account deficit and some political instability, so economic fundamentals dominate while political risks warrant a secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TKM shows strong recent growth, moderate inflation, high investment, but a large current account deficit and some political instability, so economic fundamentals dominate while political risks warrant a secondary weight.\"\n}",
+  "_cache_key": "f56e6350a8d26ba669f06f8629f2f38e",
+  "_iso3": "TKM",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

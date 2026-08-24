@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2014 shows moderate growth and investment but high inflation, external deficits, and political instability, so economic fundamentals dominate while political risks and environmental vulnerabilities (droughts, floods) also matter over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Ethiopia in 2014 shows moderate growth and investment but high inflation, external deficits, and political instability, so economic fundamentals dominate while political risks and environmental vulnerabilities (droughts, floods) also matter over a 5-year horizon.\"\n}",
+  "_cache_key": "48b6b97b093cd8841028989bd012a626",
+  "_iso3": "ETH",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia in 2011 is a stable, middle-income EU candidate with moderate debt and high unemployment, but political instability and social tensions warrant elevated political and societal weights, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Croatia in 2011 is a stable, middle-income EU candidate with moderate debt and high unemployment, but political instability and social tensions warrant elevated political and societal weights, while environmental factors are negligible.\"\n}",
+  "_cache_key": "db070272c7900bd5e72f4ec6dd00d2d4",
+  "_iso3": "HRV",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

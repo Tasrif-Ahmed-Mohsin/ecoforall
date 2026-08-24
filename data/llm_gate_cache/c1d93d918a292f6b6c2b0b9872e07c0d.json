@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, politically fragile economy with moderate debt, high inflation, and negative current account, but no extreme conflict or environmental shock, so economic fundamentals dominate while political risks and social pressures warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG is a low-income, politically fragile economy with moderate debt, high inflation, and negative current account, but no extreme conflict or environmental shock, so economic fundamentals dominate while political risks and social pressures warrant notable weight.\"\n}",
+  "_cache_key": "c1d93d918a292f6b6c2b0b9872e07c0d",
+  "_iso3": "MDG",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

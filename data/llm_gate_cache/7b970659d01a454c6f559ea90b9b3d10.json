@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic instability with high unemployment, negative current account, and moderate debt, combined with notable political protest and conflict, warrants a strong but not dominant economic weight, with politics elevated due to social unrest.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate economic instability with high unemployment, negative current account, and moderate debt, combined with notable political protest and conflict, warrants a strong but not dominant economic weight, with politics elevated due to social unrest.\"\n}",
+  "_cache_key": "7b970659d01a454c6f559ea90b9b3d10",
+  "_iso3": "COL",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

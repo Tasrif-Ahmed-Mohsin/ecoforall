@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Mozambique has high external imbalances and moderate inflation, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mozambique has high external imbalances and moderate inflation, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention.\"\n}",
+  "_cache_key": "761a1d022715db9ea3ec6c4a8c8458d8",
+  "_iso3": "MOZ",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

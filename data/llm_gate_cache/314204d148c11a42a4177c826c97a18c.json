@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "THA is a stable, high-income economy with strong growth, low inflation, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"THA is a stable, high-income economy with strong growth, low inflation, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "314204d148c11a42a4177c826c97a18c",
+  "_iso3": "THA",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

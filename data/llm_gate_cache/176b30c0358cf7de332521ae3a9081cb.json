@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given stable political conditions, moderate inflation, and high investment, while political and social factors are secondary due to moderate protest and conflict indicators but no acute crisis.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is the dominant driver given stable political conditions, moderate inflation, and high investment, while political and social factors are secondary due to moderate protest and conflict indicators but no acute crisis.\"\n}",
+  "_cache_key": "176b30c0358cf7de332521ae3a9081cb",
+  "_iso3": "SUR",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

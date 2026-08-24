@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania faces moderate economic vulnerabilities (high debt, unemployment, current account deficit) but no acute crisis, while political instability and social pressures are elevated, warranting a significant but not dominant political weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania faces moderate economic vulnerabilities (high debt, unemployment, current account deficit) but no acute crisis, while political instability and social pressures are elevated, warranting a significant but not dominant political weight over a 5-year horizon.\"\n}",
+  "_cache_key": "404001f5907021834320b709d04de0ea",
+  "_iso3": "ALB",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

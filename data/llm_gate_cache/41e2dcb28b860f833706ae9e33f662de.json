@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Benin is a low-income, politically unstable country with high protest and conflict indicators, so while economic fundamentals matter, political risk is a major drag on growth, though no acute crisis or environmental shock dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Benin is a low-income, politically unstable country with high protest and conflict indicators, so while economic fundamentals matter, political risk is a major drag on growth, though no acute crisis or environmental shock dominates.\"\n}",
+  "_cache_key": "41e2dcb28b860f833706ae9e33f662de",
+  "_iso3": "BEN",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

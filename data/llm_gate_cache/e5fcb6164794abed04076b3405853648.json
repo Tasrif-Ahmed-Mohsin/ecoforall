@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Canada is a stable, high-income economy with no active crises, so short-term GDP growth is driven primarily by economic fundamentals, with modest roles for political and social factors given moderate political instability and high trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Canada is a stable, high-income economy with no active crises, so short-term GDP growth is driven primarily by economic fundamentals, with modest roles for political and social factors given moderate political instability and high trust.\"\n}",
+  "_cache_key": "e5fcb6164794abed04076b3405853648",
+  "_iso3": "CAN",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

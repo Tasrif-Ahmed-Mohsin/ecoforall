@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, stable economy with moderate debt and inflation, but elevated political conflict and protest pressure warrant a significant political weight, while social tensions and weak investment also matter.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, stable economy with moderate debt and inflation, but elevated political conflict and protest pressure warrant a significant political weight, while social tensions and weak investment also matter.\"\n}",
+  "_cache_key": "36d33af8f8d2072f467c49e2c44b3406",
+  "_iso3": "TJK",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

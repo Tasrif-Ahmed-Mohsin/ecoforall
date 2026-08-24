@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran faces moderate economic instability with high inflation and sanctions, but no active banking or currency crisis, so economic factors dominate while political risks from sanctions and conflict intensity warrant significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces moderate economic instability with high inflation and sanctions, but no active banking or currency crisis, so economic factors dominate while political risks from sanctions and conflict intensity warrant significant weight.\"\n}",
+  "_cache_key": "e8896aa3d3a73c030f8814c12b24ab43",
+  "_iso3": "IRN",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

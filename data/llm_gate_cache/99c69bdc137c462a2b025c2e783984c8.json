@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "ARE is a stable, high-income economy with low inflation, low unemployment, and moderate investment, so economic fundamentals dominate the short-term outlook, while political and social indicators are benign and environmental risks are minor.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ARE is a stable, high-income economy with low inflation, low unemployment, and moderate investment, so economic fundamentals dominate the short-term outlook, while political and social indicators are benign and environmental risks are minor.\"\n}",
+  "_cache_key": "99c69bdc137c462a2b025c2e783984c8",
+  "_iso3": "ARE",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

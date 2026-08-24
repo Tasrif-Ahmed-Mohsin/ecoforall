@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "El Salvador in 2008 faces moderate economic vulnerabilities (high current account deficit, moderate debt, inflation) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"El Salvador in 2008 faces moderate economic vulnerabilities (high current account deficit, moderate debt, inflation) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight over a 5-year horizon.\"\n}",
+  "_cache_key": "8ace0cb0ae504810b730deca876bac28",
+  "_iso3": "SLV",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

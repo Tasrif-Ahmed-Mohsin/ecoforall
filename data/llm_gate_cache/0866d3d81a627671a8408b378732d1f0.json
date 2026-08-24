@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2004 shows moderate growth with low inflation and no active crises, but political instability and social tensions warrant a notable political weight, while environmental risks and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh in 2004 shows moderate growth with low inflation and no active crises, but political instability and social tensions warrant a notable political weight, while environmental risks and social factors play secondary roles.\"\n}",
+  "_cache_key": "0866d3d81a627671a8408b378732d1f0",
+  "_iso3": "BGD",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

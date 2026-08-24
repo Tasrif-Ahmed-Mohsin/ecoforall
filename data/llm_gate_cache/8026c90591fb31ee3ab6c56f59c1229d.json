@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Estonia is a stable high-income economy with moderate growth and low inflation, but political instability and conflict indicators are elevated, warranting a modest political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Estonia is a stable high-income economy with moderate growth and low inflation, but political instability and conflict indicators are elevated, warranting a modest political risk premium.\"\n}",
+  "_cache_key": "8026c90591fb31ee3ab6c56f59c1229d",
+  "_iso3": "EST",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

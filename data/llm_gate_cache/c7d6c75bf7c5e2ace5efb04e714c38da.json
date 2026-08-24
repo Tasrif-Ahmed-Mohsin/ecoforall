@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "Despite the ongoing banking crisis, DEU is a stable high-income economy with strong external balances and no political or environmental shocks, so economic fundamentals dominate the 5-year outlook, with modest weights for structural and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Despite the ongoing banking crisis, DEU is a stable high-income economy with strong external balances and no political or environmental shocks, so economic fundamentals dominate the 5-year outlook, with modest weights for structural and social factors.\"\n}",
+  "_cache_key": "c7d6c75bf7c5e2ace5efb04e714c38da",
+  "_iso3": "DEU",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

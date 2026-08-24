@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Iceland is a high-income, stable economy with no banking or currency crises, but the large current account deficit and political instability (negative stability, protests, sanctions) warrant a moderate political weight, while environmental and social factors are minimal for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Iceland is a high-income, stable economy with no banking or currency crises, but the large current account deficit and political instability (negative stability, protests, sanctions) warrant a moderate political weight, while environmental and social factors are minimal for a 1-year horizon.\"\n}",
+  "_cache_key": "ddb9f49a6f532542dee6e9eea4ef2fb2",
+  "_iso3": "ISL",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "CYP is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, while moderate political tensions and minor social pressures warrant only modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CYP is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, while moderate political tensions and minor social pressures warrant only modest weights.\"\n}",
+  "_cache_key": "5f09ae482e0e15832666bf9813ad2295",
+  "_iso3": "CYP",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

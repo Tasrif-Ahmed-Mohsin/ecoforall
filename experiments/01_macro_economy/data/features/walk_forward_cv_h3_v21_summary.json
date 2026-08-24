@@ -1,0 +1,136 @@
+{
+  "per_model": [
+    {
+      "horizon": 3,
+      "model": "ar1_lag1_honest",
+      "mae_mean": 0.07096882686018943,
+      "mae_std": 0.011757647469017815,
+      "rmse_mean": 0.11477670967578887,
+      "dir_acc_mean": 0.7480074900557538,
+      "skill_vs_naive_mean": 0.09552507400512696,
+      "skill_vs_ar1_mean": 0.0,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "catboost",
+      "mae_mean": 0.07404714709775957,
+      "mae_std": 0.018137676311046402,
+      "rmse_mean": 0.11447261115108509,
+      "dir_acc_mean": 0.7047925266662146,
+      "skill_vs_naive_mean": 0.06376169436938035,
+      "skill_vs_ar1_mean": -0.033923690218095694,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ensemble_lgbm_cat_xgb_ridge_prior",
+      "mae_mean": 0.07039400427994383,
+      "mae_std": 0.013834187664253657,
+      "rmse_mean": 0.11127946025111812,
+      "dir_acc_mean": 0.737097553172283,
+      "skill_vs_naive_mean": 0.10585426008659568,
+      "skill_vs_ar1_mean": 0.011842961586417844,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ensemble_lgbm_catboost_xgboost",
+      "mae_mean": 0.07226857202677103,
+      "mae_std": 0.014211435839100261,
+      "rmse_mean": 0.1132089656255633,
+      "dir_acc_mean": 0.7229105755990812,
+      "skill_vs_naive_mean": 0.08187147487734418,
+      "skill_vs_ar1_mean": -0.014631875135880401,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ensemble_lgbm_hb",
+      "mae_mean": 0.08054201975056385,
+      "mae_std": 0.0098336601255553,
+      "rmse_mean": 0.12480396415428936,
+      "dir_acc_mean": 0.7045372190737129,
+      "skill_vs_naive_mean": -0.035294273892333125,
+      "skill_vs_ar1_mean": -0.14589124745106807,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ensemble_lgbm_prior",
+      "mae_mean": 0.06877465711539388,
+      "mae_std": 0.010174796685979624,
+      "rmse_mean": 0.10989029002978686,
+      "dir_acc_mean": 0.7615933657148211,
+      "skill_vs_naive_mean": 0.12147525898461828,
+      "skill_vs_ar1_mean": 0.028332712317453733,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ensemble_lgbm_ridge_prior",
+      "mae_mean": 0.07127650872353142,
+      "mae_std": 0.012245465676340028,
+      "rmse_mean": 0.11241830406263728,
+      "dir_acc_mean": 0.7343912153078367,
+      "skill_vs_naive_mean": 0.09230764484468276,
+      "skill_vs_ar1_mean": -0.00348285743134229,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "hb_country",
+      "mae_mean": 0.10366704910993577,
+      "mae_std": 0.01133803095363775,
+      "rmse_mean": 0.16778572797775268,
+      "dir_acc_mean": 0.6789671404865019,
+      "skill_vs_naive_mean": -0.34146666526794434,
+      "skill_vs_ar1_mean": -0.4860374450683594,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "lgbm",
+      "mae_mean": 0.07416727697562184,
+      "mae_std": 0.010185207065742257,
+      "rmse_mean": 0.11604249858525617,
+      "dir_acc_mean": 0.7352740893958337,
+      "skill_vs_naive_mean": 0.050215875530406295,
+      "skill_vs_ar1_mean": -0.050656100668265425,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "naive_persistence",
+      "mae_mean": 0.07829715460538864,
+      "mae_std": 0.011355001831154506,
+      "rmse_mean": 0.12917908281087875,
+      "dir_acc_mean": 0.727137207482782,
+      "skill_vs_naive_mean": 0.0,
+      "skill_vs_ar1_mean": -0.10593845844268798,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "ridge",
+      "mae_mean": 0.09035072326660157,
+      "mae_std": 0.01422150312292133,
+      "rmse_mean": 0.1321296885609627,
+      "dir_acc_mean": 0.6419247212716505,
+      "skill_vs_naive_mean": -0.15331034660339354,
+      "skill_vs_ar1_mean": -0.27521069049835206,
+      "n_folds": 5
+    },
+    {
+      "horizon": 3,
+      "model": "xgboost",
+      "mae_mean": 0.07354099079966545,
+      "mae_std": 0.016798558180223626,
+      "rmse_mean": 0.11419620215892792,
+      "dir_acc_mean": 0.7062064906606376,
+      "skill_vs_naive_mean": 0.0690613031387329,
+      "skill_vs_ar1_mean": -0.02836955785751343,
+      "n_folds": 5
+    }
+  ]
+}

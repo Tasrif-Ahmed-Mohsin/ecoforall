@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Vietnam in 2013 is a stable, emerging economy with moderate growth, low unemployment, and no active crises, so economic fundamentals dominate, while political, environmental, and social factors play secondary but non-negligible roles given moderate protest pressure and climate vulnerabilities.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Vietnam in 2013 is a stable, emerging economy with moderate growth, low unemployment, and no active crises, so economic fundamentals dominate, while political, environmental, and social factors play secondary but non-negligible roles given moderate protest pressure and climate vulnerabilities.\"\n}",
+  "_cache_key": "496327c54c3871ddc9bf05ff76e4e225",
+  "_iso3": "VNM",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

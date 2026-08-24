@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "The country faces severe political instability, high protest pressure, and negative conflict indicators, which likely dominate short-term growth prospects, while the moderate inflation, external deficit, and low GDP per capita also constrain economic performance.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"The country faces severe political instability, high protest pressure, and negative conflict indicators, which likely dominate short-term growth prospects, while the moderate inflation, external deficit, and low GDP per capita also constrain economic performance.\"\n}",
+  "_cache_key": "02766c83b7a95923edbe82b9c6d944c2",
+  "_iso3": "COD",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.0,
+  "reasoning": "PARSE_FAILURE: defaulting to economy-dominant",
+  "_raw_response": "",
+  "_cache_key": "42de63a3af8d9ed27e580d578d28287a",
+  "_iso3": "MNG",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

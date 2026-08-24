@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2017 faces ongoing conflict, sanctions, and political instability, but the economy is recovering from a deep recession with moderate inflation and debt, making economic fundamentals and political risks the dominant drivers over the next five years.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ukraine in 2017 faces ongoing conflict, sanctions, and political instability, but the economy is recovering from a deep recession with moderate inflation and debt, making economic fundamentals and political risks the dominant drivers over the next five years.\"\n}",
+  "_cache_key": "17cdb5f1f4a349844fb838ee7161dd1d",
+  "_iso3": "UKR",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

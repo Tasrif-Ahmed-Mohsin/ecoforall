@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth with high investment but large current account deficit and political instability (negative stability, protests, sanctions) warrant a significant political weight, while social trust and cohesion are low but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate growth with high investment but large current account deficit and political instability (negative stability, protests, sanctions) warrant a significant political weight, while social trust and cohesion are low but not collapsing.\"\n}",
+  "_cache_key": "3bf36ed5b44bcd8548a563d26c6c58b6",
+  "_iso3": "MAR",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

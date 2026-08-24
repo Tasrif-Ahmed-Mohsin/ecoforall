@@ -1,0 +1,14 @@
+{
+  "economy": 0.82,
+  "politics": 0.06,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "NLD is a stable, high-income economy with no ongoing crises, so short-term GDP growth is overwhelmingly driven by economic fundamentals, with minimal influence from political, environmental, or social factors.",
+  "_raw_response": "{\n  \"economy\": 0.82,\n  \"politics\": 0.06,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NLD is a stable, high-income economy with no ongoing crises, so short-term GDP growth is overwhelmingly driven by economic fundamentals, with minimal influence from political, environmental, or social factors.\"\n}",
+  "_cache_key": "9bd36c8aeb16b270a18780170c34bd55",
+  "_iso3": "NLD",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

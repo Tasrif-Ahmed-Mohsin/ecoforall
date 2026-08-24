@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a lower-middle-income economy with high inflation, negative recent growth, and moderate political instability (protests, sanctions), so economic fundamentals dominate but political risks are significant for the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a lower-middle-income economy with high inflation, negative recent growth, and moderate political instability (protests, sanctions), so economic fundamentals dominate but political risks are significant for the short-term outlook.\"\n}",
+  "_cache_key": "4ffc9417db85840fb1d387c706790ccb",
+  "_iso3": "HTI",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

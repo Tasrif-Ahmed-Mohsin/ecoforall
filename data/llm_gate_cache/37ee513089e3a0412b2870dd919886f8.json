@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Togo faces moderate economic vulnerabilities (high debt, current account deficit, recent negative growth) and notable political instability and protest pressure, but no acute crisis, so economic fundamentals dominate while political and social risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Togo faces moderate economic vulnerabilities (high debt, current account deficit, recent negative growth) and notable political instability and protest pressure, but no acute crisis, so economic fundamentals dominate while political and social risks are secondary.\"\n}",
+  "_cache_key": "37ee513089e3a0412b2870dd919886f8",
+  "_iso3": "TGO",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHS is a stable, high-income economy with moderate political stability and no major crisis signals, so economic fundamentals dominate the 5-year growth outlook, with modest political risk from protests and external imbalances.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHS is a stable, high-income economy with moderate political stability and no major crisis signals, so economic fundamentals dominate the 5-year growth outlook, with modest political risk from protests and external imbalances.\"\n}",
+  "_cache_key": "542031947ff4fb24e77f2b6a14b474e4",
+  "_iso3": "BHS",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

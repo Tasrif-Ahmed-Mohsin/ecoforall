@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Romania in 2005 is a stable, upper-middle-income economy with no ongoing crises, so short-term growth is primarily driven by macroeconomic fundamentals, with modest political and social factors given moderate imbalances and recent strong growth.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Romania in 2005 is a stable, upper-middle-income economy with no ongoing crises, so short-term growth is primarily driven by macroeconomic fundamentals, with modest political and social factors given moderate imbalances and recent strong growth.\"\n}",
+  "_cache_key": "7798c35a121530ed7d01946f23dc95d3",
+  "_iso3": "ROU",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

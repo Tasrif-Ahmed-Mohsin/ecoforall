@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High investment and moderate growth suggest economic factors dominate, but elevated unemployment, external imbalances, and political instability warrant a notable political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and moderate growth suggest economic factors dominate, but elevated unemployment, external imbalances, and political instability warrant a notable political risk premium.\"\n}",
+  "_cache_key": "f1b8a2240bac62ab2311515aaaa2d9a5",
+  "_iso3": "DJI",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

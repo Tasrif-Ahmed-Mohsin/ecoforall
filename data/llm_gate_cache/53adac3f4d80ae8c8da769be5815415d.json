@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "DZA shows moderate growth, low inflation, and no active crises, but high unemployment and political/social tensions warrant modest weights on politics and human_society, while environment is negligible due to limited data.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"DZA shows moderate growth, low inflation, and no active crises, but high unemployment and political/social tensions warrant modest weights on politics and human_society, while environment is negligible due to limited data.\"\n}",
+  "_cache_key": "53adac3f4d80ae8c8da769be5815415d",
+  "_iso3": "DZA",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZAF is a stable middle-income economy with moderate debt, high unemployment, and a mild external deficit, but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF is a stable middle-income economy with moderate debt, high unemployment, and a mild external deficit, but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "dc0b5403b6a048d9e49f6cf95bc2be06",
+  "_iso3": "ZAF",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

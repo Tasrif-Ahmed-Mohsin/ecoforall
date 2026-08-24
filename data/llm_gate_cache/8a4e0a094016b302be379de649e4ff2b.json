@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, massive current account deficit, and recent severe contraction dominate the outlook, but political instability and protest pressure add significant downside risk, while environmental factors are negligible given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, massive current account deficit, and recent severe contraction dominate the outlook, but political instability and protest pressure add significant downside risk, while environmental factors are negligible given limited data.\"\n}",
+  "_cache_key": "8a4e0a094016b302be379de649e4ff2b",
+  "_iso3": "BHS",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

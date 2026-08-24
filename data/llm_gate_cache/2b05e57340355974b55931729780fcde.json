@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Austria is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor contributions from political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Austria is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor contributions from political and social factors.\"\n}",
+  "_cache_key": "2b05e57340355974b55931729780fcde",
+  "_iso3": "AUT",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

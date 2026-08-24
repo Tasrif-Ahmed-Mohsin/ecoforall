@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Mexico is recovering from a severe recession (-7.6% growth in 2009) with moderate inflation and debt, but political instability and conflict intensity are elevated, warranting a significant political weight, while environmental and social factors are less immediate for a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mexico is recovering from a severe recession (-7.6% growth in 2009) with moderate inflation and debt, but political instability and conflict intensity are elevated, warranting a significant political weight, while environmental and social factors are less immediate for a 3-year horizon.\"\n}",
+  "_cache_key": "c57265d5a610a92db39e3a56ff1dc8ae",
+  "_iso3": "MEX",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

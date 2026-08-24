@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Japan in 2013 is a stable, high-income economy with no major crises, so GDP growth over the next year is primarily driven by economic fundamentals, with minor roles for political, environmental, and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Japan in 2013 is a stable, high-income economy with no major crises, so GDP growth over the next year is primarily driven by economic fundamentals, with minor roles for political, environmental, and social factors.\"\n}",
+  "_cache_key": "6e2c0e9c2d428c3233d6d456abd3b0f7",
+  "_iso3": "JPN",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

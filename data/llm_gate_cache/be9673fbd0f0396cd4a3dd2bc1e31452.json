@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Senegal faces moderate political instability and social pressures, but the economy is the primary driver given moderate growth, high inflation, and external imbalances, with no major environmental shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Senegal faces moderate political instability and social pressures, but the economy is the primary driver given moderate growth, high inflation, and external imbalances, with no major environmental shocks.\"\n}",
+  "_cache_key": "be9673fbd0f0396cd4a3dd2bc1e31452",
+  "_iso3": "SEN",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

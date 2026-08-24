@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PHL is a middle-income economy with moderate debt, stable politics, and no major crises, but recent growth volatility and environmental vulnerabilities (floods, storms) warrant a moderate weight on economy and balanced attention to other domains.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PHL is a middle-income economy with moderate debt, stable politics, and no major crises, but recent growth volatility and environmental vulnerabilities (floods, storms) warrant a moderate weight on economy and balanced attention to other domains.\"\n}",
+  "_cache_key": "28eec3dcbc43276e4012010605bbb09b",
+  "_iso3": "PHL",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

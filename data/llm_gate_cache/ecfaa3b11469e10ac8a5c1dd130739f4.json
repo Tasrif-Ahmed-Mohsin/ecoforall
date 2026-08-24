@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2004 is in a post-conflict, politically unstable state with high debt, inflation, and sanctions, making political and economic factors equally dominant, while environmental and social stresses are secondary but non-negligible over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Iraq in 2004 is in a post-conflict, politically unstable state with high debt, inflation, and sanctions, making political and economic factors equally dominant, while environmental and social stresses are secondary but non-negligible over a 5-year horizon.\"\n}",
+  "_cache_key": "ecfaa3b11469e10ac8a5c1dd130739f4",
+  "_iso3": "IRQ",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

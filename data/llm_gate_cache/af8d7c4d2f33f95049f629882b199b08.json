@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BRN is a stable, high-income economy with moderate political tensions but no major crisis, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BRN is a stable, high-income economy with moderate political tensions but no major crisis, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "af8d7c4d2f33f95049f629882b199b08",
+  "_iso3": "BRN",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

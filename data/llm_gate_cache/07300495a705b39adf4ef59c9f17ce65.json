@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High-income economy with moderate imbalances and political instability (negative stability, sanctions, protests) warrants a strong but not dominant economic weight, with politics elevated due to ongoing conflict and social pressures.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High-income economy with moderate imbalances and political instability (negative stability, sanctions, protests) warrants a strong but not dominant economic weight, with politics elevated due to ongoing conflict and social pressures.\"\n}",
+  "_cache_key": "07300495a705b39adf4ef59c9f17ce65",
+  "_iso3": "BHS",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

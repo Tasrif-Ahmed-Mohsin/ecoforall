@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2011 faces severe political instability, sanctions, and conflict, which alongside moderate economic fundamentals and low human development, makes political risk a key driver of medium-term growth, while environmental and social factors play secondary but non-negligible roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ethiopia in 2011 faces severe political instability, sanctions, and conflict, which alongside moderate economic fundamentals and low human development, makes political risk a key driver of medium-term growth, while environmental and social factors play secondary but non-negligible roles.\"\n}",
+  "_cache_key": "1e4f6081efdfbe08557f339919aa1a1c",
+  "_iso3": "ETH",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

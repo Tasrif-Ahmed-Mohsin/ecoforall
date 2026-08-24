@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given stable macroeconomic indicators and no major crises, but moderate political instability and social tensions warrant some weight on politics and human society.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is the dominant driver given stable macroeconomic indicators and no major crises, but moderate political instability and social tensions warrant some weight on politics and human society.\"\n}",
+  "_cache_key": "dab0220321feb8ca42261ffacc4f15d9",
+  "_iso3": "ECU",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

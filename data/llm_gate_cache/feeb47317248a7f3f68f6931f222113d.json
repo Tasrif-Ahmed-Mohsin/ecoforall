@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High investment and growth but severe external imbalance and debt suggest economic factors dominate, while moderate political instability and protest pressure warrant a notable political weight, with limited environmental and social data reducing their influence.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High investment and growth but severe external imbalance and debt suggest economic factors dominate, while moderate political instability and protest pressure warrant a notable political weight, with limited environmental and social data reducing their influence.\"\n}",
+  "_cache_key": "feeb47317248a7f3f68f6931f222113d",
+  "_iso3": "BTN",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

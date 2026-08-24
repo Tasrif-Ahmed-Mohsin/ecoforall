@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Australia is a stable high-income economy with no major political or social crises, so economic fundamentals dominate, while moderate environmental risks and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Australia is a stable high-income economy with no major political or social crises, so economic fundamentals dominate, while moderate environmental risks and social factors play minor roles.\"\n}",
+  "_cache_key": "0d5a55fb03188f7f1b9974326d188e4d",
+  "_iso3": "AUS",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

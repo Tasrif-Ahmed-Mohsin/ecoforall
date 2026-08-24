@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given moderate growth, high inflation, and external imbalances, while political stability is high and no major crises are present, so politics and other domains play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is the dominant driver given moderate growth, high inflation, and external imbalances, while political stability is high and no major crises are present, so politics and other domains play a secondary role.\"\n}",
+  "_cache_key": "fee002befa4ed4f39cd80b1ff92fef23",
+  "_iso3": "NAM",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

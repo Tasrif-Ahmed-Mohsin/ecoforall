@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Guatemala shows moderate economic imbalances (current account deficit, moderate inflation) but no acute crises, while political instability and social tensions (low trust, high protests) warrant elevated weights for politics and human_society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Guatemala shows moderate economic imbalances (current account deficit, moderate inflation) but no acute crises, while political instability and social tensions (low trust, high protests) warrant elevated weights for politics and human_society over a 5-year horizon.\"\n}",
+  "_cache_key": "424d960f32da5244aba826b6c30fa7e8",
+  "_iso3": "GTM",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

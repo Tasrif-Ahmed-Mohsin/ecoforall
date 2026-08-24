@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Tanzania in 2010 is a low-income, stable economy with moderate growth, no major crises, and standard macroeconomic drivers (investment, external balance) dominating the short-term outlook, while political and social factors are secondary but not negligible given moderate protest and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Tanzania in 2010 is a low-income, stable economy with moderate growth, no major crises, and standard macroeconomic drivers (investment, external balance) dominating the short-term outlook, while political and social factors are secondary but not negligible given moderate protest and low trust.\"\n}",
+  "_cache_key": "d83ba60f210e28e849eb2bd18f417938",
+  "_iso3": "TZA",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high current account deficit and negative inflation, the economy is the dominant driver given stable political indicators and no major shocks, with politics elevated slightly due to moderate protest and conflict levels.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high current account deficit and negative inflation, the economy is the dominant driver given stable political indicators and no major shocks, with politics elevated slightly due to moderate protest and conflict levels.\"\n}",
+  "_cache_key": "4fcd978ecff4d2297a4ee23d2e8332ce",
+  "_iso3": "TLS",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

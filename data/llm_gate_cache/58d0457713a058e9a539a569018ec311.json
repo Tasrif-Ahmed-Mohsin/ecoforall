@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "ZWE faces severe economic instability (high inflation, negative growth, low investment) and significant political/social stress (sanctions, protests, low trust), but no major environmental shocks, so economic and political factors dominate the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"ZWE faces severe economic instability (high inflation, negative growth, low investment) and significant political/social stress (sanctions, protests, low trust), but no major environmental shocks, so economic and political factors dominate the near-term outlook.\"\n}",
+  "_cache_key": "58d0457713a058e9a539a569018ec311",
+  "_iso3": "ZWE",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

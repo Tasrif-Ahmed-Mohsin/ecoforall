@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Estonia shows moderate economic imbalances (high unemployment, moderate inflation) but severe political instability and conflict indicators, which warrant a substantial political weight, while environmental and social data are too limited to assign high importance.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Estonia shows moderate economic imbalances (high unemployment, moderate inflation) but severe political instability and conflict indicators, which warrant a substantial political weight, while environmental and social data are too limited to assign high importance.\"\n}",
+  "_cache_key": "4b17d359dfc5a3ada04713fd963cc6a2",
+  "_iso3": "EST",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

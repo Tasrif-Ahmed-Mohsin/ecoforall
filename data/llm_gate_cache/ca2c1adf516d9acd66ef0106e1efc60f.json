@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BRN is a high-income economy with negative inflation and a large current account surplus, but significant political instability, sanctions, and conflict intensity warrant a substantial political weight, while environmental and social data are too limited to assign higher importance.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BRN is a high-income economy with negative inflation and a large current account surplus, but significant political instability, sanctions, and conflict intensity warrant a substantial political weight, while environmental and social data are too limited to assign higher importance.\"\n}",
+  "_cache_key": "ca2c1adf516d9acd66ef0106e1efc60f",
+  "_iso3": "BRN",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

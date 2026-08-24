@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Nigeria is in a currency crisis with high inflation and negative recent growth, making economic factors dominant, but political instability and environmental vulnerabilities also weigh on the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Nigeria is in a currency crisis with high inflation and negative recent growth, making economic factors dominant, but political instability and environmental vulnerabilities also weigh on the short-term outlook.\"\n}",
+  "_cache_key": "4c094dd6a65178994c51a03a33f5159a",
+  "_iso3": "NGA",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

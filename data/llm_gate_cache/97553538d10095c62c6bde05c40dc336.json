@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD is a lower-middle-income economy with high unemployment and moderate debt, but no active crisis, so economic fundamentals dominate, while elevated political instability and protest pressure warrant a notable political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD is a lower-middle-income economy with high unemployment and moderate debt, but no active crisis, so economic fundamentals dominate, while elevated political instability and protest pressure warrant a notable political risk premium.\"\n}",
+  "_cache_key": "97553538d10095c62c6bde05c40dc336",
+  "_iso3": "MKD",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Korea is a stable, high-income economy with moderate growth, low political risk, and no major environmental or social shocks, so short-term GDP growth is primarily driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Korea is a stable, high-income economy with moderate growth, low political risk, and no major environmental or social shocks, so short-term GDP growth is primarily driven by economic fundamentals.\"\n}",
+  "_cache_key": "795bd39e019a80ce14a7c157ed4799b7",
+  "_iso3": "KOR",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

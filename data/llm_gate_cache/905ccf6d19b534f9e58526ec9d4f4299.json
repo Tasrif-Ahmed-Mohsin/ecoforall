@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces large external imbalances and moderate inflation, but the high investment rate and absence of active crises suggest economic factors dominate, while political instability and protest pressure warrant a notable political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mauritania faces large external imbalances and moderate inflation, but the high investment rate and absence of active crises suggest economic factors dominate, while political instability and protest pressure warrant a notable political weight.\"\n}",
+  "_cache_key": "905ccf6d19b534f9e58526ec9d4f4299",
+  "_iso3": "MRT",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

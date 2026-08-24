@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Yemen is in a severe political and conflict crisis with high instability, sanctions, and negative diplomatic interactions, which dominates the growth outlook, while the economy is also weak with high inflation and debt, and social unrest adds further pressure.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen is in a severe political and conflict crisis with high instability, sanctions, and negative diplomatic interactions, which dominates the growth outlook, while the economy is also weak with high inflation and debt, and social unrest adds further pressure.\"\n}",
+  "_cache_key": "a3b0c60ce4830ad4c937b7fba7fab33a",
+  "_iso3": "YEM",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

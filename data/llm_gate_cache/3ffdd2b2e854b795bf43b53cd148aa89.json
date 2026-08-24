@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia in 2008 is a stable emerging economy with moderate inflation and investment, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia in 2008 is a stable emerging economy with moderate inflation and investment, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "3ffdd2b2e854b795bf43b53cd148aa89",
+  "_iso3": "IDN",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Suriname in 2010 is a stable, middle-income economy with no active crises, so economic fundamentals dominate short-term growth, while moderate political tensions and limited environmental/social data warrant smaller weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Suriname in 2010 is a stable, middle-income economy with no active crises, so economic fundamentals dominate short-term growth, while moderate political tensions and limited environmental/social data warrant smaller weights.\"\n}",
+  "_cache_key": "d5a549169c6870fd34473e328fdc963a",
+  "_iso3": "SUR",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

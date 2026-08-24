@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and sanctions, combined with high investment and moderate debt, make economic factors dominant but politics significant for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and sanctions, combined with high investment and moderate debt, make economic factors dominant but politics significant for near-term growth.\"\n}",
+  "_cache_key": "73312179326004fcb96f0658491ff624",
+  "_iso3": "DZA",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

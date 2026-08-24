@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi is a low-income, fragile state with high debt, negative growth trajectory, and significant political instability and conflict, making economic fundamentals and political risk the dominant drivers of near-term GDP growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi is a low-income, fragile state with high debt, negative growth trajectory, and significant political instability and conflict, making economic fundamentals and political risk the dominant drivers of near-term GDP growth.\"\n}",
+  "_cache_key": "79282d688b5f7904f8ed5a1f238d4d5b",
+  "_iso3": "BDI",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

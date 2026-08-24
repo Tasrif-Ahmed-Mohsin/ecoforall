@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.9,
+  "reasoning": "CZE in 2007 is a stable, high-income EU economy with no crises, strong growth trajectory, and moderate imbalances, so economic fundamentals dominate the 1-year forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.9,\n  \"reasoning\": \"CZE in 2007 is a stable, high-income EU economy with no crises, strong growth trajectory, and moderate imbalances, so economic fundamentals dominate the 1-year forecast.\"\n}",
+  "_cache_key": "a617feaaaa9050cd9d27025e6fdd1ddd",
+  "_iso3": "CZE",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

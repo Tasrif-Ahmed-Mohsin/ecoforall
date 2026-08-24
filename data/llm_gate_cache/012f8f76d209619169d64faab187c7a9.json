@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Congo's economy is weak with negative recent growth and high debt, but political instability and conflict are significant, making politics a key secondary driver for short-term GDP growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Congo's economy is weak with negative recent growth and high debt, but political instability and conflict are significant, making politics a key secondary driver for short-term GDP growth.\"\n}",
+  "_cache_key": "012f8f76d209619169d64faab187c7a9",
+  "_iso3": "COG",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

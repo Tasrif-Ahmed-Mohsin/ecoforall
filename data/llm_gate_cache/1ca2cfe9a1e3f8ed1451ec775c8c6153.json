@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Denmark is a stable, high-income economy with strong fundamentals, moderate political stress, and no major climate shocks, so economic factors dominate while politics and society play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Denmark is a stable, high-income economy with strong fundamentals, moderate political stress, and no major climate shocks, so economic factors dominate while politics and society play secondary roles.\"\n}",
+  "_cache_key": "1ca2cfe9a1e3f8ed1451ec775c8c6153",
+  "_iso3": "DNK",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Venezuela in 2007 shows strong recent growth and moderate inflation, but rising political instability, sanctions, and social tensions warrant a significant political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Venezuela in 2007 shows strong recent growth and moderate inflation, but rising political instability, sanctions, and social tensions warrant a significant political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "97150d5082d6331f49020489f0d835b7",
+  "_iso3": "VEN",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

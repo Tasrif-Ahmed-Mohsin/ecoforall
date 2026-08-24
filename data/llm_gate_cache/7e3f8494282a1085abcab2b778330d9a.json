@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "The country faces moderate economic imbalances (high inflation, current account deficit) but no banking crisis, while political instability, conflict, and sanctions are severe and likely to dominate growth prospects over the next five years.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"The country faces moderate economic imbalances (high inflation, current account deficit) but no banking crisis, while political instability, conflict, and sanctions are severe and likely to dominate growth prospects over the next five years.\"\n}",
+  "_cache_key": "7e3f8494282a1085abcab2b778330d9a",
+  "_iso3": "COD",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

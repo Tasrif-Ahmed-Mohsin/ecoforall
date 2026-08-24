@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Bangladesh's moderate growth, high investment, and stable external position support a strong economic weight, but political instability, protests, and conflict intensity elevate political risk, while climate vulnerabilities and social pressures add moderate constraints.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Bangladesh's moderate growth, high investment, and stable external position support a strong economic weight, but political instability, protests, and conflict intensity elevate political risk, while climate vulnerabilities and social pressures add moderate constraints.\"\n}",
+  "_cache_key": "dfa2a5941f7983ab770a1bf2126d3c61",
+  "_iso3": "BGD",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

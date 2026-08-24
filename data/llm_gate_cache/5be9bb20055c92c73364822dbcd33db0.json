@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "MMR faces severe political instability, sanctions, and conflict, alongside high inflation, negative growth, and low trust, making politics and economy the dominant drivers, with social fragility also significant.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"MMR faces severe political instability, sanctions, and conflict, alongside high inflation, negative growth, and low trust, making politics and economy the dominant drivers, with social fragility also significant.\"\n}",
+  "_cache_key": "5be9bb20055c92c73364822dbcd33db0",
+  "_iso3": "MMR",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

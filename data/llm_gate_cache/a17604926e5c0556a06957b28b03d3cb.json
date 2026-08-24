@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "NIC is a lower-middle-income economy with high external imbalances and moderate growth, but severe political instability and protest pressure elevate political risk, while social unrest and weak institutions also weigh on the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC is a lower-middle-income economy with high external imbalances and moderate growth, but severe political instability and protest pressure elevate political risk, while social unrest and weak institutions also weigh on the medium-term outlook.\"\n}",
+  "_cache_key": "a17604926e5c0556a06957b28b03d3cb",
+  "_iso3": "NIC",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

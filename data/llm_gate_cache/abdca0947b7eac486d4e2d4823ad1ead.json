@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and growth but severe external imbalance and moderate political instability suggest economy dominates, with politics and social factors playing secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and growth but severe external imbalance and moderate political instability suggest economy dominates, with politics and social factors playing secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "abdca0947b7eac486d4e2d4823ad1ead",
+  "_iso3": "BTN",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

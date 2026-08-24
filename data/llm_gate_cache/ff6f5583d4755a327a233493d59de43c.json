@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Iran faces moderate economic instability with high inflation and unemployment, plus significant sanctions and political tensions, but no acute crisis, so economy dominates while politics remains elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces moderate economic instability with high inflation and unemployment, plus significant sanctions and political tensions, but no acute crisis, so economy dominates while politics remains elevated.\"\n}",
+  "_cache_key": "ff6f5583d4755a327a233493d59de43c",
+  "_iso3": "IRN",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

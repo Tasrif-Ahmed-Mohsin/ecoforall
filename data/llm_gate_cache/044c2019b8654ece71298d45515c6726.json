@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Belarus in 2007 is a stable, non-crisis economy with strong recent growth and moderate imbalances, so economic fundamentals dominate, while political and social factors are secondary given no major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Belarus in 2007 is a stable, non-crisis economy with strong recent growth and moderate imbalances, so economic fundamentals dominate, while political and social factors are secondary given no major shocks.\"\n}",
+  "_cache_key": "044c2019b8654ece71298d45515c6726",
+  "_iso3": "BLR",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

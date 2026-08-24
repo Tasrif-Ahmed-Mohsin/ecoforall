@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, moderately unstable economy with high inflation, external deficits, and significant political protest/sanctions, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG is a low-income, moderately unstable economy with high inflation, external deficits, and significant political protest/sanctions, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.\"\n}",
+  "_cache_key": "37b9f2731b694b3418893dec08434438",
+  "_iso3": "MDG",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

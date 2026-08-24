@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Uganda's moderate growth, high current account deficit, and political instability (negative stability, protests, sanctions) warrant a significant political weight, while social fragility and low trust add human_society risk, but the economy remains the primary driver over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Uganda's moderate growth, high current account deficit, and political instability (negative stability, protests, sanctions) warrant a significant political weight, while social fragility and low trust add human_society risk, but the economy remains the primary driver over a 3-year horizon.\"\n}",
+  "_cache_key": "12f5603d4c3319da0bb2d52be3df95f7",
+  "_iso3": "UGA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

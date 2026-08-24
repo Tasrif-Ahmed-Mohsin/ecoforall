@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "LBY faces moderate political instability and sanctions, but the economy is recovering from a deep contraction with low inflation and a positive current account, so economic and political factors dominate, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"LBY faces moderate political instability and sanctions, but the economy is recovering from a deep contraction with low inflation and a positive current account, so economic and political factors dominate, while environmental and social data are limited.\"\n}",
+  "_cache_key": "288c0205467fb34b24b86a0056d26669",
+  "_iso3": "LBY",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

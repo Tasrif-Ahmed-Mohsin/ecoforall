@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Austria in 2007 is a stable, high-income economy with no crises, strong growth, and moderate debt, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Austria in 2007 is a stable, high-income economy with no crises, strong growth, and moderate debt, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "aaefd0eca3e1f216a925bf7f3ddf24bc",
+  "_iso3": "AUT",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

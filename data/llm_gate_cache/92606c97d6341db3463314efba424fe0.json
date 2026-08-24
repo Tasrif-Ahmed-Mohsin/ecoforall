@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate debt, low inflation, and a positive current account, so economic fundamentals dominate, while political stability is solid and no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate debt, low inflation, and a positive current account, so economic fundamentals dominate, while political stability is solid and no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "92606c97d6341db3463314efba424fe0",
+  "_iso3": "BHR",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BTN has high investment and growth but severe external imbalances and high debt, while moderate political instability and protests warrant elevated political weight, with limited environmental/social data keeping those lower.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BTN has high investment and growth but severe external imbalances and high debt, while moderate political instability and protests warrant elevated political weight, with limited environmental/social data keeping those lower.\"\n}",
+  "_cache_key": "7c284c34dfb47c35527a528e9e7740f7",
+  "_iso3": "BTN",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

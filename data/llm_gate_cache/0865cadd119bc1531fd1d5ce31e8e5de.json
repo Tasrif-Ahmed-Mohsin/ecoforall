@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Greece in 2005 is a stable, high-income EU economy with moderate fiscal and external imbalances but no acute crisis, so economic fundamentals dominate the 1-year growth outlook, with modest political and social factors given the high debt and unemployment.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Greece in 2005 is a stable, high-income EU economy with moderate fiscal and external imbalances but no acute crisis, so economic fundamentals dominate the 1-year growth outlook, with modest political and social factors given the high debt and unemployment.\"\n}",
+  "_cache_key": "0865cadd119bc1531fd1d5ce31e8e5de",
+  "_iso3": "GRC",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

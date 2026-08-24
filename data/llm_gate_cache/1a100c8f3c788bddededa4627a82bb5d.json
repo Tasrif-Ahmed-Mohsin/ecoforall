@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Iran faces moderate political instability and sanctions, but the economy is the primary driver given high investment and moderate inflation, with environmental and social factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces moderate political instability and sanctions, but the economy is the primary driver given high investment and moderate inflation, with environmental and social factors playing secondary roles.\"\n}",
+  "_cache_key": "1a100c8f3c788bddededa4627a82bb5d",
+  "_iso3": "IRN",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

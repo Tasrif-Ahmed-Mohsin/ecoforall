@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "MDA is a lower-middle-income economy with moderate inflation, a negative current account, and recent solid growth, but no major political or environmental shocks, so economic fundamentals dominate the 3-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"MDA is a lower-middle-income economy with moderate inflation, a negative current account, and recent solid growth, but no major political or environmental shocks, so economic fundamentals dominate the 3-year outlook.\"\n}",
+  "_cache_key": "b80553527b4254aa091c780deca7455a",
+  "_iso3": "MDA",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

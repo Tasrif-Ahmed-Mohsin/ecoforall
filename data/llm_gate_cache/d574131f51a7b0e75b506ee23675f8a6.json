@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi is a low-income, fragile state with high political instability, conflict, and sanctions, so while economic fundamentals matter, political risks are substantial enough to warrant a higher weight than in stable economies.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi is a low-income, fragile state with high political instability, conflict, and sanctions, so while economic fundamentals matter, political risks are substantial enough to warrant a higher weight than in stable economies.\"\n}",
+  "_cache_key": "d574131f51a7b0e75b506ee23675f8a6",
+  "_iso3": "BDI",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

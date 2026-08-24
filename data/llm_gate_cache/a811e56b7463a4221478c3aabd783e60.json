@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "ZAF is a stable, middle-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate while political, environmental, and social factors play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ZAF is a stable, middle-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate while political, environmental, and social factors play minor supporting roles.\"\n}",
+  "_cache_key": "a811e56b7463a4221478c3aabd783e60",
+  "_iso3": "ZAF",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Benin faces moderate economic vulnerabilities (low GDP, external deficit, but low debt and inflation) alongside significant political instability and conflict, which dominate growth risks over the medium term, while environmental and social factors are less immediate given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Benin faces moderate economic vulnerabilities (low GDP, external deficit, but low debt and inflation) alongside significant political instability and conflict, which dominate growth risks over the medium term, while environmental and social factors are less immediate given limited data.\"\n}",
+  "_cache_key": "25f979fad8702cd80bba7ea022f6950b",
+  "_iso3": "BEN",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

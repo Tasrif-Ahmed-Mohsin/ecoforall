@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "ARE is a stable, high-income economy with moderate debt, low unemployment, and a positive current account, so economic fundamentals dominate, while political and social indicators are relatively calm and environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"ARE is a stable, high-income economy with moderate debt, low unemployment, and a positive current account, so economic fundamentals dominate, while political and social indicators are relatively calm and environmental risks are moderate.\"\n}",
+  "_cache_key": "c964c2a9448b989140302bc210e720ca",
+  "_iso3": "ARE",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

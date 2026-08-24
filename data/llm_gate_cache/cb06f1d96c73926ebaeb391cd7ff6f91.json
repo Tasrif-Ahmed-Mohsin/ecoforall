@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Benin's low income, high current account deficit, and moderate investment suggest economic fragility, but the very high political instability, conflict intensity, and sanctions elevate political risk as a major drag on growth over the next five years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Benin's low income, high current account deficit, and moderate investment suggest economic fragility, but the very high political instability, conflict intensity, and sanctions elevate political risk as a major drag on growth over the next five years.\"\n}",
+  "_cache_key": "cb06f1d96c73926ebaeb391cd7ff6f91",
+  "_iso3": "BEN",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

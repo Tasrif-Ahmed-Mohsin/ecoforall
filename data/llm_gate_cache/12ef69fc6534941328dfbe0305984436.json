@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Kenya's moderate growth, high inflation, and large current account deficit make economic fundamentals key, but political instability, protests, and conflict, along with climate vulnerabilities, add significant risks over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Kenya's moderate growth, high inflation, and large current account deficit make economic fundamentals key, but political instability, protests, and conflict, along with climate vulnerabilities, add significant risks over a 5-year horizon.\"\n}",
+  "_cache_key": "12ef69fc6534941328dfbe0305984436",
+  "_iso3": "KEN",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

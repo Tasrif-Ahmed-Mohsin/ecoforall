@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Cuba's moderate income, low unemployment, and positive growth trajectory suggest economic fundamentals dominate, but high protest pressure, sanctions, and political instability warrant a substantial political weight, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cuba's moderate income, low unemployment, and positive growth trajectory suggest economic fundamentals dominate, but high protest pressure, sanctions, and political instability warrant a substantial political weight, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "127d665f29d9cadf4a4f3f1ed7310ef0",
+  "_iso3": "CUB",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

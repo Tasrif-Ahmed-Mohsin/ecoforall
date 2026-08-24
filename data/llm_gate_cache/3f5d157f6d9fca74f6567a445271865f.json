@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Niger faces severe political instability, conflict, and sanctions, which will heavily disrupt growth, while its weak external position and low income make economic fundamentals also critical, but environmental and social data are too limited to warrant high weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Niger faces severe political instability, conflict, and sanctions, which will heavily disrupt growth, while its weak external position and low income make economic fundamentals also critical, but environmental and social data are too limited to warrant high weights.\"\n}",
+  "_cache_key": "3f5d157f6d9fca74f6567a445271865f",
+  "_iso3": "NER",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

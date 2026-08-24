@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces severe external imbalances and high investment needs, but extreme political instability, sanctions, and conflict risk significantly cloud the medium-term growth outlook, while environmental and social data are too sparse to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mauritania faces severe external imbalances and high investment needs, but extreme political instability, sanctions, and conflict risk significantly cloud the medium-term growth outlook, while environmental and social data are too sparse to warrant higher weights.\"\n}",
+  "_cache_key": "0d8e5fde23b08e8ccac021f9941bc47c",
+  "_iso3": "MRT",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

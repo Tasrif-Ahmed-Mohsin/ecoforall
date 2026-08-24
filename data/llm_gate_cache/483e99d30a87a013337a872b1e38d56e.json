@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the short-term growth forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the short-term growth forecast.\"\n}",
+  "_cache_key": "483e99d30a87a013337a872b1e38d56e",
+  "_iso3": "BHR",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA faces moderate political instability and social unrest, but the economy is the primary driver given moderate growth, high investment, and manageable debt, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA faces moderate political instability and social unrest, but the economy is the primary driver given moderate growth, high investment, and manageable debt, while environmental data is limited.\"\n}",
+  "_cache_key": "37a18ba5596d3ea307279b4160e007a8",
+  "_iso3": "DZA",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

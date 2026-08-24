@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Japan is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate structural concerns (aging, debt) and mild environmental/social factors warrant smaller weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Japan is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate structural concerns (aging, debt) and mild environmental/social factors warrant smaller weights.\"\n}",
+  "_cache_key": "31facdf1f9a1488c20be999f276dfed5",
+  "_iso3": "JPN",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

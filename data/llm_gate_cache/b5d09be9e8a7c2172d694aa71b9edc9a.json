@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Senegal's economy is moderately stable with low inflation and debt, but high unemployment, large current account deficit, and recent growth slowdown make economic factors dominant, while political instability and social tensions add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Senegal's economy is moderately stable with low inflation and debt, but high unemployment, large current account deficit, and recent growth slowdown make economic factors dominant, while political instability and social tensions add moderate risk.\"\n}",
+  "_cache_key": "b5d09be9e8a7c2172d694aa71b9edc9a",
+  "_iso3": "SEN",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

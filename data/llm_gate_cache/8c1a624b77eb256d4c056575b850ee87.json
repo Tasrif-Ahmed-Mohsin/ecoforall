@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, politically unstable country with moderate inflation, high current account deficit, and significant protest/sanction pressures, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, politically unstable country with moderate inflation, high current account deficit, and significant protest/sanction pressures, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.\"\n}",
+  "_cache_key": "8c1a624b77eb256d4c056575b850ee87",
+  "_iso3": "TJK",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

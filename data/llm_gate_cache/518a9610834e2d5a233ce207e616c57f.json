@@ -1,0 +1,14 @@
+{
+  "economy": 0.38888888888888884,
+  "politics": 0.38888888888888884,
+  "environment": 0.05555555555555556,
+  "human_society": 0.16666666666666666,
+  "confidence": 0.1,
+  "reasoning": "Ukraine in 2009 faces a severe currency crisis, deep recession, high inflation, and political instability with sanctions and conflict, making economic and political factors dominant, while social stress and low trust add moderate weight.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.10,\n  \"reasoning\": \"Ukraine in 2009 faces a severe currency crisis, deep recession, high inflation, and political instability with sanctions and conflict, making economic and political factors dominant, while social stress and low trust add moderate weight.\"\n}",
+  "_cache_key": "518a9610834e2d5a233ce207e616c57f",
+  "_iso3": "UKR",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

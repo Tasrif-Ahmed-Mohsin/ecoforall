@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya faces moderate macroeconomic imbalances (high current account deficit, moderate debt) but no acute crisis, while political instability and social tensions are notable but not extreme, and environmental risks are present but not dominant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kenya faces moderate macroeconomic imbalances (high current account deficit, moderate debt) but no acute crisis, while political instability and social tensions are notable but not extreme, and environmental risks are present but not dominant over a 5-year horizon.\"\n}",
+  "_cache_key": "f4830a6514df99bedca52b4a09896c92",
+  "_iso3": "KEN",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

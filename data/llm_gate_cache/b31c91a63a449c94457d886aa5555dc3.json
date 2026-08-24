@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan faces moderate economic stress from negative growth, high inflation, and external imbalances, but political risks from conflict and sanctions, alongside social strains, warrant elevated weights beyond the stable-economy baseline.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan faces moderate economic stress from negative growth, high inflation, and external imbalances, but political risks from conflict and sanctions, alongside social strains, warrant elevated weights beyond the stable-economy baseline.\"\n}",
+  "_cache_key": "b31c91a63a449c94457d886aa5555dc3",
+  "_iso3": "AZE",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

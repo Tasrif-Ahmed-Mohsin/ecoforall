@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "AFG in 2005 is a low-income, conflict-affected country with high debt, high inflation, and significant political instability, so economic fundamentals and political risks dominate the growth outlook, while environmental and social factors are less critical given limited data and shorter horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"AFG in 2005 is a low-income, conflict-affected country with high debt, high inflation, and significant political instability, so economic fundamentals and political risks dominate the growth outlook, while environmental and social factors are less critical given limited data and shorter horizon.\"\n}",
+  "_cache_key": "77933abe09a7c071b84785abad8a9b3b",
+  "_iso3": "AFG",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

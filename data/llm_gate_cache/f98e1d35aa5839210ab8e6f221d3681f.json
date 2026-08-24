@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Ireland is a stable, high-income economy with strong growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the 1-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland is a stable, high-income economy with strong growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the 1-year outlook.\"\n}",
+  "_cache_key": "f98e1d35aa5839210ab8e6f221d3681f",
+  "_iso3": "IRL",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

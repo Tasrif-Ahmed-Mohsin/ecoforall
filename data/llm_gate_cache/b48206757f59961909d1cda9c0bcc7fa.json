@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "In 2018, the US was a stable, high-income economy with no major political, environmental, or social shocks, so economic fundamentals dominate the short-term growth forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"In 2018, the US was a stable, high-income economy with no major political, environmental, or social shocks, so economic fundamentals dominate the short-term growth forecast.\"\n}",
+  "_cache_key": "b48206757f59961909d1cda9c0bcc7fa",
+  "_iso3": "USA",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

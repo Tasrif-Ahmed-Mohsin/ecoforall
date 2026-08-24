@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBR is a stable, low-income economy with moderate inflation and a large current account deficit, but no active crises, so economic fundamentals dominate the short-term outlook, with modest political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR is a stable, low-income economy with moderate inflation and a large current account deficit, but no active crises, so economic fundamentals dominate the short-term outlook, with modest political risk from sanctions and protests.\"\n}",
+  "_cache_key": "56bb64f141fd8de088a8ba8ebfdb1e65",
+  "_iso3": "LBR",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

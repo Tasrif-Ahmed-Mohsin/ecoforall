@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and strong recent growth, extreme political instability, massive protests, and sanctions signal significant political risk that could disrupt the economy, while the large current account surplus and low debt provide some buffer.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and strong recent growth, extreme political instability, massive protests, and sanctions signal significant political risk that could disrupt the economy, while the large current account surplus and low debt provide some buffer.\"\n}",
+  "_cache_key": "3749d4af3007527e78dc59b9b2e6ce6b",
+  "_iso3": "LBY",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

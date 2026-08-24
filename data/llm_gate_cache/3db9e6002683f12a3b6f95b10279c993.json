@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given stable political conditions, moderate inflation, and no ongoing crises, with modest social and political factors reflecting some underlying tensions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The economy is the dominant driver given stable political conditions, moderate inflation, and no ongoing crises, with modest social and political factors reflecting some underlying tensions.\"\n}",
+  "_cache_key": "3db9e6002683f12a3b6f95b10279c993",
+  "_iso3": "NPL",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

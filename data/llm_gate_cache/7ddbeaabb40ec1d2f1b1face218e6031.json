@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LSO faces severe political instability, sanctions, and conflict, which alongside a deep recession and high debt, makes politics nearly as important as the economy for near-term growth, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LSO faces severe political instability, sanctions, and conflict, which alongside a deep recession and high debt, makes politics nearly as important as the economy for near-term growth, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "7ddbeaabb40ec1d2f1b1face218e6031",
+  "_iso3": "LSO",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

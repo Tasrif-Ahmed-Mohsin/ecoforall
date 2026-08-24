@@ -1,0 +1,111 @@
+{
+  "intercept": 0.040976893250715095,
+  "features": [
+    {
+      "name": "ridge_h1",
+      "coef_std": -0.0005337258366270404,
+      "std_at_train": 0.013921198096663695,
+      "contribution": -7.430103100992593e-06,
+      "share_of_total_abs": 5.562029697082683e-05
+    },
+    {
+      "name": "lgbm_h1",
+      "coef_std": 0.006708653972035051,
+      "std_at_train": 0.009282370590956834,
+      "contribution": 6.22722123349239e-05,
+      "share_of_total_abs": 0.0004661575883968754
+    },
+    {
+      "name": "prior_h1",
+      "coef_std": 0.0019705151223051824,
+      "std_at_train": 0.02478365697300988,
+      "contribution": 4.883657085134025e-05,
+      "share_of_total_abs": 0.0003655810070018405
+    },
+    {
+      "name": "ridge_h3",
+      "coef_std": 0.00023875023921543755,
+      "std_at_train": 0.03430063873739846,
+      "contribution": 8.189285703796186e-06,
+      "share_of_total_abs": 6.130338928449608e-05
+    },
+    {
+      "name": "lgbm_h3",
+      "coef_std": 0.023238430416394982,
+      "std_at_train": 0.025191701448412943,
+      "contribution": 0.0005854156011795409,
+      "share_of_total_abs": 0.004382306563769127
+    },
+    {
+      "name": "prior_h3",
+      "coef_std": 0.010246258922999098,
+      "std_at_train": 0.0561697942093822,
+      "contribution": 0.0005755302551209055,
+      "share_of_total_abs": 0.004308306798763545
+    },
+    {
+      "name": "ridge_h5",
+      "coef_std": 0.0007765162106309985,
+      "std_at_train": 0.0511031111814646,
+      "contribution": 3.96823942460855e-05,
+      "share_of_total_abs": 0.00029705463335843226
+    },
+    {
+      "name": "lgbm_h5",
+      "coef_std": 0.0054426419126362355,
+      "std_at_train": 0.0377912556020502,
+      "contribution": 0.00020568427167086734,
+      "share_of_total_abs": 0.0015397121839444675
+    },
+    {
+      "name": "prior_h5",
+      "coef_std": -0.00013545696270213784,
+      "std_at_train": 0.074927556415023,
+      "contribution": -1.0149459214672099e-05,
+      "share_of_total_abs": 7.597686437728473e-05
+    },
+    {
+      "name": "ridge_h10",
+      "coef_std": -0.006066633851041566,
+      "std_at_train": 0.09364615160537777,
+      "contribution": -0.0005681169133489553,
+      "share_of_total_abs": 0.0042528119738199964
+    },
+    {
+      "name": "lgbm_h10",
+      "coef_std": 0.0176911902961354,
+      "std_at_train": 0.0807011195539044,
+      "contribution": 0.0014276988631392962,
+      "share_of_total_abs": 0.01068747414044782
+    },
+    {
+      "name": "prior_h10",
+      "coef_std": 0.08947997755711781,
+      "std_at_train": 0.12004214668930557,
+      "contribution": 0.010741368591667307,
+      "share_of_total_abs": 0.08040778207530327
+    },
+    {
+      "name": "ar1",
+      "coef_std": 0.059335017679323754,
+      "std_at_train": 0.07907282361050928,
+      "contribution": 0.004691787386883617,
+      "share_of_total_abs": 0.03512180170791772
+    },
+    {
+      "name": "llm_pred",
+      "coef_std": 0.0035293886039276527,
+      "std_at_train": 0.018686099571174314,
+      "contribution": 6.595050687836002e-05,
+      "share_of_total_abs": 0.0004936925811246019
+    },
+    {
+      "name": "horizon",
+      "coef_std": 0.03426321387053606,
+      "std_at_train": 3.343179357982002,
+      "contribution": 0.11454806935009877,
+      "share_of_total_abs": 0.8574844181955197
+    }
+  ],
+  "ridge_alpha": 100.0
+}

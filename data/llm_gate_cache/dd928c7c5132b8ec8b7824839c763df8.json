@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Iraq in 2007 faces severe political instability, conflict, and sanctions, alongside high inflation and debt, making economic and political factors equally dominant for near-term growth, with moderate environmental and social stresses also relevant.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Iraq in 2007 faces severe political instability, conflict, and sanctions, alongside high inflation and debt, making economic and political factors equally dominant for near-term growth, with moderate environmental and social stresses also relevant.\"\n}",
+  "_cache_key": "dd928c7c5132b8ec8b7824839c763df8",
+  "_iso3": "IRQ",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

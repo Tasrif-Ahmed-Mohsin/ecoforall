@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Sweden is a stable, high-income economy with no ongoing crises, so near-term GDP growth is overwhelmingly driven by standard economic factors, with minimal influence from political, environmental, or social disruptions.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Sweden is a stable, high-income economy with no ongoing crises, so near-term GDP growth is overwhelmingly driven by standard economic factors, with minimal influence from political, environmental, or social disruptions.\"\n}",
+  "_cache_key": "dd6b0166c696bbeba7b25772b64f4c9a",
+  "_iso3": "SWE",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

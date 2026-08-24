@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Cuba's low investment and stagnant growth point to economic fragility, but high protest pressure, material conflicts, and sanctions elevate political risk as a major near-term driver, while environmental and social factors are less prominent given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cuba's low investment and stagnant growth point to economic fragility, but high protest pressure, material conflicts, and sanctions elevate political risk as a major near-term driver, while environmental and social factors are less prominent given limited data.\"\n}",
+  "_cache_key": "cd2f3a88899e42156052add08c0e979d",
+  "_iso3": "CUB",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

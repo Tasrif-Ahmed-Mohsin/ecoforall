@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Qatar is a high-income, hydrocarbon-dependent economy with moderate debt and negative current account, but political instability and social tensions (low stability, high protests, low trust) warrant elevated political and social weights, while environmental factors are less immediate over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Qatar is a high-income, hydrocarbon-dependent economy with moderate debt and negative current account, but political instability and social tensions (low stability, high protests, low trust) warrant elevated political and social weights, while environmental factors are less immediate over a 5-year horizon.\"\n}",
+  "_cache_key": "0468f4b10b421550ca798889899fd471",
+  "_iso3": "QAT",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Mexico is a stable, middle-income economy with moderate debt and external imbalances, but no major crises, so economic fundamentals dominate while political and social factors play a secondary role over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mexico is a stable, middle-income economy with moderate debt and external imbalances, but no major crises, so economic fundamentals dominate while political and social factors play a secondary role over a 5-year horizon.\"\n}",
+  "_cache_key": "e3c20e2a076a5e7cfa40ed865eb21ea5",
+  "_iso3": "MEX",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

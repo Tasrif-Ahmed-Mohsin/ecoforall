@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, external deficit, and moderate debt signal economic fragility, while political instability, sanctions, and protests add significant risk, but no major environmental or social crisis is evident, so economy and politics dominate.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High unemployment, external deficit, and moderate debt signal economic fragility, while political instability, sanctions, and protests add significant risk, but no major environmental or social crisis is evident, so economy and politics dominate.\"\n}",
+  "_cache_key": "d924dbcffcbfe6cf0294450dc5f4cab2",
+  "_iso3": "BWA",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

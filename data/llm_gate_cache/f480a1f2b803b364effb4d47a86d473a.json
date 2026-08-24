@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "BGR in 2005 is a stable, upper-middle-income economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, high optimism, and migration) warrant modest weights for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"BGR in 2005 is a stable, upper-middle-income economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, high optimism, and migration) warrant modest weights for a 5-year horizon.\"\n}",
+  "_cache_key": "f480a1f2b803b364effb4d47a86d473a",
+  "_iso3": "BGR",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

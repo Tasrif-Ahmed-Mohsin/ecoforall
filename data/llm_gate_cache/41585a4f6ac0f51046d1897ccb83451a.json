@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "TWN is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political and social factors are secondary and environment is negligible.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TWN is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political and social factors are secondary and environment is negligible.\"\n}",
+  "_cache_key": "41585a4f6ac0f51046d1897ccb83451a",
+  "_iso3": "TWN",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

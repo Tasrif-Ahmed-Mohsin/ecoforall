@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Egypt faces moderate political instability and high protest pressure, but the economy is the primary driver given its debt, inflation, and investment weaknesses, while social and environmental factors play secondary roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Egypt faces moderate political instability and high protest pressure, but the economy is the primary driver given its debt, inflation, and investment weaknesses, while social and environmental factors play secondary roles over the 5-year horizon.\"\n}",
+  "_cache_key": "3b494d364804bc7474cdfee2f0cf1a1f",
+  "_iso3": "EGY",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

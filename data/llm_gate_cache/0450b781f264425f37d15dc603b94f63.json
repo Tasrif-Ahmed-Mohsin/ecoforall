@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2007 is in a post-revolution stabilization phase with strong recent growth and moderate imbalances, but political instability, high protest pressure, and conflict intensity warrant a significant political weight, while social factors and environmental risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ukraine in 2007 is in a post-revolution stabilization phase with strong recent growth and moderate imbalances, but political instability, high protest pressure, and conflict intensity warrant a significant political weight, while social factors and environmental risks are secondary.\"\n}",
+  "_cache_key": "0450b781f264425f37d15dc603b94f63",
+  "_iso3": "UKR",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

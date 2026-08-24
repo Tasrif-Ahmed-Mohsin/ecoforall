@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MKD faces moderate political instability and high unemployment, but no active crisis, so economic fundamentals dominate while political risk warrants a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces moderate political instability and high unemployment, but no active crisis, so economic fundamentals dominate while political risk warrants a notable share.\"\n}",
+  "_cache_key": "293ce8b3354ececf330cbe3ecc372ff9",
+  "_iso3": "MKD",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Laos has moderate growth, high investment, but large external deficits and debt, while political stability is moderate with some protest pressure and low social trust, making economic and socio-political factors key over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Laos has moderate growth, high investment, but large external deficits and debt, while political stability is moderate with some protest pressure and low social trust, making economic and socio-political factors key over a 5-year horizon.\"\n}",
+  "_cache_key": "5ba1af9d8906dc9050a71e8e2422778d",
+  "_iso3": "LAO",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU is a stable, high-income EU accession economy with strong recent growth, low debt, and no crises, so economic fundamentals dominate, while moderate political and social tensions warrant a modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU is a stable, high-income EU accession economy with strong recent growth, low debt, and no crises, so economic fundamentals dominate, while moderate political and social tensions warrant a modest weight.\"\n}",
+  "_cache_key": "6ce1d72e008b36cc61b1b568974e2ae0",
+  "_iso3": "LTU",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

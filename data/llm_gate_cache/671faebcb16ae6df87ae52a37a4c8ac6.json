@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.0,
+  "reasoning": "Ireland is a stable, high-income economy with no ongoing crises, so economic factors dominate, while political, environmental, and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.0,\n  \"reasoning\": \"Ireland is a stable, high-income economy with no ongoing crises, so economic factors dominate, while political, environmental, and social factors play minor roles.\"\n}",
+  "_cache_key": "671faebcb16ae6df87ae52a37a4c8ac6",
+  "_iso3": "IRL",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

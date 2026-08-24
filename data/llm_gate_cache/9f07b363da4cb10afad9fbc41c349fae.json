@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "Italy is a stable high-income economy with a banking crisis and high debt, but no major political or environmental shocks, so economic factors dominate while other domains play moderate supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Italy is a stable high-income economy with a banking crisis and high debt, but no major political or environmental shocks, so economic factors dominate while other domains play moderate supporting roles.\"\n}",
+  "_cache_key": "9f07b363da4cb10afad9fbc41c349fae",
+  "_iso3": "ITA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

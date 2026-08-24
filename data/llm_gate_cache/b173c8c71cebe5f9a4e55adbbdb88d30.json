@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "SYR is a stable, high-income economy with moderate inflation and debt, no active crises, and only mild political tensions, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SYR is a stable, high-income economy with moderate inflation and debt, no active crises, and only mild political tensions, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "b173c8c71cebe5f9a4e55adbbdb88d30",
+  "_iso3": "SYR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan in 2011 faces high conflict intensity, sanctions, and political instability, which heavily disrupt economic activity, while the economy shows weak investment and external imbalances, making politics nearly as important as the economy for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Afghanistan in 2011 faces high conflict intensity, sanctions, and political instability, which heavily disrupt economic activity, while the economy shows weak investment and external imbalances, making politics nearly as important as the economy for near-term growth.\"\n}",
+  "_cache_key": "ce72c73c3bc32b11d753f24ed7d96764",
+  "_iso3": "AFG",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

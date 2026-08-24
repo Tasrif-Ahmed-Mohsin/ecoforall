@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Somalia is a low-income, fragile state with moderate political instability and conflict, so economic fundamentals dominate but political risks are significant for medium-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Somalia is a low-income, fragile state with moderate political instability and conflict, so economic fundamentals dominate but political risks are significant for medium-term growth.\"\n}",
+  "_cache_key": "748982a13caae8f71350185ffc9d31dc",
+  "_iso3": "SOM",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

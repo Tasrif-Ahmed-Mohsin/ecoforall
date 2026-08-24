@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "LUX is a stable, high-income economy with no crises, strong fiscal and external positions, and moderate growth, so short-term GDP growth is overwhelmingly driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"LUX is a stable, high-income economy with no crises, strong fiscal and external positions, and moderate growth, so short-term GDP growth is overwhelmingly driven by economic fundamentals.\"\n}",
+  "_cache_key": "a349d96546ed4cb931d1b8b2554d5258",
+  "_iso3": "LUX",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

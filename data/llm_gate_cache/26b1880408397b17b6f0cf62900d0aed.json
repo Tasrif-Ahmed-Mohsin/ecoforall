@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Syria is a high-income, stable economy with moderate debt and low inflation, but rising political instability, protests, and sanctions warrant a significant political weight, while environmental and social factors are less critical over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Syria is a high-income, stable economy with moderate debt and low inflation, but rising political instability, protests, and sanctions warrant a significant political weight, while environmental and social factors are less critical over this short horizon.\"\n}",
+  "_cache_key": "26b1880408397b17b6f0cf62900d0aed",
+  "_iso3": "SYR",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

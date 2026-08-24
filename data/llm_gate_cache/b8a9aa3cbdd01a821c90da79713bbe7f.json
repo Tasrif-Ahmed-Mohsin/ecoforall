@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Malta is a stable, high-income economy with moderate debt and low political risk, so short-term growth is driven primarily by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Malta is a stable, high-income economy with moderate debt and low political risk, so short-term growth is driven primarily by economic fundamentals.\"\n}",
+  "_cache_key": "b8a9aa3cbdd01a821c90da79713bbe7f",
+  "_iso3": "MLT",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "TWN is a stable, high-income economy with no major political, environmental, or social shocks, so short-term GDP growth is primarily driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TWN is a stable, high-income economy with no major political, environmental, or social shocks, so short-term GDP growth is primarily driven by economic fundamentals.\"\n}",
+  "_cache_key": "618760cff32c4f4737d919fddf53d8ea",
+  "_iso3": "TWN",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania shows strong recent growth and moderate debt, but high unemployment, large current account deficit, and significant political instability (low stability, protests, sanctions) warrant a substantial political weight, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania shows strong recent growth and moderate debt, but high unemployment, large current account deficit, and significant political instability (low stability, protests, sanctions) warrant a substantial political weight, while environmental data is limited.\"\n}",
+  "_cache_key": "2ede3956db4c8e4340cde4026104f7f7",
+  "_iso3": "ALB",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

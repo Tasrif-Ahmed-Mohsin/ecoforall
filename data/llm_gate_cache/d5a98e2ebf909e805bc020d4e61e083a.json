@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic fundamentals with high external deficits and unemployment, but significant political instability and social unrest warrant elevated political and societal weights, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic fundamentals with high external deficits and unemployment, but significant political instability and social unrest warrant elevated political and societal weights, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "d5a98e2ebf909e805bc020d4e61e083a",
+  "_iso3": "MAR",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

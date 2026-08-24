@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces moderate political instability and social stress, but the dominant near-term driver is the weak economic fundamentals (low investment, deflation, negative current account) with no major environmental shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces moderate political instability and social stress, but the dominant near-term driver is the weak economic fundamentals (low investment, deflation, negative current account) with no major environmental shocks.\"\n}",
+  "_cache_key": "43cf00d403862a286f3528f47364a24e",
+  "_iso3": "ZWE",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

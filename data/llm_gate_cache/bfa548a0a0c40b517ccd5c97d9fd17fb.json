@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Bosnia and Herzegovina in 2004 is a post-conflict, emerging economy with high unemployment and large current account deficit, but no active political crisis or environmental shock, so economic fundamentals dominate the short-term growth outlook, with modest political risk from lingering instability.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bosnia and Herzegovina in 2004 is a post-conflict, emerging economy with high unemployment and large current account deficit, but no active political crisis or environmental shock, so economic fundamentals dominate the short-term growth outlook, with modest political risk from lingering instability.\"\n}",
+  "_cache_key": "bfa548a0a0c40b517ccd5c97d9fd17fb",
+  "_iso3": "BIH",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

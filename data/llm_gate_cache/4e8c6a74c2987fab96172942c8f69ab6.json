@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given moderate growth, high unemployment, and large current account deficit, while political instability and protests add some risk but no acute crisis.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is the dominant driver given moderate growth, high unemployment, and large current account deficit, while political instability and protests add some risk but no acute crisis.\"\n}",
+  "_cache_key": "4e8c6a74c2987fab96172942c8f69ab6",
+  "_iso3": "BLZ",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

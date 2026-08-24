@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia's growth is primarily driven by economic fundamentals (moderate debt, positive investment, recovering from pandemic), but political instability and social tensions warrant elevated weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia's growth is primarily driven by economic fundamentals (moderate debt, positive investment, recovering from pandemic), but political instability and social tensions warrant elevated weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "284e9104b69e02a4d4f59e77dbfaf0a3",
+  "_iso3": "IDN",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

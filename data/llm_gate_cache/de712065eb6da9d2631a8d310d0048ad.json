@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "SEN faces moderate political instability and social pressures, but the economy is relatively stable with moderate debt and investment, so economic factors dominate while political and social risks are significant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"SEN faces moderate political instability and social pressures, but the economy is relatively stable with moderate debt and investment, so economic factors dominate while political and social risks are significant for a 5-year horizon.\"\n}",
+  "_cache_key": "de712065eb6da9d2631a8d310d0048ad",
+  "_iso3": "SEN",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

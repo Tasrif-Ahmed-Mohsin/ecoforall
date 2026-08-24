@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.65,
+  "reasoning": "Uganda faces moderate economic imbalances (high inflation, current account deficit) and significant political instability (very low stability, high conflict and sanctions), while social indicators show low trust and cohesion but no acute crisis, so economic and political factors dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Uganda faces moderate economic imbalances (high inflation, current account deficit) and significant political instability (very low stability, high conflict and sanctions), while social indicators show low trust and cohesion but no acute crisis, so economic and political factors dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "852da51cd9a19e9abf4eed32a273c42b",
+  "_iso3": "UGA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

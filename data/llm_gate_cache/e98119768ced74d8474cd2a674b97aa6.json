@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "COG faces moderate political instability and conflict, but the economy is the dominant driver given high investment, external surplus, and recent growth volatility, while social and environmental factors are less critical over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"COG faces moderate political instability and conflict, but the economy is the dominant driver given high investment, external surplus, and recent growth volatility, while social and environmental factors are less critical over this 5-year horizon.\"\n}",
+  "_cache_key": "e98119768ced74d8474cd2a674b97aa6",
+  "_iso3": "COG",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

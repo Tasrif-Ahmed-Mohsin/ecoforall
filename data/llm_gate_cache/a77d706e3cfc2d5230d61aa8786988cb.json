@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "India's moderate growth, high debt, and investment levels make economy key, but political instability, sanctions, and social tensions add significant risk, while climate vulnerabilities and low human development indicators temper long-term prospects.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"India's moderate growth, high debt, and investment levels make economy key, but political instability, sanctions, and social tensions add significant risk, while climate vulnerabilities and low human development indicators temper long-term prospects.\"\n}",
+  "_cache_key": "a77d706e3cfc2d5230d61aa8786988cb",
+  "_iso3": "IND",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

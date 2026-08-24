@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "LSO faces severe political instability and sanctions, but the dominant driver remains its weak economic fundamentals (high debt, unemployment, and negative growth trajectory), so economy leads while politics gets elevated weight due to ongoing conflict and protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"LSO faces severe political instability and sanctions, but the dominant driver remains its weak economic fundamentals (high debt, unemployment, and negative growth trajectory), so economy leads while politics gets elevated weight due to ongoing conflict and protest pressure.\"\n}",
+  "_cache_key": "17c15dedb7d71703461a8f300321c780",
+  "_iso3": "LSO",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

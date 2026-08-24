@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Belgium is a stable high-income economy with moderate debt and low crises, but political instability and social tensions warrant a notable political weight, while environmental and societal factors play secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Belgium is a stable high-income economy with moderate debt and low crises, but political instability and social tensions warrant a notable political weight, while environmental and societal factors play secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "f86ac699bcf381200ef60e8363dd1a91",
+  "_iso3": "BEL",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

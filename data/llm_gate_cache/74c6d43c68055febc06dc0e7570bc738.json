@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Paraguay in 2008 is a stable, middle-income economy with no major crises, but moderate inflation and political/social tensions warrant a slightly lower economic weight and modest attention to politics and society.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Paraguay in 2008 is a stable, middle-income economy with no major crises, but moderate inflation and political/social tensions warrant a slightly lower economic weight and modest attention to politics and society.\"\n}",
+  "_cache_key": "74c6d43c68055febc06dc0e7570bc738",
+  "_iso3": "PRY",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

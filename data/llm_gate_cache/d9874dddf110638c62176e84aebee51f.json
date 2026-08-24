@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Stable high-income economy with low inflation, low unemployment, and strong external surplus, but moderate political instability and protests warrant a modest political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Stable high-income economy with low inflation, low unemployment, and strong external surplus, but moderate political instability and protests warrant a modest political risk premium.\"\n}",
+  "_cache_key": "d9874dddf110638c62176e84aebee51f",
+  "_iso3": "AND",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

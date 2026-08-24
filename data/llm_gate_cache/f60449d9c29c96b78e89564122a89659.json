@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya faces moderate political instability and social tensions, but the economy is not in crisis, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kenya faces moderate political instability and social tensions, but the economy is not in crisis, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "f60449d9c29c96b78e89564122a89659",
+  "_iso3": "KEN",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

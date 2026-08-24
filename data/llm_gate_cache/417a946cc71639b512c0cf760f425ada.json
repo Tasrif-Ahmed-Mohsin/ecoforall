@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Canada in 2007 is a stable, high-income economy with no major crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor roles for political, environmental, and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Canada in 2007 is a stable, high-income economy with no major crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor roles for political, environmental, and social factors.\"\n}",
+  "_cache_key": "417a946cc71639b512c0cf760f425ada",
+  "_iso3": "CAN",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

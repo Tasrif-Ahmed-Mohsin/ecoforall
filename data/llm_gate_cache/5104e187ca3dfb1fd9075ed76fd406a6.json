@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "India in 2005 is a lower-middle-income economy with moderate growth, high debt, and external deficits, but no acute crisis, so economic fundamentals dominate, while political instability and social pressures warrant moderate attention, with environmental factors secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"India in 2005 is a lower-middle-income economy with moderate growth, high debt, and external deficits, but no acute crisis, so economic fundamentals dominate, while political instability and social pressures warrant moderate attention, with environmental factors secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "5104e187ca3dfb1fd9075ed76fd406a6",
+  "_iso3": "IND",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

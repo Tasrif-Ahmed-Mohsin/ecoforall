@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces moderate political instability and high protest/sanction pressure, but the economy is still the primary driver given high investment and moderate debt, while social tensions add secondary risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mauritania faces moderate political instability and high protest/sanction pressure, but the economy is still the primary driver given high investment and moderate debt, while social tensions add secondary risk.\"\n}",
+  "_cache_key": "14bd83928eaad7a7eecea9d8c3692da8",
+  "_iso3": "MRT",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

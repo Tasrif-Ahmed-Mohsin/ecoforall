@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "NIC shows high current account deficit, moderate inflation, and political instability, but no active crisis, so economic fundamentals dominate while political risk and social unrest add moderate drag over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC shows high current account deficit, moderate inflation, and political instability, but no active crisis, so economic fundamentals dominate while political risk and social unrest add moderate drag over the 5-year horizon.\"\n}",
+  "_cache_key": "03ccf07bbe8c68a838b4a49371019385",
+  "_iso3": "NIC",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

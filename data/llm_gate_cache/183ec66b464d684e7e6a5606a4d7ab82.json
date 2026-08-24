@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Spain in 2008 faces a severe banking crisis, high unemployment, and negative growth, making economic factors dominant, but the ongoing financial stress and moderate political/environmental/social pressures warrant modest weights for the other domains over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Spain in 2008 faces a severe banking crisis, high unemployment, and negative growth, making economic factors dominant, but the ongoing financial stress and moderate political/environmental/social pressures warrant modest weights for the other domains over a 5-year horizon.\"\n}",
+  "_cache_key": "183ec66b464d684e7e6a5606a4d7ab82",
+  "_iso3": "ESP",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

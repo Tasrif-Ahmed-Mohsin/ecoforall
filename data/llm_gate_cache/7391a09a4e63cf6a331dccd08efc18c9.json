@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "PNG is a lower-middle-income, resource-dependent economy with high current account deficit and moderate investment, but political stability is moderate with some protest pressure, so economic fundamentals dominate while political risks and social tensions add secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PNG is a lower-middle-income, resource-dependent economy with high current account deficit and moderate investment, but political stability is moderate with some protest pressure, so economic fundamentals dominate while political risks and social tensions add secondary weight.\"\n}",
+  "_cache_key": "7391a09a4e63cf6a331dccd08efc18c9",
+  "_iso3": "PNG",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

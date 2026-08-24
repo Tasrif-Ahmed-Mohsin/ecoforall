@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SAU is a stable, high-income oil exporter with strong external balances and low debt, so economic fundamentals dominate, while moderate political instability and social tensions warrant modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SAU is a stable, high-income oil exporter with strong external balances and low debt, so economic fundamentals dominate, while moderate political instability and social tensions warrant modest weights.\"\n}",
+  "_cache_key": "2847d5225a3b5e7603f5146cdf4faa4c",
+  "_iso3": "SAU",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

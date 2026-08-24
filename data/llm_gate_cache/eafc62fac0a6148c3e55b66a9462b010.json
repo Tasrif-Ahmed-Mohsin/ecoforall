@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Niger faces severe political instability, sanctions, and conflict, which dominate the growth outlook, while the economy shows high investment but also large external imbalances and deflation, and social pressures are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Niger faces severe political instability, sanctions, and conflict, which dominate the growth outlook, while the economy shows high investment but also large external imbalances and deflation, and social pressures are elevated.\"\n}",
+  "_cache_key": "eafc62fac0a6148c3e55b66a9462b010",
+  "_iso3": "NER",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

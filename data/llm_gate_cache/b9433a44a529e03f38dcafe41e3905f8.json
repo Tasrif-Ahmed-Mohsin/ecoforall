@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "High-income stable economy with moderate inflation and positive current account, but recent negative growth and political tensions warrant a modest political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High-income stable economy with moderate inflation and positive current account, but recent negative growth and political tensions warrant a modest political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "b9433a44a529e03f38dcafe41e3905f8",
+  "_iso3": "ARE",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

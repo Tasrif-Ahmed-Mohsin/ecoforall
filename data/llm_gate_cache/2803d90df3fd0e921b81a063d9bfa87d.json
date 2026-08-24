@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "Armenia faces high unemployment, external imbalances, and moderate political instability with protests and sanctions, while social indicators show mixed resilience, so economic and socio-political factors dominate the 5-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Armenia faces high unemployment, external imbalances, and moderate political instability with protests and sanctions, while social indicators show mixed resilience, so economic and socio-political factors dominate the 5-year growth outlook.\"\n}",
+  "_cache_key": "2803d90df3fd0e921b81a063d9bfa87d",
+  "_iso3": "ARM",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces extreme inflation, high debt, and negative recent growth, compounded by severe political instability, sanctions, and social unrest, making economic and political factors dominant, with human society also critical due to collapsing trust and high fear.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces extreme inflation, high debt, and negative recent growth, compounded by severe political instability, sanctions, and social unrest, making economic and political factors dominant, with human society also critical due to collapsing trust and high fear.\"\n}",
+  "_cache_key": "e8a44544fc27411c6e372e8b512a272c",
+  "_iso3": "ZWE",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

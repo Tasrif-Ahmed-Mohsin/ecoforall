@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Iraq in 2015 faces moderate political instability, high protest pressure, and ongoing conflict, while economic fundamentals are weak with negative current account and low growth, so politics and economy dominate, with social fragility and environmental risks also relevant over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Iraq in 2015 faces moderate political instability, high protest pressure, and ongoing conflict, while economic fundamentals are weak with negative current account and low growth, so politics and economy dominate, with social fragility and environmental risks also relevant over the 5-year horizon.\"\n}",
+  "_cache_key": "d13ebf798410f80ef37c745d519a2314",
+  "_iso3": "IRQ",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

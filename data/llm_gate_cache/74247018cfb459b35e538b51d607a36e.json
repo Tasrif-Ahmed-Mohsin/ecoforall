@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLV is a lower-middle-income economy with moderate inflation, high debt, and a large current account deficit, but the elevated political instability, sanctions, and protest pressure warrant a significant political weight, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLV is a lower-middle-income economy with moderate inflation, high debt, and a large current account deficit, but the elevated political instability, sanctions, and protest pressure warrant a significant political weight, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "74247018cfb459b35e538b51d607a36e",
+  "_iso3": "SLV",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

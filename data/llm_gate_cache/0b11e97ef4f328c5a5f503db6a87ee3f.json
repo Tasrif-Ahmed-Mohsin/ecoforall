@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "MAR faces a severe political crisis (very low stability, high conflict, sanctions, negative Goldstein index) alongside high unemployment and negative growth, making politics and economy the dominant short-term drivers, with social stress also elevated but environmental factors negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"MAR faces a severe political crisis (very low stability, high conflict, sanctions, negative Goldstein index) alongside high unemployment and negative growth, making politics and economy the dominant short-term drivers, with social stress also elevated but environmental factors negligible.\"\n}",
+  "_cache_key": "0b11e97ef4f328c5a5f503db6a87ee3f",
+  "_iso3": "MAR",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

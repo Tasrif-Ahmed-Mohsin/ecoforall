@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia is a lower-middle-income economy with high unemployment, large current account deficit, and moderate debt, but no active crises, so economic fundamentals dominate while political and social tensions (protests, low trust) add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia is a lower-middle-income economy with high unemployment, large current account deficit, and moderate debt, but no active crises, so economic fundamentals dominate while political and social tensions (protests, low trust) add moderate risk.\"\n}",
+  "_cache_key": "b5addce98f9dc00d668da380441b02a6",
+  "_iso3": "GEO",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

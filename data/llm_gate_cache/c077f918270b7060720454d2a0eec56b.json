@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "HRV is a stable, high-income EU economy with no active crises, so economic fundamentals dominate the 1-year forecast, while moderate political and social tensions warrant minor adjustments.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"HRV is a stable, high-income EU economy with no active crises, so economic fundamentals dominate the 1-year forecast, while moderate political and social tensions warrant minor adjustments.\"\n}",
+  "_cache_key": "c077f918270b7060720454d2a0eec56b",
+  "_iso3": "HRV",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

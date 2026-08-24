@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Paraguay in 2008 is a stable, non-crisis economy with moderate growth and low debt, so economic fundamentals dominate the short-term forecast, while political and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Paraguay in 2008 is a stable, non-crisis economy with moderate growth and low debt, so economic fundamentals dominate the short-term forecast, while political and social factors are secondary.\"\n}",
+  "_cache_key": "5ed8dc03dea101df3c2f7a620a310cbd",
+  "_iso3": "PRY",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

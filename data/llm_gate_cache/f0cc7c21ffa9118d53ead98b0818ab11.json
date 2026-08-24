@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BEN is a low-income economy with moderate debt and external imbalances, but extreme political instability, high conflict, and sanctions suggest politics will heavily shape growth over the next five years, while economic fundamentals remain important but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BEN is a low-income economy with moderate debt and external imbalances, but extreme political instability, high conflict, and sanctions suggest politics will heavily shape growth over the next five years, while economic fundamentals remain important but secondary.\"\n}",
+  "_cache_key": "f0cc7c21ffa9118d53ead98b0818ab11",
+  "_iso3": "BEN",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

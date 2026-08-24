@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "El Salvador in 2008 shows moderate economic imbalances (high current account deficit, moderate inflation) but no acute crisis, so economic fundamentals dominate, with political factors secondary given moderate instability and protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"El Salvador in 2008 shows moderate economic imbalances (high current account deficit, moderate inflation) but no acute crisis, so economic fundamentals dominate, with political factors secondary given moderate instability and protest pressure.\"\n}",
+  "_cache_key": "af47e9dc919b04756b5704fe617faf92",
+  "_iso3": "SLV",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

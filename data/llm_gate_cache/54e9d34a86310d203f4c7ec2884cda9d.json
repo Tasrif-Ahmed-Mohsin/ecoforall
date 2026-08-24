@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "KWT is a stable, high-income economy with moderate political stability and no major crisis signals, so economic fundamentals dominate the short-term growth outlook, while political and social factors play only a minor supporting role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"KWT is a stable, high-income economy with moderate political stability and no major crisis signals, so economic fundamentals dominate the short-term growth outlook, while political and social factors play only a minor supporting role.\"\n}",
+  "_cache_key": "54e9d34a86310d203f4c7ec2884cda9d",
+  "_iso3": "KWT",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

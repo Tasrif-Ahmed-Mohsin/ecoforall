@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bhutan's high investment and growth suggest strong economic fundamentals, but large external imbalances, moderate political instability, and social pressures warrant significant political and social weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bhutan's high investment and growth suggest strong economic fundamentals, but large external imbalances, moderate political instability, and social pressures warrant significant political and social weight over a 5-year horizon.\"\n}",
+  "_cache_key": "c582cca5cb5734e7c400eb8922ae5e92",
+  "_iso3": "BTN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

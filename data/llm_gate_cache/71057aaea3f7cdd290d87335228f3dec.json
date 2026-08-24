@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana faces moderate inflation, high debt, and a current account deficit, but no acute political or environmental crisis, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana faces moderate inflation, high debt, and a current account deficit, but no acute political or environmental crisis, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "71057aaea3f7cdd290d87335228f3dec",
+  "_iso3": "GHA",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

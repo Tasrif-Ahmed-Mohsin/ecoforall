@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Belarus in 2007 shows strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate, with modest political risk from sanctions and instability.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Belarus in 2007 shows strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate, with modest political risk from sanctions and instability.\"\n}",
+  "_cache_key": "0a1208579e49a4046cc093f7a88f34c6",
+  "_iso3": "BLR",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

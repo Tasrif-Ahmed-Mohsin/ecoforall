@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bulgaria in 2009 is a stable, middle-income EU member with no active crises, so economic fundamentals dominate, while modest political and social risks from protests and low trust warrant minor attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bulgaria in 2009 is a stable, middle-income EU member with no active crises, so economic fundamentals dominate, while modest political and social risks from protests and low trust warrant minor attention.\"\n}",
+  "_cache_key": "aa92fc277a0ae3d172f6cf60fc23ddaf",
+  "_iso3": "BGR",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

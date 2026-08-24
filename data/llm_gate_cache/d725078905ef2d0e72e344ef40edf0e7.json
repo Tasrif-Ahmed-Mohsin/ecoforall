@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ faces moderate political instability and high protest pressure, but the dominant driver is its large current account deficit and high debt, making economic vulnerabilities the primary concern for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ faces moderate political instability and high protest pressure, but the dominant driver is its large current account deficit and high debt, making economic vulnerabilities the primary concern for near-term growth.\"\n}",
+  "_cache_key": "d725078905ef2d0e72e344ef40edf0e7",
+  "_iso3": "KGZ",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability and social unrest, but no major crisis, so economic fundamentals dominate while political and social factors add downside risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability and social unrest, but no major crisis, so economic fundamentals dominate while political and social factors add downside risk.\"\n}",
+  "_cache_key": "9486d652f295b19cdb245f7dbbc38b55",
+  "_iso3": "AGO",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "NLD is a stable, high-income economy with moderate inflation, low unemployment, and strong external position, so economic fundamentals dominate, while political, environmental, and social indicators show no major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NLD is a stable, high-income economy with moderate inflation, low unemployment, and strong external position, so economic fundamentals dominate, while political, environmental, and social indicators show no major shocks.\"\n}",
+  "_cache_key": "662d25cd17d8db4aa98693b8d78d8390",
+  "_iso3": "NLD",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

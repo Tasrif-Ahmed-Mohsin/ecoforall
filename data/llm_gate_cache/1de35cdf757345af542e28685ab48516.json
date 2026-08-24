@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BRN is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate, with modest political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BRN is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate, with modest political risk from sanctions and protests.\"\n}",
+  "_cache_key": "1de35cdf757345af542e28685ab48516",
+  "_iso3": "BRN",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

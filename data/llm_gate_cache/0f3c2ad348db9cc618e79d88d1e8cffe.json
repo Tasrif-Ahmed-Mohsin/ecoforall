@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Bangladesh shows moderate growth with stable macro fundamentals but faces political instability, protests, and climate vulnerabilities, so economic factors dominate while political and environmental risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bangladesh shows moderate growth with stable macro fundamentals but faces political instability, protests, and climate vulnerabilities, so economic factors dominate while political and environmental risks are elevated.\"\n}",
+  "_cache_key": "0f3c2ad348db9cc618e79d88d1e8cffe",
+  "_iso3": "BGD",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

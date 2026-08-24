@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TUN is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the 1-year growth outlook, with modest political risk from moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TUN is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the 1-year growth outlook, with modest political risk from moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "d8cd8613569187557c4b09e5d92b944c",
+  "_iso3": "TUN",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

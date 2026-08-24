@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "PAK faces moderate political instability, high debt, and low investment, but no extreme crisis, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"PAK faces moderate political instability, high debt, and low investment, but no extreme crisis, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "e40514568214cac8d663efd7ced8b1d0",
+  "_iso3": "PAK",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

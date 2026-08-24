@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2003 faces high inflation, heavy debt, and negative recent growth, but the severe political instability, sanctions, and conflict intensity elevate political risk, while moderate environmental vulnerabilities and social fragility add secondary pressures.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2003 faces high inflation, heavy debt, and negative recent growth, but the severe political instability, sanctions, and conflict intensity elevate political risk, while moderate environmental vulnerabilities and social fragility add secondary pressures.\"\n}",
+  "_cache_key": "dc924dff5a7552c5cb9f0af7f9e50875",
+  "_iso3": "ETH",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

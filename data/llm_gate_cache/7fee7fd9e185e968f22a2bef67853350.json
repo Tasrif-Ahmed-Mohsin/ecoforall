@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Brazil in 2008 is a stable emerging economy with moderate growth, no acute crises, but faces global financial headwinds and structural vulnerabilities, so economic factors dominate while political, environmental, and social factors are secondary but relevant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Brazil in 2008 is a stable emerging economy with moderate growth, no acute crises, but faces global financial headwinds and structural vulnerabilities, so economic factors dominate while political, environmental, and social factors are secondary but relevant over a 5-year horizon.\"\n}",
+  "_cache_key": "7fee7fd9e185e968f22a2bef67853350",
+  "_iso3": "BRA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

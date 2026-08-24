@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "GNQ is a stable, high-income economy with strong recent growth, low debt, no crises, and only moderate political/social pressures, so economic fundamentals dominate the 1-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"GNQ is a stable, high-income economy with strong recent growth, low debt, no crises, and only moderate political/social pressures, so economic fundamentals dominate the 1-year outlook.\"\n}",
+  "_cache_key": "57dfe6066829ab4a1433b46594ba8b0c",
+  "_iso3": "GNQ",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

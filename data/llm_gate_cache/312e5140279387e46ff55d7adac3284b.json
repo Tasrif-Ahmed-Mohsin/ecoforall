@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mali faces significant macroeconomic imbalances (high inflation, large current account deficit) and moderate political instability with high protest and conflict indicators, but no full-blown crisis, so economic factors dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mali faces significant macroeconomic imbalances (high inflation, large current account deficit) and moderate political instability with high protest and conflict indicators, but no full-blown crisis, so economic factors dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "312e5140279387e46ff55d7adac3284b",
+  "_iso3": "MLI",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

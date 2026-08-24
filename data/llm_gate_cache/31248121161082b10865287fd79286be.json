@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Brazil in 2006 is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate, but moderate political and social factors and mild environmental risks warrant modest weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Brazil in 2006 is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate, but moderate political and social factors and mild environmental risks warrant modest weights over a 5-year horizon.\"\n}",
+  "_cache_key": "31248121161082b10865287fd79286be",
+  "_iso3": "BRA",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

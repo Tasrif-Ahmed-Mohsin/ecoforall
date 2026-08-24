@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "MUS is a stable, upper-middle-income economy with moderate debt and inflation, no major political or environmental shocks, so economic fundamentals dominate the short-term growth forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"MUS is a stable, upper-middle-income economy with moderate debt and inflation, no major political or environmental shocks, so economic fundamentals dominate the short-term growth forecast.\"\n}",
+  "_cache_key": "9e66e390def92e79bde984f520b24235",
+  "_iso3": "MUS",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mozambique faces high debt, large current account deficit, and recent negative growth, but political instability and conflict are moderate, while social indicators are weak but not collapsing, so economic fundamentals dominate with significant political risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mozambique faces high debt, large current account deficit, and recent negative growth, but political instability and conflict are moderate, while social indicators are weak but not collapsing, so economic fundamentals dominate with significant political risk.\"\n}",
+  "_cache_key": "398898188f187efef9e23d816b609fdc",
+  "_iso3": "MOZ",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BLZ is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while moderate political instability and social pressures warrant a secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BLZ is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while moderate political instability and social pressures warrant a secondary weight.\"\n}",
+  "_cache_key": "da2b72c9b55436ea9073ce8c0f9a4783",
+  "_iso3": "BLZ",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

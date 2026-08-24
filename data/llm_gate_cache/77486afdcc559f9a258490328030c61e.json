@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Belarus in 2003 shows moderate inflation, high political instability, and social unrest, but no major crisis, so economic fundamentals dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus in 2003 shows moderate inflation, high political instability, and social unrest, but no major crisis, so economic fundamentals dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "77486afdcc559f9a258490328030c61e",
+  "_iso3": "BLR",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

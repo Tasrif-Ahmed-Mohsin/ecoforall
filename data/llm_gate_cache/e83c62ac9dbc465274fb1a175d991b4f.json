@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TCD is a low-income, politically unstable country with high protest and conflict intensity, but no current crises, so economic fundamentals and political risk dominate the medium-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TCD is a low-income, politically unstable country with high protest and conflict intensity, but no current crises, so economic fundamentals and political risk dominate the medium-term growth outlook.\"\n}",
+  "_cache_key": "e83c62ac9dbc465274fb1a175d991b4f",
+  "_iso3": "TCD",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

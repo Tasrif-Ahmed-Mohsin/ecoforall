@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Vietnam's stable political environment, moderate debt, and strong recent growth trajectory suggest the economy is the primary driver, but notable climate risks (floods, storms, droughts) and moderate social pressures warrant meaningful weights for environment and human_society over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Vietnam's stable political environment, moderate debt, and strong recent growth trajectory suggest the economy is the primary driver, but notable climate risks (floods, storms, droughts) and moderate social pressures warrant meaningful weights for environment and human_society over the 3-year horizon.\"\n}",
+  "_cache_key": "4c5252c086b2bb9ab9d5c4dc5853172a",
+  "_iso3": "VNM",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

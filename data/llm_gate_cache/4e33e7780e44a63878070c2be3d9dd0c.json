@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "PNG is a stable, commodity-exporting economy with moderate inflation and no major political or environmental shocks, so economic fundamentals dominate the 1-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PNG is a stable, commodity-exporting economy with moderate inflation and no major political or environmental shocks, so economic fundamentals dominate the 1-year growth outlook.\"\n}",
+  "_cache_key": "4e33e7780e44a63878070c2be3d9dd0c",
+  "_iso3": "PNG",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

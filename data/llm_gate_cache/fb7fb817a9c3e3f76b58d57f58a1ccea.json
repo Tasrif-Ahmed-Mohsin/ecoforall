@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a low-income, politically fragile economy with high unemployment, moderate inflation, and a history of negative growth, but no active crisis, so economic fundamentals dominate while political instability and social pressures add significant risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a low-income, politically fragile economy with high unemployment, moderate inflation, and a history of negative growth, but no active crisis, so economic fundamentals dominate while political instability and social pressures add significant risk.\"\n}",
+  "_cache_key": "fb7fb817a9c3e3f76b58d57f58a1ccea",
+  "_iso3": "HTI",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

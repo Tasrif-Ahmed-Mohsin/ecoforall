@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income, politically fragile country with moderate instability and sanctions, so economic fundamentals dominate but political risks are significant enough to warrant a substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income, politically fragile country with moderate instability and sanctions, so economic fundamentals dominate but political risks are significant enough to warrant a substantial weight.\"\n}",
+  "_cache_key": "d43f09d2bf537a8fef43bdf58c278916",
+  "_iso3": "TGO",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

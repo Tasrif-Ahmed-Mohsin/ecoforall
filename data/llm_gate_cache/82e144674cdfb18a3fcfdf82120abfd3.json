@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "CHE is a stable, high-income economy with no ongoing crises, strong external balance, and moderate growth, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"CHE is a stable, high-income economy with no ongoing crises, strong external balance, and moderate growth, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "82e144674cdfb18a3fcfdf82120abfd3",
+  "_iso3": "CHE",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "LVA is a stable, high-income EU economy with no ongoing crises, moderate debt, and recovering growth, so economic factors dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"LVA is a stable, high-income EU economy with no ongoing crises, moderate debt, and recovering growth, so economic factors dominate the short-term outlook.\"\n}",
+  "_cache_key": "18c91ec595a6a4e77928ecc572511bfe",
+  "_iso3": "LVA",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

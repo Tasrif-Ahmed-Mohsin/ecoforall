@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Senegal has moderate economic vulnerabilities (high current account deficit, unemployment) but no active crisis, while political instability and social tensions (protests, low trust) and demographic pressures (young, urbanizing) warrant significant weight for the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Senegal has moderate economic vulnerabilities (high current account deficit, unemployment) but no active crisis, while political instability and social tensions (protests, low trust) and demographic pressures (young, urbanizing) warrant significant weight for the medium-term outlook.\"\n}",
+  "_cache_key": "34e6f1e311c5be86ee230971cb3c1939",
+  "_iso3": "SEN",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, negative growth, and debt levels signal economic fragility, but severe political instability, sanctions, and conflict intensity elevate political risk to a near-equal weight, while social unrest and protest pressure add moderate human_society influence.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, negative growth, and debt levels signal economic fragility, but severe political instability, sanctions, and conflict intensity elevate political risk to a near-equal weight, while social unrest and protest pressure add moderate human_society influence.\"\n}",
+  "_cache_key": "7d15795166899bccb8af9b77d8dda4e8",
+  "_iso3": "BLZ",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

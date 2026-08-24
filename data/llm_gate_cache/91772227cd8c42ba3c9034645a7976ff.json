@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Indonesia in 2013 faces moderate inflation, a current account deficit, and political instability (negative stability score, protests, sanctions), but no acute crisis, so economic fundamentals dominate while political risks warrant elevated weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia in 2013 faces moderate inflation, a current account deficit, and political instability (negative stability score, protests, sanctions), but no acute crisis, so economic fundamentals dominate while political risks warrant elevated weight.\"\n}",
+  "_cache_key": "91772227cd8c42ba3c9034645a7976ff",
+  "_iso3": "IDN",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

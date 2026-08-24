@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, but the immediate growth outlook is dominated by economic fragility (high inflation, debt, and negative current account) alongside a recent volatile growth path, warranting a high but not overwhelming economic weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, but the immediate growth outlook is dominated by economic fragility (high inflation, debt, and negative current account) alongside a recent volatile growth path, warranting a high but not overwhelming economic weight.\"\n}",
+  "_cache_key": "667113a34184b0bbb8ccd8d68e8bbf47",
+  "_iso3": "ZWE",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

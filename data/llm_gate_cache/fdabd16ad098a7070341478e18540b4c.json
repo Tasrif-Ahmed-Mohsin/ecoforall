@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uganda faces moderate political instability and social tensions, but the economy is the primary driver given moderate investment and external imbalances, with politics elevated due to conflict and sanctions risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uganda faces moderate political instability and social tensions, but the economy is the primary driver given moderate investment and external imbalances, with politics elevated due to conflict and sanctions risk.\"\n}",
+  "_cache_key": "fdabd16ad098a7070341478e18540b4c",
+  "_iso3": "UGA",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

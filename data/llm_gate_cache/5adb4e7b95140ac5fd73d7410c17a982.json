@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "ZMB is a stable, low-income economy with moderate inflation and investment, no active crises, and recent positive growth, so economic fundamentals dominate the short-term outlook, with modest political risk from protests and conflicts.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"ZMB is a stable, low-income economy with moderate inflation and investment, no active crises, and recent positive growth, so economic fundamentals dominate the short-term outlook, with modest political risk from protests and conflicts.\"\n}",
+  "_cache_key": "5adb4e7b95140ac5fd73d7410c17a982",
+  "_iso3": "ZMB",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

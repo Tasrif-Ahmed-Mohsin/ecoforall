@@ -1,0 +1,14 @@
+{
+  "economy": 0.6111111111111112,
+  "politics": 0.22222222222222224,
+  "environment": 0.05555555555555556,
+  "human_society": 0.11111111111111112,
+  "confidence": 0.1,
+  "reasoning": "Rwanda's moderate growth, high current account deficit, and elevated unemployment make economic fundamentals the primary driver, but political stability is relatively high despite sanctions and protests, so politics gets a moderate weight, while social and environmental factors are secondary given limited data and no major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.10,\n  \"reasoning\": \"Rwanda's moderate growth, high current account deficit, and elevated unemployment make economic fundamentals the primary driver, but political stability is relatively high despite sanctions and protests, so politics gets a moderate weight, while social and environmental factors are secondary given limited data and no major shocks.\"\n}",
+  "_cache_key": "e949a5e5714cbb11608c1cc41a27078f",
+  "_iso3": "RWA",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

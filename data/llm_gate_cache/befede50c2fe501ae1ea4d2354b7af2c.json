@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The economy is the primary driver given moderate growth and high investment, but political instability and social tensions (protests, low trust, high conflict) warrant significant weight, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is the primary driver given moderate growth and high investment, but political instability and social tensions (protests, low trust, high conflict) warrant significant weight, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "befede50c2fe501ae1ea4d2354b7af2c",
+  "_iso3": "NPL",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

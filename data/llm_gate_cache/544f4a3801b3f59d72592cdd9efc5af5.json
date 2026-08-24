@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Turkey in 2017 shows moderate economic imbalances (high inflation, current account deficit) but no acute crisis, while political instability and sanctions pressure warrant a significant political weight, with environmental and social factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Turkey in 2017 shows moderate economic imbalances (high inflation, current account deficit) but no acute crisis, while political instability and sanctions pressure warrant a significant political weight, with environmental and social factors playing secondary roles.\"\n}",
+  "_cache_key": "544f4a3801b3f59d72592cdd9efc5af5",
+  "_iso3": "TUR",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

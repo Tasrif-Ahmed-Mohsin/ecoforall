@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "High debt, high inflation, negative recent growth, and moderate political instability with sanctions and protests warrant a strong but not dominant economic weight, while social fragility and political risks are elevated for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"High debt, high inflation, negative recent growth, and moderate political instability with sanctions and protests warrant a strong but not dominant economic weight, while social fragility and political risks are elevated for a 5-year horizon.\"\n}",
+  "_cache_key": "c89ed3a670c5457b8ba35ed270bbb62d",
+  "_iso3": "AGO",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

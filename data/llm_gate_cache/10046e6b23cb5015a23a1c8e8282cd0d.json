@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNQ shows moderate economic fragility with negative recent growth, high current account deficit, and low investment, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social data are limited and less pressing.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNQ shows moderate economic fragility with negative recent growth, high current account deficit, and low investment, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social data are limited and less pressing.\"\n}",
+  "_cache_key": "10046e6b23cb5015a23a1c8e8282cd0d",
+  "_iso3": "GNQ",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

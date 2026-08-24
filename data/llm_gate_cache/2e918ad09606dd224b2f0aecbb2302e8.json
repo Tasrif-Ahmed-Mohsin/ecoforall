@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "ECU faces a severe economic contraction (-10.3% recent growth), high debt, deflation, and significant political instability (negative stability, sanctions, conflicts), making economic and political factors dominant, while social stress and moderate trust issues add secondary pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"ECU faces a severe economic contraction (-10.3% recent growth), high debt, deflation, and significant political instability (negative stability, sanctions, conflicts), making economic and political factors dominant, while social stress and moderate trust issues add secondary pressure.\"\n}",
+  "_cache_key": "2e918ad09606dd224b2f0aecbb2302e8",
+  "_iso3": "ECU",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

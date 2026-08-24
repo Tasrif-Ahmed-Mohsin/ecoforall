@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "China in 2008 is a stable, high-growth emerging economy with no ongoing crises, so near-term GDP growth is driven primarily by macroeconomic fundamentals, with modest roles for political and social factors given the global financial crisis context.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"China in 2008 is a stable, high-growth emerging economy with no ongoing crises, so near-term GDP growth is driven primarily by macroeconomic fundamentals, with modest roles for political and social factors given the global financial crisis context.\"\n}",
+  "_cache_key": "707ea938322058a7159cf18ef063a275",
+  "_iso3": "CHN",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Peru is a stable middle-income economy with moderate debt and inflation, but high commodity dependence and environmental vulnerabilities (floods, storms) and social tensions warrant balanced attention beyond pure economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Peru is a stable middle-income economy with moderate debt and inflation, but high commodity dependence and environmental vulnerabilities (floods, storms) and social tensions warrant balanced attention beyond pure economic factors.\"\n}",
+  "_cache_key": "bb148afe231a427f4a90a91a1b08b268",
+  "_iso3": "PER",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

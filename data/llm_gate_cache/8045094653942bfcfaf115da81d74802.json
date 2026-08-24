@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Portugal in 2008 faces a severe banking crisis and large external imbalances, making economic factors dominant, but political stability and social trust are moderately stressed, while environmental factors are negligible for this horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Portugal in 2008 faces a severe banking crisis and large external imbalances, making economic factors dominant, but political stability and social trust are moderately stressed, while environmental factors are negligible for this horizon.\"\n}",
+  "_cache_key": "8045094653942bfcfaf115da81d74802",
+  "_iso3": "PRT",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Greece in 2010 is a high-income economy in severe recession with high debt, unemployment, and external imbalances, but no active political or environmental crisis, so economic factors dominate the forecast, with modest weight on social and political instability given the ongoing adjustment pressures.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Greece in 2010 is a high-income economy in severe recession with high debt, unemployment, and external imbalances, but no active political or environmental crisis, so economic factors dominate the forecast, with modest weight on social and political instability given the ongoing adjustment pressures.\"\n}",
+  "_cache_key": "f78ae5e50e696bbdca35075ca56a5af7",
+  "_iso3": "GRC",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

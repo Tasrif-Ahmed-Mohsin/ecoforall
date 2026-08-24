@@ -1,0 +1,14 @@
+{
+  "economy": 0.82,
+  "politics": 0.06,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "NLD is a stable, high-income economy with no ongoing crises, strong institutions, and moderate growth, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.82,\n  \"politics\": 0.06,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NLD is a stable, high-income economy with no ongoing crises, strong institutions, and moderate growth, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "aca9c6e4781b4f0cfe0442275b50925d",
+  "_iso3": "NLD",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

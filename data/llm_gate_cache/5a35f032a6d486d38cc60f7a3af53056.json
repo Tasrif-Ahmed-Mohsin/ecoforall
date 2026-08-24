@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Andorra is a high-income, stable economy, but the negative political stability, high protest pressure, and sanctions indicate significant political risk that could weigh on growth over the medium term, while economic fundamentals remain the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Andorra is a high-income, stable economy, but the negative political stability, high protest pressure, and sanctions indicate significant political risk that could weigh on growth over the medium term, while economic fundamentals remain the primary driver.\"\n}",
+  "_cache_key": "5a35f032a6d486d38cc60f7a3af53056",
+  "_iso3": "AND",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

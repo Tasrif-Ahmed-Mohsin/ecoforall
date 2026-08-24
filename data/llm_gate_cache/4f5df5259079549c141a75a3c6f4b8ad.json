@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHS is a stable high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the short-term growth forecast, while political and social factors play a minor supporting role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHS is a stable high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the short-term growth forecast, while political and social factors play a minor supporting role.\"\n}",
+  "_cache_key": "4f5df5259079549c141a75a3c6f4b8ad",
+  "_iso3": "BHS",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LKA faces severe macroeconomic instability (high inflation, debt, negative growth) but also significant political stress (protests, sanctions, low stability), so economy dominates while politics and social factors play substantial roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LKA faces severe macroeconomic instability (high inflation, debt, negative growth) but also significant political stress (protests, sanctions, low stability), so economy dominates while politics and social factors play substantial roles.\"\n}",
+  "_cache_key": "d7cfa2de8d9c84081f2174ea69d0695d",
+  "_iso3": "LKA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

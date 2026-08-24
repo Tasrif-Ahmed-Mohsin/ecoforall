@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Tanzania is a low-income, fast-growing economy with moderate inflation and high investment, but political instability, protests, and sanctions risk, alongside weak social trust and demographic pressures, warrant elevated political and human_society weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Tanzania is a low-income, fast-growing economy with moderate inflation and high investment, but political instability, protests, and sanctions risk, alongside weak social trust and demographic pressures, warrant elevated political and human_society weights.\"\n}",
+  "_cache_key": "95026286679da2d19724fa7319e65875",
+  "_iso3": "TZA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

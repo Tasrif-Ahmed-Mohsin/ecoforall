@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Somalia is a low-income, fragile state with high political instability, conflict, and sanctions, making politics nearly as important as the weak economic base, while environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Somalia is a low-income, fragile state with high political instability, conflict, and sanctions, making politics nearly as important as the weak economic base, while environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "446ea1498bbc9e8ac52977020e277510",
+  "_iso3": "SOM",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,40 @@
+# Central Configuration Contract for Collective Psychology & Society Engine
+
+domain:
+  name: "collective_psychology_society"
+  entity_label: "iso3"
+  time_col: "timestamp"
+  frequency: "1M"              # Monthly granularity panel
+  time_unit_label: "months"
+
+forecasting:
+  target_indicator: "psychology_trust" # Options: psychology_trust, psychology_fear, psychology_social_cohesion, society_education, etc.
+  target_transform: "absolute_change" # Options: absolute_change, log_return, raw_level
+  horizons: [1, 3, 6, 12]             # Forecast horizons in months
+
+retrieval:
+  lookback_window: 12                  # 12-month lookback state vector
+  distance_metric: "rank_euclidean"      # FAISS L2 on percentile-rank transformed features
+  min_overlap_ratio: 0.75              # Minimum non-null indicator overlap
+
+models:
+  quantiles: [0.05, 0.10, 0.50, 0.90, 0.95]
+  cv_folds: 5
+  cv_window_type: "expanding"
+
+indicators:
+  psychology:
+    - "psychology_trust"             # Institutional & Interpersonal Trust
+    - "psychology_fear"              # Security & Economic Fear Index
+    - "psychology_optimism"          # Future Economic & Social Optimism Index
+    - "psychology_nationalism"       # National Identity & Protectionist Sentiment
+    - "psychology_social_cohesion"   # Social Harmony & Polarization Index (Inverted polarization)
+    - "psychology_confidence"        # Financial & Systemic Confidence Index
+  society:
+    - "society_education"            # Mean Years of Schooling & Attainment Index
+    - "society_urbanization"         # Urban Population Share & Density Factor
+    - "society_population"           # Total Population (Log Normalized / Index)
+    - "society_age"                  # Median Age & Youth Cohort Ratio
+    - "society_migration"            # Net Migration & Displacement Mobility Index
+    - "society_religion"             # Religious Diversity & Secularization Score
+    - "society_healthcare"           # Universal Health Coverage & Life Expectancy Index

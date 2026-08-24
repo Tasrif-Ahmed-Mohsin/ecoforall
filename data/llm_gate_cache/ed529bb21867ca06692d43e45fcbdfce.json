@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2003 shows moderate economic fragility with high unemployment, external deficits, and debt, but no acute crisis, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia in 2003 shows moderate economic fragility with high unemployment, external deficits, and debt, but no acute crisis, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.\"\n}",
+  "_cache_key": "ed529bb21867ca06692d43e45fcbdfce",
+  "_iso3": "SRB",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

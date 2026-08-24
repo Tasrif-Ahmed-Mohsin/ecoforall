@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "COG faces severe political instability, sanctions, and conflict, which dominate the near-term outlook, while weak growth, high debt, and moderate inflation also weigh on the economy, with social unrest adding further risk.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"COG faces severe political instability, sanctions, and conflict, which dominate the near-term outlook, while weak growth, high debt, and moderate inflation also weigh on the economy, with social unrest adding further risk.\"\n}",
+  "_cache_key": "bd6217147dcd430b14761cbe062bc05a",
+  "_iso3": "COG",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

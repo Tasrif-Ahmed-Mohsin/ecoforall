@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Jamaica in 2007 shows moderate inflation, high debt, and a large current account deficit, but no active crises, so economic fundamentals dominate while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica in 2007 shows moderate inflation, high debt, and a large current account deficit, but no active crises, so economic fundamentals dominate while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "851d0e719390fa76332f0d36b100a107",
+  "_iso3": "JAM",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

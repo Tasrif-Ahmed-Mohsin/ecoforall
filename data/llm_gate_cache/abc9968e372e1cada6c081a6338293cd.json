@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "SLE faces moderate inflation, high debt, and weak investment, but the very low political stability, high protest pressure, and negative Goldstein index signal significant political risk that could disrupt growth over the next year.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SLE faces moderate inflation, high debt, and weak investment, but the very low political stability, high protest pressure, and negative Goldstein index signal significant political risk that could disrupt growth over the next year.\"\n}",
+  "_cache_key": "abc9968e372e1cada6c081a6338293cd",
+  "_iso3": "SLE",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

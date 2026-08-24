@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic fundamentals with high unemployment and low investment, but severe political instability and sanctions warrant a significant political weight, while social indicators are mixed but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic fundamentals with high unemployment and low investment, but severe political instability and sanctions warrant a significant political weight, while social indicators are mixed but not crisis-level.\"\n}",
+  "_cache_key": "a27f677f8cc2bfe840589a8f89a0a8de",
+  "_iso3": "CRI",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

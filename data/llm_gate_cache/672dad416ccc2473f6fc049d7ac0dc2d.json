@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Belarus faces significant political instability, sanctions, and protests, which will heavily disrupt economic activity, while the moderate debt and investment levels provide some economic buffer, but the political crisis dominates the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus faces significant political instability, sanctions, and protests, which will heavily disrupt economic activity, while the moderate debt and investment levels provide some economic buffer, but the political crisis dominates the near-term outlook.\"\n}",
+  "_cache_key": "672dad416ccc2473f6fc049d7ac0dc2d",
+  "_iso3": "BLR",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

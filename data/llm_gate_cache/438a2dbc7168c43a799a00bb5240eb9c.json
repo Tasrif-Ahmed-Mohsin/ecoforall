@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.6,
+  "reasoning": "Argentina faces an ongoing sovereign debt crisis, high inflation, and negative recent growth, making economic factors dominant, but political instability and sanctions add significant risk, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Argentina faces an ongoing sovereign debt crisis, high inflation, and negative recent growth, making economic factors dominant, but political instability and sanctions add significant risk, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "438a2dbc7168c43a799a00bb5240eb9c",
+  "_iso3": "ARG",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

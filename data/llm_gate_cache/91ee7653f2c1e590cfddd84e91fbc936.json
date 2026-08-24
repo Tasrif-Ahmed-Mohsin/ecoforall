@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2005 faces severe economic instability (high inflation, debt, negative current account) and ongoing conflict/sanctions, but with a 5-year horizon, political fragility and social distrust are equally critical, while environmental stress is moderate.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2005 faces severe economic instability (high inflation, debt, negative current account) and ongoing conflict/sanctions, but with a 5-year horizon, political fragility and social distrust are equally critical, while environmental stress is moderate.\"\n}",
+  "_cache_key": "91ee7653f2c1e590cfddd84e91fbc936",
+  "_iso3": "IRQ",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

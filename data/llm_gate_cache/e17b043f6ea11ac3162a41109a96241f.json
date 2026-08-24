@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "Despite high inflation and external deficits, the economy is growing strongly with no political or environmental crises, so economic factors dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Despite high inflation and external deficits, the economy is growing strongly with no political or environmental crises, so economic factors dominate the short-term forecast.\"\n}",
+  "_cache_key": "e17b043f6ea11ac3162a41109a96241f",
+  "_iso3": "DJI",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

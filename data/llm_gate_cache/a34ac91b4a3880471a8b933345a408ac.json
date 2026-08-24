@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Panama is a stable, middle-income economy with moderate debt and unemployment, but no major crises, so economic fundamentals dominate, while political and social factors play secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Panama is a stable, middle-income economy with moderate debt and unemployment, but no major crises, so economic fundamentals dominate, while political and social factors play secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "a34ac91b4a3880471a8b933345a408ac",
+  "_iso3": "PAN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

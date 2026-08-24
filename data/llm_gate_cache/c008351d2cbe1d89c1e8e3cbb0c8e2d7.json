@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Taiwan is a stable, high-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Taiwan is a stable, high-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "c008351d2cbe1d89c1e8e3cbb0c8e2d7",
+  "_iso3": "TWN",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

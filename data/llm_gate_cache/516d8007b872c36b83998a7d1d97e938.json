@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan faces severe political instability, conflict, and sanctions alongside high unemployment and external deficits, making politics and economy the dominant drivers, with social fragility also relevant but environmental data limited.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Afghanistan faces severe political instability, conflict, and sanctions alongside high unemployment and external deficits, making politics and economy the dominant drivers, with social fragility also relevant but environmental data limited.\"\n}",
+  "_cache_key": "516d8007b872c36b83998a7d1d97e938",
+  "_iso3": "AFG",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Belarus in 2006 shows stable macroeconomic fundamentals with moderate growth, low debt, and no crises, but political instability and sanctions warrant a notable political weight, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus in 2006 shows stable macroeconomic fundamentals with moderate growth, low debt, and no crises, but political instability and sanctions warrant a notable political weight, while environmental and social data are limited.\"\n}",
+  "_cache_key": "cf7b1ef624bbb16ecc54010eeed73d30",
+  "_iso3": "BLR",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

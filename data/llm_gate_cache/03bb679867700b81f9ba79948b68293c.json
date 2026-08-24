@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Cameroon in 2004 shows moderate economic growth with low inflation and no active crises, but political instability and conflict indicators are elevated, warranting a modest political weight while the economy remains the primary driver over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon in 2004 shows moderate economic growth with low inflation and no active crises, but political instability and conflict indicators are elevated, warranting a modest political weight while the economy remains the primary driver over a one-year horizon.\"\n}",
+  "_cache_key": "03bb679867700b81f9ba79948b68293c",
+  "_iso3": "CMR",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

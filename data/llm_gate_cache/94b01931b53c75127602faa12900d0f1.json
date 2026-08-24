@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high investment and external imbalances, the economy is the dominant driver given stable political indicators and no major crises, with politics playing a secondary role due to moderate protest and conflict levels.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high investment and external imbalances, the economy is the dominant driver given stable political indicators and no major crises, with politics playing a secondary role due to moderate protest and conflict levels.\"\n}",
+  "_cache_key": "94b01931b53c75127602faa12900d0f1",
+  "_iso3": "DJI",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

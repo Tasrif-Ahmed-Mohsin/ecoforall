@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "MKD faces moderate political instability and social unrest, but its economic fundamentals (investment, growth trajectory) remain the primary driver, while environmental factors are negligible given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MKD faces moderate political instability and social unrest, but its economic fundamentals (investment, growth trajectory) remain the primary driver, while environmental factors are negligible given limited data.\"\n}",
+  "_cache_key": "eaa17cfb8c0ebd93abc9962df5b61097",
+  "_iso3": "MKD",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

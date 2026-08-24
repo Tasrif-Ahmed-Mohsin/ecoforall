@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Moderate economic instability (high debt, current account deficit, recent negative growth) combined with severe political instability and social unrest (low stability, high protests, negative sentiment) warrant significant political and societal weights, while limited environmental data reduces its importance.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Moderate economic instability (high debt, current account deficit, recent negative growth) combined with severe political instability and social unrest (low stability, high protests, negative sentiment) warrant significant political and societal weights, while limited environmental data reduces its importance.\"\n}",
+  "_cache_key": "0abaf458c925068da21a42767191541d",
+  "_iso3": "MAR",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

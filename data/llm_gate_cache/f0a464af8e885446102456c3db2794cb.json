@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "RWA faces high inflation, high unemployment, and a large current account deficit, but moderate political instability and social stress warrant a significant political and societal weight, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"RWA faces high inflation, high unemployment, and a large current account deficit, but moderate political instability and social stress warrant a significant political and societal weight, while environmental data is limited.\"\n}",
+  "_cache_key": "f0a464af8e885446102456c3db2794cb",
+  "_iso3": "RWA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

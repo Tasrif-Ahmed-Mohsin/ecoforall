@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "High unemployment, large current account deficit, and recent negative growth signal economic fragility, while political instability, protests, and sanctions add risk, and low trust and high societal fear further dampen the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"High unemployment, large current account deficit, and recent negative growth signal economic fragility, while political instability, protests, and sanctions add risk, and low trust and high societal fear further dampen the outlook.\"\n}",
+  "_cache_key": "3afb40629428040a54b97360b8d080a8",
+  "_iso3": "GEO",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

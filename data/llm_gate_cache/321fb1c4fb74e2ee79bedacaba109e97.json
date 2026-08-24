@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Germany in 2016 is a stable, high-income economy with no major crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Germany in 2016 is a stable, high-income economy with no major crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "321fb1c4fb74e2ee79bedacaba109e97",
+  "_iso3": "DEU",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

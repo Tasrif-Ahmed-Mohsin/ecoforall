@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK faces moderate political instability and conflict, but the dominant near-term driver is the weak macroeconomic backdrop with high debt, moderate inflation, and low investment, while environmental and social factors are secondary over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PAK faces moderate political instability and conflict, but the dominant near-term driver is the weak macroeconomic backdrop with high debt, moderate inflation, and low investment, while environmental and social factors are secondary over a 1-year horizon.\"\n}",
+  "_cache_key": "2c1f67e5cc9451dcae8f9900d00d6d2b",
+  "_iso3": "PAK",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

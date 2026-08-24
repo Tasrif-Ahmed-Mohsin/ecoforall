@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "AGO faces a currency crisis, high current account deficit, and recent negative growth, but political stability is moderate and no major conflict or environmental shock dominates, so economic factors lead while political and social risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"AGO faces a currency crisis, high current account deficit, and recent negative growth, but political stability is moderate and no major conflict or environmental shock dominates, so economic factors lead while political and social risks are secondary.\"\n}",
+  "_cache_key": "f6f3ae46d8865d0afc4af86c890795fc",
+  "_iso3": "AGO",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

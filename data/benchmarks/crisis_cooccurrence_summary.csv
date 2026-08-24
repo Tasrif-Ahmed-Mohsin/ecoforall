@@ -1,0 +1,13 @@
+crisis_type,political_metric,normal_period_mean,crisis_period_mean,pct_change_in_crisis
+banking_crisis,material_conflict_annual_sum,20078.1111,19626.209,-2.25
+banking_crisis,goldstein_annual_mean,1.9404,2.4639,26.98
+banking_crisis,protest_unrest_annual_sum,9041.3391,9214.4237,1.91
+banking_crisis,news_tone_annual_mean,-0.7464,-0.9064,-21.44
+currency_crisis,material_conflict_annual_sum,20077.0797,19797.343,-1.39
+currency_crisis,goldstein_annual_mean,1.9429,1.9999,2.93
+currency_crisis,protest_unrest_annual_sum,9037.2138,9315.3899,3.08
+currency_crisis,news_tone_annual_mean,-0.7564,-0.5878,22.29
+sov_debt_crisis,material_conflict_annual_sum,20014.4313,20505.037,2.45
+sov_debt_crisis,goldstein_annual_mean,1.9446,1.9859,2.13
+sov_debt_crisis,protest_unrest_annual_sum,9013.2151,10260.6667,13.84
+sov_debt_crisis,news_tone_annual_mean,-0.7562,-1.0325,-36.53

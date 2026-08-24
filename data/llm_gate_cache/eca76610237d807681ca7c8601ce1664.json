@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Peru in 2013 is a middle-income, politically stable economy with moderate external imbalances and no acute crises, but the 5-year horizon and structural vulnerabilities (commodity dependence, climate exposure, social tensions) warrant a moderate shift toward non-economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Peru in 2013 is a middle-income, politically stable economy with moderate external imbalances and no acute crises, but the 5-year horizon and structural vulnerabilities (commodity dependence, climate exposure, social tensions) warrant a moderate shift toward non-economic factors.\"\n}",
+  "_cache_key": "eca76610237d807681ca7c8601ce1664",
+  "_iso3": "PER",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "THA shows moderate economic instability with negative growth and deflation, but no severe political or environmental crisis, so economy dominates while politics and social factors reflect moderate stress from protests and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"THA shows moderate economic instability with negative growth and deflation, but no severe political or environmental crisis, so economy dominates while politics and social factors reflect moderate stress from protests and low trust.\"\n}",
+  "_cache_key": "8ca3c99f9d50fc00dcd7687813441b51",
+  "_iso3": "THA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

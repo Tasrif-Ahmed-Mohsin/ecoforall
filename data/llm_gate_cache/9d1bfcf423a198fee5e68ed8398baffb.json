@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "LSO faces severe political instability and conflict, which will likely dominate growth prospects, while the economy is fragile with high current account deficit and negative recent growth, but no major environmental or social shocks are indicated.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"LSO faces severe political instability and conflict, which will likely dominate growth prospects, while the economy is fragile with high current account deficit and negative recent growth, but no major environmental or social shocks are indicated.\"\n}",
+  "_cache_key": "9d1bfcf423a198fee5e68ed8398baffb",
+  "_iso3": "LSO",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

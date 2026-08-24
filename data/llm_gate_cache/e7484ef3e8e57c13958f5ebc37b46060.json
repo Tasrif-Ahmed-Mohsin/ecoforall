@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria faces moderate political instability and social tensions, but the economy is relatively stable with low debt and no current crises, so economic factors dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria faces moderate political instability and social tensions, but the economy is relatively stable with low debt and no current crises, so economic factors dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "e7484ef3e8e57c13958f5ebc37b46060",
+  "_iso3": "NGA",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic imbalances (high unemployment, current account deficit) and political instability (very low stability, sanctions, conflicts) warrant elevated political weight, while social indicators are mixed but not collapsing, and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic imbalances (high unemployment, current account deficit) and political instability (very low stability, sanctions, conflicts) warrant elevated political weight, while social indicators are mixed but not collapsing, and environmental data is limited.\"\n}",
+  "_cache_key": "e51d0c2bc3d5836a4acff9fcda68aaa0",
+  "_iso3": "CRI",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

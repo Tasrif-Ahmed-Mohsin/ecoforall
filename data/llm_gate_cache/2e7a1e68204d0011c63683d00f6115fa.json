@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan faces moderate political instability, high unemployment, and debt, but no major conflict or environmental shock, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan faces moderate political instability, high unemployment, and debt, but no major conflict or environmental shock, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "2e7a1e68204d0011c63683d00f6115fa",
+  "_iso3": "JOR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

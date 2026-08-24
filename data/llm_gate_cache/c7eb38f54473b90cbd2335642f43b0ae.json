@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces high debt, inflation, and external deficits, but political instability and protest pressure are elevated, warranting a significant political weight alongside the dominant economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces high debt, inflation, and external deficits, but political instability and protest pressure are elevated, warranting a significant political weight alongside the dominant economic factors.\"\n}",
+  "_cache_key": "c7eb38f54473b90cbd2335642f43b0ae",
+  "_iso3": "JAM",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

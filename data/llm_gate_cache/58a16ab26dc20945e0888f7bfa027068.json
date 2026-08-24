@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Afghanistan faces severe external imbalances, high conflict intensity, and sanctions, making politics nearly as important as the weak economic fundamentals, while environmental and social factors are secondary given limited data and shorter horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Afghanistan faces severe external imbalances, high conflict intensity, and sanctions, making politics nearly as important as the weak economic fundamentals, while environmental and social factors are secondary given limited data and shorter horizon.\"\n}",
+  "_cache_key": "58a16ab26dc20945e0888f7bfa027068",
+  "_iso3": "AFG",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

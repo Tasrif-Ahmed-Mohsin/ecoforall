@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "CRI is a middle-income economy with moderate debt and unemployment, but no active crises; political instability and protests are notable but not extreme, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CRI is a middle-income economy with moderate debt and unemployment, but no active crises; political instability and protests are notable but not extreme, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "a2c0fb5d00e87d32f515d7b955e4a71e",
+  "_iso3": "CRI",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

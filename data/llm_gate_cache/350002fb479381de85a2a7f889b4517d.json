@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "BWA faces high unemployment, moderate inflation, and recent volatile growth, but the very low political stability, high protest counts, and negative Goldstein index signal significant political risk that could disrupt near-term GDP growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BWA faces high unemployment, moderate inflation, and recent volatile growth, but the very low political stability, high protest counts, and negative Goldstein index signal significant political risk that could disrupt near-term GDP growth.\"\n}",
+  "_cache_key": "350002fb479381de85a2a7f889b4517d",
+  "_iso3": "BWA",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

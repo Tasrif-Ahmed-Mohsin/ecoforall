@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDV shows moderate economic imbalances (high debt, current account deficit, inflation) but no active crises, while political instability and protest pressure are elevated, warranting a significant but secondary political weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDV shows moderate economic imbalances (high debt, current account deficit, inflation) but no active crises, while political instability and protest pressure are elevated, warranting a significant but secondary political weight over a 5-year horizon.\"\n}",
+  "_cache_key": "9ca2f9262ae23903e15f48a934ed5ac3",
+  "_iso3": "MDV",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

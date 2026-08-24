@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "High inflation, debt, and low investment signal economic fragility, while severe political instability, sanctions, and conflict intensity elevate political risk, with social unrest and low trust adding secondary pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High inflation, debt, and low investment signal economic fragility, while severe political instability, sanctions, and conflict intensity elevate political risk, with social unrest and low trust adding secondary pressure.\"\n}",
+  "_cache_key": "e42a294fcf1e733ebb6c55a5f496aee5",
+  "_iso3": "AGO",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

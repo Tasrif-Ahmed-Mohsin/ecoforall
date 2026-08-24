@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces moderate economic vulnerabilities (high debt, current account deficit) but significant political instability and sanctions, making politics a key drag on growth, while environmental and social factors are less pressing over this horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Jamaica faces moderate economic vulnerabilities (high debt, current account deficit) but significant political instability and sanctions, making politics a key drag on growth, while environmental and social factors are less pressing over this horizon.\"\n}",
+  "_cache_key": "4f8efbae128915d2a9760ea35737a469",
+  "_iso3": "JAM",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

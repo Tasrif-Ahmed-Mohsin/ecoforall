@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "MOZ is a low-income, stable economy with moderate inflation and investment, but high protest pressure and low institutional trust warrant a modest political and social weight, while environmental data is too limited to be significant.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MOZ is a low-income, stable economy with moderate inflation and investment, but high protest pressure and low institutional trust warrant a modest political and social weight, while environmental data is too limited to be significant.\"\n}",
+  "_cache_key": "f5a81aa301aff5dc361de44504797caf",
+  "_iso3": "MOZ",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, elevated debt, and negative current account signal economic fragility, while moderate political instability and social stress add secondary risks, with environmental factors playing a minor role over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High inflation, elevated debt, and negative current account signal economic fragility, while moderate political instability and social stress add secondary risks, with environmental factors playing a minor role over this short horizon.\"\n}",
+  "_cache_key": "d8e454a3e0fc7ff36fc86bd577bd4cb2",
+  "_iso3": "GHA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

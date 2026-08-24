@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "CHE is a stable, high-income economy with no ongoing crises, strong fiscal and external positions, and moderate growth, so economic fundamentals dominate the 5-year outlook, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CHE is a stable, high-income economy with no ongoing crises, strong fiscal and external positions, and moderate growth, so economic fundamentals dominate the 5-year outlook, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "a979f36d0b854808a7c9bc923f32ff89",
+  "_iso3": "CHE",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

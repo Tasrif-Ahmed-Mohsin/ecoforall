@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, debt, and negative current account dominate the outlook, but moderate political instability and protest pressure add meaningful risk, while environmental data is too limited to weight heavily.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, debt, and negative current account dominate the outlook, but moderate political instability and protest pressure add meaningful risk, while environmental data is too limited to weight heavily.\"\n}",
+  "_cache_key": "8d97201650031d96ca30349f9058da86",
+  "_iso3": "GIN",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

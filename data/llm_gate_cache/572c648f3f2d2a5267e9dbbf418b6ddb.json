@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE is a low-income, fragile state with high inflation, large current account deficit, and moderate debt, but political instability, protests, and sanctions add significant downside risk, while environmental data is too limited to be a major factor.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE is a low-income, fragile state with high inflation, large current account deficit, and moderate debt, but political instability, protests, and sanctions add significant downside risk, while environmental data is too limited to be a major factor.\"\n}",
+  "_cache_key": "572c648f3f2d2a5267e9dbbf418b6ddb",
+  "_iso3": "SLE",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

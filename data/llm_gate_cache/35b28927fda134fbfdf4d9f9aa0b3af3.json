@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Low-income economy with moderate growth but high political instability, protests, and negative sentiment, making politics a significant near-term risk, while economic fundamentals remain the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Low-income economy with moderate growth but high political instability, protests, and negative sentiment, making politics a significant near-term risk, while economic fundamentals remain the primary driver.\"\n}",
+  "_cache_key": "35b28927fda134fbfdf4d9f9aa0b3af3",
+  "_iso3": "COD",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

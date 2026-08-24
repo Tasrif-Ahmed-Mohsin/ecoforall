@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Andorra is a high-income, stable economy with low unemployment and moderate debt, but negative inflation and recent mixed growth suggest modest economic headwinds, while political instability and protests are notable but not crisis-level, so economy dominates with politics secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Andorra is a high-income, stable economy with low unemployment and moderate debt, but negative inflation and recent mixed growth suggest modest economic headwinds, while political instability and protests are notable but not crisis-level, so economy dominates with politics secondary.\"\n}",
+  "_cache_key": "0cccbcaab730e077676859f014ade278",
+  "_iso3": "AND",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

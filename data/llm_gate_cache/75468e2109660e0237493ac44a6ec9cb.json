@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, debt, unemployment, and negative growth trajectory dominate the near-term outlook, but political instability and protest pressure add significant downside risk, while social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, debt, unemployment, and negative growth trajectory dominate the near-term outlook, but political instability and protest pressure add significant downside risk, while social factors are secondary.\"\n}",
+  "_cache_key": "75468e2109660e0237493ac44a6ec9cb",
+  "_iso3": "SDN",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

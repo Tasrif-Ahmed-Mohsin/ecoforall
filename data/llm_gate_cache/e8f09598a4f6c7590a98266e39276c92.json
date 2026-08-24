@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Somalia is a low-income, politically unstable country with ongoing conflict and sanctions, so economic fundamentals matter but political risk is a major drag on growth, while social unrest and weak institutions also weigh heavily.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Somalia is a low-income, politically unstable country with ongoing conflict and sanctions, so economic fundamentals matter but political risk is a major drag on growth, while social unrest and weak institutions also weigh heavily.\"\n}",
+  "_cache_key": "e8f09598a4f6c7590a98266e39276c92",
+  "_iso3": "SOM",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

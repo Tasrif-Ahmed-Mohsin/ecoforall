@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "China in 2008 is a stable, high-growth emerging economy with no active crises, but the global financial crisis and domestic imbalances (high investment, inflation) make economic factors dominant, while moderate political stability and social pressures warrant secondary attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"China in 2008 is a stable, high-growth emerging economy with no active crises, but the global financial crisis and domestic imbalances (high investment, inflation) make economic factors dominant, while moderate political stability and social pressures warrant secondary attention.\"\n}",
+  "_cache_key": "d0e7067e98407c8499888ddb35a8d307",
+  "_iso3": "CHN",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Chile is a stable high-income economy with moderate debt and inflation, but high unemployment and negative growth trajectory warrant a strong economic focus, while political stability is moderate and environmental risks are present but not dominant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Chile is a stable high-income economy with moderate debt and inflation, but high unemployment and negative growth trajectory warrant a strong economic focus, while political stability is moderate and environmental risks are present but not dominant.\"\n}",
+  "_cache_key": "a02a287aba82e7037894a1ca324ddf52",
+  "_iso3": "CHL",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

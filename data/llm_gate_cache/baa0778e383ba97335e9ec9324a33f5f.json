@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "China in 2019 is a stable, upper-middle-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the forecast, while political, environmental, and social factors play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"China in 2019 is a stable, upper-middle-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the forecast, while political, environmental, and social factors play minor supporting roles.\"\n}",
+  "_cache_key": "baa0778e383ba97335e9ec9324a33f5f",
+  "_iso3": "CHN",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

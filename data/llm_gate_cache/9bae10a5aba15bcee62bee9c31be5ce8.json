@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "LKA is a stable, growing middle-income economy with no active crises, so economic fundamentals dominate the short-term outlook, while moderate political and social tensions warrant minor attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LKA is a stable, growing middle-income economy with no active crises, so economic fundamentals dominate the short-term outlook, while moderate political and social tensions warrant minor attention.\"\n}",
+  "_cache_key": "9bae10a5aba15bcee62bee9c31be5ce8",
+  "_iso3": "LKA",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

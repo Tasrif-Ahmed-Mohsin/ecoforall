@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cambodia is a low-income, rapidly growing economy with moderate inflation and external imbalances, but no major political or environmental shocks, so economic fundamentals dominate while social and political factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cambodia is a low-income, rapidly growing economy with moderate inflation and external imbalances, but no major political or environmental shocks, so economic fundamentals dominate while social and political factors play a secondary role.\"\n}",
+  "_cache_key": "97d1883f8c91c84006e16c5efc1a57ed",
+  "_iso3": "KHM",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

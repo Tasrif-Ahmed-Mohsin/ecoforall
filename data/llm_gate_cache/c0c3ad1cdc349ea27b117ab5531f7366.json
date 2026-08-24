@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "CYP is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"CYP is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.\"\n}",
+  "_cache_key": "c0c3ad1cdc349ea27b117ab5531f7366",
+  "_iso3": "CYP",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

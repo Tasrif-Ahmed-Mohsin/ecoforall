@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Romania is a stable upper-middle-income EU member with moderate debt and investment, but elevated current account deficit and political/social tensions warrant modest non-economic weights, while no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Romania is a stable upper-middle-income EU member with moderate debt and investment, but elevated current account deficit and political/social tensions warrant modest non-economic weights, while no major environmental shocks are evident.\"\n}",
+  "_cache_key": "447b266b7fd059adf7b6167caf57a9c9",
+  "_iso3": "ROU",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

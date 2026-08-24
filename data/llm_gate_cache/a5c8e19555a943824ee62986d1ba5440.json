@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Russia in 2016 is a stable, upper-middle-income economy with moderate sanctions and political tensions, but no active crisis, so economic fundamentals dominate while political risks and social/environmental factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Russia in 2016 is a stable, upper-middle-income economy with moderate sanctions and political tensions, but no active crisis, so economic fundamentals dominate while political risks and social/environmental factors play secondary roles.\"\n}",
+  "_cache_key": "a5c8e19555a943824ee62986d1ba5440",
+  "_iso3": "RUS",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

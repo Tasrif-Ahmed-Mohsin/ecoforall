@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDG faces high inflation, external deficits, and a recent currency crisis, but political instability and protest pressure also pose significant risks to medium-term growth, while environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDG faces high inflation, external deficits, and a recent currency crisis, but political instability and protest pressure also pose significant risks to medium-term growth, while environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "d826d3b41b17463c32e4f48b01a11af9",
+  "_iso3": "MDG",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

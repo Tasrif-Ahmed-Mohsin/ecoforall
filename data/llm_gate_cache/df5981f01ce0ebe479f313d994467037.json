@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Turkey's economy is growing strongly with moderate inflation and manageable debt, but external imbalances and political instability warrant a moderate political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Turkey's economy is growing strongly with moderate inflation and manageable debt, but external imbalances and political instability warrant a moderate political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "df5981f01ce0ebe479f313d994467037",
+  "_iso3": "TUR",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

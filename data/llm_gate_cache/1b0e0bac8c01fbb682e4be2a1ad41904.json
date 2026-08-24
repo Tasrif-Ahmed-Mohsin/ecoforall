@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan in 2015 faces severe external imbalances, high conflict intensity, and political instability, making economic and political factors dominant, while environmental and social data are limited and less immediate for a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Afghanistan in 2015 faces severe external imbalances, high conflict intensity, and political instability, making economic and political factors dominant, while environmental and social data are limited and less immediate for a 3-year horizon.\"\n}",
+  "_cache_key": "1b0e0bac8c01fbb682e4be2a1ad41904",
+  "_iso3": "AFG",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

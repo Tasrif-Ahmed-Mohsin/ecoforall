@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia in 2008 faces severe external imbalances, high unemployment, and a recent growth slowdown, but no active banking, currency, or sovereign debt crisis, making economic factors dominant, while moderate political instability and social tensions add secondary risks.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia in 2008 faces severe external imbalances, high unemployment, and a recent growth slowdown, but no active banking, currency, or sovereign debt crisis, making economic factors dominant, while moderate political instability and social tensions add secondary risks.\"\n}",
+  "_cache_key": "900d06d1c94dc85e384f14bd2d24f681",
+  "_iso3": "GEO",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

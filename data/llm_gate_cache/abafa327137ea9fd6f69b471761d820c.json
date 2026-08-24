@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "DJI is a stable, middle-income economy with moderate growth, low inflation, and high investment, but political tensions and protests warrant a modest political weight, while environmental and social data are too limited to assign higher importance.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"DJI is a stable, middle-income economy with moderate growth, low inflation, and high investment, but political tensions and protests warrant a modest political weight, while environmental and social data are too limited to assign higher importance.\"\n}",
+  "_cache_key": "abafa327137ea9fd6f69b471761d820c",
+  "_iso3": "DJI",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

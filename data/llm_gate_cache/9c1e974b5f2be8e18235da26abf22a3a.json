@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Sweden in 2006 is a stable, high-income economy with no ongoing crises, strong external balance, and moderate growth, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Sweden in 2006 is a stable, high-income economy with no ongoing crises, strong external balance, and moderate growth, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "9c1e974b5f2be8e18235da26abf22a3a",
+  "_iso3": "SWE",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

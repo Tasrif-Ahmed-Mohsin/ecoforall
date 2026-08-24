@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces high unemployment, a large current account deficit, and recent negative growth, but no active political or environmental crisis, so economic factors dominate while social fragility and political risks warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia faces high unemployment, a large current account deficit, and recent negative growth, but no active political or environmental crisis, so economic factors dominate while social fragility and political risks warrant moderate attention.\"\n}",
+  "_cache_key": "730c53c6cc666db5243c3f21751447b1",
+  "_iso3": "ARM",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

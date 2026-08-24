@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE is a low-income, fragile state with negative recent growth, high inflation, external imbalances, and significant political instability and conflict, making economic fundamentals and political risk the dominant short-term drivers, while environmental and social data are limited and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE is a low-income, fragile state with negative recent growth, high inflation, external imbalances, and significant political instability and conflict, making economic fundamentals and political risk the dominant short-term drivers, while environmental and social data are limited and less immediate.\"\n}",
+  "_cache_key": "a1c30a37ea606578ebbbaedbdf3b8e2b",
+  "_iso3": "SLE",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

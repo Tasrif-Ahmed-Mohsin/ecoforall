@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "France is a stable, high-income economy with moderate debt and unemployment, no banking crisis, and only mild political or environmental stress, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"France is a stable, high-income economy with moderate debt and unemployment, no banking crisis, and only mild political or environmental stress, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "18b32db76ecebe4f49f3f49ebc70b82f",
+  "_iso3": "FRA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

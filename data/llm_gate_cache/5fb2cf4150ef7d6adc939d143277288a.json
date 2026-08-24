@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.02,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Ireland in 2004 is a stable, high-income economy with no crises, strong growth, low debt, and positive social indicators, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.02,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland in 2004 is a stable, high-income economy with no crises, strong growth, low debt, and positive social indicators, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "5fb2cf4150ef7d6adc939d143277288a",
+  "_iso3": "IRL",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

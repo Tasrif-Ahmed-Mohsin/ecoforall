@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "With no active crises, moderate debt, and stable growth, the near-term outlook is driven primarily by economic fundamentals, while political and social factors remain secondary but non-negligible given moderate instability and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"With no active crises, moderate debt, and stable growth, the near-term outlook is driven primarily by economic fundamentals, while political and social factors remain secondary but non-negligible given moderate instability and low trust.\"\n}",
+  "_cache_key": "3bcb7b1d670f5499f4b0ce9326b65ad9",
+  "_iso3": "PHL",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

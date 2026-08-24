@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Bolivia faces severe political instability (very low stability, high protests, sanctions) alongside moderate economic vulnerabilities (current account deficit, low growth), making politics nearly as important as the economy for a 5-year outlook, with environment and society playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bolivia faces severe political instability (very low stability, high protests, sanctions) alongside moderate economic vulnerabilities (current account deficit, low growth), making politics nearly as important as the economy for a 5-year outlook, with environment and society playing secondary roles.\"\n}",
+  "_cache_key": "4e384f5fa4e7911f1824d054619461e8",
+  "_iso3": "BOL",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High-income economy with moderate imbalances (high unemployment, current account deficit) but no major shocks, while political instability and protests are notable but not crisis-level, so economy dominates with politics as secondary.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High-income economy with moderate imbalances (high unemployment, current account deficit) but no major shocks, while political instability and protests are notable but not crisis-level, so economy dominates with politics as secondary.\"\n}",
+  "_cache_key": "e4d30e06f29cb7357b6523a43a61629e",
+  "_iso3": "BHS",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

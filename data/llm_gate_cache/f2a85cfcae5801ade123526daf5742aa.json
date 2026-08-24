@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "MMR faces a currency crisis, high political instability, and social unrest, but moderate debt and investment suggest economic factors are also critical, while environmental data is sparse.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"MMR faces a currency crisis, high political instability, and social unrest, but moderate debt and investment suggest economic factors are also critical, while environmental data is sparse.\"\n}",
+  "_cache_key": "f2a85cfcae5801ade123526daf5742aa",
+  "_iso3": "MMR",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

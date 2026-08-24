@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Ireland is a stable, high-income economy with strong recent growth, low inflation, and high investment, so economic fundamentals dominate the short-term outlook, while political and social factors are moderate but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland is a stable, high-income economy with strong recent growth, low inflation, and high investment, so economic fundamentals dominate the short-term outlook, while political and social factors are moderate but not crisis-level.\"\n}",
+  "_cache_key": "aedf404b81b415bccdd61482818977c3",
+  "_iso3": "IRL",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

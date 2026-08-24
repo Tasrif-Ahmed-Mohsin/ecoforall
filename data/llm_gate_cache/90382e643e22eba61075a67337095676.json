@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a low-income, moderately unstable country with high inflation, negative current account, and significant protest/sanction activity, so economic fundamentals dominate but political risks and social unrest materially affect the 1-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a low-income, moderately unstable country with high inflation, negative current account, and significant protest/sanction activity, so economic fundamentals dominate but political risks and social unrest materially affect the 1-year outlook.\"\n}",
+  "_cache_key": "90382e643e22eba61075a67337095676",
+  "_iso3": "HTI",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

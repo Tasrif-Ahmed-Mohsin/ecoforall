@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a low-income, politically fragile economy with high inflation, negative recent growth, and significant protest/sanction pressures, so economic fundamentals dominate but political instability and social unrest are substantial drags on the 3-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a low-income, politically fragile economy with high inflation, negative recent growth, and significant protest/sanction pressures, so economic fundamentals dominate but political instability and social unrest are substantial drags on the 3-year outlook.\"\n}",
+  "_cache_key": "9778debd6f74624cf199a83a75dedbf4",
+  "_iso3": "HTI",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

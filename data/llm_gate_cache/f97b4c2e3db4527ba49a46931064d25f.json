@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cambodia shows moderate growth with external imbalances and high political instability, but no acute crisis, so economic fundamentals dominate while political risk and social fragility warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cambodia shows moderate growth with external imbalances and high political instability, but no acute crisis, so economic fundamentals dominate while political risk and social fragility warrant notable weight.\"\n}",
+  "_cache_key": "f97b4c2e3db4527ba49a46931064d25f",
+  "_iso3": "KHM",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

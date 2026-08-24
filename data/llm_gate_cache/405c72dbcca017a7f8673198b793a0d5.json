@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Spain is a stable high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions and mild environmental risks have limited short-term impact.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain is a stable high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions and mild environmental risks have limited short-term impact.\"\n}",
+  "_cache_key": "405c72dbcca017a7f8673198b793a0d5",
+  "_iso3": "ESP",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

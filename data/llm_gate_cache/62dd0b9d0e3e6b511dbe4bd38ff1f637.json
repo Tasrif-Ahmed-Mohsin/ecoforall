@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Ghana in 2008 shows moderate economic imbalances (high inflation, large current account deficit) but no acute crisis, so economy dominates, while political stability is moderate and environmental/social factors are secondary but relevant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Ghana in 2008 shows moderate economic imbalances (high inflation, large current account deficit) but no acute crisis, so economy dominates, while political stability is moderate and environmental/social factors are secondary but relevant for a 5-year horizon.\"\n}",
+  "_cache_key": "62dd0b9d0e3e6b511dbe4bd38ff1f637",
+  "_iso3": "GHA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

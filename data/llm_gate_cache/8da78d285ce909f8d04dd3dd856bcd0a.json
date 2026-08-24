@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "The Philippines in 2019 shows stable growth, moderate inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given ongoing but low-level conflicts and moderate trust levels.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"The Philippines in 2019 shows stable growth, moderate inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given ongoing but low-level conflicts and moderate trust levels.\"\n}",
+  "_cache_key": "8da78d285ce909f8d04dd3dd856bcd0a",
+  "_iso3": "PHL",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Argentina faces high inflation, debt, and negative recent growth, but political instability and sanctions add significant risk, while environmental and social factors are moderate and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina faces high inflation, debt, and negative recent growth, but political instability and sanctions add significant risk, while environmental and social factors are moderate and less immediate.\"\n}",
+  "_cache_key": "17edfd5277000d7a6c50f7d4068b212d",
+  "_iso3": "ARG",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

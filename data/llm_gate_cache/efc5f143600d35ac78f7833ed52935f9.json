@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "COG is a lower-middle-income economy with high debt, large current account surplus, and recent negative growth, but political instability and conflict are moderate, so economic fundamentals dominate while political risks remain significant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"COG is a lower-middle-income economy with high debt, large current account surplus, and recent negative growth, but political instability and conflict are moderate, so economic fundamentals dominate while political risks remain significant.\"\n}",
+  "_cache_key": "efc5f143600d35ac78f7833ed52935f9",
+  "_iso3": "COG",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

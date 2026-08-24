@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Romania in 2009 is a stable, upper-middle-income EU member with no active crises, so economic factors dominate the short-term outlook, though moderate political and social tensions warrant some weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Romania in 2009 is a stable, upper-middle-income EU member with no active crises, so economic factors dominate the short-term outlook, though moderate political and social tensions warrant some weight.\"\n}",
+  "_cache_key": "dc292a658951a4ccd12ec5d96a73ca03",
+  "_iso3": "ROU",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

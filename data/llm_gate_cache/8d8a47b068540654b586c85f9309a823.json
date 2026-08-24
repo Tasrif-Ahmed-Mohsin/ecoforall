@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a lower-middle-income economy with high inflation, negative recent growth, and moderate debt, but political instability and protests are significant enough to elevate political risk, while environmental and social factors are less pressing given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a lower-middle-income economy with high inflation, negative recent growth, and moderate debt, but political instability and protests are significant enough to elevate political risk, while environmental and social factors are less pressing given limited data.\"\n}",
+  "_cache_key": "8d8a47b068540654b586c85f9309a823",
+  "_iso3": "HTI",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

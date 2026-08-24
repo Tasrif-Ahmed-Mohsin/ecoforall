@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Azerbaijan faces significant political instability (very low stability, high conflict intensity, sanctions, negative Goldstein index) alongside economic vulnerabilities (negative growth in 2020, high unemployment, moderate debt), making politics and economy co-dominant, with social factors (low trust, high fear, protests) also relevant, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Azerbaijan faces significant political instability (very low stability, high conflict intensity, sanctions, negative Goldstein index) alongside economic vulnerabilities (negative growth in 2020, high unemployment, moderate debt), making politics and economy co-dominant, with social factors (low trust, high fear, protests) also relevant, while environmental data is limited.\"\n}",
+  "_cache_key": "c15e0a9188f523972192846a6d92422e",
+  "_iso3": "AZE",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "In 2008, the Netherlands is a stable, high-income economy with a banking crisis (which is an economic shock) but no major political or environmental crises, so economic factors dominate while other domains remain relatively low.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"In 2008, the Netherlands is a stable, high-income economy with a banking crisis (which is an economic shock) but no major political or environmental crises, so economic factors dominate while other domains remain relatively low.\"\n}",
+  "_cache_key": "70d7429cf9ef26854e58f9e1ca1e8781",
+  "_iso3": "NLD",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

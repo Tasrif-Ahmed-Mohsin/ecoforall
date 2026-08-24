@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "HND is a stable, middle-income economy with moderate inflation, low unemployment, and no ongoing crises, so economic fundamentals dominate the short-term outlook, while political and social factors are secondary but not negligible given moderate instability and protest activity.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HND is a stable, middle-income economy with moderate inflation, low unemployment, and no ongoing crises, so economic fundamentals dominate the short-term outlook, while political and social factors are secondary but not negligible given moderate instability and protest activity.\"\n}",
+  "_cache_key": "fa2aefafe7bbe97ef025c761ac7c6a1e",
+  "_iso3": "HND",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

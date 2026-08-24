@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Egypt in 2011 faces a political crisis (protests, instability) and social upheaval, but the economy is also weak with high debt and unemployment, so politics and economy dominate, while environmental and social factors add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Egypt in 2011 faces a political crisis (protests, instability) and social upheaval, but the economy is also weak with high debt and unemployment, so politics and economy dominate, while environmental and social factors add moderate risk.\"\n}",
+  "_cache_key": "1d7af46597b1d9a30cb1103f69b7aa0b",
+  "_iso3": "EGY",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

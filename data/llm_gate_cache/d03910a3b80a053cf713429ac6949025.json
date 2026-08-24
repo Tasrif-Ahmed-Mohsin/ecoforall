@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "High external imbalances and recent growth volatility signal economic fragility, but severe political instability and conflict indicators elevate political risk substantially, while environmental and social data are too sparse to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High external imbalances and recent growth volatility signal economic fragility, but severe political instability and conflict indicators elevate political risk substantially, while environmental and social data are too sparse to warrant higher weights.\"\n}",
+  "_cache_key": "d03910a3b80a053cf713429ac6949025",
+  "_iso3": "MDV",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

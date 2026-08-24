@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Cambodia is a low-income, export-dependent economy with moderate political instability and social tensions, but no acute crisis, so economic fundamentals dominate while political and social risks warrant elevated attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cambodia is a low-income, export-dependent economy with moderate political instability and social tensions, but no acute crisis, so economic fundamentals dominate while political and social risks warrant elevated attention.\"\n}",
+  "_cache_key": "b8e907f5d5e13ddeafae1aa90762dae3",
+  "_iso3": "KHM",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

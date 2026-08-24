@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "THA in 2007 is a stable, high-growth economy with low inflation, no crises, and strong external balance, so economic fundamentals dominate the short-term outlook, with modest weights for political and social factors given moderate protest pressure and low institutional trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"THA in 2007 is a stable, high-growth economy with low inflation, no crises, and strong external balance, so economic fundamentals dominate the short-term outlook, with modest weights for political and social factors given moderate protest pressure and low institutional trust.\"\n}",
+  "_cache_key": "37749521e8cdb8df52c8f60d8e9d8d0e",
+  "_iso3": "THA",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

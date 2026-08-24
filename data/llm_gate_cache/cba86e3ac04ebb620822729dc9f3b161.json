@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNQ is a high-income economy with large external imbalances and recent growth volatility, but no active crises, so economic factors dominate while political and social risks remain moderate due to high protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNQ is a high-income economy with large external imbalances and recent growth volatility, but no active crises, so economic factors dominate while political and social risks remain moderate due to high protest and conflict indicators.\"\n}",
+  "_cache_key": "cba86e3ac04ebb620822729dc9f3b161",
+  "_iso3": "GNQ",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

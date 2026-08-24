@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Belarus faces moderate political instability and sanctions, but the economy is not in crisis, so economic fundamentals dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus faces moderate political instability and sanctions, but the economy is not in crisis, so economic fundamentals dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "ebc483d867250caa840926f4d7c89a87",
+  "_iso3": "BLR",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

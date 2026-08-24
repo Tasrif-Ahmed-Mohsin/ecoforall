@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Peru's economy is stable with moderate growth, low inflation, and manageable debt, so economic fundamentals dominate, while political and social indicators are relatively calm and environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Peru's economy is stable with moderate growth, low inflation, and manageable debt, so economic fundamentals dominate, while political and social indicators are relatively calm and environmental risks are moderate.\"\n}",
+  "_cache_key": "1770b4d7e7e16829acf567190346a6a1",
+  "_iso3": "PER",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

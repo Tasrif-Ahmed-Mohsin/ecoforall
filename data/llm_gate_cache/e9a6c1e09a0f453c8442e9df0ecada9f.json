@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Azerbaijan's growth is heavily dependent on oil/gas exports and external demand, but moderate political instability, sanctions, and social tensions warrant a notable political and societal weight, while environmental factors are less immediate over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Azerbaijan's growth is heavily dependent on oil/gas exports and external demand, but moderate political instability, sanctions, and social tensions warrant a notable political and societal weight, while environmental factors are less immediate over this 5-year horizon.\"\n}",
+  "_cache_key": "e9a6c1e09a0f453c8442e9df0ecada9f",
+  "_iso3": "AZE",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Benin faces moderate political instability and conflict, but its economic fundamentals (investment, debt) and recent growth trajectory are more influential for near-term GDP growth, though political risks remain significant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Benin faces moderate political instability and conflict, but its economic fundamentals (investment, debt) and recent growth trajectory are more influential for near-term GDP growth, though political risks remain significant.\"\n}",
+  "_cache_key": "dcfef88bb7b6fc00a68245aeacaf70f0",
+  "_iso3": "BEN",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

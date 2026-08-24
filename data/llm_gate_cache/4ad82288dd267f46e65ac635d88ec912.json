@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF is a middle-income economy with moderate debt and unemployment, but political instability and social tensions are elevated, while environmental risks are moderate, so economic fundamentals dominate but politics and society carry meaningful weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF is a middle-income economy with moderate debt and unemployment, but political instability and social tensions are elevated, while environmental risks are moderate, so economic fundamentals dominate but politics and society carry meaningful weight.\"\n}",
+  "_cache_key": "4ad82288dd267f46e65ac635d88ec912",
+  "_iso3": "ZAF",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

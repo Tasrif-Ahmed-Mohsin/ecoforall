@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Denmark is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Denmark is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over the 5-year horizon.\"\n}",
+  "_cache_key": "b48dc3c97ad3421b6c8aec40ed19f551",
+  "_iso3": "DNK",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

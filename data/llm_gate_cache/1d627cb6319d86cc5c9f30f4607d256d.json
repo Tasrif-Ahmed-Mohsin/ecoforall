@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia's moderate growth, high unemployment, and external imbalances make economic factors dominant, while moderate political instability and social tensions warrant secondary weight, with minimal environmental impact.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia's moderate growth, high unemployment, and external imbalances make economic factors dominant, while moderate political instability and social tensions warrant secondary weight, with minimal environmental impact.\"\n}",
+  "_cache_key": "1d627cb6319d86cc5c9f30f4607d256d",
+  "_iso3": "SRB",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

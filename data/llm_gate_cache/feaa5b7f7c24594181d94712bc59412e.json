@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Malaysia in 2008 is a stable, upper-middle-income economy with no ongoing crises, strong external position, and moderate debt, so economic fundamentals dominate the 5-year growth outlook, while political, environmental, and social factors play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Malaysia in 2008 is a stable, upper-middle-income economy with no ongoing crises, strong external position, and moderate debt, so economic fundamentals dominate the 5-year growth outlook, while political, environmental, and social factors play minor supporting roles.\"\n}",
+  "_cache_key": "feaa5b7f7c24594181d94712bc59412e",
+  "_iso3": "MYS",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

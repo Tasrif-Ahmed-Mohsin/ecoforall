@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "NAM is a middle-income economy with moderate growth, low debt, and no current crises, but political instability and protest pressure warrant a notable political weight, while the 5-year horizon increases the importance of structural factors.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"NAM is a middle-income economy with moderate growth, low debt, and no current crises, but political instability and protest pressure warrant a notable political weight, while the 5-year horizon increases the importance of structural factors.\"\n}",
+  "_cache_key": "ee324ec833f45963f4211da924b5d0ab",
+  "_iso3": "NAM",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

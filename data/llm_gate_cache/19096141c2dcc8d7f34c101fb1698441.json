@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK shows moderate economic imbalances (current account deficit, moderate debt) but no acute crisis, while political instability and conflict indicators are elevated, warranting a significant but not dominant political weight, with environment and social factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PAK shows moderate economic imbalances (current account deficit, moderate debt) but no acute crisis, while political instability and conflict indicators are elevated, warranting a significant but not dominant political weight, with environment and social factors playing secondary roles.\"\n}",
+  "_cache_key": "19096141c2dcc8d7f34c101fb1698441",
+  "_iso3": "PAK",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

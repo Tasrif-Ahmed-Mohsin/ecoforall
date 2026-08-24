@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Burkina Faso is a low-income, politically stable country with moderate debt and investment, but high current account deficit and low inflation, so economic fundamentals dominate short-term growth, with modest political risk from protests and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Burkina Faso is a low-income, politically stable country with moderate debt and investment, but high current account deficit and low inflation, so economic fundamentals dominate short-term growth, with modest political risk from protests and sanctions.\"\n}",
+  "_cache_key": "db2c3741d666d0c62f8419163c2deb18",
+  "_iso3": "BFA",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

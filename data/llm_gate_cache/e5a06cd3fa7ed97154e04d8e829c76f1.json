@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Greece is in a severe sovereign debt crisis with high unemployment and austerity, making economic factors dominant, but political instability and social unrest also significantly weigh on the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Greece is in a severe sovereign debt crisis with high unemployment and austerity, making economic factors dominant, but political instability and social unrest also significantly weigh on the medium-term outlook.\"\n}",
+  "_cache_key": "e5a06cd3fa7ed97154e04d8e829c76f1",
+  "_iso3": "GRC",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, politically unstable country with significant conflict and sanctions, making politics a major drag on growth, while the economy remains the primary driver given moderate debt and investment levels.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNB is a low-income, politically unstable country with significant conflict and sanctions, making politics a major drag on growth, while the economy remains the primary driver given moderate debt and investment levels.\"\n}",
+  "_cache_key": "64e87be3c62aae62012f22fe05254fef",
+  "_iso3": "GNB",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

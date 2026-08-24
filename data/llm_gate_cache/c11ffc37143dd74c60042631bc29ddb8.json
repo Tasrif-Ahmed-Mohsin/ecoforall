@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Brazil in 2012 is a stable, upper-middle-income economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, while political, environmental, and social factors play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Brazil in 2012 is a stable, upper-middle-income economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, while political, environmental, and social factors play minor supporting roles.\"\n}",
+  "_cache_key": "c11ffc37143dd74c60042631bc29ddb8",
+  "_iso3": "BRA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "Tunisia in 2011 is in the midst of the Arab Spring, with high protest pressure, political instability, and conflict indicators, making politics a major driver of near-term GDP growth, while the economy still carries significant weight due to high unemployment, external imbalances, and recent negative growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Tunisia in 2011 is in the midst of the Arab Spring, with high protest pressure, political instability, and conflict indicators, making politics a major driver of near-term GDP growth, while the economy still carries significant weight due to high unemployment, external imbalances, and recent negative growth.\"\n}",
+  "_cache_key": "1d27ad42ae5f09647b6bdf6ec3b65246",
+  "_iso3": "TUN",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

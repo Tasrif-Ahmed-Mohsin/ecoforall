@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Suriname in 2006 shows moderate inflation, high investment, and positive recent growth with no active crises, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Suriname in 2006 shows moderate inflation, high investment, and positive recent growth with no active crises, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "2e31012eef05e5e6fa1e2f5fad0e577b",
+  "_iso3": "SUR",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Japan is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while structural factors like demographics and climate are secondary for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Japan is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while structural factors like demographics and climate are secondary for a 5-year horizon.\"\n}",
+  "_cache_key": "f0ccc60078e1fb4e98308219fb62d69e",
+  "_iso3": "JPN",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

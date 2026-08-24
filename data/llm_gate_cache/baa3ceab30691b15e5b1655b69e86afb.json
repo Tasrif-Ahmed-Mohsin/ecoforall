@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Ukraine in 2013 faces severe political instability, protests, and conflict risks, which dominate the short-term outlook, while the economy is already weak with high external imbalances and low growth, making both politics and economy key drivers.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ukraine in 2013 faces severe political instability, protests, and conflict risks, which dominate the short-term outlook, while the economy is already weak with high external imbalances and low growth, making both politics and economy key drivers.\"\n}",
+  "_cache_key": "baa3ceab30691b15e5b1655b69e86afb",
+  "_iso3": "UKR",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

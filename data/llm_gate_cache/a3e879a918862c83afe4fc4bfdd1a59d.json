@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ghana's moderate growth, elevated debt, and inflation suggest economic factors dominate, but political instability and environmental risks (floods, droughts) warrant notable weights, while social indicators are relatively stable.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana's moderate growth, elevated debt, and inflation suggest economic factors dominate, but political instability and environmental risks (floods, droughts) warrant notable weights, while social indicators are relatively stable.\"\n}",
+  "_cache_key": "a3e879a918862c83afe4fc4bfdd1a59d",
+  "_iso3": "GHA",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

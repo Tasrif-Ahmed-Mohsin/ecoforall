@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB is a lower-middle-income economy with moderate debt and inflation, but political instability indicators (protests, conflicts, sanctions) and a 5-year horizon elevate the importance of politics and structural factors, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB is a lower-middle-income economy with moderate debt and inflation, but political instability indicators (protests, conflicts, sanctions) and a 5-year horizon elevate the importance of politics and structural factors, while environmental and social data are limited.\"\n}",
+  "_cache_key": "d8274e0f8a02d9aee029d94147a7e200",
+  "_iso3": "ZMB",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

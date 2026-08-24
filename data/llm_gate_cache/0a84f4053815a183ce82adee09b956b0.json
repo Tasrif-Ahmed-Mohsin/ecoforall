@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Lebanon's high debt, large current account deficit, and moderate growth suggest economic fragility, while political instability and social tensions add risk, but no acute crisis or environmental shock dominates the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Lebanon's high debt, large current account deficit, and moderate growth suggest economic fragility, while political instability and social tensions add risk, but no acute crisis or environmental shock dominates the 5-year outlook.\"\n}",
+  "_cache_key": "0a84f4053815a183ce82adee09b956b0",
+  "_iso3": "LBN",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

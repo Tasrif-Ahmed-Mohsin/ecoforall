@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Qatar's high-income, hydrocarbon-driven economy faces moderate political risk from instability and sanctions, but no major environmental or social shocks, so economic fundamentals dominate while politics and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Qatar's high-income, hydrocarbon-driven economy faces moderate political risk from instability and sanctions, but no major environmental or social shocks, so economic fundamentals dominate while politics and social factors play secondary roles.\"\n}",
+  "_cache_key": "a2a51c4f24cc49f97b37360b30e9930d",
+  "_iso3": "QAT",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

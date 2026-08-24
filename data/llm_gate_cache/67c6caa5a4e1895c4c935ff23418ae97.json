@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "LKA faces a currency crisis and high current account deficit, but political instability and social tensions are moderate, so economic factors dominate while politics and social dynamics play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"LKA faces a currency crisis and high current account deficit, but political instability and social tensions are moderate, so economic factors dominate while politics and social dynamics play secondary roles.\"\n}",
+  "_cache_key": "67c6caa5a4e1895c4c935ff23418ae97",
+  "_iso3": "LKA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

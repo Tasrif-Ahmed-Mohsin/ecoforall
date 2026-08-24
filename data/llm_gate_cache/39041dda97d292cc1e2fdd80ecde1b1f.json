@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Bolivia faces moderate political instability and social unrest, but the economy is relatively stable with low inflation and no ongoing crises, so economic factors dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Bolivia faces moderate political instability and social unrest, but the economy is relatively stable with low inflation and no ongoing crises, so economic factors dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "39041dda97d292cc1e2fdd80ecde1b1f",
+  "_iso3": "BOL",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

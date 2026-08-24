@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "NIC is a lower-middle-income economy with moderate inflation, high current account deficit, and recent growth volatility, but political instability and high protest/sanction levels elevate political risk, while social pressures and weak institutions also weigh on the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC is a lower-middle-income economy with moderate inflation, high current account deficit, and recent growth volatility, but political instability and high protest/sanction levels elevate political risk, while social pressures and weak institutions also weigh on the 5-year outlook.\"\n}",
+  "_cache_key": "b7dbc6708611a1697e567131db3624b9",
+  "_iso3": "NIC",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

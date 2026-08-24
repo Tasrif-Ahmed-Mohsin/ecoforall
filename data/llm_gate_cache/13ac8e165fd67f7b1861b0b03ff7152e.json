@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "China in 2016 is a stable, upper-middle-income economy with no major crises, moderate political stability, and only mild environmental/social pressures, so growth over the next 5 years is primarily driven by economic fundamentals and investment dynamics.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"China in 2016 is a stable, upper-middle-income economy with no major crises, moderate political stability, and only mild environmental/social pressures, so growth over the next 5 years is primarily driven by economic fundamentals and investment dynamics.\"\n}",
+  "_cache_key": "13ac8e165fd67f7b1861b0b03ff7152e",
+  "_iso3": "CHN",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

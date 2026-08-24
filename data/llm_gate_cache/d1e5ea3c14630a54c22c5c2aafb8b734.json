@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "SLV is a lower-middle-income economy with moderate debt and unemployment, but no active crises, so economic fundamentals dominate the short-term outlook, with modest political risk from protest activity and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLV is a lower-middle-income economy with moderate debt and unemployment, but no active crises, so economic fundamentals dominate the short-term outlook, with modest political risk from protest activity and conflict indicators.\"\n}",
+  "_cache_key": "d1e5ea3c14630a54c22c5c2aafb8b734",
+  "_iso3": "SLV",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

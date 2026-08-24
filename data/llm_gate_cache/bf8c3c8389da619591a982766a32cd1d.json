@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Syria faces severe political instability, sanctions, and conflict, which dominate short-term growth prospects, while the weak investment climate and social unrest add secondary pressures.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Syria faces severe political instability, sanctions, and conflict, which dominate short-term growth prospects, while the weak investment climate and social unrest add secondary pressures.\"\n}",
+  "_cache_key": "bf8c3c8389da619591a982766a32cd1d",
+  "_iso3": "SYR",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

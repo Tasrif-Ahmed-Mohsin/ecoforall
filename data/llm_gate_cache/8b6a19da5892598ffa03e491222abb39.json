@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2014 faces moderate political instability and social unrest, but the dominant near-term growth driver is the weak economic recovery with high unemployment and fiscal imbalances, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia in 2014 faces moderate political instability and social unrest, but the dominant near-term growth driver is the weak economic recovery with high unemployment and fiscal imbalances, while environmental factors are negligible.\"\n}",
+  "_cache_key": "8b6a19da5892598ffa03e491222abb39",
+  "_iso3": "SRB",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

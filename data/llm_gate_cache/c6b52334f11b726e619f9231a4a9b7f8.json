@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia faces severe political instability and conflict, which will heavily disrupt growth despite moderate economic fundamentals, while environmental and social factors play secondary but non-negligible roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ethiopia faces severe political instability and conflict, which will heavily disrupt growth despite moderate economic fundamentals, while environmental and social factors play secondary but non-negligible roles.\"\n}",
+  "_cache_key": "c6b52334f11b726e619f9231a4a9b7f8",
+  "_iso3": "ETH",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

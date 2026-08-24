@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2018 faces moderate growth but high inflation, external deficits, and significant political instability (negative stability, sanctions, conflicts), while environmental risks are present but less immediate, and social indicators are mixed but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2018 faces moderate growth but high inflation, external deficits, and significant political instability (negative stability, sanctions, conflicts), while environmental risks are present but less immediate, and social indicators are mixed but not collapsing.\"\n}",
+  "_cache_key": "60c9d652f40dd1e2078e047131c0e5aa",
+  "_iso3": "ETH",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

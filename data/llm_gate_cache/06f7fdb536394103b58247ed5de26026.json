@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income, moderately stable economy with moderate debt and negative current account, but political instability indicators (protests, sanctions, conflicts) are elevated, warranting a significant political weight over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income, moderately stable economy with moderate debt and negative current account, but political instability indicators (protests, sanctions, conflicts) are elevated, warranting a significant political weight over the 3-year horizon.\"\n}",
+  "_cache_key": "06f7fdb536394103b58247ed5de26026",
+  "_iso3": "TGO",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

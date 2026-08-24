@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Mexico's economy is stable with moderate growth and no active crises, but political instability and conflict intensity warrant elevated political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico's economy is stable with moderate growth and no active crises, but political instability and conflict intensity warrant elevated political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "12fcca219242a87cb6263c8500471d17",
+  "_iso3": "MEX",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

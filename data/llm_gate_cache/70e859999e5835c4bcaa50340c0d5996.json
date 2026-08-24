@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Chile is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Chile is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "70e859999e5835c4bcaa50340c0d5996",
+  "_iso3": "CHL",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

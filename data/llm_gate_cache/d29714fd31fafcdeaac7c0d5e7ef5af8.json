@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Yemen is in a severe political and military conflict (high conflict intensity, negative Goldstein index, sanctions) that dominates the growth outlook, while the economy is already contracting sharply with high inflation and external imbalances, making politics the primary driver and economy secondary.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen is in a severe political and military conflict (high conflict intensity, negative Goldstein index, sanctions) that dominates the growth outlook, while the economy is already contracting sharply with high inflation and external imbalances, making politics the primary driver and economy secondary.\"\n}",
+  "_cache_key": "d29714fd31fafcdeaac7c0d5e7ef5af8",
+  "_iso3": "YEM",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BEN is a low-income, politically unstable economy with severe negative political indicators (very low stability, high conflict, sanctions, negative Goldstein index) and external imbalances, so politics and economy dominate, while environment and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BEN is a low-income, politically unstable economy with severe negative political indicators (very low stability, high conflict, sanctions, negative Goldstein index) and external imbalances, so politics and economy dominate, while environment and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "26ac286355fc74ecb11e78e66982b3d2",
+  "_iso3": "BEN",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

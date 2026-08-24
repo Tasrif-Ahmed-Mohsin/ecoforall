@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "High-income but politically unstable with sanctions and protests, plus negative growth trajectory, makes politics and economy key, while environment and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"High-income but politically unstable with sanctions and protests, plus negative growth trajectory, makes politics and economy key, while environment and social factors are secondary.\"\n}",
+  "_cache_key": "12e7141f321255ecafa1cd784f5bd383",
+  "_iso3": "BRN",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

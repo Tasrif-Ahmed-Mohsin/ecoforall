@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LVA is a stable, high-income EU economy with moderate debt and unemployment, no ongoing crises, and recent positive growth, so economic factors dominate, with modest political risk from protests and sanctions and minimal environmental/social shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LVA is a stable, high-income EU economy with moderate debt and unemployment, no ongoing crises, and recent positive growth, so economic factors dominate, with modest political risk from protests and sanctions and minimal environmental/social shocks.\"\n}",
+  "_cache_key": "d3ae5400e12d2955f7418abd443f33a3",
+  "_iso3": "LVA",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

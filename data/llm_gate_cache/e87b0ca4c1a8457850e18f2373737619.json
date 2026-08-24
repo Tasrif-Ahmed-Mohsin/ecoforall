@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Paraguay in 2006 is a stable, middle-income economy with moderate growth, low debt, and no active crises, so economic fundamentals dominate, but political and social factors (moderate instability, low trust, high protest counts) warrant modest weights for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Paraguay in 2006 is a stable, middle-income economy with moderate growth, low debt, and no active crises, so economic fundamentals dominate, but political and social factors (moderate instability, low trust, high protest counts) warrant modest weights for a 5-year horizon.\"\n}",
+  "_cache_key": "e87b0ca4c1a8457850e18f2373737619",
+  "_iso3": "PRY",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

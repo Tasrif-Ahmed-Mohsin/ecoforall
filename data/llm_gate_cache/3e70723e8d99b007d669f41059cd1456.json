@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Andorra is a stable, high-income economy with low unemployment, moderate debt, and no major political or environmental shocks, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Andorra is a stable, high-income economy with low unemployment, moderate debt, and no major political or environmental shocks, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "3e70723e8d99b007d669f41059cd1456",
+  "_iso3": "AND",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

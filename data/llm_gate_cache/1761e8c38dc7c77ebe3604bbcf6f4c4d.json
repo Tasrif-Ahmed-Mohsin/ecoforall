@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Low-income, crisis-prone economy with high inflation, large current account deficit, and political instability/sanctions suggests politics and economy dominate, while environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Low-income, crisis-prone economy with high inflation, large current account deficit, and political instability/sanctions suggests politics and economy dominate, while environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "1761e8c38dc7c77ebe3604bbcf6f4c4d",
+  "_iso3": "MWI",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

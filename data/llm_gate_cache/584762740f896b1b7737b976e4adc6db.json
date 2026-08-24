@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "SVN is a stable, high-income economy with moderate debt, low inflation, and positive growth momentum, so economic factors dominate the short-term outlook, while political and social indicators show no major stress.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"SVN is a stable, high-income economy with moderate debt, low inflation, and positive growth momentum, so economic factors dominate the short-term outlook, while political and social indicators show no major stress.\"\n}",
+  "_cache_key": "584762740f896b1b7737b976e4adc6db",
+  "_iso3": "SVN",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth, low inflation, and no banking crisis support a strong economic weight, but high political instability, conflict, and negative sentiment elevate political risk, while social trust and cohesion are weak enough to warrant a modest human_society weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate growth, low inflation, and no banking crisis support a strong economic weight, but high political instability, conflict, and negative sentiment elevate political risk, while social trust and cohesion are weak enough to warrant a modest human_society weight.\"\n}",
+  "_cache_key": "f29f4eb8503ef36233ed554c592fae1c",
+  "_iso3": "MAR",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

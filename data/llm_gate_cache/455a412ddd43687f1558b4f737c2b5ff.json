@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Mexico's economy is stable with moderate debt and no crises, but political instability and protests warrant a notable political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico's economy is stable with moderate debt and no crises, but political instability and protests warrant a notable political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "455a412ddd43687f1558b4f737c2b5ff",
+  "_iso3": "MEX",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

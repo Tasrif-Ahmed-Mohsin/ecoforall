@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Japan in 2008 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while modest weights for politics and society reflect structural aging and political stability concerns over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Japan in 2008 is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while modest weights for politics and society reflect structural aging and political stability concerns over a 5-year horizon.\"\n}",
+  "_cache_key": "8fe6b3e400848671a29a6a38713bc9fa",
+  "_iso3": "JPN",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

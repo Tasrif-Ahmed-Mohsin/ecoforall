@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Iceland is a stable, high-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the short-term outlook, while political instability and social tensions are present but not severe enough to significantly alter growth.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Iceland is a stable, high-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the short-term outlook, while political instability and social tensions are present but not severe enough to significantly alter growth.\"\n}",
+  "_cache_key": "f516410c92687e69bad691cb1aa4b4de",
+  "_iso3": "ISL",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

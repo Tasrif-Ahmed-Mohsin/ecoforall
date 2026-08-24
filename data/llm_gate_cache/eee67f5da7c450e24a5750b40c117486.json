@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Austria in 2007 is a stable, high-income economy with no crises, strong growth, and moderate inflation, so short-term GDP growth is overwhelmingly driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Austria in 2007 is a stable, high-income economy with no crises, strong growth, and moderate inflation, so short-term GDP growth is overwhelmingly driven by economic fundamentals.\"\n}",
+  "_cache_key": "eee67f5da7c450e24a5750b40c117486",
+  "_iso3": "AUT",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

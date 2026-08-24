@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Belarus faces high inflation, a large current account deficit, and heavy reliance on external financing, but political instability and sanctions risk are elevated, making politics a secondary but significant drag on near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus faces high inflation, a large current account deficit, and heavy reliance on external financing, but political instability and sanctions risk are elevated, making politics a secondary but significant drag on near-term growth.\"\n}",
+  "_cache_key": "1d78d95854991f9ce8a603b4660c7f59",
+  "_iso3": "BLR",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

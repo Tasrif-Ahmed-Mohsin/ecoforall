@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mozambique's high investment and growth trajectory suggest strong economic momentum, but large current account deficit, moderate political instability, and social tensions warrant significant political and social weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mozambique's high investment and growth trajectory suggest strong economic momentum, but large current account deficit, moderate political instability, and social tensions warrant significant political and social weights.\"\n}",
+  "_cache_key": "d51b073f67b5135a93f27dd31a2b8643",
+  "_iso3": "MOZ",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

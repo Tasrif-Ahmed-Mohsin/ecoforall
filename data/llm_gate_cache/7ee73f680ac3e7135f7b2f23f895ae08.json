@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia is a stable, upper-middle-income EU member with moderate debt and low inflation, so economic fundamentals dominate, but political instability and social/demographic factors warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Croatia is a stable, upper-middle-income EU member with moderate debt and low inflation, so economic fundamentals dominate, but political instability and social/demographic factors warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "7ee73f680ac3e7135f7b2f23f895ae08",
+  "_iso3": "HRV",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

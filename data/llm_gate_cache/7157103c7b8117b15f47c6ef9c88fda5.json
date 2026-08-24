@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania shows moderate growth with high investment and low inflation, but political instability, protests, and negative sentiment elevate political and social risks, while environmental data is scarce and not a major near-term driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania shows moderate growth with high investment and low inflation, but political instability, protests, and negative sentiment elevate political and social risks, while environmental data is scarce and not a major near-term driver.\"\n}",
+  "_cache_key": "7157103c7b8117b15f47c6ef9c88fda5",
+  "_iso3": "ALB",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

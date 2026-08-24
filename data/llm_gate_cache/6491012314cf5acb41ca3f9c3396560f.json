@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite a very large current account deficit, the economy is growing steadily with moderate inflation and low debt, while political stability is moderate but not crisis-level, so economic factors dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite a very large current account deficit, the economy is growing steadily with moderate inflation and low debt, while political stability is moderate but not crisis-level, so economic factors dominate the short-term forecast.\"\n}",
+  "_cache_key": "6491012314cf5acb41ca3f9c3396560f",
+  "_iso3": "MNE",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

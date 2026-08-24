@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi's low income, high inflation, large current account deficit, and negative recent growth trajectory make economic fundamentals the primary driver, but elevated political instability, protests, and sanctions warrant a substantial political risk premium over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi's low income, high inflation, large current account deficit, and negative recent growth trajectory make economic fundamentals the primary driver, but elevated political instability, protests, and sanctions warrant a substantial political risk premium over the 3-year horizon.\"\n}",
+  "_cache_key": "227fad1896e122d7b80f358b446c76cc",
+  "_iso3": "BDI",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

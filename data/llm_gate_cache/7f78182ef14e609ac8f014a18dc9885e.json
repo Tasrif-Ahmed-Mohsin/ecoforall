@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Uruguay in 2014 is a stable, high-income economy with moderate inflation and external deficits but no major political, environmental, or social shocks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Uruguay in 2014 is a stable, high-income economy with moderate inflation and external deficits but no major political, environmental, or social shocks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "7f78182ef14e609ac8f014a18dc9885e",
+  "_iso3": "URY",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

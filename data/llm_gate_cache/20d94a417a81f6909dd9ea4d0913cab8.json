@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, politically fragile economy with high inflation, large external deficits, and heavy sanctions, so economic fundamentals dominate but political instability and conflict risk significantly cloud the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNB is a low-income, politically fragile economy with high inflation, large external deficits, and heavy sanctions, so economic fundamentals dominate but political instability and conflict risk significantly cloud the 5-year outlook.\"\n}",
+  "_cache_key": "20d94a417a81f6909dd9ea4d0913cab8",
+  "_iso3": "GNB",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

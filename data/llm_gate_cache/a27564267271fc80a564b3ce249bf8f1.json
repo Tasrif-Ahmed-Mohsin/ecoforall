@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, moderate debt, and external imbalances, but political instability and social unrest are significant risks that could derail growth over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, moderate debt, and external imbalances, but political instability and social unrest are significant risks that could derail growth over a 5-year horizon.\"\n}",
+  "_cache_key": "a27564267271fc80a564b3ce249bf8f1",
+  "_iso3": "MKD",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

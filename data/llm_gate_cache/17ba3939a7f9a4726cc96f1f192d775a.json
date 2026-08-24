@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, large current account deficit, and low income make economic fundamentals critical, but severe political instability, sanctions, and conflict intensity elevate political risk substantially for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, large current account deficit, and low income make economic fundamentals critical, but severe political instability, sanctions, and conflict intensity elevate political risk substantially for a 5-year horizon.\"\n}",
+  "_cache_key": "17ba3939a7f9a4726cc96f1f192d775a",
+  "_iso3": "MWI",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

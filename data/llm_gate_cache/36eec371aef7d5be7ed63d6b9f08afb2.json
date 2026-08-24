@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBR shows high investment and recent growth but a massive current account deficit and moderate inflation, indicating economic fundamentals dominate the 3-year outlook, with political stability and low conflict reducing political risk.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR shows high investment and recent growth but a massive current account deficit and moderate inflation, indicating economic fundamentals dominate the 3-year outlook, with political stability and low conflict reducing political risk.\"\n}",
+  "_cache_key": "36eec371aef7d5be7ed63d6b9f08afb2",
+  "_iso3": "LBR",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

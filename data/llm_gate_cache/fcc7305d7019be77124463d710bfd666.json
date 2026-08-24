@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Yemen faces severe political instability, conflict, and sanctions, which will heavily constrain growth, while economic fundamentals are weak but not in acute crisis, so politics and economy dominate, with social unrest also relevant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Yemen faces severe political instability, conflict, and sanctions, which will heavily constrain growth, while economic fundamentals are weak but not in acute crisis, so politics and economy dominate, with social unrest also relevant.\"\n}",
+  "_cache_key": "fcc7305d7019be77124463d710bfd666",
+  "_iso3": "YEM",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

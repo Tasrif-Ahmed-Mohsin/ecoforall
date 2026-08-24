@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "NAM faces a currency crisis, high current account deficit, and moderate political instability, but no banking or sovereign debt crisis, so economic fundamentals dominate while political risk is elevated but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"NAM faces a currency crisis, high current account deficit, and moderate political instability, but no banking or sovereign debt crisis, so economic fundamentals dominate while political risk is elevated but secondary.\"\n}",
+  "_cache_key": "a50150aa71f52d61d633d35cbdf119fe",
+  "_iso3": "NAM",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDV is a stable, high-income economy with no active crises, so economic fundamentals dominate the 1-year outlook, while moderate political instability and social tensions warrant a secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDV is a stable, high-income economy with no active crises, so economic fundamentals dominate the 1-year outlook, while moderate political instability and social tensions warrant a secondary weight.\"\n}",
+  "_cache_key": "d21b684955493ec085d58941469e030e",
+  "_iso3": "MDV",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

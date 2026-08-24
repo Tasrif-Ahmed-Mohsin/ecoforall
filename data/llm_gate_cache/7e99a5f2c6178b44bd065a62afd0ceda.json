@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan's growth is primarily driven by stable macroeconomic fundamentals and investment, but political instability and social tensions warrant elevated weights for politics and human_society over the short term.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan's growth is primarily driven by stable macroeconomic fundamentals and investment, but political instability and social tensions warrant elevated weights for politics and human_society over the short term.\"\n}",
+  "_cache_key": "7e99a5f2c6178b44bd065a62afd0ceda",
+  "_iso3": "UZB",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

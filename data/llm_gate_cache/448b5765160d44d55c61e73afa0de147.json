@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Ukraine faces moderate political instability and social strain, but the economy is recovering from a deep recession with manageable debt and inflation, making economic factors dominant yet politics and society significant risks.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ukraine faces moderate political instability and social strain, but the economy is recovering from a deep recession with manageable debt and inflation, making economic factors dominant yet politics and society significant risks.\"\n}",
+  "_cache_key": "448b5765160d44d55c61e73afa0de147",
+  "_iso3": "UKR",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2016 is a lower-middle-income economy with high unemployment, deflation, and moderate debt, but no active crises, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia in 2016 is a lower-middle-income economy with high unemployment, deflation, and moderate debt, but no active crises, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "341b2c93fea6cdcaba783c176b7a6824",
+  "_iso3": "ARM",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

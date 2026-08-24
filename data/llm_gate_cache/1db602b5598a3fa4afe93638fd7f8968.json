@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Suriname is a middle-income, commodity-dependent economy with moderate inflation and debt, but no acute political crisis or major environmental shock, so economic fundamentals dominate the 1-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Suriname is a middle-income, commodity-dependent economy with moderate inflation and debt, but no acute political crisis or major environmental shock, so economic fundamentals dominate the 1-year outlook.\"\n}",
+  "_cache_key": "1db602b5598a3fa4afe93638fd7f8968",
+  "_iso3": "SUR",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

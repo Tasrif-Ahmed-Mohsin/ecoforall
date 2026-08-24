@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces high inflation, high unemployment, and a large current account deficit, but political instability, sanctions, and conflict risk also weigh on near-term growth, while social factors are moderate and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia faces high inflation, high unemployment, and a large current account deficit, but political instability, sanctions, and conflict risk also weigh on near-term growth, while social factors are moderate and environmental data is limited.\"\n}",
+  "_cache_key": "246b670f6eacd0f6c04432be6f84b52b",
+  "_iso3": "ARM",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

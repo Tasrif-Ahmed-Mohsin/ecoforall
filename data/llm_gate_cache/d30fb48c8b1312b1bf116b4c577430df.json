@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "MNG shows strong recent growth, low inflation, no crises, and stable politics, but moderate debt and social indicators suggest a balanced weighting with economy dominant and modest political/social risks.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MNG shows strong recent growth, low inflation, no crises, and stable politics, but moderate debt and social indicators suggest a balanced weighting with economy dominant and modest political/social risks.\"\n}",
+  "_cache_key": "d30fb48c8b1312b1bf116b4c577430df",
+  "_iso3": "MNG",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

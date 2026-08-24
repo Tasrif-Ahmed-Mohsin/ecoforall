@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "CHE is a stable, high-income economy with strong fundamentals and no major political or environmental shocks, so economic factors dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CHE is a stable, high-income economy with strong fundamentals and no major political or environmental shocks, so economic factors dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "0d0ec8afa953adb0334743a43006b510",
+  "_iso3": "CHE",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

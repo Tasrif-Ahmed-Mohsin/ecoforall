@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "SLV is a lower-middle-income economy with moderate debt and external deficits, but political instability and sanctions risk warrant a significant political weight, while environmental and social factors are less pressing over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SLV is a lower-middle-income economy with moderate debt and external deficits, but political instability and sanctions risk warrant a significant political weight, while environmental and social factors are less pressing over this 5-year horizon.\"\n}",
+  "_cache_key": "2c8a192f7f7349b9f531a49717375a09",
+  "_iso3": "SLV",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

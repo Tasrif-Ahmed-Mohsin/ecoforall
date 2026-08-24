@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran's economy is the dominant driver given high investment and moderate growth, but political instability and sanctions risk, along with social tensions and environmental vulnerabilities, warrant meaningful but secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran's economy is the dominant driver given high investment and moderate growth, but political instability and sanctions risk, along with social tensions and environmental vulnerabilities, warrant meaningful but secondary weights.\"\n}",
+  "_cache_key": "a168c6d9532641376833b8362f0c1284",
+  "_iso3": "IRN",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

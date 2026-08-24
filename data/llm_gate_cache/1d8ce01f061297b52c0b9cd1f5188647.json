@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high political instability and protests, the economy is relatively stable with low debt and no ongoing crises, but political risks warrant a significant weight for the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high political instability and protests, the economy is relatively stable with low debt and no ongoing crises, but political risks warrant a significant weight for the short-term outlook.\"\n}",
+  "_cache_key": "1d8ce01f061297b52c0b9cd1f5188647",
+  "_iso3": "LBY",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Hungary in 2007 is a stable, high-income EU economy with moderate imbalances (current account deficit, high debt) but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Hungary in 2007 is a stable, high-income EU economy with moderate imbalances (current account deficit, high debt) but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "d1870fa3ba6db22f2c0412dc036933b4",
+  "_iso3": "HUN",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and social tensions, combined with a low-growth, mildly deflationary economy, warrant a significant but not dominant economic weight, with politics and human society elevated due to conflict and protest pressures.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with a low-growth, mildly deflationary economy, warrant a significant but not dominant economic weight, with politics and human society elevated due to conflict and protest pressures.\"\n}",
+  "_cache_key": "3d9144535af0d919ad1933dc53afc2a5",
+  "_iso3": "ECU",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

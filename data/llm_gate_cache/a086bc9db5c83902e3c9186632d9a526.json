@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CAF is a low-income, politically unstable country with high debt, low investment, and negative growth trajectory, but the severe political instability, sanctions, and conflict intensity warrant a substantial political weight, while the 5-year horizon also elevates structural social factors.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CAF is a low-income, politically unstable country with high debt, low investment, and negative growth trajectory, but the severe political instability, sanctions, and conflict intensity warrant a substantial political weight, while the 5-year horizon also elevates structural social factors.\"\n}",
+  "_cache_key": "a086bc9db5c83902e3c9186632d9a526",
+  "_iso3": "CAF",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

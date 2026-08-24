@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, heavy debt, and low investment signal economic fragility, while moderate political instability and social stress add secondary risks, but no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, heavy debt, and low investment signal economic fragility, while moderate political instability and social stress add secondary risks, but no major environmental shocks are evident.\"\n}",
+  "_cache_key": "a9276e39ce6d03fd8fc82c11b7bf3b28",
+  "_iso3": "MMR",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

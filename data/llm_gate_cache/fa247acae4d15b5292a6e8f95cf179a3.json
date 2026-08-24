@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico in 2011 is a stable emerging economy with moderate debt, low inflation, and no active crises, but political instability and social tensions warrant a notable political weight, while environmental and social factors play secondary roles over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico in 2011 is a stable emerging economy with moderate debt, low inflation, and no active crises, but political instability and social tensions warrant a notable political weight, while environmental and social factors play secondary roles over a one-year horizon.\"\n}",
+  "_cache_key": "fa247acae4d15b5292a6e8f95cf179a3",
+  "_iso3": "MEX",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

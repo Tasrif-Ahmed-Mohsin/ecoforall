@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya in 2007 is a lower-middle-income economy with moderate growth, no major crises, but high political instability and environmental vulnerabilities, so economic fundamentals dominate while political, environmental, and social factors each play a moderate supporting role.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kenya in 2007 is a lower-middle-income economy with moderate growth, no major crises, but high political instability and environmental vulnerabilities, so economic fundamentals dominate while political, environmental, and social factors each play a moderate supporting role.\"\n}",
+  "_cache_key": "63eae3253759b47d93b703fef830c561",
+  "_iso3": "KEN",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

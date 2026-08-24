@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Senegal's low income, high current account deficit, and moderate investment suggest economic fundamentals matter, but severe political instability, high protest pressure, and conflict intensity elevate political risk, while social cohesion and demographic factors (young, urbanizing) also influence medium-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Senegal's low income, high current account deficit, and moderate investment suggest economic fundamentals matter, but severe political instability, high protest pressure, and conflict intensity elevate political risk, while social cohesion and demographic factors (young, urbanizing) also influence medium-term growth.\"\n}",
+  "_cache_key": "2a1405be1b557e622f6c0d22a9349616",
+  "_iso3": "SEN",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

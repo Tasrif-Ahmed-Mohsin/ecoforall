@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burkina Faso is a low-income, politically fragile state with moderate instability and sanctions, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burkina Faso is a low-income, politically fragile state with moderate instability and sanctions, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.\"\n}",
+  "_cache_key": "31240aacbf16d6969575094c24c0c5c3",
+  "_iso3": "BFA",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "TWN is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political tensions and social dynamics warrant minor attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TWN is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political tensions and social dynamics warrant minor attention over a 5-year horizon.\"\n}",
+  "_cache_key": "5e58e0fd2309de577952ab904e0dec16",
+  "_iso3": "TWN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

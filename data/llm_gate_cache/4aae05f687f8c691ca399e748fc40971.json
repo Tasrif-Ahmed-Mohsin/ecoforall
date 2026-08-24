@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh faces moderate economic imbalances (current account deficit, moderate inflation) but no extreme crisis, while political instability and environmental vulnerabilities (floods, droughts, storms) add downside risks, so economy leads but politics and environment are also significant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bangladesh faces moderate economic imbalances (current account deficit, moderate inflation) but no extreme crisis, while political instability and environmental vulnerabilities (floods, droughts, storms) add downside risks, so economy leads but politics and environment are also significant.\"\n}",
+  "_cache_key": "4aae05f687f8c691ca399e748fc40971",
+  "_iso3": "BGD",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia in 2004 is a lower-middle-income, politically unstable (low stability, high conflict/protest) but not in an acute crisis, so economic fundamentals dominate, with politics elevated due to instability and longer-term structural factors (education, demographics) also mattering.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia in 2004 is a lower-middle-income, politically unstable (low stability, high conflict/protest) but not in an acute crisis, so economic fundamentals dominate, with politics elevated due to instability and longer-term structural factors (education, demographics) also mattering.\"\n}",
+  "_cache_key": "2fde4966e718de02349adf8b7f04391e",
+  "_iso3": "IDN",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

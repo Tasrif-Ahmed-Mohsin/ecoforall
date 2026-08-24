@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Paraguay is a stable middle-income economy with moderate debt and inflation, but recent growth has been weak and social indicators (low trust, high protest pressure) suggest modest human_society risks, while political and environmental factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Paraguay is a stable middle-income economy with moderate debt and inflation, but recent growth has been weak and social indicators (low trust, high protest pressure) suggest modest human_society risks, while political and environmental factors are relatively benign.\"\n}",
+  "_cache_key": "213f2cf627a6f800b413711a1fa07e1b",
+  "_iso3": "PRY",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

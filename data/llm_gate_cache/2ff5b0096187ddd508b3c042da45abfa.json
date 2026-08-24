@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Denmark is a stable, high-income economy with no crises, strong institutions, and moderate environmental risks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Denmark is a stable, high-income economy with no crises, strong institutions, and moderate environmental risks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "2ff5b0096187ddd508b3c042da45abfa",
+  "_iso3": "DNK",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

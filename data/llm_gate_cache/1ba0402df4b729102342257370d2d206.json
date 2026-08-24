@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia is a stable high-income EU economy with moderate debt and low inflation, but elevated political instability, protests, and negative sentiment warrant a notable political weight, while social factors like low trust and high optimism balance the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Croatia is a stable high-income EU economy with moderate debt and low inflation, but elevated political instability, protests, and negative sentiment warrant a notable political weight, while social factors like low trust and high optimism balance the short-term outlook.\"\n}",
+  "_cache_key": "1ba0402df4b729102342257370d2d206",
+  "_iso3": "HRV",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

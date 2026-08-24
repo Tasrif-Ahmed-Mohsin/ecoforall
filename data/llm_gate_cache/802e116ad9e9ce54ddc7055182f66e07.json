@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Vietnam in 2011 is a stable, emerging economy with moderate inflation and no major political or environmental shocks, so short-term growth is primarily driven by economic fundamentals, with modest roles for political stability and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Vietnam in 2011 is a stable, emerging economy with moderate inflation and no major political or environmental shocks, so short-term growth is primarily driven by economic fundamentals, with modest roles for political stability and social factors.\"\n}",
+  "_cache_key": "802e116ad9e9ce54ddc7055182f66e07",
+  "_iso3": "VNM",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

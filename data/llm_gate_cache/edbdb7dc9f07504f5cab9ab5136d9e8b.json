@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2006 shows moderate economic growth with high unemployment and inflation, but no acute crises, so economic fundamentals dominate, while political instability and social tensions warrant significant weight for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Serbia in 2006 shows moderate economic growth with high unemployment and inflation, but no acute crises, so economic fundamentals dominate, while political instability and social tensions warrant significant weight for a 5-year horizon.\"\n}",
+  "_cache_key": "edbdb7dc9f07504f5cab9ab5136d9e8b",
+  "_iso3": "SRB",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

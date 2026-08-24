@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Laos faces high public debt, moderate inflation, and a fragile post-pandemic recovery, but political instability and social discontent (low trust, high fear, protests) are significant risks that could derail growth, while environmental factors are less pressing given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Laos faces high public debt, moderate inflation, and a fragile post-pandemic recovery, but political instability and social discontent (low trust, high fear, protests) are significant risks that could derail growth, while environmental factors are less pressing given limited data.\"\n}",
+  "_cache_key": "1844ff368183c9ac3cc4c04558be0b35",
+  "_iso3": "LAO",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

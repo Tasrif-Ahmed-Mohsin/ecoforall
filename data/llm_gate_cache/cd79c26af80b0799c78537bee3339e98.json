@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Guatemala is a stable, middle-income economy with moderate imbalances (current account deficit, inflation) and no active crises, so economic fundamentals dominate, but political instability and social tensions warrant modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Guatemala is a stable, middle-income economy with moderate imbalances (current account deficit, inflation) and no active crises, so economic fundamentals dominate, but political instability and social tensions warrant modest weight.\"\n}",
+  "_cache_key": "cd79c26af80b0799c78537bee3339e98",
+  "_iso3": "GTM",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

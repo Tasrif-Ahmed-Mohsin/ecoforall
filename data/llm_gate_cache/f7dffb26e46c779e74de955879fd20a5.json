@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Somalia's low income, high political instability, and significant conflict/protest activity make politics a major driver, but the economy's low investment and external imbalances still dominate short-term growth prospects.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Somalia's low income, high political instability, and significant conflict/protest activity make politics a major driver, but the economy's low investment and external imbalances still dominate short-term growth prospects.\"\n}",
+  "_cache_key": "f7dffb26e46c779e74de955879fd20a5",
+  "_iso3": "SOM",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

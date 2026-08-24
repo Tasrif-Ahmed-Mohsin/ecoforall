@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Extreme inflation, high debt, and negative growth trajectory dominate the outlook, but severe political instability, sanctions, and conflict intensity also significantly constrain recovery, while environmental and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Extreme inflation, high debt, and negative growth trajectory dominate the outlook, but severe political instability, sanctions, and conflict intensity also significantly constrain recovery, while environmental and social factors play secondary roles.\"\n}",
+  "_cache_key": "0668b051f4acbcbd95ea70e3c5e24094",
+  "_iso3": "VEN",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

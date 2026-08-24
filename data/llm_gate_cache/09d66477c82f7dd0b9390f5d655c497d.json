@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic vulnerabilities (high investment, current account deficit, moderate debt) and political instability (very low stability, high conflict/protest) suggest a balanced but economy-led weighting, with social factors also relevant due to low trust and cohesion.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic vulnerabilities (high investment, current account deficit, moderate debt) and political instability (very low stability, high conflict/protest) suggest a balanced but economy-led weighting, with social factors also relevant due to low trust and cohesion.\"\n}",
+  "_cache_key": "09d66477c82f7dd0b9390f5d655c497d",
+  "_iso3": "MAR",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

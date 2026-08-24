@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia in 2008 is a middle-income, politically stable (no crises) economy with moderate inflation and investment, but the 5-year horizon and structural weaknesses (low political stability, high protest counts, environmental risks) warrant a moderate weight on politics and human society, while the economy remains the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia in 2008 is a middle-income, politically stable (no crises) economy with moderate inflation and investment, but the 5-year horizon and structural weaknesses (low political stability, high protest counts, environmental risks) warrant a moderate weight on politics and human society, while the economy remains the primary driver.\"\n}",
+  "_cache_key": "d4c7f7f7c0bf3ca495916ad9d527366e",
+  "_iso3": "IDN",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

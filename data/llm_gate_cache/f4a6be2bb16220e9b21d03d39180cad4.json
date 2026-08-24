@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2013 faces moderate political instability and conflict, but the economy is relatively stable with positive growth and low inflation, so economic fundamentals dominate while political risks warrant a significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2013 faces moderate political instability and conflict, but the economy is relatively stable with positive growth and low inflation, so economic fundamentals dominate while political risks warrant a significant weight.\"\n}",
+  "_cache_key": "f4a6be2bb16220e9b21d03d39180cad4",
+  "_iso3": "IRQ",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

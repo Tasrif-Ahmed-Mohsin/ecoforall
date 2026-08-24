@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income economy with moderate growth but high external imbalances and political instability, making economic fundamentals and political risks the primary drivers of near-term GDP growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income economy with moderate growth but high external imbalances and political instability, making economic fundamentals and political risks the primary drivers of near-term GDP growth.\"\n}",
+  "_cache_key": "8dd9b461d8bfe0ef5f5fc56d4f5622f2",
+  "_iso3": "TGO",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

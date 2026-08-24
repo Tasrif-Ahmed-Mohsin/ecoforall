@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.08,
+  "environment": 0.03,
+  "human_society": 0.04,
+  "confidence": 0.75,
+  "reasoning": "The economy is in a stable growth phase with moderate inflation and investment, no crises, and political indicators are relatively calm, so economic factors dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.08,\n  \"environment\": 0.03,\n  \"human_society\": 0.04,\n  \"confidence\": 0.75,\n  \"reasoning\": \"The economy is in a stable growth phase with moderate inflation and investment, no crises, and political indicators are relatively calm, so economic factors dominate the short-term forecast.\"\n}",
+  "_cache_key": "dd1b4dacd73b02112593ee65a720adcd",
+  "_iso3": "DJI",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

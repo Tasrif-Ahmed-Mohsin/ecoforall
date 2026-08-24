@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Yemen faces severe political instability and conflict, which will heavily disrupt economic activity, while moderate inflation, high debt, and unemployment also constrain growth, making politics and economy the dominant factors.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Yemen faces severe political instability and conflict, which will heavily disrupt economic activity, while moderate inflation, high debt, and unemployment also constrain growth, making politics and economy the dominant factors.\"\n}",
+  "_cache_key": "b932df075fa6c259722590de5b2a38dc",
+  "_iso3": "YEM",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Russia in 2013 is a stable, upper-middle-income economy with moderate growth, low debt, and no active crises, but rising sanctions and political tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Russia in 2013 is a stable, upper-middle-income economy with moderate growth, low debt, and no active crises, but rising sanctions and political tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "7e4e2cc544d59db68981b8908328c440",
+  "_iso3": "RUS",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

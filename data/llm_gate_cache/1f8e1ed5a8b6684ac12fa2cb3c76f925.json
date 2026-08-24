@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uganda's moderate growth, low inflation, and stable banking sector suggest economic factors dominate, but high political instability, protests, and sanctions warrant a significant political risk premium, while social tensions and low trust add moderate human_society weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uganda's moderate growth, low inflation, and stable banking sector suggest economic factors dominate, but high political instability, protests, and sanctions warrant a significant political risk premium, while social tensions and low trust add moderate human_society weight.\"\n}",
+  "_cache_key": "1f8e1ed5a8b6684ac12fa2cb3c76f925",
+  "_iso3": "UGA",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

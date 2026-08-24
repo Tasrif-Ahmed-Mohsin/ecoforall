@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam in 2003 is a stable, emerging economy with moderate growth, no active crises, but with structural vulnerabilities (external deficit, moderate debt) and a 5-year horizon where environmental and social factors begin to matter more, so economy dominates but not overwhelmingly.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam in 2003 is a stable, emerging economy with moderate growth, no active crises, but with structural vulnerabilities (external deficit, moderate debt) and a 5-year horizon where environmental and social factors begin to matter more, so economy dominates but not overwhelmingly.\"\n}",
+  "_cache_key": "fc308157cb31298f721a3d5d25270b3e",
+  "_iso3": "VNM",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

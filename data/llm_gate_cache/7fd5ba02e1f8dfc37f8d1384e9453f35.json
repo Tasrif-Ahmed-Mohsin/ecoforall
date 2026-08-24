@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Cambodia is a lower-middle-income economy with strong recent growth and high investment, but its large current account deficit and moderate political instability (protests, sanctions) warrant a significant political weight, while social factors like low trust and high fear also matter for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Cambodia is a lower-middle-income economy with strong recent growth and high investment, but its large current account deficit and moderate political instability (protests, sanctions) warrant a significant political weight, while social factors like low trust and high fear also matter for a 5-year horizon.\"\n}",
+  "_cache_key": "7fd5ba02e1f8dfc37f8d1384e9453f35",
+  "_iso3": "KHM",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

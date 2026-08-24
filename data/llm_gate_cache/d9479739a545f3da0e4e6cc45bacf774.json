@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ has moderate debt, low investment, and recent growth volatility, but no active crises, so economic fundamentals dominate, while political instability and social pressures add moderate risk over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ has moderate debt, low investment, and recent growth volatility, but no active crises, so economic fundamentals dominate, while political instability and social pressures add moderate risk over a 5-year horizon.\"\n}",
+  "_cache_key": "d9479739a545f3da0e4e6cc45bacf774",
+  "_iso3": "KGZ",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

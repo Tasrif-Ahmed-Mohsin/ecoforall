@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CZE is a stable high-income economy with moderate debt and low unemployment, but political instability, protests, and negative sentiment warrant a modest political and social risk premium, while environmental factors are negligible over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CZE is a stable high-income economy with moderate debt and low unemployment, but political instability, protests, and negative sentiment warrant a modest political and social risk premium, while environmental factors are negligible over this short horizon.\"\n}",
+  "_cache_key": "3d7ff1604578469eafefd5a1f1325ce5",
+  "_iso3": "CZE",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

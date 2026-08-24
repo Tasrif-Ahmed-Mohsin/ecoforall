@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Iceland is in a severe financial and currency crisis with banking collapse, high inflation, and political instability, so economic factors dominate but political risk is elevated, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Iceland is in a severe financial and currency crisis with banking collapse, high inflation, and political instability, so economic factors dominate but political risk is elevated, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "c6f87a33f1bd8294e17f05daf3f259b8",
+  "_iso3": "ISL",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

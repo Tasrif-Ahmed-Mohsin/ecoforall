@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Dominican Republic in 2008 shows moderate inflation, high current account deficit, and slowing growth, but no major political or environmental shocks, so economic factors dominate while social and political stability remain secondary.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Dominican Republic in 2008 shows moderate inflation, high current account deficit, and slowing growth, but no major political or environmental shocks, so economic factors dominate while social and political stability remain secondary.\"\n}",
+  "_cache_key": "7a9da14373e6b3c3ed493320aa8e8c5d",
+  "_iso3": "DOM",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

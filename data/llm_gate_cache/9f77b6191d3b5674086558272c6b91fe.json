@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDV is a high-income, stable economy with no current crises, but the large current account deficit and recent growth volatility warrant a strong economic focus, while moderate political instability and protest pressure justify a secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDV is a high-income, stable economy with no current crises, but the large current account deficit and recent growth volatility warrant a strong economic focus, while moderate political instability and protest pressure justify a secondary political weight.\"\n}",
+  "_cache_key": "9f77b6191d3b5674086558272c6b91fe",
+  "_iso3": "MDV",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

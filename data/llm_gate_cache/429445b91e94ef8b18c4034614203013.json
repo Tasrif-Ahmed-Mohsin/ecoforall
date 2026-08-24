@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "MNG shows extreme external imbalances and high inflation, but political stability is moderate with some conflict and protest pressure, while social indicators are mixed, so economic fundamentals dominate but political and social risks are non-trivial.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MNG shows extreme external imbalances and high inflation, but political stability is moderate with some conflict and protest pressure, while social indicators are mixed, so economic fundamentals dominate but political and social risks are non-trivial.\"\n}",
+  "_cache_key": "429445b91e94ef8b18c4034614203013",
+  "_iso3": "MNG",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt, low investment, and volatile growth make economy key, but elevated conflict, sanctions, and protests raise political risk, while limited environmental and social data keep their weights modest.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, low investment, and volatile growth make economy key, but elevated conflict, sanctions, and protests raise political risk, while limited environmental and social data keep their weights modest.\"\n}",
+  "_cache_key": "8f09acd65c018a5353cd18aa0fb8925f",
+  "_iso3": "ERI",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

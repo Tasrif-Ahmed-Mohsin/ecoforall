@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "MNG is a stable, high-growth emerging economy with no ongoing crises, so economic fundamentals dominate the near-term outlook, while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"MNG is a stable, high-growth emerging economy with no ongoing crises, so economic fundamentals dominate the near-term outlook, while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "08821d0b28fd5554e8e1a5e3d77a2e0a",
+  "_iso3": "MNG",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

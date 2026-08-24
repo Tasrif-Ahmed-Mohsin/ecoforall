@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "The US in 2008 is a stable high-income economy facing a financial crisis, so economic factors dominate, with modest political and social stress from the crisis and no major environmental shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"The US in 2008 is a stable high-income economy facing a financial crisis, so economic factors dominate, with modest political and social stress from the crisis and no major environmental shocks.\"\n}",
+  "_cache_key": "07e0345ee722267aaa0649c84de884d5",
+  "_iso3": "USA",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

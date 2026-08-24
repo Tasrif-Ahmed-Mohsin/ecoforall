@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MNG faces a severe current account deficit and high inflation, but political instability and social tensions are moderate, so economic factors dominate while politics and society play notable roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MNG faces a severe current account deficit and high inflation, but political instability and social tensions are moderate, so economic factors dominate while politics and society play notable roles.\"\n}",
+  "_cache_key": "ba47ecbb9f839aee2039693722a3873d",
+  "_iso3": "MNG",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

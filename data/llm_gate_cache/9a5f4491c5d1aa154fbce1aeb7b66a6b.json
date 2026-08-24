@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Given the very low GDP per capita, high inflation, large current account deficit, and severe political instability with sanctions and conflict, political risk dominates the near-term growth outlook, while economic vulnerabilities and social pressures also weigh heavily.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Given the very low GDP per capita, high inflation, large current account deficit, and severe political instability with sanctions and conflict, political risk dominates the near-term growth outlook, while economic vulnerabilities and social pressures also weigh heavily.\"\n}",
+  "_cache_key": "9a5f4491c5d1aa154fbce1aeb7b66a6b",
+  "_iso3": "MWI",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

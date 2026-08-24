@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2013 faces moderate inflation, a large current account deficit, and high political instability with sanctions and conflict, making economic and political factors dominant for short-term growth, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2013 faces moderate inflation, a large current account deficit, and high political instability with sanctions and conflict, making economic and political factors dominant for short-term growth, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "3bcb87776ccd9656ba6a524f6c1b97a4",
+  "_iso3": "ETH",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

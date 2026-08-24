@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "South Africa in 2013 faces moderate political instability and social unrest, but the primary driver of near-term GDP growth remains the weak economic fundamentals (high unemployment, current account deficit, and moderate debt), while environmental and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"South Africa in 2013 faces moderate political instability and social unrest, but the primary driver of near-term GDP growth remains the weak economic fundamentals (high unemployment, current account deficit, and moderate debt), while environmental and social factors play secondary roles.\"\n}",
+  "_cache_key": "ce0821371ab9a3771bf1dd70d60bb8f3",
+  "_iso3": "ZAF",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

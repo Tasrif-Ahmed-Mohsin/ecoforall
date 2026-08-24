@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran's economy is moderately stable with moderate inflation and investment, but political sanctions and social tensions warrant elevated political and social weights, while environmental risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran's economy is moderately stable with moderate inflation and investment, but political sanctions and social tensions warrant elevated political and social weights, while environmental risks are secondary.\"\n}",
+  "_cache_key": "70e70d44cbdb38d8eb1a6e991ca7d05f",
+  "_iso3": "IRN",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

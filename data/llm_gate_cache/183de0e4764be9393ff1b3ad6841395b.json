@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Dominican Republic in 2004 faces high inflation and recent negative growth, but no active crises, so economic fundamentals dominate while moderate political instability and social discontent warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Dominican Republic in 2004 faces high inflation and recent negative growth, but no active crises, so economic fundamentals dominate while moderate political instability and social discontent warrant secondary weights.\"\n}",
+  "_cache_key": "183de0e4764be9393ff1b3ad6841395b",
+  "_iso3": "DOM",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Benin faces severe political instability and conflict, which will likely disrupt economic activity and investment, while the moderate debt and external imbalances add economic fragility, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Benin faces severe political instability and conflict, which will likely disrupt economic activity and investment, while the moderate debt and external imbalances add economic fragility, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "50837af882fbbef5c557771661bb28d5",
+  "_iso3": "BEN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

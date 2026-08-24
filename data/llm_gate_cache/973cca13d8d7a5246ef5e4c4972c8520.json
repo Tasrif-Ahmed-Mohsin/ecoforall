@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica's moderate growth, high debt, and unemployment point to economic fragility, but political instability and protests add significant risk, while environmental and social factors are less immediate over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica's moderate growth, high debt, and unemployment point to economic fragility, but political instability and protests add significant risk, while environmental and social factors are less immediate over a 5-year horizon.\"\n}",
+  "_cache_key": "973cca13d8d7a5246ef5e4c4972c8520",
+  "_iso3": "JAM",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

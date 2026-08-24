@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "El Salvador in 2003 shows moderate economic imbalances (high current account deficit, moderate debt) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"El Salvador in 2003 shows moderate economic imbalances (high current account deficit, moderate debt) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight.\"\n}",
+  "_cache_key": "2f3ec5cba275af398a746ef233477786",
+  "_iso3": "SLV",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

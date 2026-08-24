@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico's economy is stable with moderate debt and no crises, but political instability and conflict, along with moderate environmental risks, warrant significant non-economic weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mexico's economy is stable with moderate debt and no crises, but political instability and conflict, along with moderate environmental risks, warrant significant non-economic weights over a 5-year horizon.\"\n}",
+  "_cache_key": "94ac8b413c4cf6aab69bf65a6a5f3af4",
+  "_iso3": "MEX",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

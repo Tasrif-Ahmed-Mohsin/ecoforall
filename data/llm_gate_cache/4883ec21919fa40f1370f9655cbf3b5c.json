@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF faces a currency crisis and high unemployment, but political stability is moderate and no major conflict or climate shock dominates, so economic factors remain primary while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF faces a currency crisis and high unemployment, but political stability is moderate and no major conflict or climate shock dominates, so economic factors remain primary while political and social risks are elevated.\"\n}",
+  "_cache_key": "4883ec21919fa40f1370f9655cbf3b5c",
+  "_iso3": "ZAF",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

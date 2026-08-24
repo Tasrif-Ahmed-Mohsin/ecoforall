@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Oman's high-income, stable economy with low debt and positive current account suggests economic factors dominate, but severe political instability, sanctions, and negative sentiment elevate political risk, while social trust and optimism are weak but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Oman's high-income, stable economy with low debt and positive current account suggests economic factors dominate, but severe political instability, sanctions, and negative sentiment elevate political risk, while social trust and optimism are weak but not collapsing.\"\n}",
+  "_cache_key": "ecf316e08db0d72ac6e030cb33188e25",
+  "_iso3": "OMN",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

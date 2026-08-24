@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Vietnam in 2006 is a stable, emerging economy with moderate inflation and investment, no active crises, and recent growth around 6%, so economic fundamentals dominate the short-term outlook, with minor roles for political stability, social conditions, and environmental factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Vietnam in 2006 is a stable, emerging economy with moderate inflation and investment, no active crises, and recent growth around 6%, so economic fundamentals dominate the short-term outlook, with minor roles for political stability, social conditions, and environmental factors.\"\n}",
+  "_cache_key": "9b31c5cba5ffba8bbfa6a7e37d5638b5",
+  "_iso3": "VNM",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

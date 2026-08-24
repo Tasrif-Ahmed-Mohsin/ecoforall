@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2008 faces high unemployment, high inflation, and a large current account deficit, but no active political or environmental crisis, so economic factors dominate while social strains and moderate political instability warrant secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia in 2008 faces high unemployment, high inflation, and a large current account deficit, but no active political or environmental crisis, so economic factors dominate while social strains and moderate political instability warrant secondary weight.\"\n}",
+  "_cache_key": "73410cb993e25c80e5ee9cff7921e420",
+  "_iso3": "ARM",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

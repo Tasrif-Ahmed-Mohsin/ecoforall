@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Brazil in 2003 is a stable emerging economy with moderate inflation and debt, but high unemployment and low investment, making economic fundamentals the primary driver, while political stability is decent, environmental risks are moderate, and social indicators are mixed but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Brazil in 2003 is a stable emerging economy with moderate inflation and debt, but high unemployment and low investment, making economic fundamentals the primary driver, while political stability is decent, environmental risks are moderate, and social indicators are mixed but not crisis-level.\"\n}",
+  "_cache_key": "33b508a8cffc96ee6e085ca10072b9ca",
+  "_iso3": "BRA",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

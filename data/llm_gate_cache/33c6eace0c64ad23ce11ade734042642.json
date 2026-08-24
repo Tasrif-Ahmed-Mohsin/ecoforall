@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Sweden is a stable, high-income economy with moderate inflation and unemployment but no major political or environmental shocks, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Sweden is a stable, high-income economy with moderate inflation and unemployment but no major political or environmental shocks, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "33c6eace0c64ad23ce11ade734042642",
+  "_iso3": "SWE",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

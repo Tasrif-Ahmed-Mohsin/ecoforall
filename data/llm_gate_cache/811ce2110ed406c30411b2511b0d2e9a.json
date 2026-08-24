@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BLZ faces high political instability, sanctions, and conflict, which will heavily disrupt growth, while its high debt, unemployment, and external deficit also pose significant economic risks, but environmental and social factors are less pressing given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BLZ faces high political instability, sanctions, and conflict, which will heavily disrupt growth, while its high debt, unemployment, and external deficit also pose significant economic risks, but environmental and social factors are less pressing given limited data.\"\n}",
+  "_cache_key": "811ce2110ed406c30411b2511b0d2e9a",
+  "_iso3": "BLZ",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

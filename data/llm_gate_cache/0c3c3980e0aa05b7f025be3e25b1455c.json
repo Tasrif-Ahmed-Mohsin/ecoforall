@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "CRI is a stable, upper-middle-income economy with no active crises, moderate inflation, and positive growth trajectory, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CRI is a stable, upper-middle-income economy with no active crises, moderate inflation, and positive growth trajectory, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "0c3c3980e0aa05b7f025be3e25b1455c",
+  "_iso3": "CRI",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

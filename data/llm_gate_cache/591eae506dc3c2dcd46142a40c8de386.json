@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "CAF is a low-income, fragile state with high inflation, large current account deficit, low investment, and recent growth stagnation, while political instability and conflict indicators are elevated but not extreme, so economic fundamentals dominate but political risk is significant for the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"CAF is a low-income, fragile state with high inflation, large current account deficit, low investment, and recent growth stagnation, while political instability and conflict indicators are elevated but not extreme, so economic fundamentals dominate but political risk is significant for the 5-year horizon.\"\n}",
+  "_cache_key": "591eae506dc3c2dcd46142a40c8de386",
+  "_iso3": "CAF",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

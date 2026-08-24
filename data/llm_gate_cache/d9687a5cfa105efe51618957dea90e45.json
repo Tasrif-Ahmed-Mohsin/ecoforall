@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and social tensions, combined with a fragile external position, warrant elevated political and social weights, but the economy remains the primary driver given no acute crisis and a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with a fragile external position, warrant elevated political and social weights, but the economy remains the primary driver given no acute crisis and a 5-year horizon.\"\n}",
+  "_cache_key": "d9687a5cfa105efe51618957dea90e45",
+  "_iso3": "CRI",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

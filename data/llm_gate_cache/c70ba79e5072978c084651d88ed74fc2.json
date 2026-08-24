@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BRN is a stable, high-income economy with strong current account surplus, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BRN is a stable, high-income economy with strong current account surplus, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "c70ba79e5072978c084651d88ed74fc2",
+  "_iso3": "BRN",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

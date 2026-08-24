@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA shows moderate economic imbalances (high current account deficit, high investment, moderate inflation) but no active crises, so economy dominates, while political and social factors (moderate instability, protests, low trust) warrant secondary attention.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA shows moderate economic imbalances (high current account deficit, high investment, moderate inflation) but no active crises, so economy dominates, while political and social factors (moderate instability, protests, low trust) warrant secondary attention.\"\n}",
+  "_cache_key": "eae2f2add6fd3fd0e73d8e8238363127",
+  "_iso3": "DZA",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

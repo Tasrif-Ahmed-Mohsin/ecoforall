@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High-income economy with moderate growth and low debt, but political instability and conflict risk warrant a significant political weight, while environmental and social factors are relatively stable.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High-income economy with moderate growth and low debt, but political instability and conflict risk warrant a significant political weight, while environmental and social factors are relatively stable.\"\n}",
+  "_cache_key": "f610bea80707dd9dd019c2641a094a38",
+  "_iso3": "ARE",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

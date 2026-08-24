@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania's moderate income, high investment, and recent growth suggest economic factors dominate, but political instability and social unrest warrant significant weight, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania's moderate income, high investment, and recent growth suggest economic factors dominate, but political instability and social unrest warrant significant weight, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "140a2d932f8ccf673dcf5522bab22e5f",
+  "_iso3": "ALB",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

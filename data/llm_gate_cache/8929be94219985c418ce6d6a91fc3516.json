@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "India in 2011 faces high inflation, a large current account deficit, and moderate debt, but no acute crisis, so economic fundamentals dominate, while political instability and social tensions add moderate risk, with environmental factors playing a smaller role over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"India in 2011 faces high inflation, a large current account deficit, and moderate debt, but no acute crisis, so economic fundamentals dominate, while political instability and social tensions add moderate risk, with environmental factors playing a smaller role over the 5-year horizon.\"\n}",
+  "_cache_key": "8929be94219985c418ce6d6a91fc3516",
+  "_iso3": "IND",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

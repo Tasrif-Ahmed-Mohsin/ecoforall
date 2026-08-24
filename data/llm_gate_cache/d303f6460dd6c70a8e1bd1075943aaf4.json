@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Indonesia faces moderate political instability and social tensions, but the economy is the primary driver given its recovery from a recession and manageable debt, while environmental risks are present but not dominant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Indonesia faces moderate political instability and social tensions, but the economy is the primary driver given its recovery from a recession and manageable debt, while environmental risks are present but not dominant.\"\n}",
+  "_cache_key": "d303f6460dd6c70a8e1bd1075943aaf4",
+  "_iso3": "IDN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

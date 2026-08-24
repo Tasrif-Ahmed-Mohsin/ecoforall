@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Turkey's high current account deficit, moderate debt, and recent growth volatility make economic fundamentals key, but political instability, sanctions, and social tensions warrant significant weight, while climate risks and energy transition add moderate environmental influence.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Turkey's high current account deficit, moderate debt, and recent growth volatility make economic fundamentals key, but political instability, sanctions, and social tensions warrant significant weight, while climate risks and energy transition add moderate environmental influence.\"\n}",
+  "_cache_key": "4ed33ae7d809a9b03b0e8f6e7340e524",
+  "_iso3": "TUR",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

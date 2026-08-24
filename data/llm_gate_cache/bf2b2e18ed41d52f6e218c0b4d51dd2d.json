@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.02,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Ireland is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, with modest weight on social factors given high trust and optimism, while political and environmental risks are minimal.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.02,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, with modest weight on social factors given high trust and optimism, while political and environmental risks are minimal.\"\n}",
+  "_cache_key": "bf2b2e18ed41d52f6e218c0b4d51dd2d",
+  "_iso3": "IRL",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan faces a currency crisis and political instability, but the economy is still the primary driver for short-term growth, with elevated political risk and moderate social pressures playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan faces a currency crisis and political instability, but the economy is still the primary driver for short-term growth, with elevated political risk and moderate social pressures playing secondary roles.\"\n}",
+  "_cache_key": "815be230d9ac6b20210d27213e4b8b7d",
+  "_iso3": "AZE",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

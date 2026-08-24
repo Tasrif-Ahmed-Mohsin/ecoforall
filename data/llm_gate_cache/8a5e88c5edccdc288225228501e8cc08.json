@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Cameroon in 2007 is a low-income, politically fragile state with moderate conflict and sanctions, but no major crisis, so economic fundamentals dominate while political risks warrant a notable secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon in 2007 is a low-income, politically fragile state with moderate conflict and sanctions, but no major crisis, so economic fundamentals dominate while political risks warrant a notable secondary weight.\"\n}",
+  "_cache_key": "8a5e88c5edccdc288225228501e8cc08",
+  "_iso3": "CMR",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Ghana's economy is growing strongly with moderate inflation and investment, but high current account deficit and political/social tensions warrant modest weights for non-economic domains.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ghana's economy is growing strongly with moderate inflation and investment, but high current account deficit and political/social tensions warrant modest weights for non-economic domains.\"\n}",
+  "_cache_key": "a13553040fa682571d61e434512ecfd6",
+  "_iso3": "GHA",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "CYP is a stable, high-income economy with moderate political tensions and no major shocks, so economic fundamentals dominate the 5-year growth outlook, while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CYP is a stable, high-income economy with moderate political tensions and no major shocks, so economic fundamentals dominate the 5-year growth outlook, while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "ec2944f8244d067a3610ce6f0986e38f",
+  "_iso3": "CYP",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

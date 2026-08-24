@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "AFG in 2003 faces extreme debt, high inflation, and recent volatile growth, but ongoing conflict and sanctions elevate political risk, while social instability and weak institutions also matter over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"AFG in 2003 faces extreme debt, high inflation, and recent volatile growth, but ongoing conflict and sanctions elevate political risk, while social instability and weak institutions also matter over a 5-year horizon.\"\n}",
+  "_cache_key": "3d2e7bb0df020bcf73823deba0970637",
+  "_iso3": "AFG",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

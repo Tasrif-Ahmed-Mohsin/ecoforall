@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "PHL is a stable emerging economy with moderate growth, low inflation, and no crises, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are modest.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"PHL is a stable emerging economy with moderate growth, low inflation, and no crises, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are modest.\"\n}",
+  "_cache_key": "e1823f2713d3f1f2ab05e381b41b90f4",
+  "_iso3": "PHL",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

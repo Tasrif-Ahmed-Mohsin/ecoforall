@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mali faces moderate political instability and high protest/sanction pressure, but the economy is the primary driver given low inflation, moderate debt, and recent positive growth, while social tensions and environmental risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mali faces moderate political instability and high protest/sanction pressure, but the economy is the primary driver given low inflation, moderate debt, and recent positive growth, while social tensions and environmental risks are secondary.\"\n}",
+  "_cache_key": "720ee872afd0adba5ee055d02cb4e01c",
+  "_iso3": "MLI",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

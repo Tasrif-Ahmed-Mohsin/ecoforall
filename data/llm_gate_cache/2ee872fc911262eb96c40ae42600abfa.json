@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SAU is a stable, high-income oil exporter with strong external balances and low inflation, so economic fundamentals dominate short-term growth, while political and social factors are moderate but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SAU is a stable, high-income oil exporter with strong external balances and low inflation, so economic fundamentals dominate short-term growth, while political and social factors are moderate but not crisis-level.\"\n}",
+  "_cache_key": "2ee872fc911262eb96c40ae42600abfa",
+  "_iso3": "SAU",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

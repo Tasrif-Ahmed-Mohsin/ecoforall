@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "TKM is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political tensions and limited environmental/social data warrant smaller weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TKM is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political tensions and limited environmental/social data warrant smaller weights.\"\n}",
+  "_cache_key": "b51dcc259c41dedbbdd359ef271ed0ae",
+  "_iso3": "TKM",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

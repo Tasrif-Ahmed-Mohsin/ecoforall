@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces moderate economic vulnerabilities (high unemployment, current account deficit) and social pressures (low trust, high protest), but no acute political or environmental crisis, so economy dominates while politics and society share secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia faces moderate economic vulnerabilities (high unemployment, current account deficit) and social pressures (low trust, high protest), but no acute political or environmental crisis, so economy dominates while politics and society share secondary weight.\"\n}",
+  "_cache_key": "a9666d6f9c3e5783ff2495688a4d1956",
+  "_iso3": "ARM",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

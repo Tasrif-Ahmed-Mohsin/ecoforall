@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Brazil's moderate growth, high debt, and investment weakness dominate the outlook, while political stability is moderate and environmental/social factors are secondary over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Brazil's moderate growth, high debt, and investment weakness dominate the outlook, while political stability is moderate and environmental/social factors are secondary over a 3-year horizon.\"\n}",
+  "_cache_key": "dc4174e91940851a0d0c96c34c3629c6",
+  "_iso3": "BRA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

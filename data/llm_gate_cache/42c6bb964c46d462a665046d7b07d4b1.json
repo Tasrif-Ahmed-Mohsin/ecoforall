@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "GBR is a stable, high-income economy with no ongoing crises, moderate imbalances, and positive growth trajectory, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"GBR is a stable, high-income economy with no ongoing crises, moderate imbalances, and positive growth trajectory, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "42c6bb964c46d462a665046d7b07d4b1",
+  "_iso3": "GBR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

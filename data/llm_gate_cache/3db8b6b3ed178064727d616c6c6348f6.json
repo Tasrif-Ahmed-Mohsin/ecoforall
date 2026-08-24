@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "High external imbalances and weak growth trajectory make economy key, but severe political instability, sanctions, and low trust elevate political and social risks, while environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High external imbalances and weak growth trajectory make economy key, but severe political instability, sanctions, and low trust elevate political and social risks, while environmental data is too limited to matter.\"\n}",
+  "_cache_key": "3db8b6b3ed178064727d616c6c6348f6",
+  "_iso3": "OMN",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "NIC faces high inflation, large current account deficit, and moderate growth, but severe political instability, protests, and sanctions elevate political risk, while environmental data is scarce and social indicators are limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"NIC faces high inflation, large current account deficit, and moderate growth, but severe political instability, protests, and sanctions elevate political risk, while environmental data is scarce and social indicators are limited.\"\n}",
+  "_cache_key": "478dce2d7ff124c998557c31111a6adc",
+  "_iso3": "NIC",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

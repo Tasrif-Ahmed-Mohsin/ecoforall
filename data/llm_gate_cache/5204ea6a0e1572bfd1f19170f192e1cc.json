@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran's high inflation, moderate growth, and investment levels suggest economic factors dominate, but political instability, sanctions, and social unrest add significant risk, while environmental stresses and social dynamics play secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Iran's high inflation, moderate growth, and investment levels suggest economic factors dominate, but political instability, sanctions, and social unrest add significant risk, while environmental stresses and social dynamics play secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "5204ea6a0e1572bfd1f19170f192e1cc",
+  "_iso3": "IRN",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

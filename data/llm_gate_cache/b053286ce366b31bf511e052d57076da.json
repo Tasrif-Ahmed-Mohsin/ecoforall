@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Greece is a high-income economy emerging from a deep recession with high debt and unemployment, so economic factors dominate, but political instability and social strain from austerity warrant moderate weights for politics and human_society.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Greece is a high-income economy emerging from a deep recession with high debt and unemployment, so economic factors dominate, but political instability and social strain from austerity warrant moderate weights for politics and human_society.\"\n}",
+  "_cache_key": "b053286ce366b31bf511e052d57076da",
+  "_iso3": "GRC",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

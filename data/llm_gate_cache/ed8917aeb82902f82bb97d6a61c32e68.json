@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "NAM faces severe political instability, sanctions, and conflict, which heavily disrupt growth, while high inflation, large current account deficit, and moderate debt also weigh on the economy, making politics and economy the dominant short-term drivers.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"NAM faces severe political instability, sanctions, and conflict, which heavily disrupt growth, while high inflation, large current account deficit, and moderate debt also weigh on the economy, making politics and economy the dominant short-term drivers.\"\n}",
+  "_cache_key": "ed8917aeb82902f82bb97d6a61c32e68",
+  "_iso3": "NAM",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

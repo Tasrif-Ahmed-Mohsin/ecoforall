@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Fiji shows moderate economic imbalances (high current account deficit, moderate debt) but no acute crisis, while political instability and conflict indicators are elevated, warranting a significant but not dominant political weight, with longer-horizon structural risks from climate and social factors also considered.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Fiji shows moderate economic imbalances (high current account deficit, moderate debt) but no acute crisis, while political instability and conflict indicators are elevated, warranting a significant but not dominant political weight, with longer-horizon structural risks from climate and social factors also considered.\"\n}",
+  "_cache_key": "29a503a4eb825f20aea826ba2cffeac7",
+  "_iso3": "FJI",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

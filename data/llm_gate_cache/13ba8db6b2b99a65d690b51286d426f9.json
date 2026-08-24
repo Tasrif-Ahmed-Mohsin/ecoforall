@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Russia in 2008 faces a banking crisis and high inflation, making economic factors dominant, but political instability and sanctions risk also weigh heavily, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Russia in 2008 faces a banking crisis and high inflation, making economic factors dominant, but political instability and sanctions risk also weigh heavily, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "13ba8db6b2b99a65d690b51286d426f9",
+  "_iso3": "RUS",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

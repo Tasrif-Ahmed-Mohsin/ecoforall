@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability, sanctions, and conflict raise political risk, but the economy remains the primary driver given moderate inflation, high current account deficit, and recent mixed growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate political instability, sanctions, and conflict raise political risk, but the economy remains the primary driver given moderate inflation, high current account deficit, and recent mixed growth.\"\n}",
+  "_cache_key": "f9019dcc9f2ed474d0539b5ebb8e4f77",
+  "_iso3": "HND",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

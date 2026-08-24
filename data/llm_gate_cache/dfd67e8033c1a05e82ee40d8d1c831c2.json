@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Bulgaria in 2005 is a stable, upper-middle-income economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the short-term outlook, while political and social factors play a minor supporting role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Bulgaria in 2005 is a stable, upper-middle-income economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the short-term outlook, while political and social factors play a minor supporting role.\"\n}",
+  "_cache_key": "dfd67e8033c1a05e82ee40d8d1c831c2",
+  "_iso3": "BGR",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

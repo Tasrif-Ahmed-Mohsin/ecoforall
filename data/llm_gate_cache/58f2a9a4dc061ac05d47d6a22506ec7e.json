@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Laos has moderate debt, high investment, and a current account deficit, but political stability is moderate with some protest pressure and low institutional trust, while demographic and social factors (young median age, urbanization, migration) could shape medium-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Laos has moderate debt, high investment, and a current account deficit, but political stability is moderate with some protest pressure and low institutional trust, while demographic and social factors (young median age, urbanization, migration) could shape medium-term growth.\"\n}",
+  "_cache_key": "58f2a9a4dc061ac05d47d6a22506ec7e",
+  "_iso3": "LAO",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

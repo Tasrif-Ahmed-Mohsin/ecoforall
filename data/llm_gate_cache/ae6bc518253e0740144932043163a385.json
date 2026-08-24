@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Cameroon is a lower-middle-income country with moderate political instability and conflict, but no major crisis, so economic fundamentals dominate while political risks warrant a notable share over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cameroon is a lower-middle-income country with moderate political instability and conflict, but no major crisis, so economic fundamentals dominate while political risks warrant a notable share over a 5-year horizon.\"\n}",
+  "_cache_key": "ae6bc518253e0740144932043163a385",
+  "_iso3": "CMR",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

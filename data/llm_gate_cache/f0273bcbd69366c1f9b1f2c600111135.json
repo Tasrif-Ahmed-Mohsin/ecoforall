@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Brazil is a stable, upper-middle-income economy with moderate political and environmental risks, so economic fundamentals dominate but structural factors like climate vulnerability and social tensions warrant meaningful weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Brazil is a stable, upper-middle-income economy with moderate political and environmental risks, so economic fundamentals dominate but structural factors like climate vulnerability and social tensions warrant meaningful weights over a 5-year horizon.\"\n}",
+  "_cache_key": "f0273bcbd69366c1f9b1f2c600111135",
+  "_iso3": "BRA",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

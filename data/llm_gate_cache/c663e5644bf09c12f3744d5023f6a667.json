@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability and social tensions, combined with moderate debt and negative recent growth, warrant a higher political weight, while the economy remains the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with moderate debt and negative recent growth, warrant a higher political weight, while the economy remains the primary driver.\"\n}",
+  "_cache_key": "c663e5644bf09c12f3744d5023f6a667",
+  "_iso3": "ECU",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

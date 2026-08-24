@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Austria is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Austria is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "30b7b37cbfa7adca725b9ec302349b50",
+  "_iso3": "AUT",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

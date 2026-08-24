@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Ghana's economy is growing steadily with moderate inflation and investment, but high current account deficit and debt warrant a dominant economic weight, while political stability and moderate environmental risks play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ghana's economy is growing steadily with moderate inflation and investment, but high current account deficit and debt warrant a dominant economic weight, while political stability and moderate environmental risks play secondary roles.\"\n}",
+  "_cache_key": "b77f4e5c91cbdfd7204b3bdda48d9918",
+  "_iso3": "GHA",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

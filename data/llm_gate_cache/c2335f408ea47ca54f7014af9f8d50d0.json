@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SDN faces high debt, unemployment, and inflation with moderate political instability and protests, but no acute crises, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SDN faces high debt, unemployment, and inflation with moderate political instability and protests, but no acute crises, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "c2335f408ea47ca54f7014af9f8d50d0",
+  "_iso3": "SDN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

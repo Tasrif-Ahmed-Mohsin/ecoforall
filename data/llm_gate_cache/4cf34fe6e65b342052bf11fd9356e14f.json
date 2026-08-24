@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Italy is a stable high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political instability and social factors warrant modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Italy is a stable high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political instability and social factors warrant modest weights.\"\n}",
+  "_cache_key": "4cf34fe6e65b342052bf11fd9356e14f",
+  "_iso3": "ITA",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

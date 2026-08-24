@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# API keys & Secrets
+deepseek.txt
+*.key
+*.secret
+
+# Testing & IDE
+.pytest_cache/
+.vscode/
+.idea/
+.puku/
+
+# Large Raw Data dumps (>50MB)
+*V-Dem-CY-Full+Others-v16.csv
+*.parquet
+*.joblib
+*.faiss
+*.log

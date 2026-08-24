@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Tanzania is a low-income, stable economy with moderate growth and no active crises, but political tensions and social fragility warrant elevated weights beyond the pure economic baseline.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Tanzania is a low-income, stable economy with moderate growth and no active crises, but political tensions and social fragility warrant elevated weights beyond the pure economic baseline.\"\n}",
+  "_cache_key": "20689482bcd588850b3e1d19a3397cdc",
+  "_iso3": "TZA",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

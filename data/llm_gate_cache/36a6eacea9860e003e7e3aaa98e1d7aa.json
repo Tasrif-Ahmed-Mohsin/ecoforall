@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "The US is a stable high-income economy with strong recovery momentum from 2021, so economic factors dominate, while moderate political polarization and social tensions warrant minor weights, with environmental impacts negligible over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The US is a stable high-income economy with strong recovery momentum from 2021, so economic factors dominate, while moderate political polarization and social tensions warrant minor weights, with environmental impacts negligible over a one-year horizon.\"\n}",
+  "_cache_key": "36a6eacea9860e003e7e3aaa98e1d7aa",
+  "_iso3": "USA",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Russia in 2014 faces severe sanctions, currency crisis, and geopolitical conflict, making political factors dominant, while economic weakness and social stress are secondary, with environmental factors relatively minor.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Russia in 2014 faces severe sanctions, currency crisis, and geopolitical conflict, making political factors dominant, while economic weakness and social stress are secondary, with environmental factors relatively minor.\"\n}",
+  "_cache_key": "6b161f58c6acd52d839393546b77c958",
+  "_iso3": "RUS",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "NAM is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth forecast, with modest political risk from moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NAM is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth forecast, with modest political risk from moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "7c3c3429c742c2d9eaa5d10caaf4a3a7",
+  "_iso3": "NAM",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

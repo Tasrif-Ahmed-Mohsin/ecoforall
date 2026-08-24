@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Qatar's high-income, hydrocarbon-dependent economy faces moderate political risk from instability and sanctions, while social indicators are mixed but not crisis-level, so economic fundamentals dominate but politics warrants elevated weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Qatar's high-income, hydrocarbon-dependent economy faces moderate political risk from instability and sanctions, while social indicators are mixed but not crisis-level, so economic fundamentals dominate but politics warrants elevated weight.\"\n}",
+  "_cache_key": "f33681e4d95f0b1d586698a4148488a6",
+  "_iso3": "QAT",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

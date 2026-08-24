@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GMB is a lower-middle-income economy with high inflation, elevated debt, and negative current account, but no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a notable political weight, with environment and society playing smaller roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GMB is a lower-middle-income economy with high inflation, elevated debt, and negative current account, but no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a notable political weight, with environment and society playing smaller roles over the 5-year horizon.\"\n}",
+  "_cache_key": "1d9aa7237b8069433c896789065d421f",
+  "_iso3": "GMB",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

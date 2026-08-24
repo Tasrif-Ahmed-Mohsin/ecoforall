@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, large current account deficit, and weak growth signal economic fragility, while severe political instability, sanctions, and negative diplomatic events warrant a substantial political weight, with social unrest also relevant but environmental data too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, large current account deficit, and weak growth signal economic fragility, while severe political instability, sanctions, and negative diplomatic events warrant a substantial political weight, with social unrest also relevant but environmental data too limited to matter.\"\n}",
+  "_cache_key": "ff775f4329eb8ed8a226ee5539479ab8",
+  "_iso3": "BRB",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

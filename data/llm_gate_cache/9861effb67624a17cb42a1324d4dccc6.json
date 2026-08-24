@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and strong external balance, political instability and sanctions risk weigh on near-term growth, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and strong external balance, political instability and sanctions risk weigh on near-term growth, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "9861effb67624a17cb42a1324d4dccc6",
+  "_iso3": "SAU",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

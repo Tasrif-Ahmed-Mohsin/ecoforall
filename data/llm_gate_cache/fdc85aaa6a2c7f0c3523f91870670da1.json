@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the 5-year growth outlook, with modest political risk from protests and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate political stability and no major shocks, so economic fundamentals dominate the 5-year growth outlook, with modest political risk from protests and sanctions.\"\n}",
+  "_cache_key": "fdc85aaa6a2c7f0c3523f91870670da1",
+  "_iso3": "BHR",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Fiji faces moderate economic vulnerabilities (high current account deficit, inflation, and debt) but no active crises, so economic factors dominate, while political instability and social tensions warrant secondary weight, with environmental risks less certain over this horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Fiji faces moderate economic vulnerabilities (high current account deficit, inflation, and debt) but no active crises, so economic factors dominate, while political instability and social tensions warrant secondary weight, with environmental risks less certain over this horizon.\"\n}",
+  "_cache_key": "e16a0ccbb6783bfd68b7d923766fbb09",
+  "_iso3": "FJI",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

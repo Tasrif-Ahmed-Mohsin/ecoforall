@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MNG faces high external imbalances and debt, but political stability is moderate with some conflict and sanctions, while social indicators are mixed, so economic fundamentals dominate but political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MNG faces high external imbalances and debt, but political stability is moderate with some conflict and sanctions, while social indicators are mixed, so economic fundamentals dominate but political risks warrant a notable share.\"\n}",
+  "_cache_key": "6f1cdefb1c004fd4063ef13be12318e0",
+  "_iso3": "MNG",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

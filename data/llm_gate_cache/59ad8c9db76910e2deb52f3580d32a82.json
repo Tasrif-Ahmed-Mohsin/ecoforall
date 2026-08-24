@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bhutan's high investment and growth are offset by a massive current account deficit and moderate political instability, making economic fundamentals dominant but politics a significant risk factor.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bhutan's high investment and growth are offset by a massive current account deficit and moderate political instability, making economic fundamentals dominant but politics a significant risk factor.\"\n}",
+  "_cache_key": "59ad8c9db76910e2deb52f3580d32a82",
+  "_iso3": "BTN",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDA is a middle-income economy with moderate inflation, high current account deficit, and recent growth around 5-6%, but political stability is moderate with some conflict and protest pressure, so economic fundamentals dominate while political risks warrant a secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDA is a middle-income economy with moderate inflation, high current account deficit, and recent growth around 5-6%, but political stability is moderate with some conflict and protest pressure, so economic fundamentals dominate while political risks warrant a secondary weight.\"\n}",
+  "_cache_key": "8490f2f2b459cc31dae6de5151dac0c3",
+  "_iso3": "MDA",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

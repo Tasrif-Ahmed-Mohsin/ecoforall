@@ -1,0 +1,14 @@
+{
+  "economy": 0.6111111111111112,
+  "politics": 0.22222222222222224,
+  "environment": 0.05555555555555556,
+  "human_society": 0.11111111111111112,
+  "confidence": 0.1,
+  "reasoning": "KHM is a low-income, fast-growing economy with moderate inflation and external imbalances, but political instability and social tensions are elevated, warranting a significant but not dominant political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.10,\n  \"reasoning\": \"KHM is a low-income, fast-growing economy with moderate inflation and external imbalances, but political instability and social tensions are elevated, warranting a significant but not dominant political weight.\"\n}",
+  "_cache_key": "489e86fac968318008b637b138ca4384",
+  "_iso3": "KHM",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

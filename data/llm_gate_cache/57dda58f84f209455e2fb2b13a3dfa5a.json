@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan in 2010 is a stable, oil-exporting economy with strong external surplus and low debt, but political instability and conflict risk warrant a moderate political weight, while environmental and social factors are less binding for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan in 2010 is a stable, oil-exporting economy with strong external surplus and low debt, but political instability and conflict risk warrant a moderate political weight, while environmental and social factors are less binding for a 1-year horizon.\"\n}",
+  "_cache_key": "57dda58f84f209455e2fb2b13a3dfa5a",
+  "_iso3": "AZE",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

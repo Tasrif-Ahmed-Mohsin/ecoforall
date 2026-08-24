@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cambodia is a lower-middle-income economy with moderate growth, low debt, and no current crises, but high external vulnerability and social pressures warrant a modest weight on politics and human society.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cambodia is a lower-middle-income economy with moderate growth, low debt, and no current crises, but high external vulnerability and social pressures warrant a modest weight on politics and human society.\"\n}",
+  "_cache_key": "b5ee7cb7c8a759ca978ec63dab6bfeb7",
+  "_iso3": "KHM",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

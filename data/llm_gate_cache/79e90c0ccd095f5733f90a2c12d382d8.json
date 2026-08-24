@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.9,
+  "reasoning": "Hungary in 2015 is a stable, high-income EU economy with no ongoing crises, moderate debt, and positive growth momentum, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Hungary in 2015 is a stable, high-income EU economy with no ongoing crises, moderate debt, and positive growth momentum, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "79e90c0ccd095f5733f90a2c12d382d8",
+  "_iso3": "HUN",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

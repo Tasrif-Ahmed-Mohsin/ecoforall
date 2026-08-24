@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bhutan faces high inflation, a large current account deficit, and heavy reliance on investment, but political instability and protests suggest significant political risk, while social pressures are moderate and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bhutan faces high inflation, a large current account deficit, and heavy reliance on investment, but political instability and protests suggest significant political risk, while social pressures are moderate and environmental data is limited.\"\n}",
+  "_cache_key": "b017a7364602cf4ee4eb6743fba4a1c3",
+  "_iso3": "BTN",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

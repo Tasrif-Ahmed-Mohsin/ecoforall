@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Romania in 2007 is a stable, upper-middle-income EU accession economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the 5-year outlook, while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Romania in 2007 is a stable, upper-middle-income EU accession economy with strong recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the 5-year outlook, while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "beb855e452ffa9f3d3af989e1d8542fd",
+  "_iso3": "ROU",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

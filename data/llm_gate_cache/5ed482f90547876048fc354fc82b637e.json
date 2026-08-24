@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania faces moderate political instability and high external imbalances, but its growth trajectory and investment levels suggest economic fundamentals dominate, with political risk elevated enough to warrant a substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania faces moderate political instability and high external imbalances, but its growth trajectory and investment levels suggest economic fundamentals dominate, with political risk elevated enough to warrant a substantial weight.\"\n}",
+  "_cache_key": "5ed482f90547876048fc354fc82b637e",
+  "_iso3": "ALB",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

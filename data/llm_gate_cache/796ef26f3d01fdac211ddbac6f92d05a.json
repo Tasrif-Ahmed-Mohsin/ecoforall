@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.65,
+  "reasoning": "Mozambique faces severe macroeconomic imbalances (huge current account deficit, high debt, negative recent growth) and ongoing political instability (conflict, sanctions, protests), but no major environmental shock data, so economy and politics dominate, with social factors also relevant due to low trust and cohesion.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Mozambique faces severe macroeconomic imbalances (huge current account deficit, high debt, negative recent growth) and ongoing political instability (conflict, sanctions, protests), but no major environmental shock data, so economy and politics dominate, with social factors also relevant due to low trust and cohesion.\"\n}",
+  "_cache_key": "796ef26f3d01fdac211ddbac6f92d05a",
+  "_iso3": "MOZ",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

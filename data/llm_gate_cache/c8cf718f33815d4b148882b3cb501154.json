@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MUS is a middle-income economy with moderate debt, high current account deficit, and political instability, but no active crisis, so economic fundamentals dominate while political risk warrants a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MUS is a middle-income economy with moderate debt, high current account deficit, and political instability, but no active crisis, so economic fundamentals dominate while political risk warrants a notable share.\"\n}",
+  "_cache_key": "c8cf718f33815d4b148882b3cb501154",
+  "_iso3": "MUS",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

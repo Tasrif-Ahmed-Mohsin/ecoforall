@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia faces high unemployment, external imbalances, and moderate inflation, but political tensions and social unrest (protests, low trust) add significant risk, while environmental factors are minimal.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia faces high unemployment, external imbalances, and moderate inflation, but political tensions and social unrest (protests, low trust) add significant risk, while environmental factors are minimal.\"\n}",
+  "_cache_key": "039bc6ae61de93ff43d5859470c6968a",
+  "_iso3": "GEO",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

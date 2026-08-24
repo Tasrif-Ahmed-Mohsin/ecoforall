@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate debt and low inflation, but elevated political instability and protest activity warrant a modest political risk premium, while environmental and social factors are not currently binding.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate debt and low inflation, but elevated political instability and protest activity warrant a modest political risk premium, while environmental and social factors are not currently binding.\"\n}",
+  "_cache_key": "8dec14208d72dc61fd383f76ea7f641e",
+  "_iso3": "BHR",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

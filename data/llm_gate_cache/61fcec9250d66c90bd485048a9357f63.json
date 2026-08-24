@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Uganda in 2003 shows moderate growth, low inflation, and no active crises, but high debt and social fragility warrant modest political and societal weights over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Uganda in 2003 shows moderate growth, low inflation, and no active crises, but high debt and social fragility warrant modest political and societal weights over a 3-year horizon.\"\n}",
+  "_cache_key": "61fcec9250d66c90bd485048a9357f63",
+  "_iso3": "UGA",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

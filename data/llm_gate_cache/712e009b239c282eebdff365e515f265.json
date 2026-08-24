@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "TKM is a stable, upper-middle-income economy with moderate inflation, low debt, strong investment, and positive recent growth, so economic fundamentals dominate the 1-year outlook, while political and social risks are modest and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TKM is a stable, upper-middle-income economy with moderate inflation, low debt, strong investment, and positive recent growth, so economic fundamentals dominate the 1-year outlook, while political and social risks are modest and environmental data is limited.\"\n}",
+  "_cache_key": "712e009b239c282eebdff365e515f265",
+  "_iso3": "TKM",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

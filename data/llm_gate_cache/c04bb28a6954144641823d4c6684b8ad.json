@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.7,
+  "reasoning": "Oman faces severe political instability (very low stability, high protests, sanctions, negative Goldstein index) alongside weak social trust and low optimism, while the economy is relatively stable with low debt and positive current account, so political and social factors dominate the 5-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Oman faces severe political instability (very low stability, high protests, sanctions, negative Goldstein index) alongside weak social trust and low optimism, while the economy is relatively stable with low debt and positive current account, so political and social factors dominate the 5-year growth outlook.\"\n}",
+  "_cache_key": "c04bb28a6954144641823d4c6684b8ad",
+  "_iso3": "OMN",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

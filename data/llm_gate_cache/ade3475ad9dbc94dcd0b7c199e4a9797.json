@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "DZA faces moderate political instability, high unemployment, and a large current account deficit, but the economy is relatively stable with low inflation and debt, so economic fundamentals and structural social factors dominate the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"DZA faces moderate political instability, high unemployment, and a large current account deficit, but the economy is relatively stable with low inflation and debt, so economic fundamentals and structural social factors dominate the 5-year outlook.\"\n}",
+  "_cache_key": "ade3475ad9dbc94dcd0b7c199e4a9797",
+  "_iso3": "DZA",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

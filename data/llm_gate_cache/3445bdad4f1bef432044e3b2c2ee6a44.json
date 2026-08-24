@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kyrgyzstan faces high inflation, large current account deficit, and moderate debt, but no active banking/currency/sovereign crises, while political instability and protests are elevated but not at full conflict, so economic fundamentals dominate with a significant political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kyrgyzstan faces high inflation, large current account deficit, and moderate debt, but no active banking/currency/sovereign crises, while political instability and protests are elevated but not at full conflict, so economic fundamentals dominate with a significant political risk premium.\"\n}",
+  "_cache_key": "3445bdad4f1bef432044e3b2c2ee6a44",
+  "_iso3": "KGZ",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

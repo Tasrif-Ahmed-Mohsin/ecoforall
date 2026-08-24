@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "Bolivia's growth is primarily driven by economic fundamentals (moderate debt, low inflation, positive growth trajectory), but significant political instability and sanctions warrant a substantial political weight, while environmental and social factors are less critical over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bolivia's growth is primarily driven by economic fundamentals (moderate debt, low inflation, positive growth trajectory), but significant political instability and sanctions warrant a substantial political weight, while environmental and social factors are less critical over a 1-year horizon.\"\n}",
+  "_cache_key": "81560fa398613b9108fd65fb0a322df0",
+  "_iso3": "BOL",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

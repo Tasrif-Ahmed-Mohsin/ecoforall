@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver for a 1-year horizon given moderate growth, low debt, and no ongoing crises, while political and social factors are secondary but not negligible due to moderate instability and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The economy is the dominant driver for a 1-year horizon given moderate growth, low debt, and no ongoing crises, while political and social factors are secondary but not negligible due to moderate instability and low trust.\"\n}",
+  "_cache_key": "844506be0d90db7459086e3ba9950a3a",
+  "_iso3": "NPL",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LKA shows moderate economic imbalances (high debt, inflation, current account deficit) but no active crises, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LKA shows moderate economic imbalances (high debt, inflation, current account deficit) but no active crises, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.\"\n}",
+  "_cache_key": "b25b75161efbf5227d5b37f3b764cddf",
+  "_iso3": "LKA",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

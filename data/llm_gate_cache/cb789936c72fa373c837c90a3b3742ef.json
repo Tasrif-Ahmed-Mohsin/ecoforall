@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK faces high inflation, large current account deficit, and stagnant growth, but no active banking/currency/sovereign crises, while moderate political instability and environmental pressures (floods, droughts, storms) add downside risks, so economy dominates but politics and environment are also significant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PAK faces high inflation, large current account deficit, and stagnant growth, but no active banking/currency/sovereign crises, while moderate political instability and environmental pressures (floods, droughts, storms) add downside risks, so economy dominates but politics and environment are also significant.\"\n}",
+  "_cache_key": "cb789936c72fa373c837c90a3b3742ef",
+  "_iso3": "PAK",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

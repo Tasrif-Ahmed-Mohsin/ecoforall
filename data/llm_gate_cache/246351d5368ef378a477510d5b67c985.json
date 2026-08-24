@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.75,
+  "reasoning": "High-income, stable economy with moderate inflation and investment, but recent negative growth and mild political/social tensions warrant a slight shift from pure economic dominance.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High-income, stable economy with moderate inflation and investment, but recent negative growth and mild political/social tensions warrant a slight shift from pure economic dominance.\"\n}",
+  "_cache_key": "246351d5368ef378a477510d5b67c985",
+  "_iso3": "ARE",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iran faces high inflation, heavy sanctions, and political instability, but its moderate growth and investment levels keep economic factors dominant, while social and environmental stresses are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces high inflation, heavy sanctions, and political instability, but its moderate growth and investment levels keep economic factors dominant, while social and environmental stresses are secondary.\"\n}",
+  "_cache_key": "f7a4236668ae0dc1d3d7dc0f207b4d36",
+  "_iso3": "IRN",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

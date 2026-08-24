@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia's high current account deficit, elevated unemployment, and moderate inflation suggest economic vulnerabilities dominate, while political stability is moderate and social indicators show mixed but not crisis-level stress, so economy gets the largest weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia's high current account deficit, elevated unemployment, and moderate inflation suggest economic vulnerabilities dominate, while political stability is moderate and social indicators show mixed but not crisis-level stress, so economy gets the largest weight.\"\n}",
+  "_cache_key": "4d8841bb1ce5f4c497179c6c3ca1ff85",
+  "_iso3": "GEO",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Germany is a stable, high-income economy with low inflation, low unemployment, and a strong external surplus, so near-term growth is driven primarily by economic fundamentals, while political tensions and environmental risks are moderate but not dominant over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Germany is a stable, high-income economy with low inflation, low unemployment, and a strong external surplus, so near-term growth is driven primarily by economic fundamentals, while political tensions and environmental risks are moderate but not dominant over a one-year horizon.\"\n}",
+  "_cache_key": "bbec0d30e8632b65e640152cb32bea2d",
+  "_iso3": "DEU",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

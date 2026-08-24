@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "MNG is a stable, upper-middle-income economy with moderate debt, low inflation, and strong investment, but the 5-year horizon and moderate political/social tensions warrant a slightly lower economic weight and higher human/society weight than a purely stable high-income case.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MNG is a stable, upper-middle-income economy with moderate debt, low inflation, and strong investment, but the 5-year horizon and moderate political/social tensions warrant a slightly lower economic weight and higher human/society weight than a purely stable high-income case.\"\n}",
+  "_cache_key": "d79a5c5afc8e8b5e58c15328c9800eb4",
+  "_iso3": "MNG",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

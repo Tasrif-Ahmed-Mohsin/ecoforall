@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Dominican Republic in 2014 shows stable macroeconomic fundamentals with moderate growth, low inflation, and no crises, making economic factors dominant for short-term GDP growth, while political and social conditions are relatively calm and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Dominican Republic in 2014 shows stable macroeconomic fundamentals with moderate growth, low inflation, and no crises, making economic factors dominant for short-term GDP growth, while political and social conditions are relatively calm and environmental data is limited.\"\n}",
+  "_cache_key": "ef27813a8012b6c672f733de56b390ba",
+  "_iso3": "DOM",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

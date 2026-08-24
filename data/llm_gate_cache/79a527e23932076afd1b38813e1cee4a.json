@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Vietnam in 2020 is a stable, export-oriented economy with moderate inflation, low unemployment, and a positive current account, so near-term GDP growth is driven primarily by economic fundamentals, with only minor political, environmental, and social risks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Vietnam in 2020 is a stable, export-oriented economy with moderate inflation, low unemployment, and a positive current account, so near-term GDP growth is driven primarily by economic fundamentals, with only minor political, environmental, and social risks.\"\n}",
+  "_cache_key": "79a527e23932076afd1b38813e1cee4a",
+  "_iso3": "VNM",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

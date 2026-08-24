@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Argentina in 2008 is a stable, middle-income economy with moderate inflation and debt, but no active crises, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are minor.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Argentina in 2008 is a stable, middle-income economy with moderate inflation and debt, but no active crises, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are minor.\"\n}",
+  "_cache_key": "59b36a2ad34437215184a0e98565ac09",
+  "_iso3": "ARG",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

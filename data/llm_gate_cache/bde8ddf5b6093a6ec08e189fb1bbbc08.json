@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and moderate debt, the economy is the primary driver, but severe political instability, protests, and negative conflict indicators elevate political risk substantially for the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and moderate debt, the economy is the primary driver, but severe political instability, protests, and negative conflict indicators elevate political risk substantially for the short-term outlook.\"\n}",
+  "_cache_key": "bde8ddf5b6093a6ec08e189fb1bbbc08",
+  "_iso3": "AND",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDV is a middle-income economy with high investment and large current account deficit, but political instability and conflict indicators are elevated, so politics gets a substantial weight while economic fundamentals remain the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDV is a middle-income economy with high investment and large current account deficit, but political instability and conflict indicators are elevated, so politics gets a substantial weight while economic fundamentals remain the primary driver.\"\n}",
+  "_cache_key": "dc4e92a71d97cf1ff56b1b85ac09967c",
+  "_iso3": "MDV",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "CRI is a stable, high-income economy with moderate inflation and external deficit but no active crises, so economic fundamentals dominate the 1-year outlook, with modest political risk from sanctions and social tensions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CRI is a stable, high-income economy with moderate inflation and external deficit but no active crises, so economic fundamentals dominate the 1-year outlook, with modest political risk from sanctions and social tensions.\"\n}",
+  "_cache_key": "a9769b5e63fe4b1d791acaae6b0dae23",
+  "_iso3": "CRI",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

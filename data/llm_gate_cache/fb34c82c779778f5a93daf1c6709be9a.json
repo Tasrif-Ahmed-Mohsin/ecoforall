@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Bulgaria in 2018 is a stable, upper-middle-income EU member with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Bulgaria in 2018 is a stable, upper-middle-income EU member with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "fb34c82c779778f5a93daf1c6709be9a",
+  "_iso3": "BGR",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

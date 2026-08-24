@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high investment and recent strong growth, the large current account deficit and moderate debt suggest economic factors dominate, while political stability is moderate but not crisis-level, and limited environmental/social data reduce their relevance.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high investment and recent strong growth, the large current account deficit and moderate debt suggest economic factors dominate, while political stability is moderate but not crisis-level, and limited environmental/social data reduce their relevance.\"\n}",
+  "_cache_key": "dce066eb42e9e2c5bca7559866e4235d",
+  "_iso3": "DJI",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

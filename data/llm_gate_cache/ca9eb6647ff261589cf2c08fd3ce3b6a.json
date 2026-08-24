@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high-income stability, severe political instability and sanctions warrant elevated political weight, while economic fundamentals remain dominant for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high-income stability, severe political instability and sanctions warrant elevated political weight, while economic fundamentals remain dominant for short-term growth.\"\n}",
+  "_cache_key": "ca9eb6647ff261589cf2c08fd3ce3b6a",
+  "_iso3": "SAU",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

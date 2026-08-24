@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2017 is recovering from a deep recession with moderate inflation and high debt, but ongoing conflict and sanctions elevate political risk, while social indicators show mixed resilience, so economic fundamentals dominate but politics remains significant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ukraine in 2017 is recovering from a deep recession with moderate inflation and high debt, but ongoing conflict and sanctions elevate political risk, while social indicators show mixed resilience, so economic fundamentals dominate but politics remains significant.\"\n}",
+  "_cache_key": "7c4bbd051d26ee40a983ae7a220cbe03",
+  "_iso3": "UKR",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

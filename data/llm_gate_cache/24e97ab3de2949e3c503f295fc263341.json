@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BTN has high investment and growth but extreme current account deficit and high debt, while moderate political instability and protests warrant elevated political weight, with limited environmental/social data reducing their importance.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BTN has high investment and growth but extreme current account deficit and high debt, while moderate political instability and protests warrant elevated political weight, with limited environmental/social data reducing their importance.\"\n}",
+  "_cache_key": "24e97ab3de2949e3c503f295fc263341",
+  "_iso3": "BTN",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

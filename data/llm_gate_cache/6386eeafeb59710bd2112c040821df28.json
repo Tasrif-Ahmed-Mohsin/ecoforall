@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "MLT is a stable, high-income economy with moderate debt, low inflation, and positive growth, so economic fundamentals dominate, while political and social factors are secondary and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"MLT is a stable, high-income economy with moderate debt, low inflation, and positive growth, so economic fundamentals dominate, while political and social factors are secondary and environmental data is limited.\"\n}",
+  "_cache_key": "6386eeafeb59710bd2112c040821df28",
+  "_iso3": "MLT",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

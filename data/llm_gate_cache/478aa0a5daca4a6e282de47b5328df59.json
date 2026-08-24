@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, while the economy shows moderate growth but high external imbalances, making political and social factors critical for the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, while the economy shows moderate growth but high external imbalances, making political and social factors critical for the 5-year outlook.\"\n}",
+  "_cache_key": "478aa0a5daca4a6e282de47b5328df59",
+  "_iso3": "ZWE",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

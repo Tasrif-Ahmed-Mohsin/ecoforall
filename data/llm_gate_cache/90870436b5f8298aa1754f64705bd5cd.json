@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth with low inflation and debt but high political instability and conflict intensity, plus a negative current account, suggests economic fundamentals dominate but political risk significantly clouds the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate growth with low inflation and debt but high political instability and conflict intensity, plus a negative current account, suggests economic fundamentals dominate but political risk significantly clouds the outlook.\"\n}",
+  "_cache_key": "90870436b5f8298aa1754f64705bd5cd",
+  "_iso3": "COD",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

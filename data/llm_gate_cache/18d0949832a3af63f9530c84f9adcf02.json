@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Laos in 2003 shows moderate economic growth with high inflation and debt, but no major political or environmental shocks, so economic factors dominate while social and political conditions remain secondary.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Laos in 2003 shows moderate economic growth with high inflation and debt, but no major political or environmental shocks, so economic factors dominate while social and political conditions remain secondary.\"\n}",
+  "_cache_key": "18d0949832a3af63f9530c84f9adcf02",
+  "_iso3": "LAO",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

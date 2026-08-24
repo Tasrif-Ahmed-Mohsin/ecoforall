@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2004 is emerging from strong growth with moderate inflation and external surplus, but political instability and social tensions (Orange Revolution) warrant elevated political and societal weights, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ukraine in 2004 is emerging from strong growth with moderate inflation and external surplus, but political instability and social tensions (Orange Revolution) warrant elevated political and societal weights, while environmental factors are negligible.\"\n}",
+  "_cache_key": "1434d3dcd4481855d30ea789ced894d7",
+  "_iso3": "UKR",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

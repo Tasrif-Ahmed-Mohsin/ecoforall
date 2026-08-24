@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "High unemployment, external imbalances, and moderate inflation dominate the outlook, but political instability and social tensions add significant downside risks, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"High unemployment, external imbalances, and moderate inflation dominate the outlook, but political instability and social tensions add significant downside risks, while environmental factors are negligible.\"\n}",
+  "_cache_key": "f3e4e3923a4dcde7def4d68e4d5d7005",
+  "_iso3": "GEO",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

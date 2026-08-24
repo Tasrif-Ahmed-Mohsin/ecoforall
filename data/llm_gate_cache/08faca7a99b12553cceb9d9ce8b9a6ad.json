@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income economy with moderate debt and investment, but political instability and protest pressure are notable, so while economic fundamentals dominate, political risks warrant a significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income economy with moderate debt and investment, but political instability and protest pressure are notable, so while economic fundamentals dominate, political risks warrant a significant weight.\"\n}",
+  "_cache_key": "08faca7a99b12553cceb9d9ce8b9a6ad",
+  "_iso3": "TGO",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

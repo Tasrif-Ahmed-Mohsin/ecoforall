@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ukraine in 2006 is a stable, emerging economy with moderate political tensions and social pressures, but no acute crises, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ukraine in 2006 is a stable, emerging economy with moderate political tensions and social pressures, but no acute crises, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "4c6a1c97c3afd4c30e915bdec589609a",
+  "_iso3": "UKR",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

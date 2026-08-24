@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam's stable political environment, moderate debt, and strong investment suggest economic factors dominate, but notable environmental vulnerabilities (disasters, high CO2) and social pressures (protests, low trust) warrant moderate weights for those domains.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam's stable political environment, moderate debt, and strong investment suggest economic factors dominate, but notable environmental vulnerabilities (disasters, high CO2) and social pressures (protests, low trust) warrant moderate weights for those domains.\"\n}",
+  "_cache_key": "3e2d2cdcae681f85799c80e90773eb20",
+  "_iso3": "VNM",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

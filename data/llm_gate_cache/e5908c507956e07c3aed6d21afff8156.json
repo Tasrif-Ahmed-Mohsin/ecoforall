@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income, fragile economy with high debt, large current account deficit, and moderate inflation, but political instability and conflict indicators are elevated, making politics a significant secondary driver over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income, fragile economy with high debt, large current account deficit, and moderate inflation, but political instability and conflict indicators are elevated, making politics a significant secondary driver over a 5-year horizon.\"\n}",
+  "_cache_key": "e5908c507956e07c3aed6d21afff8156",
+  "_iso3": "TGO",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "CRI faces moderate political instability and social stress, but the economy is the primary driver over a 5-year horizon, with politics and human society playing significant roles due to high conflict and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"CRI faces moderate political instability and social stress, but the economy is the primary driver over a 5-year horizon, with politics and human society playing significant roles due to high conflict and low trust.\"\n}",
+  "_cache_key": "8d8a3b6d85d7a9b1836d747080e1ad73",
+  "_iso3": "CRI",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

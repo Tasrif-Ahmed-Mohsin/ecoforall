@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Senegal faces severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) alongside high external imbalances and debt, making politics the dominant driver, with economic vulnerabilities and social pressures also significant, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Senegal faces severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) alongside high external imbalances and debt, making politics the dominant driver, with economic vulnerabilities and social pressures also significant, while environmental data is limited.\"\n}",
+  "_cache_key": "88d23daf5be951b293b227a200a31c5f",
+  "_iso3": "SEN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

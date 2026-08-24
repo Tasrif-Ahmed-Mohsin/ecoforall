@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GIN is a lower-middle-income economy with moderate debt, negative current account, and recent growth volatility, but no active crises, so economic fundamentals dominate while political risks (sanctions, protests, conflict) warrant a notable secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GIN is a lower-middle-income economy with moderate debt, negative current account, and recent growth volatility, but no active crises, so economic fundamentals dominate while political risks (sanctions, protests, conflict) warrant a notable secondary weight.\"\n}",
+  "_cache_key": "8fd83d06d41f7b5242fd0fb51862f206",
+  "_iso3": "GIN",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

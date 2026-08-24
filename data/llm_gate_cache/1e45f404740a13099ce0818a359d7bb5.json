@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Angola faces moderate political instability and social tensions, but the economy is the primary driver given moderate inflation, high investment, and positive current account, with no major environmental shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Angola faces moderate political instability and social tensions, but the economy is the primary driver given moderate inflation, high investment, and positive current account, with no major environmental shocks.\"\n}",
+  "_cache_key": "1e45f404740a13099ce0818a359d7bb5",
+  "_iso3": "AGO",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

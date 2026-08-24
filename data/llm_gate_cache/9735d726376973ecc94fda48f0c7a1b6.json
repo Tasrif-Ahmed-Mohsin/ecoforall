@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate economic instability (high unemployment, negative current account) and moderate political/environmental pressures (protests, disasters) suggest a balanced but economy-led weighting, with structural factors gaining importance over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate economic instability (high unemployment, negative current account) and moderate political/environmental pressures (protests, disasters) suggest a balanced but economy-led weighting, with structural factors gaining importance over the 5-year horizon.\"\n}",
+  "_cache_key": "9735d726376973ecc94fda48f0c7a1b6",
+  "_iso3": "COL",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

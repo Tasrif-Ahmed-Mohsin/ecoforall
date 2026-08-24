@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "ZMB is a low-income, politically stable economy with moderate debt and inflation, but no active crises, so economic fundamentals dominate the 3-year growth outlook, with modest political risk from protest pressure and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB is a low-income, politically stable economy with moderate debt and inflation, but no active crises, so economic fundamentals dominate the 3-year growth outlook, with modest political risk from protest pressure and sanctions.\"\n}",
+  "_cache_key": "a1ba03afafa3e521af1a74082fac7282",
+  "_iso3": "ZMB",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

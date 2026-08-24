@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Portugal is a stable, high-income economy with moderate debt and external imbalances but no acute crises, so economic fundamentals dominate the 5-year growth outlook, with modest roles for political and social factors given the absence of major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Portugal is a stable, high-income economy with moderate debt and external imbalances but no acute crises, so economic fundamentals dominate the 5-year growth outlook, with modest roles for political and social factors given the absence of major shocks.\"\n}",
+  "_cache_key": "6bdd7fac05cf11e9cab169f49dec2620",
+  "_iso3": "PRT",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

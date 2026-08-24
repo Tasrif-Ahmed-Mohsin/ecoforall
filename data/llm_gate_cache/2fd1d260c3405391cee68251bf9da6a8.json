@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Uruguay in 2008 is a stable, high-income economy with no major crises, so economic fundamentals dominate the near-term growth outlook, while political and social factors are secondary and environment is negligible.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Uruguay in 2008 is a stable, high-income economy with no major crises, so economic fundamentals dominate the near-term growth outlook, while political and social factors are secondary and environment is negligible.\"\n}",
+  "_cache_key": "2fd1d260c3405391cee68251bf9da6a8",
+  "_iso3": "URY",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

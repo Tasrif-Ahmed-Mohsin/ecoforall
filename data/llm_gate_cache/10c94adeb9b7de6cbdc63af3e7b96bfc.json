@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bolivia faces moderate political instability and social unrest, but the economy is the primary driver given moderate growth, high debt, and external imbalances, while environmental risks are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bolivia faces moderate political instability and social unrest, but the economy is the primary driver given moderate growth, high debt, and external imbalances, while environmental risks are less immediate.\"\n}",
+  "_cache_key": "10c94adeb9b7de6cbdc63af3e7b96bfc",
+  "_iso3": "BOL",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

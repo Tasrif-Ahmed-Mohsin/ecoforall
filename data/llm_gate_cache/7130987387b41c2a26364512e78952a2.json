@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "NIC is a lower-middle-income economy with moderate growth, high current account deficit, and significant political instability, but no active crisis, so economic fundamentals dominate while political risk warrants a notable secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC is a lower-middle-income economy with moderate growth, high current account deficit, and significant political instability, but no active crisis, so economic fundamentals dominate while political risk warrants a notable secondary weight.\"\n}",
+  "_cache_key": "7130987387b41c2a26364512e78952a2",
+  "_iso3": "NIC",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

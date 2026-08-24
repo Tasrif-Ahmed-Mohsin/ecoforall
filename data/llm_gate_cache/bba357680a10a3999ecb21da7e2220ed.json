@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Belarus shows moderate growth with high inflation and external imbalances, but significant political instability and sanctions pressure warrant a substantial political weight, while environmental and social factors are less binding over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus shows moderate growth with high inflation and external imbalances, but significant political instability and sanctions pressure warrant a substantial political weight, while environmental and social factors are less binding over this short horizon.\"\n}",
+  "_cache_key": "bba357680a10a3999ecb21da7e2220ed",
+  "_iso3": "BLR",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

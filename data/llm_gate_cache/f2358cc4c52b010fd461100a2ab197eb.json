@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LVA is a stable, high-income EU economy recovering from a severe recession with no active crises, so economic factors dominate, while moderate political instability and social tensions warrant secondary attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LVA is a stable, high-income EU economy recovering from a severe recession with no active crises, so economic factors dominate, while moderate political instability and social tensions warrant secondary attention.\"\n}",
+  "_cache_key": "f2358cc4c52b010fd461100a2ab197eb",
+  "_iso3": "LVA",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

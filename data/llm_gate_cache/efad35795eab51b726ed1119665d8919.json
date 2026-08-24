@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LBR faces high inflation, a large current account deficit, and negative recent growth, but political instability and sanctions also pose significant near-term risks, while environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR faces high inflation, a large current account deficit, and negative recent growth, but political instability and sanctions also pose significant near-term risks, while environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "efad35795eab51b726ed1119665d8919",
+  "_iso3": "LBR",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

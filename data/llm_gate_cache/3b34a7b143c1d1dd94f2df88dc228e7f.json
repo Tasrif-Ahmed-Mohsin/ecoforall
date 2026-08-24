@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kazakhstan in 2003 is a stable, resource-rich economy with moderate growth and low debt, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kazakhstan in 2003 is a stable, resource-rich economy with moderate growth and low debt, but political instability and social tensions warrant a notable political weight, while environmental and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "3b34a7b143c1d1dd94f2df88dc228e7f",
+  "_iso3": "KAZ",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

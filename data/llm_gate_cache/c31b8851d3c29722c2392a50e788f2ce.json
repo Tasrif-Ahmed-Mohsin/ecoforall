@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Poland is a stable high-income EU economy with moderate debt and inflation, but political instability and sanctions risk warrant elevated political weight, while environmental and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Poland is a stable high-income EU economy with moderate debt and inflation, but political instability and sanctions risk warrant elevated political weight, while environmental and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "c31b8851d3c29722c2392a50e788f2ce",
+  "_iso3": "POL",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

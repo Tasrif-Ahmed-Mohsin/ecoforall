@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Egypt in 2013 faces high political instability, protests, and conflict, but the economy is also weak with high debt and unemployment, so politics and economy dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Egypt in 2013 faces high political instability, protests, and conflict, but the economy is also weak with high debt and unemployment, so politics and economy dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "9c1aeb6864a5bdf670bd823f44649d40",
+  "_iso3": "EGY",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces high unemployment, deflation, and moderate debt, but political tensions and protests elevate political risk, while social indicators are weak but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia faces high unemployment, deflation, and moderate debt, but political tensions and protests elevate political risk, while social indicators are weak but not collapsing.\"\n}",
+  "_cache_key": "6e05ee65f75aa7833b1daa26c57c52ff",
+  "_iso3": "ARM",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Cambodia's moderate growth, low debt, and stable macro indicators suggest a strong economic base, but political instability, high protest levels, and low institutional trust create significant risks that warrant a substantial political and social weighting over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cambodia's moderate growth, low debt, and stable macro indicators suggest a strong economic base, but political instability, high protest levels, and low institutional trust create significant risks that warrant a substantial political and social weighting over a 5-year horizon.\"\n}",
+  "_cache_key": "2c3d0fe2226a3449393fc5262ea1e4e0",
+  "_iso3": "KHM",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

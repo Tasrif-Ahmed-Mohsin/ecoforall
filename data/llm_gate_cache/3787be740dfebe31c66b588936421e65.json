@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Rwanda is a low-income, fast-growing economy with moderate inflation and a large current account deficit, but no active crises, so economic fundamentals dominate while political stability and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Rwanda is a low-income, fast-growing economy with moderate inflation and a large current account deficit, but no active crises, so economic fundamentals dominate while political stability and social factors play secondary roles.\"\n}",
+  "_cache_key": "3787be740dfebe31c66b588936421e65",
+  "_iso3": "RWA",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

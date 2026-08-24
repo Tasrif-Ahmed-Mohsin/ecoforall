@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given moderate growth, low inflation, and no active crises, with modest political and social risks from protests and low trust, while environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The economy is the dominant driver given moderate growth, low inflation, and no active crises, with modest political and social risks from protests and low trust, while environmental data is too limited to matter.\"\n}",
+  "_cache_key": "c5991f9dc513a4767be0f03203e7cd2e",
+  "_iso3": "NPL",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

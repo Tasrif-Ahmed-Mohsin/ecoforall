@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Philippines in 2014 shows stable growth, moderate inflation, and no active crises, so economic fundamentals dominate, while moderate political and environmental risks warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Philippines in 2014 shows stable growth, moderate inflation, and no active crises, so economic fundamentals dominate, while moderate political and environmental risks warrant secondary weights.\"\n}",
+  "_cache_key": "b7a576878fd793607bf58f911658c936",
+  "_iso3": "PHL",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

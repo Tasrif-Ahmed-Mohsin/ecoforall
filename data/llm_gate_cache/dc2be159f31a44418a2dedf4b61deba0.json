@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "Lebanon's high debt, large current account deficit, and moderate growth with low inflation point to economic factors dominating the short-term outlook, while political instability and social tensions add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Lebanon's high debt, large current account deficit, and moderate growth with low inflation point to economic factors dominating the short-term outlook, while political instability and social tensions add moderate risk.\"\n}",
+  "_cache_key": "dc2be159f31a44418a2dedf4b61deba0",
+  "_iso3": "LBN",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

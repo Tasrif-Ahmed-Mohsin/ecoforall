@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Estonia is a stable high-income economy with low debt, low inflation, and no ongoing crises, so economic fundamentals dominate, though moderate political instability and protest activity warrant a modest political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Estonia is a stable high-income economy with low debt, low inflation, and no ongoing crises, so economic fundamentals dominate, though moderate political instability and protest activity warrant a modest political weight.\"\n}",
+  "_cache_key": "b9c3164a0d9ab7406533001549383a1b",
+  "_iso3": "EST",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

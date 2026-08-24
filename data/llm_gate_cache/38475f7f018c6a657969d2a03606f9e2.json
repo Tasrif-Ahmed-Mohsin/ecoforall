@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA is a stable, middle-income economy with moderate inflation, high investment, and no active crises, so economic fundamentals dominate, but political and social tensions (protests, low trust) warrant modest weight for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA is a stable, middle-income economy with moderate inflation, high investment, and no active crises, so economic fundamentals dominate, but political and social tensions (protests, low trust) warrant modest weight for short-term growth.\"\n}",
+  "_cache_key": "38475f7f018c6a657969d2a03606f9e2",
+  "_iso3": "DZA",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

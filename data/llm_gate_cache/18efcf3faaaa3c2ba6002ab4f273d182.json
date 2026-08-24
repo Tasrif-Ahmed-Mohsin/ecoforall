@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Benin faces moderate political instability and high protest/sanction activity, which could disrupt growth, while the economy shows positive momentum but weak external balance and low inflation, making politics nearly as important as economic fundamentals for the next year.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Benin faces moderate political instability and high protest/sanction activity, which could disrupt growth, while the economy shows positive momentum but weak external balance and low inflation, making politics nearly as important as economic fundamentals for the next year.\"\n}",
+  "_cache_key": "18efcf3faaaa3c2ba6002ab4f273d182",
+  "_iso3": "BEN",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Australia is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor contributions from social and environmental factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Australia is a stable, high-income economy with no ongoing crises, so short-term GDP growth is driven primarily by economic fundamentals, with minor contributions from social and environmental factors.\"\n}",
+  "_cache_key": "abc884168e0369201d9a355b1e16dcc3",
+  "_iso3": "AUS",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana's moderate income, high investment, and recent growth suggest economic fundamentals dominate, but political instability indicators (protests, sanctions, conflict) and social pressures warrant elevated political and societal weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana's moderate income, high investment, and recent growth suggest economic fundamentals dominate, but political instability indicators (protests, sanctions, conflict) and social pressures warrant elevated political and societal weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "1e09c5574124bf42dd77dcdde7e96d66",
+  "_iso3": "GHA",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

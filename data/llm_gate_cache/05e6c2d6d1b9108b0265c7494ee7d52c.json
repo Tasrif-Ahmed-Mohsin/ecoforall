@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Ghana shows stable growth with moderate inflation and high investment, but external imbalances and political/social tensions warrant moderate attention, while environmental risks are present but not dominant.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ghana shows stable growth with moderate inflation and high investment, but external imbalances and political/social tensions warrant moderate attention, while environmental risks are present but not dominant.\"\n}",
+  "_cache_key": "05e6c2d6d1b9108b0265c7494ee7d52c",
+  "_iso3": "GHA",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

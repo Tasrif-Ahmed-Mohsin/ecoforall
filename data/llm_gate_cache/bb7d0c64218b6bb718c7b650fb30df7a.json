@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.8,
+  "reasoning": "China in 2009 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors play minor roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.80,\n  \"reasoning\": \"China in 2009 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors play minor roles over the 5-year horizon.\"\n}",
+  "_cache_key": "bb7d0c64218b6bb718c7b650fb30df7a",
+  "_iso3": "CHN",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Turkey in 2014 shows moderate macroeconomic imbalances (high current account deficit, moderate inflation) but no acute crisis, with political instability and social tensions adding downside risks, while environmental factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Turkey in 2014 shows moderate macroeconomic imbalances (high current account deficit, moderate inflation) but no acute crisis, with political instability and social tensions adding downside risks, while environmental factors are relatively benign.\"\n}",
+  "_cache_key": "1260caf3900eecbe7c705c2c1cbbb98c",
+  "_iso3": "TUR",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

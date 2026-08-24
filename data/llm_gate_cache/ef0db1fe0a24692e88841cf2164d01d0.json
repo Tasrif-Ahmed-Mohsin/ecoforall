@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and social unrest, combined with a fragile external position and high unemployment, elevate political and social risks, but the economy remains the primary driver given the absence of major environmental shocks and a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and social unrest, combined with a fragile external position and high unemployment, elevate political and social risks, but the economy remains the primary driver given the absence of major environmental shocks and a 3-year horizon.\"\n}",
+  "_cache_key": "ef0db1fe0a24692e88841cf2164d01d0",
+  "_iso3": "MAR",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

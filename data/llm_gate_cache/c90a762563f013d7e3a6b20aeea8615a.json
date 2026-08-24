@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SVK is a stable, high-income EU economy with moderate political tensions and social indicators, so economic fundamentals dominate the short-term growth outlook, with minor contributions from political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SVK is a stable, high-income EU economy with moderate political tensions and social indicators, so economic fundamentals dominate the short-term growth outlook, with minor contributions from political and social factors.\"\n}",
+  "_cache_key": "c90a762563f013d7e3a6b20aeea8615a",
+  "_iso3": "SVK",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

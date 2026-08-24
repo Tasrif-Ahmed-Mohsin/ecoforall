@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic vulnerabilities (high unemployment, current account deficit) and significant political instability (very low stability, sanctions, conflicts) warrant elevated political weight, while social indicators are mixed but not crisis-level, and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic vulnerabilities (high unemployment, current account deficit) and significant political instability (very low stability, sanctions, conflicts) warrant elevated political weight, while social indicators are mixed but not crisis-level, and environmental data is limited.\"\n}",
+  "_cache_key": "5661d9a8c016c458a0761005e08b5a82",
+  "_iso3": "CRI",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces moderate political instability, high unemployment, and external imbalances, but no major conflict or environmental shock, so economic fundamentals dominate while political risks and social strains warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia faces moderate political instability, high unemployment, and external imbalances, but no major conflict or environmental shock, so economic fundamentals dominate while political risks and social strains warrant notable weight.\"\n}",
+  "_cache_key": "3304ea61f5d97dd49a088b48bd1d6db4",
+  "_iso3": "ARM",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

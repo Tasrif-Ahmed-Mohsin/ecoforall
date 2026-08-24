@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "PAK faces moderate economic imbalances (high debt, low investment, current account deficit) but no acute crisis, while political stability is moderate with some protest pressure and environmental risks are present but not dominant, so economy leads with politics and environment/society as secondary structural factors over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"PAK faces moderate economic imbalances (high debt, low investment, current account deficit) but no acute crisis, while political stability is moderate with some protest pressure and environmental risks are present but not dominant, so economy leads with politics and environment/society as secondary structural factors over a 5-year horizon.\"\n}",
+  "_cache_key": "ad23086d0a97c0e5434b04bffa57d217",
+  "_iso3": "PAK",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

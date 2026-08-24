@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "SLV is a stable, low-income economy with moderate debt and external imbalances but no active crises, so economic fundamentals dominate the 3-year outlook, with modest political risk from instability and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLV is a stable, low-income economy with moderate debt and external imbalances but no active crises, so economic fundamentals dominate the 3-year outlook, with modest political risk from instability and protests.\"\n}",
+  "_cache_key": "bf27da940f7c952ccc5dc866e9e4510a",
+  "_iso3": "SLV",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

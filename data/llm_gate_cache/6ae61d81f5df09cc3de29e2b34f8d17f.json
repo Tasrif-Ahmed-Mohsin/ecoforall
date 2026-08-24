@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "VEN faces extreme inflation, high debt, and negative growth, but also severe political instability, sanctions, and social unrest, making economic and political factors dominant, with notable environmental and social stresses.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"VEN faces extreme inflation, high debt, and negative growth, but also severe political instability, sanctions, and social unrest, making economic and political factors dominant, with notable environmental and social stresses.\"\n}",
+  "_cache_key": "6ae61d81f5df09cc3de29e2b34f8d17f",
+  "_iso3": "VEN",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High external imbalances, heavy debt, and volatile recent growth make the economy central, but significant political instability, conflict, and sanctions elevate political risk, while limited environmental and social data keep their weights lower.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High external imbalances, heavy debt, and volatile recent growth make the economy central, but significant political instability, conflict, and sanctions elevate political risk, while limited environmental and social data keep their weights lower.\"\n}",
+  "_cache_key": "b4bade9daa5f7daa0a7a6952739b3359",
+  "_iso3": "COG",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

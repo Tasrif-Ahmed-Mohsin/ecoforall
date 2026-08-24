@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "ARE is a stable, high-income economy with low inflation, moderate debt, and positive growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and unlikely to significantly alter the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ARE is a stable, high-income economy with low inflation, moderate debt, and positive growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and unlikely to significantly alter the 5-year outlook.\"\n}",
+  "_cache_key": "a0474365568695c07b9cb5b7279cd7a8",
+  "_iso3": "ARE",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

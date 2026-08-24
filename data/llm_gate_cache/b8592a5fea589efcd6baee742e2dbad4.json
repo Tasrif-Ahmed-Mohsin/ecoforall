@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.7,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, while also showing high inflation, external deficits, and a fragile recovery, so politics and economy dominate, with human society also critical due to low trust and high fear, but environment is negligible given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.7,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, while also showing high inflation, external deficits, and a fragile recovery, so politics and economy dominate, with human society also critical due to low trust and high fear, but environment is negligible given limited data.\"\n}",
+  "_cache_key": "b8592a5fea589efcd6baee742e2dbad4",
+  "_iso3": "ZWE",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

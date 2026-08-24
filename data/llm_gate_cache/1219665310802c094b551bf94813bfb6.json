@@ -1,0 +1,14 @@
+{
+  "economy": 0.8421052631578946,
+  "politics": 0.05263157894736841,
+  "environment": 0.05263157894736841,
+  "human_society": 0.05263157894736841,
+  "confidence": 0.05,
+  "reasoning": "NZL is a stable, high-income economy with no ongoing crises, so short-term growth is driven primarily by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.05,\n  \"reasoning\": \"NZL is a stable, high-income economy with no ongoing crises, so short-term growth is driven primarily by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.\"\n}",
+  "_cache_key": "1219665310802c094b551bf94813bfb6",
+  "_iso3": "NZL",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

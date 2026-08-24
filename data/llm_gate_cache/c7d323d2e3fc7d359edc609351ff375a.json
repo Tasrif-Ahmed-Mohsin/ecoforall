@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cuba's economy is the primary driver given moderate growth and investment, but political instability, sanctions, and protests elevate political risk, while social pressures and limited environmental data warrant smaller but non-negligible weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cuba's economy is the primary driver given moderate growth and investment, but political instability, sanctions, and protests elevate political risk, while social pressures and limited environmental data warrant smaller but non-negligible weights.\"\n}",
+  "_cache_key": "c7d323d2e3fc7d359edc609351ff375a",
+  "_iso3": "CUB",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

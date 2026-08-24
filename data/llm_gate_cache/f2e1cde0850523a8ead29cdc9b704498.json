@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2006 is a lower-middle-income economy with high unemployment and moderate inflation, but recent growth is strong and no major political or environmental shocks are evident, so economic fundamentals dominate while social and political factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia in 2006 is a lower-middle-income economy with high unemployment and moderate inflation, but recent growth is strong and no major political or environmental shocks are evident, so economic fundamentals dominate while social and political factors play a secondary role.\"\n}",
+  "_cache_key": "f2e1cde0850523a8ead29cdc9b704498",
+  "_iso3": "ARM",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

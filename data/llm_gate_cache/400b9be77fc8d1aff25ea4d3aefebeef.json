@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Qatar is a stable, high-income hydrocarbon exporter with strong external balances and low debt, but recent negative growth and moderate political/social tensions warrant a modest shift from pure economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Qatar is a stable, high-income hydrocarbon exporter with strong external balances and low debt, but recent negative growth and moderate political/social tensions warrant a modest shift from pure economic fundamentals.\"\n}",
+  "_cache_key": "400b9be77fc8d1aff25ea4d3aefebeef",
+  "_iso3": "QAT",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

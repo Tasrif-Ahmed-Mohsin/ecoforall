@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, moderately unstable economy with elevated political tensions and protest activity, but no active crisis, so economic fundamentals dominate while political risks warrant a substantial weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG is a low-income, moderately unstable economy with elevated political tensions and protest activity, but no active crisis, so economic fundamentals dominate while political risks warrant a substantial weight over a 5-year horizon.\"\n}",
+  "_cache_key": "921fa7a24fcc7fd52bedc5373225a71e",
+  "_iso3": "MDG",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

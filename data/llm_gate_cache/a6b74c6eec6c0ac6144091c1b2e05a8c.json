@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "NIC faces moderate economic vulnerabilities (high current account deficit, moderate debt) but severe political instability and conflict indicators, which will weigh on growth over the next five years, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"NIC faces moderate economic vulnerabilities (high current account deficit, moderate debt) but severe political instability and conflict indicators, which will weigh on growth over the next five years, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "a6b74c6eec6c0ac6144091c1b2e05a8c",
+  "_iso3": "NIC",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

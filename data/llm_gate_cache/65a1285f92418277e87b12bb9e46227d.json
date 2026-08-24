@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Chad is a low-income, fragile state with negative recent growth, high inflation, and external imbalances, but political instability and protest pressure are significant, while environmental data is limited and not a primary driver over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Chad is a low-income, fragile state with negative recent growth, high inflation, and external imbalances, but political instability and protest pressure are significant, while environmental data is limited and not a primary driver over this short horizon.\"\n}",
+  "_cache_key": "65a1285f92418277e87b12bb9e46227d",
+  "_iso3": "TCD",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

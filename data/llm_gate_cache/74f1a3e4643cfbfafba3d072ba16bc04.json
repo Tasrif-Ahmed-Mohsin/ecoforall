@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan faces severe political instability, high conflict intensity, and sanctions, which dominate the growth outlook, while the economy is weak with a large current account deficit and negative recent growth, making politics the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Afghanistan faces severe political instability, high conflict intensity, and sanctions, which dominate the growth outlook, while the economy is weak with a large current account deficit and negative recent growth, making politics the primary driver.\"\n}",
+  "_cache_key": "74f1a3e4643cfbfafba3d072ba16bc04",
+  "_iso3": "AFG",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Peru is a middle-income economy with moderate debt and inflation, no active crises, but faces environmental vulnerabilities (floods, droughts) and moderate political/social pressures, so economic fundamentals dominate while structural factors gain weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Peru is a middle-income economy with moderate debt and inflation, no active crises, but faces environmental vulnerabilities (floods, droughts) and moderate political/social pressures, so economic fundamentals dominate while structural factors gain weight over a 5-year horizon.\"\n}",
+  "_cache_key": "1b4bc9c926d8e2deded6d03a824f4e85",
+  "_iso3": "PER",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

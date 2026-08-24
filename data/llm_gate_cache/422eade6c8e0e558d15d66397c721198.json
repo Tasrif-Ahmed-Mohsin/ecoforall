@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Afghanistan shows moderate political instability and conflict, but the economy is the primary driver given recent growth volatility and low investment, while social and environmental factors are less immediate over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Afghanistan shows moderate political instability and conflict, but the economy is the primary driver given recent growth volatility and low investment, while social and environmental factors are less immediate over a 3-year horizon.\"\n}",
+  "_cache_key": "422eade6c8e0e558d15d66397c721198",
+  "_iso3": "AFG",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

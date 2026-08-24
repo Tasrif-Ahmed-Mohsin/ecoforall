@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Bosnia and Herzegovina is a stable, non-crisis economy with moderate debt and investment, so economic fundamentals dominate the 1-year outlook, while political tensions and social pressures are present but not acute enough to override the growth trajectory.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bosnia and Herzegovina is a stable, non-crisis economy with moderate debt and investment, so economic fundamentals dominate the 1-year outlook, while political tensions and social pressures are present but not acute enough to override the growth trajectory.\"\n}",
+  "_cache_key": "17fd9705a941342367d30677281c74aa",
+  "_iso3": "BIH",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Pakistan faces moderate political instability and conflict, but the dominant driver for 1-year GDP growth is the weak macroeconomic fundamentals (high inflation, debt, and low investment) with no major climate or social shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Pakistan faces moderate political instability and conflict, but the dominant driver for 1-year GDP growth is the weak macroeconomic fundamentals (high inflation, debt, and low investment) with no major climate or social shocks.\"\n}",
+  "_cache_key": "c5e71d4540719518afc9501b73134ba6",
+  "_iso3": "PAK",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

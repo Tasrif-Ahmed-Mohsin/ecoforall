@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Tunisia faces moderate political instability and high unemployment, but the dominant near-term driver is its weak macroeconomic fundamentals (high debt, inflation, and current account deficit), so economy gets the largest weight, with politics and social factors also relevant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Tunisia faces moderate political instability and high unemployment, but the dominant near-term driver is its weak macroeconomic fundamentals (high debt, inflation, and current account deficit), so economy gets the largest weight, with politics and social factors also relevant.\"\n}",
+  "_cache_key": "9b6419dde8d4c043582116309a8b97bb",
+  "_iso3": "TUN",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

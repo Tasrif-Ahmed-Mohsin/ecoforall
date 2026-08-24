@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Colombia in 2003 shows moderate economic instability with high unemployment and inflation, but no active crises, so economic factors dominate while political and social tensions warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Colombia in 2003 shows moderate economic instability with high unemployment and inflation, but no active crises, so economic factors dominate while political and social tensions warrant moderate attention.\"\n}",
+  "_cache_key": "38f1e35e3483b9adcdd620523d1e67e4",
+  "_iso3": "COL",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

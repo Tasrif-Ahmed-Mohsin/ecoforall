@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Turkey is in a severe recession with high unemployment and political instability, but no active crisis, so economic factors dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Turkey is in a severe recession with high unemployment and political instability, but no active crisis, so economic factors dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "6bc8d0a0b23dcd23f03e2f27372f2696",
+  "_iso3": "TUR",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "High external imbalances, moderate debt, and inflation signal economic fragility, while very low political stability, high protest counts, and negative Goldstein index indicate significant political risk, though no active conflict or crisis dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High external imbalances, moderate debt, and inflation signal economic fragility, while very low political stability, high protest counts, and negative Goldstein index indicate significant political risk, though no active conflict or crisis dominates.\"\n}",
+  "_cache_key": "3f51fc55c4f332f2254f051e12fa52ad",
+  "_iso3": "MDV",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

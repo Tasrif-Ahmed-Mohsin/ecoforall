@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "India in 2012 faces high inflation, a large current account deficit, and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions add moderate risk, with environmental factors playing a smaller role.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"India in 2012 faces high inflation, a large current account deficit, and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions add moderate risk, with environmental factors playing a smaller role.\"\n}",
+  "_cache_key": "1606fe599671d41c6bd780ef551a60cb",
+  "_iso3": "IND",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

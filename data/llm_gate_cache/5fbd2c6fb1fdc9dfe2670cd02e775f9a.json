@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "High-income stable economy with moderate political stability and no major shocks, so economic fundamentals dominate, with modest political risk from protests and conflicts.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"High-income stable economy with moderate political stability and no major shocks, so economic fundamentals dominate, with modest political risk from protests and conflicts.\"\n}",
+  "_cache_key": "5fbd2c6fb1fdc9dfe2670cd02e775f9a",
+  "_iso3": "AND",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

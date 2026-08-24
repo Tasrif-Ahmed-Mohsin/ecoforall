@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BLZ is a middle-income economy with moderate debt, high unemployment, and a negative current account, but no active crises, so economic fundamentals dominate while political and social risks remain moderate due to protest activity and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BLZ is a middle-income economy with moderate debt, high unemployment, and a negative current account, but no active crises, so economic fundamentals dominate while political and social risks remain moderate due to protest activity and sanctions.\"\n}",
+  "_cache_key": "a9b8057467796f2c5e8484790d501d41",
+  "_iso3": "BLZ",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

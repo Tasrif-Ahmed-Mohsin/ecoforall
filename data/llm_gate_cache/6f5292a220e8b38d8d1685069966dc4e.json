@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Suriname in 2007 shows strong investment and growth momentum with no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Suriname in 2007 shows strong investment and growth momentum with no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a secondary political weight.\"\n}",
+  "_cache_key": "6f5292a220e8b38d8d1685069966dc4e",
+  "_iso3": "SUR",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

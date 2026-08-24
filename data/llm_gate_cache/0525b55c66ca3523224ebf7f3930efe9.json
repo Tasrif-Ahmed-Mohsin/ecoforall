@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "The economy is growing strongly with low unemployment and no crises, but moderate inflation and debt, plus political instability and social tensions, warrant a modest political and social weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is growing strongly with low unemployment and no crises, but moderate inflation and debt, plus political instability and social tensions, warrant a modest political and social weight.\"\n}",
+  "_cache_key": "0525b55c66ca3523224ebf7f3930efe9",
+  "_iso3": "MMR",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

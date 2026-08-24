@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi's low income, high debt, and moderate inflation make economic fundamentals key, but political instability and conflict risk elevate politics' importance over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi's low income, high debt, and moderate inflation make economic fundamentals key, but political instability and conflict risk elevate politics' importance over a 5-year horizon.\"\n}",
+  "_cache_key": "1009b28f552ab55db9329a9477b5143d",
+  "_iso3": "BDI",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

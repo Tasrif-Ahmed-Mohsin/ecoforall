@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "Belarus faces moderate economic imbalances and negative recent growth, but the dominant risk is political instability and sanctions, which warrant a high political weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Belarus faces moderate economic imbalances and negative recent growth, but the dominant risk is political instability and sanctions, which warrant a high political weight over a 5-year horizon.\"\n}",
+  "_cache_key": "9d282e0fc6ec97c0de0c9edc8c44df76",
+  "_iso3": "BLR",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

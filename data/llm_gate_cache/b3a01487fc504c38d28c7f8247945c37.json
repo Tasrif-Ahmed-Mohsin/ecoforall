@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Azerbaijan's economy is highly dependent on oil and gas exports, with strong current account surplus and low debt, but high inflation and political instability (Nagorno-Karabakh conflict) warrant a moderate political weight, while environmental and social factors are less immediate for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Azerbaijan's economy is highly dependent on oil and gas exports, with strong current account surplus and low debt, but high inflation and political instability (Nagorno-Karabakh conflict) warrant a moderate political weight, while environmental and social factors are less immediate for a 1-year horizon.\"\n}",
+  "_cache_key": "b3a01487fc504c38d28c7f8247945c37",
+  "_iso3": "AZE",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

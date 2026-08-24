@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, currency crisis, and negative current account indicate severe economic instability, while political instability and conflict intensity are also elevated, but with a 5-year horizon structural political risks weigh heavily.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, currency crisis, and negative current account indicate severe economic instability, while political instability and conflict intensity are also elevated, but with a 5-year horizon structural political risks weigh heavily.\"\n}",
+  "_cache_key": "d9e419c4b4e337ab8b76323fb327b6ff",
+  "_iso3": "COD",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Mexico's economy is stable with moderate debt and low inflation, but recent negative growth and political tensions warrant a slightly reduced economic weight, while political and social factors remain secondary yet non-negligible.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mexico's economy is stable with moderate debt and low inflation, but recent negative growth and political tensions warrant a slightly reduced economic weight, while political and social factors remain secondary yet non-negligible.\"\n}",
+  "_cache_key": "50e6852202e308ec333cfbd3394de604",
+  "_iso3": "MEX",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

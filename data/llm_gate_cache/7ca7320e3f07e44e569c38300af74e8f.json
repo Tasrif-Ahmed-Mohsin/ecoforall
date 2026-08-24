@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "LTU is a stable, high-income EU economy with no major political or environmental shocks, so short-term growth is driven primarily by macroeconomic dynamics such as investment, external imbalances, and inflation.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"LTU is a stable, high-income EU economy with no major political or environmental shocks, so short-term growth is driven primarily by macroeconomic dynamics such as investment, external imbalances, and inflation.\"\n}",
+  "_cache_key": "7ca7320e3f07e44e569c38300af74e8f",
+  "_iso3": "LTU",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

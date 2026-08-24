@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh faces moderate inflation, a large current account deficit, and high investment needs, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social factors are less immediate for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh faces moderate inflation, a large current account deficit, and high investment needs, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social factors are less immediate for a 1-year horizon.\"\n}",
+  "_cache_key": "b312c909aa8a6580af02373201d6e08f",
+  "_iso3": "BGD",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

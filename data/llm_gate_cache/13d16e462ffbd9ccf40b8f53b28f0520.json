@@ -1,0 +1,14 @@
+{
+  "economy": 0.6111111111111112,
+  "politics": 0.22222222222222224,
+  "environment": 0.05555555555555556,
+  "human_society": 0.11111111111111112,
+  "confidence": 0.1,
+  "reasoning": "Cambodia is a low-income, open economy with moderate debt and a large current account deficit, but no active crises, so economic fundamentals dominate while political and social tensions add modest risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.10,\n  \"reasoning\": \"Cambodia is a low-income, open economy with moderate debt and a large current account deficit, but no active crises, so economic fundamentals dominate while political and social tensions add modest risk.\"\n}",
+  "_cache_key": "13d16e462ffbd9ccf40b8f53b28f0520",
+  "_iso3": "KHM",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

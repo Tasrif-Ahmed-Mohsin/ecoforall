@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Kazakhstan faces a currency crisis and negative growth trajectory, but political instability (low stability, high protests, sanctions) and moderate social stress also weigh on the outlook, while environmental factors are less acute.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Kazakhstan faces a currency crisis and negative growth trajectory, but political instability (low stability, high protests, sanctions) and moderate social stress also weigh on the outlook, while environmental factors are less acute.\"\n}",
+  "_cache_key": "33e93bb2568a6b4a1af3d68cdec9a40c",
+  "_iso3": "KAZ",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

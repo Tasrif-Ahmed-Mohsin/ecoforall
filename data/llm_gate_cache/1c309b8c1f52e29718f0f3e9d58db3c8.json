@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK faces moderate political instability and social unrest, but the dominant near-term driver remains its weak macroeconomic fundamentals (high debt, low investment, current account deficit), so economy gets the largest weight, with politics elevated due to sanctions and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PAK faces moderate political instability and social unrest, but the dominant near-term driver remains its weak macroeconomic fundamentals (high debt, low investment, current account deficit), so economy gets the largest weight, with politics elevated due to sanctions and conflict indicators.\"\n}",
+  "_cache_key": "1c309b8c1f52e29718f0f3e9d58db3c8",
+  "_iso3": "PAK",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, moderate debt, and negative political stability with protests and sanctions, but no active crisis, so economic fundamentals dominate while political risks and social pressures warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, moderate debt, and negative political stability with protests and sanctions, but no active crisis, so economic fundamentals dominate while political risks and social pressures warrant notable weight.\"\n}",
+  "_cache_key": "bf98c13b7043e63325233e4b9835ba98",
+  "_iso3": "MKD",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

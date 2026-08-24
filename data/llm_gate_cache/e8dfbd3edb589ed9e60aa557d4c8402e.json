@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan faces moderate political instability and social pressures, but the economy is the primary driver given its investment-led growth and manageable debt, with politics elevated due to sanctions and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Uzbekistan faces moderate political instability and social pressures, but the economy is the primary driver given its investment-led growth and manageable debt, with politics elevated due to sanctions and conflict indicators.\"\n}",
+  "_cache_key": "e8dfbd3edb589ed9e60aa557d4c8402e",
+  "_iso3": "UZB",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

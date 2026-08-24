@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Egypt's moderate growth, high debt, and inflation suggest economic factors dominate, but political instability and social pressures warrant notable weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Egypt's moderate growth, high debt, and inflation suggest economic factors dominate, but political instability and social pressures warrant notable weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "85490c766b317a4b0408834cf2f1806f",
+  "_iso3": "EGY",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

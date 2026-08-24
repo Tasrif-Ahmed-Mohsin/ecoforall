@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Belarus shows strong recent growth and moderate macroeconomic stability, but severe political instability and sanctions risk dominate the medium-term outlook, while environmental and social factors are less binding.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Belarus shows strong recent growth and moderate macroeconomic stability, but severe political instability and sanctions risk dominate the medium-term outlook, while environmental and social factors are less binding.\"\n}",
+  "_cache_key": "ec66b96b0b680af12bdbd7be781e385d",
+  "_iso3": "BLR",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

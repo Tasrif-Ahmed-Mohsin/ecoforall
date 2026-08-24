@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Qatar is a stable, high-income hydrocarbon exporter with strong external balances and low unemployment, so economic fundamentals dominate, while moderate political and social risks (protests, low stability) and minor environmental exposure warrant small weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Qatar is a stable, high-income hydrocarbon exporter with strong external balances and low unemployment, so economic fundamentals dominate, while moderate political and social risks (protests, low stability) and minor environmental exposure warrant small weights.\"\n}",
+  "_cache_key": "d623e1c8761c351730b6705a9b5b08a1",
+  "_iso3": "QAT",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

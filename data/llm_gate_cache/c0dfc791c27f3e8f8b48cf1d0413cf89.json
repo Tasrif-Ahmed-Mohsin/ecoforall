@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Bolivia shows moderate economic imbalances (high current account surplus, moderate debt, low investment) but no acute crises, while political instability and social protests are notable but not extreme, so economy dominates but politics gets a meaningful share for the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bolivia shows moderate economic imbalances (high current account surplus, moderate debt, low investment) but no acute crises, while political instability and social protests are notable but not extreme, so economy dominates but politics gets a meaningful share for the 5-year horizon.\"\n}",
+  "_cache_key": "c0dfc791c27f3e8f8b48cf1d0413cf89",
+  "_iso3": "BOL",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

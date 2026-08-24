@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "High inflation, external imbalances, and moderate debt make the economy the primary driver, but severe political instability, sanctions, and conflict intensity elevate political risk substantially for the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High inflation, external imbalances, and moderate debt make the economy the primary driver, but severe political instability, sanctions, and conflict intensity elevate political risk substantially for the 3-year horizon.\"\n}",
+  "_cache_key": "994e6bc10ccfd427c466c1b506419173",
+  "_iso3": "BLR",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

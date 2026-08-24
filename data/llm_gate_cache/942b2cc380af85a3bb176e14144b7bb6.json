@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBR shows high debt and current account deficits but no active crises, so near-term growth is primarily driven by economic fundamentals, with moderate political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR shows high debt and current account deficits but no active crises, so near-term growth is primarily driven by economic fundamentals, with moderate political risk from sanctions and protests.\"\n}",
+  "_cache_key": "942b2cc380af85a3bb176e14144b7bb6",
+  "_iso3": "LBR",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

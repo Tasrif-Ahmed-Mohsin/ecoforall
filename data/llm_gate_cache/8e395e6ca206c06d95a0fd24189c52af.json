@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CIV is a low-income, politically fragile country with moderate instability and conflict, so while economic fundamentals dominate, political risk and social tensions warrant significant weight over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CIV is a low-income, politically fragile country with moderate instability and conflict, so while economic fundamentals dominate, political risk and social tensions warrant significant weight over a 3-year horizon.\"\n}",
+  "_cache_key": "8e395e6ca206c06d95a0fd24189c52af",
+  "_iso3": "CIV",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

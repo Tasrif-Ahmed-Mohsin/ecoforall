@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and strong external balances, political instability and sanctions risk, combined with moderate environmental pressures, warrant a reduced but still dominant economic weight over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and strong external balances, political instability and sanctions risk, combined with moderate environmental pressures, warrant a reduced but still dominant economic weight over the 5-year horizon.\"\n}",
+  "_cache_key": "ec71b84726becbff579ce714451c2f98",
+  "_iso3": "SAU",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

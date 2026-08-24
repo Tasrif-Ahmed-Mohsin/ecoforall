@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Kenya faces moderate political instability, high debt, and negative growth in 2020, but no extreme crisis, so economic fundamentals and political risks dominate, with social and environmental factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Kenya faces moderate political instability, high debt, and negative growth in 2020, but no extreme crisis, so economic fundamentals and political risks dominate, with social and environmental factors playing secondary roles.\"\n}",
+  "_cache_key": "8348566cdac39a112d5eded90c2b0ba5",
+  "_iso3": "KEN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

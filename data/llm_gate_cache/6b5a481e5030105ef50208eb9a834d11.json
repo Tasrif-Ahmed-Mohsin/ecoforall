@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Korea is a stable, high-income economy with moderate inflation and solid growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Korea is a stable, high-income economy with moderate inflation and solid growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play minor roles over a one-year horizon.\"\n}",
+  "_cache_key": "6b5a481e5030105ef50208eb9a834d11",
+  "_iso3": "KOR",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "LKA shows moderate economic imbalances (high debt, current account deficit) but stable politics and social conditions, with structural factors like demographics and trust becoming more relevant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LKA shows moderate economic imbalances (high debt, current account deficit) but stable politics and social conditions, with structural factors like demographics and trust becoming more relevant over a 5-year horizon.\"\n}",
+  "_cache_key": "baab1b6152f15342b69d4bdc3898a5e6",
+  "_iso3": "LKA",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

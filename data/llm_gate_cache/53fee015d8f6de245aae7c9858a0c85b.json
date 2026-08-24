@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate political tensions but no major crisis, so economic fundamentals dominate the 5-year growth outlook, with politics as a secondary risk factor.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate political tensions but no major crisis, so economic fundamentals dominate the 5-year growth outlook, with politics as a secondary risk factor.\"\n}",
+  "_cache_key": "53fee015d8f6de245aae7c9858a0c85b",
+  "_iso3": "BHR",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Oman faces a large current account deficit and low growth, but political instability and social unrest risks are elevated, while the 5-year horizon makes structural social factors more relevant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Oman faces a large current account deficit and low growth, but political instability and social unrest risks are elevated, while the 5-year horizon makes structural social factors more relevant.\"\n}",
+  "_cache_key": "361a900d1e91cef6ba03476d6bfc070f",
+  "_iso3": "OMN",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

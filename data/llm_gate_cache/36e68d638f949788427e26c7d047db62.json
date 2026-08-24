@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana shows moderate growth, high investment, and no crises, but elevated inflation and external imbalances make economic factors dominant, while moderate political stability, climate risks, and social indicators warrant balanced secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ghana shows moderate growth, high investment, and no crises, but elevated inflation and external imbalances make economic factors dominant, while moderate political stability, climate risks, and social indicators warrant balanced secondary weights.\"\n}",
+  "_cache_key": "36e68d638f949788427e26c7d047db62",
+  "_iso3": "GHA",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

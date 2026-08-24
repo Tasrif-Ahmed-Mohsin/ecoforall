@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cambodia shows moderate growth with low inflation and debt, but high political instability, protests, and negative sentiment warrant a significant political weight, while social factors like low trust and high fear also matter, though environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cambodia shows moderate growth with low inflation and debt, but high political instability, protests, and negative sentiment warrant a significant political weight, while social factors like low trust and high fear also matter, though environmental data is limited.\"\n}",
+  "_cache_key": "fbd4368fc2fcfc091a3681ba19ddbbd2",
+  "_iso3": "KHM",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

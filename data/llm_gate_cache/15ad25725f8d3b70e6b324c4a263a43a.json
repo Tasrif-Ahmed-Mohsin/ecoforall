@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "Gabon is a stable, upper-middle-income economy with no ongoing crises, moderate debt, positive growth, and low inflation, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Gabon is a stable, upper-middle-income economy with no ongoing crises, moderate debt, positive growth, and low inflation, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "15ad25725f8d3b70e6b324c4a263a43a",
+  "_iso3": "GAB",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

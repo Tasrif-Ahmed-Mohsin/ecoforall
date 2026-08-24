@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Russia in 2019 is a stable, upper-middle-income economy with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate, while sanctions and moderate social tensions warrant modest political and societal weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Russia in 2019 is a stable, upper-middle-income economy with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate, while sanctions and moderate social tensions warrant modest political and societal weights.\"\n}",
+  "_cache_key": "9ee56324d9f54fb1f4d7f8962fad5454",
+  "_iso3": "RUS",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

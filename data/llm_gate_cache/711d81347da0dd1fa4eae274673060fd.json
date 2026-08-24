@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE faces moderate political instability and sanctions, but the economy is the primary driver given low growth, high inflation, and external imbalances, while social and environmental factors are less critical over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE faces moderate political instability and sanctions, but the economy is the primary driver given low growth, high inflation, and external imbalances, while social and environmental factors are less critical over this short horizon.\"\n}",
+  "_cache_key": "711d81347da0dd1fa4eae274673060fd",
+  "_iso3": "SLE",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

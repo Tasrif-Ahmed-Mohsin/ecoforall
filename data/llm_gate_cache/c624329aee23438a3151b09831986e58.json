@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Argentina faces ongoing currency crisis and high inflation, making economic factors dominant, but political instability and sanctions also weigh heavily on near-term growth prospects.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina faces ongoing currency crisis and high inflation, making economic factors dominant, but political instability and sanctions also weigh heavily on near-term growth prospects.\"\n}",
+  "_cache_key": "c624329aee23438a3151b09831986e58",
+  "_iso3": "ARG",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

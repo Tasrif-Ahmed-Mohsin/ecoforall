@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Rwanda's moderate growth, high current account deficit, and elevated unemployment make economic fundamentals key, but political stability is offset by sanctions and protest pressure, while low trust and social cohesion add human_society risk over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Rwanda's moderate growth, high current account deficit, and elevated unemployment make economic fundamentals key, but political stability is offset by sanctions and protest pressure, while low trust and social cohesion add human_society risk over a 3-year horizon.\"\n}",
+  "_cache_key": "8624469a90b257c4e396ba3415df8b91",
+  "_iso3": "RWA",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

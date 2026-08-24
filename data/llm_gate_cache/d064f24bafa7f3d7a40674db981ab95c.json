@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Venezuela faces high inflation, negative recent growth, and political instability with sanctions, but no acute crisis, so economic fundamentals dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Venezuela faces high inflation, negative recent growth, and political instability with sanctions, but no acute crisis, so economic fundamentals dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "d064f24bafa7f3d7a40674db981ab95c",
+  "_iso3": "VEN",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

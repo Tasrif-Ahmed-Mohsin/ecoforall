@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "THA is a stable, high-income economy with no ongoing crises, low unemployment, and moderate debt, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"THA is a stable, high-income economy with no ongoing crises, low unemployment, and moderate debt, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign.\"\n}",
+  "_cache_key": "cec49f808f5d455904faa6cafd1d8b5e",
+  "_iso3": "THA",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

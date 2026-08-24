@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Niger is a low-income, politically unstable country with severe conflict and sanctions, so political risk dominates alongside economic fundamentals, while environmental and social factors are less critical over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Niger is a low-income, politically unstable country with severe conflict and sanctions, so political risk dominates alongside economic fundamentals, while environmental and social factors are less critical over this 5-year horizon.\"\n}",
+  "_cache_key": "4dd1467412184d338ff6e0f069e136e3",
+  "_iso3": "NER",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Tanzania in 2004 is a low-income, stable economy with moderate growth, no active crises, and standard macroeconomic indicators, so economic factors dominate while political, social, and environmental risks are relatively subdued.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Tanzania in 2004 is a low-income, stable economy with moderate growth, no active crises, and standard macroeconomic indicators, so economic factors dominate while political, social, and environmental risks are relatively subdued.\"\n}",
+  "_cache_key": "554059ff48d534e68168c9ff8cf8e4eb",
+  "_iso3": "TZA",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

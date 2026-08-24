@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Libya is in a post-conflict, politically unstable state with severe sanctions and protests, making politics highly influential, while the economy is recovering from a deep contraction with high unemployment and external imbalances, and social unrest adds moderate pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Libya is in a post-conflict, politically unstable state with severe sanctions and protests, making politics highly influential, while the economy is recovering from a deep contraction with high unemployment and external imbalances, and social unrest adds moderate pressure.\"\n}",
+  "_cache_key": "021bd78e3306980a122383115e8609c0",
+  "_iso3": "LBY",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

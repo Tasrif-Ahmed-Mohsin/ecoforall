@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SVK is a stable, high-income EU economy with no major crises, so short-term growth is driven primarily by economic fundamentals, with modest roles for political and social factors given moderate protest and migration dynamics.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SVK is a stable, high-income EU economy with no major crises, so short-term growth is driven primarily by economic fundamentals, with modest roles for political and social factors given moderate protest and migration dynamics.\"\n}",
+  "_cache_key": "d1cdce3ea6757923ce1f9d53cad8c2be",
+  "_iso3": "SVK",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

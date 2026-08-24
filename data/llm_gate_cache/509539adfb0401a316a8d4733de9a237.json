@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Armenia in 2007 shows high growth momentum but severe unemployment and external imbalances, making economic factors dominant, while political instability and social tensions (low trust, high protest) warrant significant weight for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Armenia in 2007 shows high growth momentum but severe unemployment and external imbalances, making economic factors dominant, while political instability and social tensions (low trust, high protest) warrant significant weight for a 5-year horizon.\"\n}",
+  "_cache_key": "509539adfb0401a316a8d4733de9a237",
+  "_iso3": "ARM",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,25 @@
+horizon_weeks,model_name,rmse,mae,r2_score
+4,Naive Persistence,445.471,251.3767,0.4646
+4,Ridge Regression,323.8628,182.5031,0.717
+4,Linear Regression,323.8639,182.5009,0.717
+4,LightGBM,354.9229,191.2558,0.6601
+4,Random Forest,363.2161,195.2332,0.6441
+4,Extra Trees,361.9434,194.7114,0.6466
+4,XGBoost,361.789,194.2873,0.6469
+4,Meta-Ensemble (Ridge Regression+Linear Regression+LightGBM),326.3448,182.8312,0.7127
+26,Naive Persistence,448.3676,252.1838,0.4576
+26,Ridge Regression,324.7278,182.7914,0.7155
+26,Linear Regression,324.7245,182.7909,0.7155
+26,LightGBM,356.5111,192.0155,0.6571
+26,Random Forest,358.0432,193.5108,0.6541
+26,Extra Trees,354.8633,192.1463,0.6602
+26,XGBoost,363.2548,194.6484,0.644
+26,Meta-Ensemble (Linear Regression+Ridge Regression+Extra Trees),326.9703,183.2839,0.7116
+52,Naive Persistence,447.6992,252.1881,0.459
+52,Ridge Regression,324.1225,182.9094,0.7164
+52,Linear Regression,324.1226,182.909,0.7164
+52,LightGBM,361.573,193.7127,0.6471
+52,Random Forest,362.5493,195.4831,0.6452
+52,Extra Trees,363.5812,195.302,0.6432
+52,XGBoost,368.485,196.4789,0.6335
+52,Meta-Ensemble (Ridge Regression+Linear Regression+LightGBM),327.3213,183.5043,0.7108

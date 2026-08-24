@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania faces moderate macroeconomic imbalances (high current account deficit, debt, unemployment) but no acute crisis, while political instability and protests are notable but not extreme, so economic fundamentals dominate with a significant political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania faces moderate macroeconomic imbalances (high current account deficit, debt, unemployment) but no acute crisis, while political instability and protests are notable but not extreme, so economic fundamentals dominate with a significant political risk premium.\"\n}",
+  "_cache_key": "f4036c7bf0a4cf699b7db782dca86e68",
+  "_iso3": "ALB",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

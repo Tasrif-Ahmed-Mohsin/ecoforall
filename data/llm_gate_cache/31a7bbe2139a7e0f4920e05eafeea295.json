@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and high protest/sanction pressures, combined with a large current account deficit and moderate debt, warrant a significant political weight, while the economy remains the primary driver over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and high protest/sanction pressures, combined with a large current account deficit and moderate debt, warrant a significant political weight, while the economy remains the primary driver over a 5-year horizon.\"\n}",
+  "_cache_key": "31a7bbe2139a7e0f4920e05eafeea295",
+  "_iso3": "HND",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

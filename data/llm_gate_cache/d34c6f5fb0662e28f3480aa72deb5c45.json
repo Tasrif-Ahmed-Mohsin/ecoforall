@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Iraq in 2004 is in a post-invasion conflict with high political instability, sanctions, and protests, making politics a dominant driver, while the economy is also stressed with high inflation and debt, and environmental and social factors are secondary but non-negligible.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Iraq in 2004 is in a post-invasion conflict with high political instability, sanctions, and protests, making politics a dominant driver, while the economy is also stressed with high inflation and debt, and environmental and social factors are secondary but non-negligible.\"\n}",
+  "_cache_key": "d34c6f5fb0662e28f3480aa72deb5c45",
+  "_iso3": "IRQ",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "KWT is a stable, high-income economy with strong external balances and no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions warrant minor attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"KWT is a stable, high-income economy with strong external balances and no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions warrant minor attention.\"\n}",
+  "_cache_key": "a5ed2f18ad4c6275c2b4ada33694f869",
+  "_iso3": "KWT",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

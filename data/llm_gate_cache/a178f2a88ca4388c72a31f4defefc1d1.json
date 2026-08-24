@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Denmark is a stable, high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Denmark is a stable, high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "a178f2a88ca4388c72a31f4defefc1d1",
+  "_iso3": "DNK",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

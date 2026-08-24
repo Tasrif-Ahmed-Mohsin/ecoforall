@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "NAM is a lower-middle-income economy with moderate debt, negative recent growth, and high political instability and conflict indicators, so economic fundamentals and political risks dominate the short-term outlook, while environmental and social factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NAM is a lower-middle-income economy with moderate debt, negative recent growth, and high political instability and conflict indicators, so economic fundamentals and political risks dominate the short-term outlook, while environmental and social factors are less immediate.\"\n}",
+  "_cache_key": "542ef6b495232a1367b139599b44a4e4",
+  "_iso3": "NAM",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

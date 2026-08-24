@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Russia in 2021 is a stable, upper-middle-income economy with moderate inflation, low debt, and positive growth trajectory, but sanctions and geopolitical tensions warrant a modest political weight, while environmental and social factors are secondary over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Russia in 2021 is a stable, upper-middle-income economy with moderate inflation, low debt, and positive growth trajectory, but sanctions and geopolitical tensions warrant a modest political weight, while environmental and social factors are secondary over a one-year horizon.\"\n}",
+  "_cache_key": "0c441b42c5ec86adc7f67d12aeb289e1",
+  "_iso3": "RUS",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

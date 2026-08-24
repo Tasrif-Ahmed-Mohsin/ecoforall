@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Severe political instability, high conflict, sanctions, and negative diplomatic signals dominate the outlook, while extreme external imbalances and high inflation also pose major economic risks, so politics is weighted highest, with economy also significant.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Severe political instability, high conflict, sanctions, and negative diplomatic signals dominate the outlook, while extreme external imbalances and high inflation also pose major economic risks, so politics is weighted highest, with economy also significant.\"\n}",
+  "_cache_key": "71335ba79a94edbad8fdbfe0deaae22a",
+  "_iso3": "TLS",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

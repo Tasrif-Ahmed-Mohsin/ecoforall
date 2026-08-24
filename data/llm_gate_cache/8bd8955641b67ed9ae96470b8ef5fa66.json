@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Panama is a stable, upper-middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while political and social factors play only minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Panama is a stable, upper-middle-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while political and social factors play only minor roles.\"\n}",
+  "_cache_key": "8bd8955641b67ed9ae96470b8ef5fa66",
+  "_iso3": "PAN",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

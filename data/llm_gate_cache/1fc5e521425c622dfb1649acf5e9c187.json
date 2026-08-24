@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "France is a stable, high-income economy with no major political or environmental shocks, so economic fundamentals dominate the forecast, with modest weights for social and political factors given moderate protest pressure and slight current account deficit.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"France is a stable, high-income economy with no major political or environmental shocks, so economic fundamentals dominate the forecast, with modest weights for social and political factors given moderate protest pressure and slight current account deficit.\"\n}",
+  "_cache_key": "1fc5e521425c622dfb1649acf5e9c187",
+  "_iso3": "FRA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

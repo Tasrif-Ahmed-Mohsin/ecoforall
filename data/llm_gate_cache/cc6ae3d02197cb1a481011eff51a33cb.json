@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Chile is a stable, high-income economy with moderate inflation and debt, no major political crisis or conflict, and only mild environmental stress, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Chile is a stable, high-income economy with moderate inflation and debt, no major political crisis or conflict, and only mild environmental stress, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "cc6ae3d02197cb1a481011eff51a33cb",
+  "_iso3": "CHL",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

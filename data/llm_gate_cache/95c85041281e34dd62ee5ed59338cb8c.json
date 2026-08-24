@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Serbia in 2012 faces high unemployment, large current account deficit, and moderate inflation, but the political instability and sanctions pressure elevate political risk, while social discontent and low trust add moderate human_society weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Serbia in 2012 faces high unemployment, large current account deficit, and moderate inflation, but the political instability and sanctions pressure elevate political risk, while social discontent and low trust add moderate human_society weight.\"\n}",
+  "_cache_key": "95c85041281e34dd62ee5ed59338cb8c",
+  "_iso3": "SRB",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

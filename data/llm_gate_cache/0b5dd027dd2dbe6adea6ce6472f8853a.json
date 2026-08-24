@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Singapore is a stable, high-income economy with strong growth, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Singapore is a stable, high-income economy with strong growth, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "0b5dd027dd2dbe6adea6ce6472f8853a",
+  "_iso3": "SGP",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

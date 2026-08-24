@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Cuba faces moderate political instability, sanctions, and protest pressure, which will weigh on investment and growth, while the economy's low investment share and weak recent growth trajectory suggest structural constraints, making politics nearly as important as the economy over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cuba faces moderate political instability, sanctions, and protest pressure, which will weigh on investment and growth, while the economy's low investment share and weak recent growth trajectory suggest structural constraints, making politics nearly as important as the economy over a 5-year horizon.\"\n}",
+  "_cache_key": "f3817eaed459aa6e90c9db82bebb5e8a",
+  "_iso3": "CUB",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

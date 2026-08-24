@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Argentina faces moderate political instability and high inflation, but no acute crisis, so economic fundamentals dominate while political risks and structural factors (trust, demographics) play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina faces moderate political instability and high inflation, but no acute crisis, so economic fundamentals dominate while political risks and structural factors (trust, demographics) play secondary roles.\"\n}",
+  "_cache_key": "b43eadce768f575f0628cf1b43eb9999",
+  "_iso3": "ARG",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

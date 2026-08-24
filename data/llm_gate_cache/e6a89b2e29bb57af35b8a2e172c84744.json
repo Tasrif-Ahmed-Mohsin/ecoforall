@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces severe political instability, high protest and conflict, negative sentiment, and weak social trust, while economic fundamentals are poor with deflation, high external deficit, and low investment, making politics and human society key drivers alongside the fragile economy.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"ZWE faces severe political instability, high protest and conflict, negative sentiment, and weak social trust, while economic fundamentals are poor with deflation, high external deficit, and low investment, making politics and human society key drivers alongside the fragile economy.\"\n}",
+  "_cache_key": "e6a89b2e29bb57af35b8a2e172c84744",
+  "_iso3": "ZWE",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

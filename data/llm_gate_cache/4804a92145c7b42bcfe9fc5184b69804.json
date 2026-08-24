@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico is recovering from a sharp 2020 recession with moderate debt and inflation, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico is recovering from a sharp 2020 recession with moderate debt and inflation, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "4804a92145c7b42bcfe9fc5184b69804",
+  "_iso3": "MEX",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

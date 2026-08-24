@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Norway is a stable, high-income economy with strong institutions, low political risk, and no major shocks, so economic fundamentals dominate the forecast, while other domains play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Norway is a stable, high-income economy with strong institutions, low political risk, and no major shocks, so economic fundamentals dominate the forecast, while other domains play minor roles.\"\n}",
+  "_cache_key": "d6e0c788f831cf7d527fa3cdb2f1d66b",
+  "_iso3": "NOR",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

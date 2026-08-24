@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana faces a currency crisis and moderate inflation, but political stability is moderate and no major conflict or social upheaval dominates, so economic factors lead while political and structural risks (including climate exposure) temper the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ghana faces a currency crisis and moderate inflation, but political stability is moderate and no major conflict or social upheaval dominates, so economic factors lead while political and structural risks (including climate exposure) temper the outlook.\"\n}",
+  "_cache_key": "f774f8cc66d0a6f6300bb16819e1b1be",
+  "_iso3": "GHA",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

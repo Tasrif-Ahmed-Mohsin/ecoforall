@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK faces moderate economic vulnerabilities (high debt, low investment, negative growth trajectory) but no acute crisis, while political instability and environmental risks (floods, droughts) add moderate uncertainty, and social factors are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PAK faces moderate economic vulnerabilities (high debt, low investment, negative growth trajectory) but no acute crisis, while political instability and environmental risks (floods, droughts) add moderate uncertainty, and social factors are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "60af7ecd9cd17c7d1c364631b4ba9b78",
+  "_iso3": "PAK",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

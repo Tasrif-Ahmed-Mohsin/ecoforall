@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth, high investment, and low debt support a strong economic weight, but elevated political instability, protests, and social tensions warrant significant political and societal weights, while environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate growth, high investment, and low debt support a strong economic weight, but elevated political instability, protests, and social tensions warrant significant political and societal weights, while environmental data is too limited to matter.\"\n}",
+  "_cache_key": "bef602b2ef50fca3572c0e68f8bfe9e7",
+  "_iso3": "NPL",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

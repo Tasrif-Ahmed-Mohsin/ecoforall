@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BWA faces severe economic instability (negative growth, high unemployment, external deficits) alongside significant political fragility (very low stability, high protests, sanctions), making both economy and politics dominant, with social unrest also relevant but environment less so.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BWA faces severe economic instability (negative growth, high unemployment, external deficits) alongside significant political fragility (very low stability, high protests, sanctions), making both economy and politics dominant, with social unrest also relevant but environment less so.\"\n}",
+  "_cache_key": "a205a7bf381f22d045fea7e5323d9c15",
+  "_iso3": "BWA",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

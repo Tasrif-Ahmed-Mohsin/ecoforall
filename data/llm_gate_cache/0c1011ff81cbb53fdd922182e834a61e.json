@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Romania in 2004 is a stable, middle-income EU candidate with moderate inflation and high current account deficit, but no major political or environmental shocks, so economic fundamentals dominate while social and political factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Romania in 2004 is a stable, middle-income EU candidate with moderate inflation and high current account deficit, but no major political or environmental shocks, so economic fundamentals dominate while social and political factors play a secondary role.\"\n}",
+  "_cache_key": "0c1011ff81cbb53fdd922182e834a61e",
+  "_iso3": "ROU",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA faces high external imbalances and moderate inflation but no acute crisis, while political instability, sanctions, and social tensions warrant elevated political and societal weights, though economic fundamentals remain the primary driver over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA faces high external imbalances and moderate inflation but no acute crisis, while political instability, sanctions, and social tensions warrant elevated political and societal weights, though economic fundamentals remain the primary driver over a 5-year horizon.\"\n}",
+  "_cache_key": "5853687377fe2616f73c9ec9c8309a8f",
+  "_iso3": "DZA",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

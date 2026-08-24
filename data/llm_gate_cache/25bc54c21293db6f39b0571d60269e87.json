@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ is a lower-middle-income economy with high inflation, a large current account deficit, and moderate debt, but political instability (protests, conflicts, sanctions) and social pressures are significant enough to warrant a substantial political weight, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ is a lower-middle-income economy with high inflation, a large current account deficit, and moderate debt, but political instability (protests, conflicts, sanctions) and social pressures are significant enough to warrant a substantial political weight, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "25bc54c21293db6f39b0571d60269e87",
+  "_iso3": "KGZ",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "MNG shows extreme external imbalances and high inflation, but no active crises, so economic factors dominate, while moderate political instability and social stress warrant notable weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"MNG shows extreme external imbalances and high inflation, but no active crises, so economic factors dominate, while moderate political instability and social stress warrant notable weights.\"\n}",
+  "_cache_key": "977aa4068da2ea38dab075f15f583980",
+  "_iso3": "MNG",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNQ shows severe external imbalances and recent negative growth, but no active political or environmental crises, so economic factors dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNQ shows severe external imbalances and recent negative growth, but no active political or environmental crises, so economic factors dominate the short-term forecast.\"\n}",
+  "_cache_key": "43f168a01379a7b2135816a1f2dc09e4",
+  "_iso3": "GNQ",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

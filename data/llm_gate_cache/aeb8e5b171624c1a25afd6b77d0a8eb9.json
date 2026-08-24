@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico in 2003 is a stable middle-income economy with moderate debt and no ongoing crises, but political instability and social tensions warrant elevated political and societal weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico in 2003 is a stable middle-income economy with moderate debt and no ongoing crises, but political instability and social tensions warrant elevated political and societal weights over a 5-year horizon.\"\n}",
+  "_cache_key": "aeb8e5b171624c1a25afd6b77d0a8eb9",
+  "_iso3": "MEX",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

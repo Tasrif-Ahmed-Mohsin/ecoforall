@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Syria faces severe political instability, sanctions, and conflict, which dominate short-term growth prospects, while the weak investment climate and negative recent growth trajectory also weigh heavily on the economic outlook.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Syria faces severe political instability, sanctions, and conflict, which dominate short-term growth prospects, while the weak investment climate and negative recent growth trajectory also weigh heavily on the economic outlook.\"\n}",
+  "_cache_key": "630c579af0e9160d4878bbf3c2574cbc",
+  "_iso3": "SYR",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

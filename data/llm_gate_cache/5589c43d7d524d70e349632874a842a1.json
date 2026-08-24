@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "THA is a stable, high-income economy with low inflation, low unemployment, and moderate debt, so economic fundamentals dominate the short-term outlook, while political and social factors are relatively calm and environmental risks are minor.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"THA is a stable, high-income economy with low inflation, low unemployment, and moderate debt, so economic fundamentals dominate the short-term outlook, while political and social factors are relatively calm and environmental risks are minor.\"\n}",
+  "_cache_key": "5589c43d7d524d70e349632874a842a1",
+  "_iso3": "THA",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

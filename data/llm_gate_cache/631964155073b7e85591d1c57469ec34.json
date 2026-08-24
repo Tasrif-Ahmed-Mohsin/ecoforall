@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BEN is a low-income, politically unstable country with high conflict and sanctions, so political risk dominates alongside economic fundamentals, while environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BEN is a low-income, politically unstable country with high conflict and sanctions, so political risk dominates alongside economic fundamentals, while environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "631964155073b7e85591d1c57469ec34",
+  "_iso3": "BEN",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

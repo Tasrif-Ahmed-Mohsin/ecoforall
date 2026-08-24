@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Hungary in 2006 is a stable, high-income EU economy with moderate imbalances (current account deficit, high debt) but no major political or environmental shocks, so near-term GDP growth is primarily driven by macroeconomic factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Hungary in 2006 is a stable, high-income EU economy with moderate imbalances (current account deficit, high debt) but no major political or environmental shocks, so near-term GDP growth is primarily driven by macroeconomic factors.\"\n}",
+  "_cache_key": "f4c9d64f6e7afcbc0065b6df2270996c",
+  "_iso3": "HUN",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "India in 2003 is a lower-middle-income economy with moderate growth, high debt, and political instability, but no acute crisis, so economic fundamentals dominate while political risks and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"India in 2003 is a lower-middle-income economy with moderate growth, high debt, and political instability, but no acute crisis, so economic fundamentals dominate while political risks and social factors play secondary roles.\"\n}",
+  "_cache_key": "81f52b3f2dbd2d83a2a353842d93d523",
+  "_iso3": "IND",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

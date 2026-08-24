@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, negative inflation, and moderate debt, but the dominant risk is political instability and social unrest, which could undermine investment and growth over the medium term.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, negative inflation, and moderate debt, but the dominant risk is political instability and social unrest, which could undermine investment and growth over the medium term.\"\n}",
+  "_cache_key": "70837d2d86b19ff8138a7b7db8ebfefc",
+  "_iso3": "MKD",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

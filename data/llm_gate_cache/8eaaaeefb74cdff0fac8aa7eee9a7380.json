@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Croatia is a stable, high-income EU economy with moderate debt and unemployment, recent positive growth, and no active crises, so economic fundamentals dominate the forecast, while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Croatia is a stable, high-income EU economy with moderate debt and unemployment, recent positive growth, and no active crises, so economic fundamentals dominate the forecast, while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "8eaaaeefb74cdff0fac8aa7eee9a7380",
+  "_iso3": "HRV",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Azerbaijan's high oil-driven current account surplus and low debt suggest strong economic fundamentals, but political instability, regional conflict, and social tensions warrant significant weight on politics and human society, while environmental factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Azerbaijan's high oil-driven current account surplus and low debt suggest strong economic fundamentals, but political instability, regional conflict, and social tensions warrant significant weight on politics and human society, while environmental factors are less immediate.\"\n}",
+  "_cache_key": "9a840e67e6c84a18a1963d7ab9c44cb4",
+  "_iso3": "AZE",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

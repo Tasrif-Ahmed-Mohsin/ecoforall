@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.75,
+  "reasoning": "Ireland is a stable, high-income economy with no ongoing crises, so economic factors dominate the short-term growth outlook, while political, environmental, and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ireland is a stable, high-income economy with no ongoing crises, so economic factors dominate the short-term growth outlook, while political, environmental, and social factors play minor roles.\"\n}",
+  "_cache_key": "80bf8448e6788b57a48c913550a68d2f",
+  "_iso3": "IRL",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

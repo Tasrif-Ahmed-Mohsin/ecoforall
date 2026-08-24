@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Hungary in 2013 is a stable, upper-middle-income EU economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the 5-year outlook, with modest weights for political and social factors given structural reforms and demographic trends.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Hungary in 2013 is a stable, upper-middle-income EU economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate the 5-year outlook, with modest weights for political and social factors given structural reforms and demographic trends.\"\n}",
+  "_cache_key": "7fddc9502200871cc2c84fb3c4234d55",
+  "_iso3": "HUN",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

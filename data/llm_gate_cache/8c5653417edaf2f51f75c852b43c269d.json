@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "High unemployment, external deficit, and moderate inflation signal economic fragility, while severe political instability and sanctions elevate political risk, though no acute crisis or environmental shock is present.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High unemployment, external deficit, and moderate inflation signal economic fragility, while severe political instability and sanctions elevate political risk, though no acute crisis or environmental shock is present.\"\n}",
+  "_cache_key": "8c5653417edaf2f51f75c852b43c269d",
+  "_iso3": "NAM",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

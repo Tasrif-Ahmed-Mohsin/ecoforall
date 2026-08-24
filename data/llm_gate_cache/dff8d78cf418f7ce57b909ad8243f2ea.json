@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ is a low-income, politically fragile economy with high debt and moderate instability, so economic fundamentals dominate but political risks and social pressures are significant for the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ is a low-income, politically fragile economy with high debt and moderate instability, so economic fundamentals dominate but political risks and social pressures are significant for the 3-year horizon.\"\n}",
+  "_cache_key": "dff8d78cf418f7ce57b909ad8243f2ea",
+  "_iso3": "KGZ",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

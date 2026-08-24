@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "CRI is a stable, upper-middle-income economy with moderate inflation and external imbalances, but political instability and protest pressure warrant a modest political weight, while social and environmental factors are secondary over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CRI is a stable, upper-middle-income economy with moderate inflation and external imbalances, but political instability and protest pressure warrant a modest political weight, while social and environmental factors are secondary over a one-year horizon.\"\n}",
+  "_cache_key": "218b5ac795816af0bccca47eebf5cf7e",
+  "_iso3": "CRI",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

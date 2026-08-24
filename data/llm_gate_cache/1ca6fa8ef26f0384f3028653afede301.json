@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "VEN faces extreme inflation, high debt, and severe political instability with sanctions and conflict, while environmental and social stresses are moderate, so economic and political factors dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"VEN faces extreme inflation, high debt, and severe political instability with sanctions and conflict, while environmental and social stresses are moderate, so economic and political factors dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "1ca6fa8ef26f0384f3028653afede301",
+  "_iso3": "VEN",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

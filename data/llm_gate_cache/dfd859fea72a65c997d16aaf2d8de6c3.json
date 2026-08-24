@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MOZ is a low-income, politically fragile economy with moderate debt and external deficits, but no acute crisis, so economic fundamentals dominate while political instability and social tensions warrant significant weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MOZ is a low-income, politically fragile economy with moderate debt and external deficits, but no acute crisis, so economic fundamentals dominate while political instability and social tensions warrant significant weight over a 5-year horizon.\"\n}",
+  "_cache_key": "dfd859fea72a65c997d16aaf2d8de6c3",
+  "_iso3": "MOZ",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

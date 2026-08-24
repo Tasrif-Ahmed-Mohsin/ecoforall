@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TKM shows high investment and recent strong growth but also high inflation, large current account deficit, and significant political instability and conflict, making economic fundamentals primary but political risks substantial for the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TKM shows high investment and recent strong growth but also high inflation, large current account deficit, and significant political instability and conflict, making economic fundamentals primary but political risks substantial for the near-term outlook.\"\n}",
+  "_cache_key": "cf8c3b3a8f8cb7fe2b963b7da0affd0c",
+  "_iso3": "TKM",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

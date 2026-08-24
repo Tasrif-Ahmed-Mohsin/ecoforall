@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bulgaria in 2004 is a stable, middle-income EU candidate with moderate growth, low debt, and no active crises, so economic fundamentals dominate, while political and social factors play secondary roles due to ongoing transition and moderate instability.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bulgaria in 2004 is a stable, middle-income EU candidate with moderate growth, low debt, and no active crises, so economic fundamentals dominate, while political and social factors play secondary roles due to ongoing transition and moderate instability.\"\n}",
+  "_cache_key": "cec8d7edaf319782467001f1dd0390bb",
+  "_iso3": "BGR",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

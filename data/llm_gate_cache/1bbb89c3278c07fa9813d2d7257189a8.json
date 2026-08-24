@@ -1,0 +1,14 @@
+{
+  "economy": 0.7894736842105262,
+  "politics": 0.10526315789473684,
+  "environment": 0.05263157894736842,
+  "human_society": 0.05263157894736842,
+  "confidence": 0.05,
+  "reasoning": "Mexico in 2015 is a stable, middle-income economy with no major crises, moderate growth, and low inflation, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.05,\n  \"reasoning\": \"Mexico in 2015 is a stable, middle-income economy with no major crises, moderate growth, and low inflation, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors are relatively benign.\"\n}",
+  "_cache_key": "1bbb89c3278c07fa9813d2d7257189a8",
+  "_iso3": "MEX",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

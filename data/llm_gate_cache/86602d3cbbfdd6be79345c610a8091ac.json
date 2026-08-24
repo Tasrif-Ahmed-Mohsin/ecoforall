@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite moderate political instability and protests, the economy shows strong investment and external surplus, but low income and high debt suggest structural vulnerabilities, making economic factors dominant while political risks warrant significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite moderate political instability and protests, the economy shows strong investment and external surplus, but low income and high debt suggest structural vulnerabilities, making economic factors dominant while political risks warrant significant weight.\"\n}",
+  "_cache_key": "86602d3cbbfdd6be79345c610a8091ac",
+  "_iso3": "TLS",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

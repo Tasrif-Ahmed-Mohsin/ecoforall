@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cuba faces significant political instability, sanctions, and negative international sentiment, which likely dominate growth prospects, while moderate economic fundamentals and social pressures play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cuba faces significant political instability, sanctions, and negative international sentiment, which likely dominate growth prospects, while moderate economic fundamentals and social pressures play secondary roles.\"\n}",
+  "_cache_key": "2f453b1425322a8484b803c9684d6724",
+  "_iso3": "CUB",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

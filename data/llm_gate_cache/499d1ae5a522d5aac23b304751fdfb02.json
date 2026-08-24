@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic imbalances (current account deficit, unemployment) and political instability (low stability, sanctions, conflicts) are key risks, but no acute crisis and short horizon favor economic factors, with social trust and optimism providing some buffer.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic imbalances (current account deficit, unemployment) and political instability (low stability, sanctions, conflicts) are key risks, but no acute crisis and short horizon favor economic factors, with social trust and optimism providing some buffer.\"\n}",
+  "_cache_key": "499d1ae5a522d5aac23b304751fdfb02",
+  "_iso3": "CRI",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

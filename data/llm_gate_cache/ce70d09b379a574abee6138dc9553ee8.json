@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "High-income but fragile economy with high debt, external deficit, and moderate inflation, combined with severe political instability and conflict indicators, warrants a substantial but not dominant economic weight and elevated political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High-income but fragile economy with high debt, external deficit, and moderate inflation, combined with severe political instability and conflict indicators, warrants a substantial but not dominant economic weight and elevated political weight.\"\n}",
+  "_cache_key": "ce70d09b379a574abee6138dc9553ee8",
+  "_iso3": "ISL",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

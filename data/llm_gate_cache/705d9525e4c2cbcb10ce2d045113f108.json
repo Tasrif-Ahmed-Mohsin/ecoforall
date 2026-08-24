@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Yemen faces severe political instability and conflict, which will dominate growth prospects, while moderate economic fundamentals and social pressures play secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Yemen faces severe political instability and conflict, which will dominate growth prospects, while moderate economic fundamentals and social pressures play secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "705d9525e4c2cbcb10ce2d045113f108",
+  "_iso3": "YEM",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LBY faces severe political instability (very low stability, high sanctions, negative Goldstein index) and moderate social unrest, which will likely dominate growth prospects, while the economy's weak investment and volatile recent growth add to uncertainty.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LBY faces severe political instability (very low stability, high sanctions, negative Goldstein index) and moderate social unrest, which will likely dominate growth prospects, while the economy's weak investment and volatile recent growth add to uncertainty.\"\n}",
+  "_cache_key": "6ef843c8cb56f7427370513887e50f79",
+  "_iso3": "LBY",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and growth but severe external imbalance and high unemployment suggest economic fragility, while moderate political instability and social pressures warrant elevated political and social weights, with minimal environmental data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and growth but severe external imbalance and high unemployment suggest economic fragility, while moderate political instability and social pressures warrant elevated political and social weights, with minimal environmental data.\"\n}",
+  "_cache_key": "d47d4b69184b9a43b6250e22e9b80603",
+  "_iso3": "MNE",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

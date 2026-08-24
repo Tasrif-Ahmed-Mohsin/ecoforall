@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TCD is a low-income, politically unstable country with high protest pressure, sanctions, and negative sentiment, so political risk weighs heavily alongside economic fundamentals, while environmental and social data are too sparse to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TCD is a low-income, politically unstable country with high protest pressure, sanctions, and negative sentiment, so political risk weighs heavily alongside economic fundamentals, while environmental and social data are too sparse to assign higher weights.\"\n}",
+  "_cache_key": "0de2dfbdcbcfa7c01eed13d372c1f173",
+  "_iso3": "TCD",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

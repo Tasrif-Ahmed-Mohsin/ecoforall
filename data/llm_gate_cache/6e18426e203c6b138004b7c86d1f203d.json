@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt and inflation with low growth make economy key, but political instability and conflict risk warrant elevated political weight, while environment and society are secondary given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt and inflation with low growth make economy key, but political instability and conflict risk warrant elevated political weight, while environment and society are secondary given limited data.\"\n}",
+  "_cache_key": "6e18426e203c6b138004b7c86d1f203d",
+  "_iso3": "ERI",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

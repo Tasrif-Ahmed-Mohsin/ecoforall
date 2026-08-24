@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Rwanda is a low-income, stable economy with moderate growth and no active crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, low trust, high fear) warrant modest attention over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Rwanda is a low-income, stable economy with moderate growth and no active crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, low trust, high fear) warrant modest attention over the 3-year horizon.\"\n}",
+  "_cache_key": "b6381dd7a0b702f076f6475fa87c418b",
+  "_iso3": "RWA",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

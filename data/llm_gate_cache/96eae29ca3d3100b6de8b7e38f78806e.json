@@ -1,0 +1,14 @@
+{
+  "economy": 0.35000000000000003,
+  "politics": 0.30000000000000004,
+  "environment": 0.10000000000000002,
+  "human_society": 0.25000000000000006,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces severe political instability, high social distrust, and external imbalances, but recent growth is positive and inflation is low, so economic fundamentals matter but are tempered by political and social risks over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces severe political instability, high social distrust, and external imbalances, but recent growth is positive and inflation is low, so economic fundamentals matter but are tempered by political and social risks over a 5-year horizon.\"\n}",
+  "_cache_key": "96eae29ca3d3100b6de8b7e38f78806e",
+  "_iso3": "ZWE",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

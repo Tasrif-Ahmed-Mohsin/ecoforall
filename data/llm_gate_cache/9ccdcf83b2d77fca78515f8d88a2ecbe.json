@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Ukraine faces moderate political instability and conflict, high debt, and low investment, but no major environmental shocks, so economic fundamentals and political risks dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ukraine faces moderate political instability and conflict, high debt, and low investment, but no major environmental shocks, so economic fundamentals and political risks dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "9ccdcf83b2d77fca78515f8d88a2ecbe",
+  "_iso3": "UKR",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

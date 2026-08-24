@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "COG is a lower-middle-income country with high debt, large current account surplus, and recent negative growth, but significant political instability, conflict, and sanctions suggest politics will heavily influence the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"COG is a lower-middle-income country with high debt, large current account surplus, and recent negative growth, but significant political instability, conflict, and sanctions suggest politics will heavily influence the 5-year outlook.\"\n}",
+  "_cache_key": "47b7c7fd19a0e956a35f8ad2749d6422",
+  "_iso3": "COG",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Paraguay's growth is primarily driven by economic fundamentals (investment, external balance, moderate debt) with moderate political and social risks from protests and low trust, but no major crisis or environmental shock dominates the one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Paraguay's growth is primarily driven by economic fundamentals (investment, external balance, moderate debt) with moderate political and social risks from protests and low trust, but no major crisis or environmental shock dominates the one-year horizon.\"\n}",
+  "_cache_key": "d2ad3223830bc572e1be8918ec07aef9",
+  "_iso3": "PRY",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

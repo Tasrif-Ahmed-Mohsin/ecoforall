@@ -1,0 +1,14 @@
+{
+  "economy": 0.35000000000000003,
+  "politics": 0.30000000000000004,
+  "environment": 0.10000000000000002,
+  "human_society": 0.25000000000000006,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, while weak investment and high inflation constrain growth, making political and societal factors nearly as important as economic fundamentals over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, while weak investment and high inflation constrain growth, making political and societal factors nearly as important as economic fundamentals over a 5-year horizon.\"\n}",
+  "_cache_key": "5f560e71efbf8a6c55629e0ae0d7a549",
+  "_iso3": "ZWE",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

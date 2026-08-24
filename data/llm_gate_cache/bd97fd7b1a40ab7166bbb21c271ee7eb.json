@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Colombia in 2007 shows moderate growth, high unemployment, and external deficits, but no acute crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention, with environmental factors secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Colombia in 2007 shows moderate growth, high unemployment, and external deficits, but no acute crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention, with environmental factors secondary.\"\n}",
+  "_cache_key": "bd97fd7b1a40ab7166bbb21c271ee7eb",
+  "_iso3": "COL",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

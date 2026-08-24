@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LSO is a low-income economy with moderate debt and investment, but high political instability and conflict indicators suggest political risk is significant for short-term growth, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LSO is a low-income economy with moderate debt and investment, but high political instability and conflict indicators suggest political risk is significant for short-term growth, while environmental and social data are limited.\"\n}",
+  "_cache_key": "18c1ef9063cc7034977a9cf72a930112",
+  "_iso3": "LSO",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

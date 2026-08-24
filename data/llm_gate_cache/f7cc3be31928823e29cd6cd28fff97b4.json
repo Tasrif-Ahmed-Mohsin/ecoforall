@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Despite moderate growth and low debt, high political instability, conflict, sanctions, and negative sentiment elevate political risk, while social stress and low trust also weigh on the outlook, though the economy remains the primary driver over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite moderate growth and low debt, high political instability, conflict, sanctions, and negative sentiment elevate political risk, while social stress and low trust also weigh on the outlook, though the economy remains the primary driver over a 1-year horizon.\"\n}",
+  "_cache_key": "f7cc3be31928823e29cd6cd28fff97b4",
+  "_iso3": "ECU",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

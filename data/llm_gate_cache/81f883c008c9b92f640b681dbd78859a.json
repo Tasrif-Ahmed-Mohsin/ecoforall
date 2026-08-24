@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Brazil in 2010 is a stable emerging economy with moderate inflation, manageable debt, and no ongoing crises, so short-term GDP growth is primarily driven by economic fundamentals, with minor contributions from political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Brazil in 2010 is a stable emerging economy with moderate inflation, manageable debt, and no ongoing crises, so short-term GDP growth is primarily driven by economic fundamentals, with minor contributions from political and social factors.\"\n}",
+  "_cache_key": "81f883c008c9b92f640b681dbd78859a",
+  "_iso3": "BRA",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

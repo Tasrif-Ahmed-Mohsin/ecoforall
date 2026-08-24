@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MNG is a lower-middle-income economy with high investment and large external imbalances, but political instability, sanctions, and social unrest are significant risks that could disrupt growth over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MNG is a lower-middle-income economy with high investment and large external imbalances, but political instability, sanctions, and social unrest are significant risks that could disrupt growth over a 5-year horizon.\"\n}",
+  "_cache_key": "3e16eaff3462f47cc1fd0a7208926ad2",
+  "_iso3": "MNG",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

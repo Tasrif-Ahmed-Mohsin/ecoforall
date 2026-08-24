@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cameroon faces moderate political instability, sanctions, and conflict, which will weigh on growth, while the economy is low-income with external imbalances and modest investment, making economic fundamentals important but not dominant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon faces moderate political instability, sanctions, and conflict, which will weigh on growth, while the economy is low-income with external imbalances and modest investment, making economic fundamentals important but not dominant over a 5-year horizon.\"\n}",
+  "_cache_key": "b70e4485169f7b11d36b356b94ca0463",
+  "_iso3": "CMR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

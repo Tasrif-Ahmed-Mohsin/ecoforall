@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Turkey's economy is growing but faces high inflation, external imbalances, and political instability, while moderate environmental and social stresses warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Turkey's economy is growing but faces high inflation, external imbalances, and political instability, while moderate environmental and social stresses warrant secondary weights.\"\n}",
+  "_cache_key": "3f5b71d8ccd4777fd96a3acc4d8b1d58",
+  "_iso3": "TUR",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LKA is a lower-middle-income economy with moderate debt and investment, but ongoing political instability and conflict (despite recent ceasefire) elevate political risk, while social trust and cohesion are weak, though no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LKA is a lower-middle-income economy with moderate debt and investment, but ongoing political instability and conflict (despite recent ceasefire) elevate political risk, while social trust and cohesion are weak, though no major environmental shocks are evident.\"\n}",
+  "_cache_key": "758b0ddafd3b3cf9f3cbbf1489eaf747",
+  "_iso3": "LKA",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

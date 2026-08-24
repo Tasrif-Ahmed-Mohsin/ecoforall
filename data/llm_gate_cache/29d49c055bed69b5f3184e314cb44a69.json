@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan faces moderate political instability and social tensions, but the economy is the primary driver given its high investment rate and recent growth rebound, while environmental factors are not highlighted in the available data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan faces moderate political instability and social tensions, but the economy is the primary driver given its high investment rate and recent growth rebound, while environmental factors are not highlighted in the available data.\"\n}",
+  "_cache_key": "29d49c055bed69b5f3184e314cb44a69",
+  "_iso3": "UZB",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

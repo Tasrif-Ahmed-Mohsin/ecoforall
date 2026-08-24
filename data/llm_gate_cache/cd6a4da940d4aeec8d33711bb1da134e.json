@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Cuba's low investment and moderate political instability (sanctions, protests) warrant a strong but not dominant economic weight, with politics elevated due to ongoing tensions, while environmental and social factors are less critical given limited data and no major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cuba's low investment and moderate political instability (sanctions, protests) warrant a strong but not dominant economic weight, with politics elevated due to ongoing tensions, while environmental and social factors are less critical given limited data and no major shocks.\"\n}",
+  "_cache_key": "cd6a4da940d4aeec8d33711bb1da134e",
+  "_iso3": "CUB",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

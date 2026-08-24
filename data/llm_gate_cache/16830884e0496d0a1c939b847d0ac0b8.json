@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and moderate growth suggest economic fundamentals dominate, but elevated inflation, high unemployment, and significant protest/sanction activity warrant a notable political and social risk premium over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and moderate growth suggest economic fundamentals dominate, but elevated inflation, high unemployment, and significant protest/sanction activity warrant a notable political and social risk premium over a 5-year horizon.\"\n}",
+  "_cache_key": "16830884e0496d0a1c939b847d0ac0b8",
+  "_iso3": "SUR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

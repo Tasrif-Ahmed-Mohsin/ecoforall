@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan in 2006 is a lower-middle-income, resource-dependent economy with moderate growth and low debt, but political instability, sanctions, and social tensions (low trust, high fear) warrant significant non-economic weights, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Uzbekistan in 2006 is a lower-middle-income, resource-dependent economy with moderate growth and low debt, but political instability, sanctions, and social tensions (low trust, high fear) warrant significant non-economic weights, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "103db75971ff1ccca17c2739bdeaeed5",
+  "_iso3": "UZB",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

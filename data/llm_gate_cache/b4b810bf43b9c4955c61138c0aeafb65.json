@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana is a stable, lower-middle-income economy with moderate debt and investment, but high current account deficit and recent strong growth, so economic fundamentals dominate, while political stability is decent, environmental risks are moderate, and social indicators are mixed but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ghana is a stable, lower-middle-income economy with moderate debt and investment, but high current account deficit and recent strong growth, so economic fundamentals dominate, while political stability is decent, environmental risks are moderate, and social indicators are mixed but not crisis-level.\"\n}",
+  "_cache_key": "b4b810bf43b9c4955c61138c0aeafb65",
+  "_iso3": "GHA",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

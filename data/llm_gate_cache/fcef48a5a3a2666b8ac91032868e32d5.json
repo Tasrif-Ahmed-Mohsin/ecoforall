@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Bangladesh in 2012 shows moderate growth and investment but faces political instability, protests, and environmental vulnerabilities, so while the economy remains central, political and environmental risks warrant substantial weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Bangladesh in 2012 shows moderate growth and investment but faces political instability, protests, and environmental vulnerabilities, so while the economy remains central, political and environmental risks warrant substantial weight over a 5-year horizon.\"\n}",
+  "_cache_key": "fcef48a5a3a2666b8ac91032868e32d5",
+  "_iso3": "BGD",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

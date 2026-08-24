@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNQ shows moderate political instability and conflict indicators, but the economy is weak with negative growth and low investment, so economic factors dominate while political risks warrant a significant share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNQ shows moderate political instability and conflict indicators, but the economy is weak with negative growth and low investment, so economic factors dominate while political risks warrant a significant share.\"\n}",
+  "_cache_key": "0ed93cbba851c65534c9a1e77b8c0ce3",
+  "_iso3": "GNQ",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

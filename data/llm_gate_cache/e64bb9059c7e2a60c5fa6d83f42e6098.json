@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "LSO faces severe political instability, sanctions, and conflict, which alongside high debt and external deficits, will likely dominate growth prospects, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LSO faces severe political instability, sanctions, and conflict, which alongside high debt and external deficits, will likely dominate growth prospects, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "e64bb9059c7e2a60c5fa6d83f42e6098",
+  "_iso3": "LSO",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

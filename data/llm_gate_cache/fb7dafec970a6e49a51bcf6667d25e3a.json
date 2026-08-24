@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Togo is a low-income, politically fragile country with moderate debt and weak investment, so economic fundamentals dominate but political instability and sanctions risk significantly cloud the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Togo is a low-income, politically fragile country with moderate debt and weak investment, so economic fundamentals dominate but political instability and sanctions risk significantly cloud the 5-year outlook.\"\n}",
+  "_cache_key": "fb7dafec970a6e49a51bcf6667d25e3a",
+  "_iso3": "TGO",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

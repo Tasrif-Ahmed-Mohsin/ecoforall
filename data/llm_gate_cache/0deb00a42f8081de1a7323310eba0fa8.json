@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "China in 2005 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"China in 2005 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate the short-term forecast, while political, environmental, and social factors play minor roles.\"\n}",
+  "_cache_key": "0deb00a42f8081de1a7323310eba0fa8",
+  "_iso3": "CHN",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

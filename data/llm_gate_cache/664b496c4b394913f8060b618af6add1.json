@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNB faces high debt, deflation, and low investment, but political instability and conflict indicators are elevated, making politics a significant secondary factor for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNB faces high debt, deflation, and low investment, but political instability and conflict indicators are elevated, making politics a significant secondary factor for near-term growth.\"\n}",
+  "_cache_key": "664b496c4b394913f8060b618af6add1",
+  "_iso3": "GNB",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "DZA is a stable, oil-exporting economy with strong investment and current account surpluses, but moderate inflation and unemployment, so economic fundamentals dominate while political and social factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"DZA is a stable, oil-exporting economy with strong investment and current account surpluses, but moderate inflation and unemployment, so economic fundamentals dominate while political and social factors play a secondary role.\"\n}",
+  "_cache_key": "d0778e4f11fbfb1f573ac2612026ee90",
+  "_iso3": "DZA",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

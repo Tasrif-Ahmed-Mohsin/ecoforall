@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BWA shows moderate economic fragility with high unemployment and external deficit, but political instability and sanctions risk warrant significant weight, while social pressures and limited environmental data play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BWA shows moderate economic fragility with high unemployment and external deficit, but political instability and sanctions risk warrant significant weight, while social pressures and limited environmental data play secondary roles.\"\n}",
+  "_cache_key": "eaf64b3878a14439ff7e163e414ab161",
+  "_iso3": "BWA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

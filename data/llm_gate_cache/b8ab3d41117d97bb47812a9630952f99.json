@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "PAN is a stable, high-income economy with moderate political stability and no major crisis, so economic fundamentals dominate, but modest political and social risks warrant some weight.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"PAN is a stable, high-income economy with moderate political stability and no major crisis, so economic fundamentals dominate, but modest political and social risks warrant some weight.\"\n}",
+  "_cache_key": "b8ab3d41117d97bb47812a9630952f99",
+  "_iso3": "PAN",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

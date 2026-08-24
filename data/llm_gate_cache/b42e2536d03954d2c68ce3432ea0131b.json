@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Malawi faces severe macroeconomic imbalances (high inflation, large current account deficit) and significant political instability (very low stability, sanctions, conflict), making both economy and politics critical for medium-term growth, while environmental and social factors are less directly evident in the data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Malawi faces severe macroeconomic imbalances (high inflation, large current account deficit) and significant political instability (very low stability, sanctions, conflict), making both economy and politics critical for medium-term growth, while environmental and social factors are less directly evident in the data.\"\n}",
+  "_cache_key": "b42e2536d03954d2c68ce3432ea0131b",
+  "_iso3": "MWI",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

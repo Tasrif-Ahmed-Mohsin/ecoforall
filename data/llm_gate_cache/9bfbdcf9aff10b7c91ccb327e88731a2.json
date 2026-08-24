@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The Philippines in 2012 is a stable, emerging economy with moderate growth, low inflation, and no crises, so economic fundamentals dominate, but the 5-year horizon and notable environmental vulnerabilities (frequent storms, floods) and moderate political/social tensions warrant meaningful but secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The Philippines in 2012 is a stable, emerging economy with moderate growth, low inflation, and no crises, so economic fundamentals dominate, but the 5-year horizon and notable environmental vulnerabilities (frequent storms, floods) and moderate political/social tensions warrant meaningful but secondary weights.\"\n}",
+  "_cache_key": "9bfbdcf9aff10b7c91ccb327e88731a2",
+  "_iso3": "PHL",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

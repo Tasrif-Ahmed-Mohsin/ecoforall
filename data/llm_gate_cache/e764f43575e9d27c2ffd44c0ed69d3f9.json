@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Thailand in 2012 is a stable, upper-middle-income economy with low unemployment, moderate inflation, and no ongoing crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Thailand in 2012 is a stable, upper-middle-income economy with low unemployment, moderate inflation, and no ongoing crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors are relatively benign.\"\n}",
+  "_cache_key": "e764f43575e9d27c2ffd44c0ed69d3f9",
+  "_iso3": "THA",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

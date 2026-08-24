@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "DZA shows moderate economic stability with high investment and low debt, but political tensions, protests, and social fragility warrant significant weight on politics and human_society, while environmental data is too limited to be highly influential.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"DZA shows moderate economic stability with high investment and low debt, but political tensions, protests, and social fragility warrant significant weight on politics and human_society, while environmental data is too limited to be highly influential.\"\n}",
+  "_cache_key": "cef6b2ce5f178ed4d5e13eac9dd9df04",
+  "_iso3": "DZA",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

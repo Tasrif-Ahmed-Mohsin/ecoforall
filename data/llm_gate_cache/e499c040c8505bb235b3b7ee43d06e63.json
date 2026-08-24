@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Cambodia is a lower-middle-income economy with strong recent growth and stable macro fundamentals, but moderate political instability and social pressures warrant a significant non-economic weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Cambodia is a lower-middle-income economy with strong recent growth and stable macro fundamentals, but moderate political instability and social pressures warrant a significant non-economic weight over a 5-year horizon.\"\n}",
+  "_cache_key": "e499c040c8505bb235b3b7ee43d06e63",
+  "_iso3": "KHM",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

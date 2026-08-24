@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, massive current account deficit, and moderate inflation signal economic fragility, while elevated protest pressure and sanctions add political risk, but no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, massive current account deficit, and moderate inflation signal economic fragility, while elevated protest pressure and sanctions add political risk, but no major environmental shocks are evident.\"\n}",
+  "_cache_key": "8f1cfebf53c7928866ac06bfcec349bb",
+  "_iso3": "MNE",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Dominican Republic in 2016 shows stable growth, low inflation, no crises, and moderate political/social indicators, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Dominican Republic in 2016 shows stable growth, low inflation, no crises, and moderate political/social indicators, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "e5300f0ced1cac2cfb896fcc02c28cf0",
+  "_iso3": "DOM",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

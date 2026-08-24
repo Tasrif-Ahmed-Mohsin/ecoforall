@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, fragile state with high current account deficit, moderate debt, and recent growth slowdown, but political instability, conflict, and protests are significant risks that could disrupt growth over the medium term.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, fragile state with high current account deficit, moderate debt, and recent growth slowdown, but political instability, conflict, and protests are significant risks that could disrupt growth over the medium term.\"\n}",
+  "_cache_key": "902620adb666931204a6f0e20e476e69",
+  "_iso3": "TJK",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

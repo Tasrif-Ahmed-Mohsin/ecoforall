@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability and social unrest, combined with a developing economy and external imbalances, elevate political and social risks, while the absence of major environmental shocks keeps that weight low.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability and social unrest, combined with a developing economy and external imbalances, elevate political and social risks, while the absence of major environmental shocks keeps that weight low.\"\n}",
+  "_cache_key": "989bdaef48b53ea715d015b53f8f7e2e",
+  "_iso3": "MAR",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

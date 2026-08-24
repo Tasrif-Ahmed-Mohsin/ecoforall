@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "THA is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and solid recent growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"THA is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and solid recent growth, so economic fundamentals dominate, while political, environmental, and social factors are relatively benign and play secondary roles.\"\n}",
+  "_cache_key": "6a36d684f4a318493327e173e450db84",
+  "_iso3": "THA",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.08,
+  "environment": 0.03,
+  "human_society": 0.04,
+  "confidence": 0.75,
+  "reasoning": "TTO is a stable, high-income economy with no ongoing crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.08,\n  \"environment\": 0.03,\n  \"human_society\": 0.04,\n  \"confidence\": 0.75,\n  \"reasoning\": \"TTO is a stable, high-income economy with no ongoing crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "e15470ae85baf5b679d762b09a394edf",
+  "_iso3": "TTO",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

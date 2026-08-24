@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CIV is a low-income, fragile state with moderate political instability and social stress, but no active crisis, so economic fundamentals dominate while political and social factors are significant for medium-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CIV is a low-income, fragile state with moderate political instability and social stress, but no active crisis, so economic fundamentals dominate while political and social factors are significant for medium-term growth.\"\n}",
+  "_cache_key": "e1eb2d84d481b2681e2cf5c203b04f7e",
+  "_iso3": "CIV",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

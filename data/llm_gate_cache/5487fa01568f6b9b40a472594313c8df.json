@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.6,
+  "reasoning": "Turkey in 2003 is emerging from a recent recession with high inflation and debt, but no active crises, so economic fundamentals dominate, while moderate political instability and social tensions warrant secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Turkey in 2003 is emerging from a recent recession with high inflation and debt, but no active crises, so economic fundamentals dominate, while moderate political instability and social tensions warrant secondary weight.\"\n}",
+  "_cache_key": "5487fa01568f6b9b40a472594313c8df",
+  "_iso3": "TUR",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "High inflation, debt, and low investment signal economic fragility, but severe political instability and conflict risk dominate the short-term outlook, while environmental and social data are too sparse to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High inflation, debt, and low investment signal economic fragility, but severe political instability and conflict risk dominate the short-term outlook, while environmental and social data are too sparse to heavily weight.\"\n}",
+  "_cache_key": "7ef99e4c87339bd92e4ecdfbdc98e86f",
+  "_iso3": "COD",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

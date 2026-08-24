@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Venezuela's economy is growing strongly with low inflation and no crises, but political instability and sanctions risk warrant a moderate political weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Venezuela's economy is growing strongly with low inflation and no crises, but political instability and sanctions risk warrant a moderate political weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "05c2a730a2b60054cc5470420d461a8f",
+  "_iso3": "VEN",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

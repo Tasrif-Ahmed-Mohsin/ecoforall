@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2016 faces moderate political instability and conflict, but the economy is recovering from a recent downturn with low inflation and a positive current account, making economic factors most important, while social and environmental stresses are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2016 faces moderate political instability and conflict, but the economy is recovering from a recent downturn with low inflation and a positive current account, making economic factors most important, while social and environmental stresses are secondary.\"\n}",
+  "_cache_key": "9d40794d15caece742415442877e0719",
+  "_iso3": "IRQ",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

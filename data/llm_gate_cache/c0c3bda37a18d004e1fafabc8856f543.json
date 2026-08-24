@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cuba faces severe economic contraction (negative growth in 2020), high investment collapse, and significant political instability with sanctions and protests, making economy and politics the dominant drivers, while social unrest adds moderate pressure and environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cuba faces severe economic contraction (negative growth in 2020), high investment collapse, and significant political instability with sanctions and protests, making economy and politics the dominant drivers, while social unrest adds moderate pressure and environmental factors are negligible.\"\n}",
+  "_cache_key": "c0c3bda37a18d004e1fafabc8856f543",
+  "_iso3": "CUB",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

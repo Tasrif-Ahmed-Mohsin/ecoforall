@@ -1,0 +1,76 @@
+{
+  "glob": "llm_baseline*.csv",
+  "files": [
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_holdout.csv",
+      "status": "ok",
+      "rowcount": 426,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.18029869566913004,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    },
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_test.csv",
+      "status": "ok",
+      "rowcount": 213,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.18029881057915864,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    },
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_val_h1.csv",
+      "status": "ok",
+      "rowcount": 876,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.18029890355688555,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    },
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_val_h10.csv",
+      "status": "ok",
+      "rowcount": 869,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.18029890355688555,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    },
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_val_h3.csv",
+      "status": "ok",
+      "rowcount": 876,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.180298721815149,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    },
+    {
+      "path": "E:\\projectresearch\\data\\features\\llm_baseline_val_h5.csv",
+      "status": "ok",
+      "rowcount": 869,
+      "mtime_iso": "2026-07-24T21:13:30",
+      "age_days": 0.18029890363139134,
+      "model_versions": [
+        "deepseek-v4"
+      ]
+    }
+  ],
+  "rowcount": 3916,
+  "n_with_pred": 3916,
+  "model_versions": [
+    "deepseek-v4"
+  ],
+  "mtime_iso": "2026-07-24T21:13:30",
+  "age_days": 0.18030284719610656,
+  "stale_threshold_days": 90,
+  "status": "ok",
+  "attached_row_count": 3916,
+  "coverage": 0.08008343728910612
+}

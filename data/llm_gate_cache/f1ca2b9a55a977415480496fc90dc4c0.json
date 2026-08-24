@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Belarus faces severe political instability and sanctions, which heavily weigh on near-term growth, while high inflation and moderate debt also constrain the economy, but environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus faces severe political instability and sanctions, which heavily weigh on near-term growth, while high inflation and moderate debt also constrain the economy, but environmental factors are negligible.\"\n}",
+  "_cache_key": "f1ca2b9a55a977415480496fc90dc4c0",
+  "_iso3": "BLR",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

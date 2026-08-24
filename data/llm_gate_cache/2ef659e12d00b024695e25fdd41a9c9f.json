@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU is a stable, high-income EU economy with no major crises, so economic fundamentals dominate the 3-year growth outlook, with modest political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU is a stable, high-income EU economy with no major crises, so economic fundamentals dominate the 3-year growth outlook, with modest political risk from sanctions and protests.\"\n}",
+  "_cache_key": "2ef659e12d00b024695e25fdd41a9c9f",
+  "_iso3": "LTU",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

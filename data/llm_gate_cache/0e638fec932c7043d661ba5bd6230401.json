@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Gabon is a stable, upper-middle-income economy with no major crises, so economic fundamentals dominate, though moderate political and social risks warrant some weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Gabon is a stable, upper-middle-income economy with no major crises, so economic fundamentals dominate, though moderate political and social risks warrant some weight.\"\n}",
+  "_cache_key": "0e638fec932c7043d661ba5bd6230401",
+  "_iso3": "GAB",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

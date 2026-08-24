@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Suriname faces high debt, large current account deficit, and moderate inflation, but political stability is moderate with some conflict and sanctions, so economic fundamentals dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Suriname faces high debt, large current account deficit, and moderate inflation, but political stability is moderate with some conflict and sanctions, so economic fundamentals dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "895005f5eb838808f6bb6637786b2269",
+  "_iso3": "SUR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

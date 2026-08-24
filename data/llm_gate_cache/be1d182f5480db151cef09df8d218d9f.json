@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bulgaria in 2009 is a middle-income EU member with a recent sharp recession, high external imbalance, and moderate political/social stress, so economic fundamentals dominate but political and social factors warrant meaningful weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bulgaria in 2009 is a middle-income EU member with a recent sharp recession, high external imbalance, and moderate political/social stress, so economic fundamentals dominate but political and social factors warrant meaningful weight over a 5-year horizon.\"\n}",
+  "_cache_key": "be1d182f5480db151cef09df8d218d9f",
+  "_iso3": "BGR",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

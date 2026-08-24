@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "KWT is a stable, high-income economy with strong external balances, low debt, and no crises, so economic fundamentals dominate the short-term outlook, with modest political and social factors given the elevated protest and sentiment indicators.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"KWT is a stable, high-income economy with strong external balances, low debt, and no crises, so economic fundamentals dominate the short-term outlook, with modest political and social factors given the elevated protest and sentiment indicators.\"\n}",
+  "_cache_key": "7922e15e16fcf9fb8881675ccc6c27ee",
+  "_iso3": "KWT",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

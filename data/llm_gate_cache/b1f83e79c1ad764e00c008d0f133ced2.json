@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces extreme inflation, negative growth, severe political instability, sanctions, and high protest pressure, making economic and political factors dominant, while social trust and cohesion are also weak but less directly binding over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces extreme inflation, negative growth, severe political instability, sanctions, and high protest pressure, making economic and political factors dominant, while social trust and cohesion are also weak but less directly binding over a 1-year horizon.\"\n}",
+  "_cache_key": "b1f83e79c1ad764e00c008d0f133ced2",
+  "_iso3": "ZWE",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

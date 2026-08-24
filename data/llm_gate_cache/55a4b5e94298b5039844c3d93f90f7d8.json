@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "UGA is a low-income, politically unstable country with moderate inflation, high current account deficit, and significant conflict/protest pressure, making economic fundamentals and political risk the primary drivers of short-term growth, while environmental and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"UGA is a low-income, politically unstable country with moderate inflation, high current account deficit, and significant conflict/protest pressure, making economic fundamentals and political risk the primary drivers of short-term growth, while environmental and social factors play secondary roles.\"\n}",
+  "_cache_key": "55a4b5e94298b5039844c3d93f90f7d8",
+  "_iso3": "UGA",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

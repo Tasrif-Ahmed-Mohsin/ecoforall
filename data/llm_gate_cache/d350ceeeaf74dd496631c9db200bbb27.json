@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "KWT is a stable, high-income oil exporter with strong external balances, low debt, and no major political or social crises, so economic fundamentals dominate the 5-year growth outlook, with modest weight on political and social factors given moderate protest pressure and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"KWT is a stable, high-income oil exporter with strong external balances, low debt, and no major political or social crises, so economic fundamentals dominate the 5-year growth outlook, with modest weight on political and social factors given moderate protest pressure and low trust.\"\n}",
+  "_cache_key": "d350ceeeaf74dd496631c9db200bbb27",
+  "_iso3": "KWT",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

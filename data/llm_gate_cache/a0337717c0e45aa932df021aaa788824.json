@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "RWA is a low-income, politically fragile economy with high current account deficit and social unrest, but no active crisis, so economic fundamentals dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"RWA is a low-income, politically fragile economy with high current account deficit and social unrest, but no active crisis, so economic fundamentals dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "a0337717c0e45aa932df021aaa788824",
+  "_iso3": "RWA",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

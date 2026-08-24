@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Mali is a low-income, politically fragile state with moderate conflict and sanctions, so economic fundamentals matter most but political instability significantly raises the risk to growth over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mali is a low-income, politically fragile state with moderate conflict and sanctions, so economic fundamentals matter most but political instability significantly raises the risk to growth over a 5-year horizon.\"\n}",
+  "_cache_key": "04190ee69ec32cbc0e112ed96cccf64e",
+  "_iso3": "MLI",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

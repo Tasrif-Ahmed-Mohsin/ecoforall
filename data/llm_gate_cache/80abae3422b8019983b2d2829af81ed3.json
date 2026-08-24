@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Malaysia in 2010 is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the 1-year outlook, while political, environmental, and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Malaysia in 2010 is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the 1-year outlook, while political, environmental, and social factors are secondary.\"\n}",
+  "_cache_key": "80abae3422b8019983b2d2829af81ed3",
+  "_iso3": "MYS",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

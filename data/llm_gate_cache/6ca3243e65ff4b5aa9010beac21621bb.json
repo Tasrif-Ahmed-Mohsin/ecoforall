@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.7,
+  "reasoning": "Mozambique has high external imbalances and moderate inflation, but political stability is moderate with significant protest and conflict pressures, while social indicators are weak, making economic and human/social factors key over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mozambique has high external imbalances and moderate inflation, but political stability is moderate with significant protest and conflict pressures, while social indicators are weak, making economic and human/social factors key over a 5-year horizon.\"\n}",
+  "_cache_key": "6ca3243e65ff4b5aa9010beac21621bb",
+  "_iso3": "MOZ",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

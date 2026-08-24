@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU is a stable, high-income EU economy with moderate debt, low inflation, and positive growth momentum, so economic fundamentals dominate the 1-year outlook, while political and social indicators show no acute crisis.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU is a stable, high-income EU economy with moderate debt, low inflation, and positive growth momentum, so economic fundamentals dominate the 1-year outlook, while political and social indicators show no acute crisis.\"\n}",
+  "_cache_key": "0eeb2476444792ccf2bf24cdc8cd6880",
+  "_iso3": "LTU",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

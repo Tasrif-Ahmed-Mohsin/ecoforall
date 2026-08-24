@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "High external deficits and moderate debt signal economic fragility, but severe political instability and protest pressure elevate political risk, while environmental and social data are too sparse to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High external deficits and moderate debt signal economic fragility, but severe political instability and protest pressure elevate political risk, while environmental and social data are too sparse to heavily weight.\"\n}",
+  "_cache_key": "40f187dbc0913b4cbb6e0fc240626fe2",
+  "_iso3": "NIC",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

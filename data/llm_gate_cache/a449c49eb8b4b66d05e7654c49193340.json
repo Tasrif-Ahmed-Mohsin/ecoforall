@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, inflation, and negative growth trajectory make economy the dominant driver, but elevated political instability, protests, and sanctions warrant a substantial political weight, while social pressures add moderate risk and environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, inflation, and negative growth trajectory make economy the dominant driver, but elevated political instability, protests, and sanctions warrant a substantial political weight, while social pressures add moderate risk and environmental data is too limited to matter.\"\n}",
+  "_cache_key": "a449c49eb8b4b66d05e7654c49193340",
+  "_iso3": "ERI",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

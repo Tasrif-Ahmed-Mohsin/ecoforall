@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "TCD is a low-income, fragile state with moderate political instability, high protest and conflict indicators, and negative media sentiment, making politics and social factors significant, while the economy remains central but constrained by weak growth and external imbalances.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"TCD is a low-income, fragile state with moderate political instability, high protest and conflict indicators, and negative media sentiment, making politics and social factors significant, while the economy remains central but constrained by weak growth and external imbalances.\"\n}",
+  "_cache_key": "1776032c4c335e0cc559229682840838",
+  "_iso3": "TCD",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

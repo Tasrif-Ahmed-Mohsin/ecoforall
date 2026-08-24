@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2004 faces moderate political instability, high debt, and external imbalances, but no active crisis, so economic fundamentals dominate while political and structural risks temper the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Ethiopia in 2004 faces moderate political instability, high debt, and external imbalances, but no active crisis, so economic fundamentals dominate while political and structural risks temper the outlook.\"\n}",
+  "_cache_key": "49b9249a878d67db0656cf6ca8085663",
+  "_iso3": "ETH",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

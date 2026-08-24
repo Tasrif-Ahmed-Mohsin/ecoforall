@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Spain in 2006 is a stable, high-income economy with moderate imbalances (current account deficit, high investment) but no major political, environmental, or social shocks, so economic fundamentals dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain in 2006 is a stable, high-income economy with moderate imbalances (current account deficit, high investment) but no major political, environmental, or social shocks, so economic fundamentals dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "19ed28e41d4417fabeee15af1645d532",
+  "_iso3": "ESP",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

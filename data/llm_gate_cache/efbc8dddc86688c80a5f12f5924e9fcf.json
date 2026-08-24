@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, fragile state with moderate political instability and high protest/sanction activity, so while economic fundamentals dominate, political risks are substantial enough to warrant a significant weight over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNB is a low-income, fragile state with moderate political instability and high protest/sanction activity, so while economic fundamentals dominate, political risks are substantial enough to warrant a significant weight over the 5-year horizon.\"\n}",
+  "_cache_key": "efbc8dddc86688c80a5f12f5924e9fcf",
+  "_iso3": "GNB",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, negative current account, and moderate inflation signal economic fragility, while elevated protest pressure and conflict intensity warrant a substantial political risk weight, though no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, negative current account, and moderate inflation signal economic fragility, while elevated protest pressure and conflict intensity warrant a substantial political risk weight, though no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "4c35572500ad01d7d5bfd9d692e21020",
+  "_iso3": "NAM",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "France is a stable, high-income economy with a banking crisis but no major political or environmental shocks, so economic factors dominate, while structural social and political factors play a moderate supporting role over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"France is a stable, high-income economy with a banking crisis but no major political or environmental shocks, so economic factors dominate, while structural social and political factors play a moderate supporting role over the 5-year horizon.\"\n}",
+  "_cache_key": "c7cb63113317b9331f833f9601d6bed7",
+  "_iso3": "FRA",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

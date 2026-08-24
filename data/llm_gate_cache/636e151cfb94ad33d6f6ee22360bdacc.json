@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "RUS in 2005 is a stable, high-income economy with strong growth, low debt, no crises, and moderate political and social indicators, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"RUS in 2005 is a stable, high-income economy with strong growth, low debt, no crises, and moderate political and social indicators, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "636e151cfb94ad33d6f6ee22360bdacc",
+  "_iso3": "RUS",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

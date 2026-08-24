@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "LBY shows high political instability and sanctions, but also strong current account surplus and recent growth rebound, so politics and economy dominate, with moderate uncertainty from limited social/environmental data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LBY shows high political instability and sanctions, but also strong current account surplus and recent growth rebound, so politics and economy dominate, with moderate uncertainty from limited social/environmental data.\"\n}",
+  "_cache_key": "37dbbbb98dd46e383faa630940b566c7",
+  "_iso3": "LBY",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

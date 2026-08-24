@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU is a stable high-income economy with moderate inflation and debt, but elevated protest and conflict indicators warrant a modest political risk premium, while environmental and social data are too limited to materially affect the 1-year forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU is a stable high-income economy with moderate inflation and debt, but elevated protest and conflict indicators warrant a modest political risk premium, while environmental and social data are too limited to materially affect the 1-year forecast.\"\n}",
+  "_cache_key": "ec6b9a103cc49ab5a744ed31345600c3",
+  "_iso3": "LTU",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

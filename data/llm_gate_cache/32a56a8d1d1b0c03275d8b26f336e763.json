@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "DZA shows moderate economic stability with high current account surplus and low debt, but political instability, social unrest, and low trust warrant significant weight on politics and human_society for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"DZA shows moderate economic stability with high current account surplus and low debt, but political instability, social unrest, and low trust warrant significant weight on politics and human_society for a 5-year horizon.\"\n}",
+  "_cache_key": "32a56a8d1d1b0c03275d8b26f336e763",
+  "_iso3": "DZA",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

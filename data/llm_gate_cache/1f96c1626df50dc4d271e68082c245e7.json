@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces high debt, unemployment, and political instability, but no acute crisis, so economic fundamentals dominate while political risk and social pressures warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces high debt, unemployment, and political instability, but no acute crisis, so economic fundamentals dominate while political risk and social pressures warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "1f96c1626df50dc4d271e68082c245e7",
+  "_iso3": "JAM",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

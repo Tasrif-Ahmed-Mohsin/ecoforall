@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Suriname in 2009 is a stable, middle-income economy with no active crises, strong investment, and moderate growth, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Suriname in 2009 is a stable, middle-income economy with no active crises, strong investment, and moderate growth, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "8952edee52f50262b037f4797479ae72",
+  "_iso3": "SUR",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "The economy is stable with no banking, currency, or sovereign debt crises, and growth is positive, so economic fundamentals dominate the 1-year forecast, with modest political and social factors given moderate protest and sentiment pressures.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"The economy is stable with no banking, currency, or sovereign debt crises, and growth is positive, so economic fundamentals dominate the 1-year forecast, with modest political and social factors given moderate protest and sentiment pressures.\"\n}",
+  "_cache_key": "0e65b8614c8df9134cd6fa283bc79bcd",
+  "_iso3": "NPL",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

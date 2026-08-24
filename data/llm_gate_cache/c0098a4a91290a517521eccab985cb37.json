@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "PAK faces moderate external imbalances and high debt, but political instability and social tensions are significant, while environmental risks are present but not dominant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"PAK faces moderate external imbalances and high debt, but political instability and social tensions are significant, while environmental risks are present but not dominant over a 5-year horizon.\"\n}",
+  "_cache_key": "c0098a4a91290a517521eccab985cb37",
+  "_iso3": "PAK",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bolivia faces moderate political instability and sanctions, but its economic fundamentals (moderate debt, low inflation, no crises) and recent growth trajectory suggest the economy remains the primary driver, with politics elevated due to instability and external pressures.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bolivia faces moderate political instability and sanctions, but its economic fundamentals (moderate debt, low inflation, no crises) and recent growth trajectory suggest the economy remains the primary driver, with politics elevated due to instability and external pressures.\"\n}",
+  "_cache_key": "c8df8c112d63236359ec40aa5ce6713f",
+  "_iso3": "BOL",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

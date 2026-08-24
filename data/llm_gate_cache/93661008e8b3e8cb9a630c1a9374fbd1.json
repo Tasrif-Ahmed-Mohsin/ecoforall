@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "TLS is a low-income economy with negative recent growth, high inflation, and large external imbalances, but the very high political instability, protests, and sanctions suggest political risk is a major drag on growth, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TLS is a low-income economy with negative recent growth, high inflation, and large external imbalances, but the very high political instability, protests, and sanctions suggest political risk is a major drag on growth, while environmental and social data are limited.\"\n}",
+  "_cache_key": "93661008e8b3e8cb9a630c1a9374fbd1",
+  "_iso3": "TLS",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

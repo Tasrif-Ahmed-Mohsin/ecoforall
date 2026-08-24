@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Paraguay in 2003 is a stable, middle-income economy with moderate inflation and debt, but recent growth has been weak and political/social tensions are elevated, so economic fundamentals dominate while political and social factors carry meaningful weight for the 3-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Paraguay in 2003 is a stable, middle-income economy with moderate inflation and debt, but recent growth has been weak and political/social tensions are elevated, so economic fundamentals dominate while political and social factors carry meaningful weight for the 3-year outlook.\"\n}",
+  "_cache_key": "538dde570e03b105b46df92d35390327",
+  "_iso3": "PRY",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

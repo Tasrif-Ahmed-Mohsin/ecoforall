@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Austria in 2003 is a stable, high-income economy with no major crises, moderate political and environmental risks, and solid recent growth, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Austria in 2003 is a stable, high-income economy with no major crises, moderate political and environmental risks, and solid recent growth, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "2c7cf458f729416cb220af15d19934a3",
+  "_iso3": "AUT",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

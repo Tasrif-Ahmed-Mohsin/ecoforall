@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan faces moderate political instability and conflict risk, but the economy is relatively stable with low debt and positive growth, so economic fundamentals dominate while political risks warrant a significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan faces moderate political instability and conflict risk, but the economy is relatively stable with low debt and positive growth, so economic fundamentals dominate while political risks warrant a significant weight.\"\n}",
+  "_cache_key": "0b9ed0eb268ba462e7cd35ca88d1b92b",
+  "_iso3": "AZE",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

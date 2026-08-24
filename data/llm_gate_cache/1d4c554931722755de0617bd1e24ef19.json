@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The Philippines is recovering from a sharp 2020 recession with high unemployment and moderate debt, making economic factors dominant, but elevated political instability, protest pressure, and social distrust warrant notable political and societal weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The Philippines is recovering from a sharp 2020 recession with high unemployment and moderate debt, making economic factors dominant, but elevated political instability, protest pressure, and social distrust warrant notable political and societal weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "1d4c554931722755de0617bd1e24ef19",
+  "_iso3": "PHL",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

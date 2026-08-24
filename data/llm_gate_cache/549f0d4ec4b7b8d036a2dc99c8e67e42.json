@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Spain in 2007 is a stable, high-income economy with moderate imbalances (current account deficit, high investment) but no major crises, so short-term growth is primarily driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain in 2007 is a stable, high-income economy with moderate imbalances (current account deficit, high investment) but no major crises, so short-term growth is primarily driven by economic fundamentals.\"\n}",
+  "_cache_key": "549f0d4ec4b7b8d036a2dc99c8e67e42",
+  "_iso3": "ESP",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

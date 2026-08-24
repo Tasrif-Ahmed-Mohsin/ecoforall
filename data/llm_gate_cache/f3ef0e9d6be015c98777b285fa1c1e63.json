@@ -1,0 +1,14 @@
+{
+  "economy": 0.5789473684210527,
+  "politics": 0.2105263157894737,
+  "environment": 0.10526315789473685,
+  "human_society": 0.10526315789473685,
+  "confidence": 0.05,
+  "reasoning": "Turkey is recovering from a sharp recession with high unemployment and negative growth, but political instability and social tensions are significant enough to warrant elevated political and social weights, while environmental factors are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.05,\n  \"reasoning\": \"Turkey is recovering from a sharp recession with high unemployment and negative growth, but political instability and social tensions are significant enough to warrant elevated political and social weights, while environmental factors are moderate.\"\n}",
+  "_cache_key": "f3ef0e9d6be015c98777b285fa1c1e63",
+  "_iso3": "TUR",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

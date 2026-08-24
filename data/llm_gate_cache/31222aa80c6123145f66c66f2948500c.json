@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ghana faces a currency crisis and high inflation, making economic factors dominant, but political instability and conflict also pose significant near-term risks, while environmental and social factors are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana faces a currency crisis and high inflation, making economic factors dominant, but political instability and conflict also pose significant near-term risks, while environmental and social factors are moderate.\"\n}",
+  "_cache_key": "31222aa80c6123145f66c66f2948500c",
+  "_iso3": "GHA",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

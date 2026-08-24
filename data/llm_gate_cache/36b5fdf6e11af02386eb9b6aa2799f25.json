@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI faces high inflation, low investment, and negative recent growth, but political instability and protest pressure are also significant, while environmental data is scarce and no major climate shocks are indicated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI faces high inflation, low investment, and negative recent growth, but political instability and protest pressure are also significant, while environmental data is scarce and no major climate shocks are indicated.\"\n}",
+  "_cache_key": "36b5fdf6e11af02386eb9b6aa2799f25",
+  "_iso3": "HTI",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

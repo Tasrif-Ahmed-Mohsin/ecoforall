@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TKM shows moderate growth, low debt, high investment, and stable politics, so economic fundamentals dominate the 1-year outlook, with modest political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TKM shows moderate growth, low debt, high investment, and stable politics, so economic fundamentals dominate the 1-year outlook, with modest political risk from sanctions and protests.\"\n}",
+  "_cache_key": "91c590d21b63bcd43e154a46921efb31",
+  "_iso3": "TKM",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

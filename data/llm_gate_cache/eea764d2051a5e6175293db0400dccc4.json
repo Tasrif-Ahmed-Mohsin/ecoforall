@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBR faces severe external imbalances and high debt but no active crises, so near-term growth is primarily driven by economic adjustment, with moderate political risk from instability and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR faces severe external imbalances and high debt but no active crises, so near-term growth is primarily driven by economic adjustment, with moderate political risk from instability and protests.\"\n}",
+  "_cache_key": "eea764d2051a5e6175293db0400dccc4",
+  "_iso3": "LBR",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

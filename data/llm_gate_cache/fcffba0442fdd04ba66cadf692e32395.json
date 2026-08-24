@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2008 shows high growth momentum but severe external imbalances and high unemployment, making economic factors dominant, while moderate political and social risks warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia in 2008 shows high growth momentum but severe external imbalances and high unemployment, making economic factors dominant, while moderate political and social risks warrant secondary weights.\"\n}",
+  "_cache_key": "fcffba0442fdd04ba66cadf692e32395",
+  "_iso3": "ARM",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

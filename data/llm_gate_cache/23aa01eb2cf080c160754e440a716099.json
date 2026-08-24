@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, politically fragile economy with high inflation, large current account deficit, and significant protest/conflict activity, so economic fundamentals and political instability dominate the 5-year growth outlook, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG is a low-income, politically fragile economy with high inflation, large current account deficit, and significant protest/conflict activity, so economic fundamentals and political instability dominate the 5-year growth outlook, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "23aa01eb2cf080c160754e440a716099",
+  "_iso3": "MDG",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

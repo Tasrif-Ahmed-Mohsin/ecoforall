@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.0,
+  "reasoning": "India in 2013 faces moderate inflation, high debt, and a slowing growth trajectory, but no major political or environmental crisis, so economic fundamentals dominate, with political instability and social factors playing secondary roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.0,\n  \"reasoning\": \"India in 2013 faces moderate inflation, high debt, and a slowing growth trajectory, but no major political or environmental crisis, so economic fundamentals dominate, with political instability and social factors playing secondary roles over the 5-year horizon.\"\n}",
+  "_cache_key": "5a37f9012ab0e3f298700b846c8d148e",
+  "_iso3": "IND",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

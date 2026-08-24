@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "AGO faces high inflation, external deficits, and recent negative growth, but also significant political instability, protests, and conflict, making economic and socio-political factors jointly critical for the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"AGO faces high inflation, external deficits, and recent negative growth, but also significant political instability, protests, and conflict, making economic and socio-political factors jointly critical for the 5-year outlook.\"\n}",
+  "_cache_key": "9f799ababdec7876cff1cf52542d94c1",
+  "_iso3": "AGO",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

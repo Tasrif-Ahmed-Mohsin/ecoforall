@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Guatemala is a lower-middle-income economy with moderate inflation, a negative current account, and modest growth, but no major crises, so economic fundamentals dominate while political and social fragility (low trust, high protests) add secondary risk.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Guatemala is a lower-middle-income economy with moderate inflation, a negative current account, and modest growth, but no major crises, so economic fundamentals dominate while political and social fragility (low trust, high protests) add secondary risk.\"\n}",
+  "_cache_key": "161902157bff6d062cd0d4d6d726223d",
+  "_iso3": "GTM",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

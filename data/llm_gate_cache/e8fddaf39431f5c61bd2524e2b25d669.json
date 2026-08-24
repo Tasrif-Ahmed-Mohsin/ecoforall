@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "TCD is a low-income, fragile state with moderate political instability and conflict, but no major ongoing war or sanctions, so economic fundamentals dominate while political risks remain significant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TCD is a low-income, fragile state with moderate political instability and conflict, but no major ongoing war or sanctions, so economic fundamentals dominate while political risks remain significant.\"\n}",
+  "_cache_key": "e8fddaf39431f5c61bd2524e2b25d669",
+  "_iso3": "TCD",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

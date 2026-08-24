@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBY is a high-income economy with low inflation, no crises, and strong investment, but political instability and sanctions warrant a moderate political weight, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBY is a high-income economy with low inflation, no crises, and strong investment, but political instability and sanctions warrant a moderate political weight, while environmental and social data are limited.\"\n}",
+  "_cache_key": "aed82daf5326e9ed19acff063ff8ba02",
+  "_iso3": "LBY",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

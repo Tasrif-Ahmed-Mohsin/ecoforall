@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Guatemala is a stable middle-income economy with moderate debt and low inflation, but high protest pressure, low institutional trust, and weak social cohesion warrant a significant human_society weight, while political instability and sanctions add moderate political risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Guatemala is a stable middle-income economy with moderate debt and low inflation, but high protest pressure, low institutional trust, and weak social cohesion warrant a significant human_society weight, while political instability and sanctions add moderate political risk.\"\n}",
+  "_cache_key": "91fdcd846e46e33d6ae8ebfdfdd2ab07",
+  "_iso3": "GTM",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

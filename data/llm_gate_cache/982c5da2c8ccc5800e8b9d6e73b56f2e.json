@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, high inflation, and a large current account deficit signal severe macroeconomic imbalances, but moderate political instability and high protest pressure warrant a notable political risk premium, while environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, high inflation, and a large current account deficit signal severe macroeconomic imbalances, but moderate political instability and high protest pressure warrant a notable political risk premium, while environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "982c5da2c8ccc5800e8b9d6e73b56f2e",
+  "_iso3": "LBR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

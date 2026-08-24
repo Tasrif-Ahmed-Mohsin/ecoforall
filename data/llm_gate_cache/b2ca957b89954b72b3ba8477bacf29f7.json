@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Kazakhstan faces moderate political instability and sanctions, but the economy is relatively stable with moderate debt and investment, so economic factors dominate while political risks warrant significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kazakhstan faces moderate political instability and sanctions, but the economy is relatively stable with moderate debt and investment, so economic factors dominate while political risks warrant significant weight.\"\n}",
+  "_cache_key": "b2ca957b89954b72b3ba8477bacf29f7",
+  "_iso3": "KAZ",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

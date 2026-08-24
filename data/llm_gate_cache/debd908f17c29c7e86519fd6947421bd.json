@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNQ shows severe external imbalances and recent negative growth, but no active crises, so economic fundamentals dominate, with elevated political weight due to moderate instability and sanctions, while environmental and social factors are less critical over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNQ shows severe external imbalances and recent negative growth, but no active crises, so economic fundamentals dominate, with elevated political weight due to moderate instability and sanctions, while environmental and social factors are less critical over this 5-year horizon.\"\n}",
+  "_cache_key": "debd908f17c29c7e86519fd6947421bd",
+  "_iso3": "GNQ",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

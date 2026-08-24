@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Egypt in 2006 is a middle-income economy with moderate debt and inflation, no active crises, but political instability and social pressures are elevated, while environmental risks are moderate, so economic fundamentals dominate but political and social factors warrant significant weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Egypt in 2006 is a middle-income economy with moderate debt and inflation, no active crises, but political instability and social pressures are elevated, while environmental risks are moderate, so economic fundamentals dominate but political and social factors warrant significant weight over a 5-year horizon.\"\n}",
+  "_cache_key": "37b7cc479e08a09207d860e3b494c71b",
+  "_iso3": "EGY",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

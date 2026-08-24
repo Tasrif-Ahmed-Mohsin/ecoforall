@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Chile in 2004 is a stable, high-income economy with no ongoing crises, moderate growth, and low inflation, so economic fundamentals dominate the short-term forecast, with minor contributions from political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Chile in 2004 is a stable, high-income economy with no ongoing crises, moderate growth, and low inflation, so economic fundamentals dominate the short-term forecast, with minor contributions from political and social factors.\"\n}",
+  "_cache_key": "84e724e03d64a6412a2eff4457d88bad",
+  "_iso3": "CHL",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

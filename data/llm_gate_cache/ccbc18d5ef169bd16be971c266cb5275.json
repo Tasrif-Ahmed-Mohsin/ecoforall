@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDA is a middle-income economy with moderate external imbalances and a recent sharp contraction, but no active political or environmental crises, so economic factors dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDA is a middle-income economy with moderate external imbalances and a recent sharp contraction, but no active political or environmental crises, so economic factors dominate the short-term outlook.\"\n}",
+  "_cache_key": "ccbc18d5ef169bd16be971c266cb5275",
+  "_iso3": "MDA",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite moderate economic imbalances (current account deficit, low investment), the very high political instability, conflict intensity, and sanctions suggest political risk is a major near-term drag, though the economy remains the primary driver for a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite moderate economic imbalances (current account deficit, low investment), the very high political instability, conflict intensity, and sanctions suggest political risk is a major near-term drag, though the economy remains the primary driver for a one-year horizon.\"\n}",
+  "_cache_key": "a79301fac45193182a6ff79abab1b80d",
+  "_iso3": "BEN",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

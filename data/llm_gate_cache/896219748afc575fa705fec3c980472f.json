@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "MWI faces severe external imbalances, high inflation, and political instability with sanctions and conflict, making economic and political factors dominant, while social unrest adds moderate risk and environmental data is too limited to weight heavily.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"MWI faces severe external imbalances, high inflation, and political instability with sanctions and conflict, making economic and political factors dominant, while social unrest adds moderate risk and environmental data is too limited to weight heavily.\"\n}",
+  "_cache_key": "896219748afc575fa705fec3c980472f",
+  "_iso3": "MWI",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

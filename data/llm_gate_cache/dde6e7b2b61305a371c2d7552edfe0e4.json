@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces moderate economic vulnerabilities (high debt, unemployment, current account deficit) but no acute crisis, while political instability and protest pressure are elevated, warranting a significant but secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces moderate economic vulnerabilities (high debt, unemployment, current account deficit) but no acute crisis, while political instability and protest pressure are elevated, warranting a significant but secondary political weight.\"\n}",
+  "_cache_key": "dde6e7b2b61305a371c2d7552edfe0e4",
+  "_iso3": "JAM",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

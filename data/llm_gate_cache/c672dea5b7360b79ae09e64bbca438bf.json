@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Somalia in 2011 faces severe political instability, high conflict intensity, and sanctions, which likely dominate growth prospects, while the economy is fragile and social pressures are elevated, but environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Somalia in 2011 faces severe political instability, high conflict intensity, and sanctions, which likely dominate growth prospects, while the economy is fragile and social pressures are elevated, but environmental data is limited.\"\n}",
+  "_cache_key": "c672dea5b7360b79ae09e64bbca438bf",
+  "_iso3": "SOM",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

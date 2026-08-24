@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, fragile economy with high current account deficit, moderate inflation, and recent negative growth, but political instability and protests are significant, while environmental data is scarce and social pressures are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDG is a low-income, fragile economy with high current account deficit, moderate inflation, and recent negative growth, but political instability and protests are significant, while environmental data is scarce and social pressures are moderate.\"\n}",
+  "_cache_key": "0a3e98ad49583e67320a9ccbb9f4fd8c",
+  "_iso3": "MDG",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

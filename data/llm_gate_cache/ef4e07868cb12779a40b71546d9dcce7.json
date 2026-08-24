@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MLT is a stable, high-income economy with moderate debt, low inflation, and a large current account surplus, but recent growth has been negative and political tensions are moderate, so economic factors dominate while politics plays a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MLT is a stable, high-income economy with moderate debt, low inflation, and a large current account surplus, but recent growth has been negative and political tensions are moderate, so economic factors dominate while politics plays a secondary role.\"\n}",
+  "_cache_key": "ef4e07868cb12779a40b71546d9dcce7",
+  "_iso3": "MLT",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

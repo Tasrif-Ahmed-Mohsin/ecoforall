@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Bulgaria in 2003 is a stable, middle-income economy with no active crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook, with modest roles for political and social factors given moderate instability and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Bulgaria in 2003 is a stable, middle-income economy with no active crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook, with modest roles for political and social factors given moderate instability and low trust.\"\n}",
+  "_cache_key": "494b97a346ef157304f3273604af866d",
+  "_iso3": "BGR",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

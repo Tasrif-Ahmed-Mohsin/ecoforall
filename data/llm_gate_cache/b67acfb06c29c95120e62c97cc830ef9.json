@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Turkey faces moderate macroeconomic imbalances (high current account deficit, unemployment) and political instability (negative stability, sanctions, protests), but no acute crisis, so economic fundamentals dominate while political and social risks warrant substantial weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Turkey faces moderate macroeconomic imbalances (high current account deficit, unemployment) and political instability (negative stability, sanctions, protests), but no acute crisis, so economic fundamentals dominate while political and social risks warrant substantial weight over a 5-year horizon.\"\n}",
+  "_cache_key": "b67acfb06c29c95120e62c97cc830ef9",
+  "_iso3": "TUR",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

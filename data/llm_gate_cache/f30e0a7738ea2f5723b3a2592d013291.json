@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya faces moderate economic vulnerabilities (high debt, inflation, current account deficit) alongside political instability and conflict, but no extreme crisis, so economy leads while politics and social/environmental factors play meaningful secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kenya faces moderate economic vulnerabilities (high debt, inflation, current account deficit) alongside political instability and conflict, but no extreme crisis, so economy leads while politics and social/environmental factors play meaningful secondary roles.\"\n}",
+  "_cache_key": "f30e0a7738ea2f5723b3a2592d013291",
+  "_iso3": "KEN",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

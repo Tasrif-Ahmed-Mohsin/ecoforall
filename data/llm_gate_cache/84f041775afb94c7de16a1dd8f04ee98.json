@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Turkey faces moderate external imbalances and political instability, but no acute crisis, so economic fundamentals dominate while political risks and structural social/environmental factors temper the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Turkey faces moderate external imbalances and political instability, but no acute crisis, so economic fundamentals dominate while political risks and structural social/environmental factors temper the outlook.\"\n}",
+  "_cache_key": "84f041775afb94c7de16a1dd8f04ee98",
+  "_iso3": "TUR",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

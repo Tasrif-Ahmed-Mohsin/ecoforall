@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Senegal faces a large current account deficit and moderate inflation, but the political instability, protests, and conflict indicators suggest significant political risk that could disrupt growth over the next five years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Senegal faces a large current account deficit and moderate inflation, but the political instability, protests, and conflict indicators suggest significant political risk that could disrupt growth over the next five years.\"\n}",
+  "_cache_key": "92592e35353b0af02f969756a9d1b63e",
+  "_iso3": "SEN",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

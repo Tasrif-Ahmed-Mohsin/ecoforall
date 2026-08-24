@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "LSO faces a currency crisis and high political instability with sanctions and conflict, but the economy is still the primary driver given moderate debt and investment levels, while political risks significantly amplify downside growth risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LSO faces a currency crisis and high political instability with sanctions and conflict, but the economy is still the primary driver given moderate debt and investment levels, while political risks significantly amplify downside growth risks.\"\n}",
+  "_cache_key": "fd2622ea31c158bfd5dbe664afda93cf",
+  "_iso3": "LSO",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

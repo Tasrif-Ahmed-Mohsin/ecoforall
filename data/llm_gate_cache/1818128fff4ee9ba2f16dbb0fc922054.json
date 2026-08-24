@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Colombia in 2004 shows moderate growth, high unemployment, and mild inflation but no major crises, so economic fundamentals dominate the 1-year outlook, with modest political and social risks from protests and conflict.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Colombia in 2004 shows moderate growth, high unemployment, and mild inflation but no major crises, so economic fundamentals dominate the 1-year outlook, with modest political and social risks from protests and conflict.\"\n}",
+  "_cache_key": "1818128fff4ee9ba2f16dbb0fc922054",
+  "_iso3": "COL",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

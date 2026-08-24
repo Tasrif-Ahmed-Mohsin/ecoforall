@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD is a lower-middle-income economy with high unemployment and moderate debt, but political instability and social unrest are significant risks, while environmental factors are not a major constraint over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD is a lower-middle-income economy with high unemployment and moderate debt, but political instability and social unrest are significant risks, while environmental factors are not a major constraint over this 5-year horizon.\"\n}",
+  "_cache_key": "db57ab9382d98f6123b240a21fb7fcd4",
+  "_iso3": "MKD",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

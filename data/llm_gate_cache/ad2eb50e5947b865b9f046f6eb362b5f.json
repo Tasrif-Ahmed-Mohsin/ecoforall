@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Saudi Arabia is a high-income, stable oil exporter with moderate fiscal buffers, but political instability, sanctions, and regional conflict risk warrant elevated political weight, while environmental and social factors are secondary over this 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Saudi Arabia is a high-income, stable oil exporter with moderate fiscal buffers, but political instability, sanctions, and regional conflict risk warrant elevated political weight, while environmental and social factors are secondary over this 3-year horizon.\"\n}",
+  "_cache_key": "ad2eb50e5947b865b9f046f6eb362b5f",
+  "_iso3": "SAU",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

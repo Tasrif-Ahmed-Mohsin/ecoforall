@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Dominican Republic is a stable, middle-income economy with moderate debt and inflation, so economic fundamentals dominate, but political stability and social trust are moderate enough to warrant some weight, while environmental data is too limited to be significant.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Dominican Republic is a stable, middle-income economy with moderate debt and inflation, so economic fundamentals dominate, but political stability and social trust are moderate enough to warrant some weight, while environmental data is too limited to be significant.\"\n}",
+  "_cache_key": "8dc4c253864ed6b293ee9431c9887924",
+  "_iso3": "DOM",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

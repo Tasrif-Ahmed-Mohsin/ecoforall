@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "TZA is a low-income, investment-heavy economy with moderate debt and a recent recession, but political instability, high protest counts, and low institutional trust elevate the importance of political and social factors for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"TZA is a low-income, investment-heavy economy with moderate debt and a recent recession, but political instability, high protest counts, and low institutional trust elevate the importance of political and social factors for near-term growth.\"\n}",
+  "_cache_key": "092a8ae8899f902640898565a3b313d7",
+  "_iso3": "TZA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

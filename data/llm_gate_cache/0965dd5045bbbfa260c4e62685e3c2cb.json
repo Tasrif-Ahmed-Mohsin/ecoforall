@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "COG faces high debt, negative growth, and external imbalances, but political instability and conflict intensity are significant enough to elevate political risk, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"COG faces high debt, negative growth, and external imbalances, but political instability and conflict intensity are significant enough to elevate political risk, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "0965dd5045bbbfa260c4e62685e3c2cb",
+  "_iso3": "COG",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

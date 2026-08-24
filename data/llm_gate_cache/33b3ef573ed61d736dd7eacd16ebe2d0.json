@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.85,
+  "reasoning": "Ukraine in 2022 is in an active war with high conflict intensity, sanctions, and political instability, making politics the dominant driver, while severe economic contraction, high inflation, and unemployment also weigh heavily, with social cohesion and trust under stress but secondary to the immediate war impact.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ukraine in 2022 is in an active war with high conflict intensity, sanctions, and political instability, making politics the dominant driver, while severe economic contraction, high inflation, and unemployment also weigh heavily, with social cohesion and trust under stress but secondary to the immediate war impact.\"\n}",
+  "_cache_key": "33b3ef573ed61d736dd7eacd16ebe2d0",
+  "_iso3": "UKR",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

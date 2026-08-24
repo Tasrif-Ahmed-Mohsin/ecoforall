@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High political instability, sanctions, and negative conflict indicators dominate the outlook, while the economy shows moderate growth but is vulnerable to external shocks, so politics is weighted highest.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High political instability, sanctions, and negative conflict indicators dominate the outlook, while the economy shows moderate growth but is vulnerable to external shocks, so politics is weighted highest.\"\n}",
+  "_cache_key": "0936bc07892818107b3be9b2fb90072a",
+  "_iso3": "TLS",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

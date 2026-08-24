@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2008 faces large external imbalances and high inflation, but political instability, sanctions, and social tensions warrant elevated political and societal weights, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia in 2008 faces large external imbalances and high inflation, but political instability, sanctions, and social tensions warrant elevated political and societal weights, while environmental factors are negligible.\"\n}",
+  "_cache_key": "1a2d42f3b0fdd0d6c788ceea527083d0",
+  "_iso3": "SRB",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

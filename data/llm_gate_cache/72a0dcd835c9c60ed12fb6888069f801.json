@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kyrgyzstan faces high external imbalances and debt, but political instability and protests are significant risks, while environmental factors are less immediate for a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kyrgyzstan faces high external imbalances and debt, but political instability and protests are significant risks, while environmental factors are less immediate for a 3-year horizon.\"\n}",
+  "_cache_key": "72a0dcd835c9c60ed12fb6888069f801",
+  "_iso3": "KGZ",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

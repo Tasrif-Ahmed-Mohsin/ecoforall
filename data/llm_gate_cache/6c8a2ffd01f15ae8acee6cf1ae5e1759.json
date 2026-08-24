@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU is a stable, high-income EU economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions warrant minor attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU is a stable, high-income EU economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social tensions warrant minor attention.\"\n}",
+  "_cache_key": "6c8a2ffd01f15ae8acee6cf1ae5e1759",
+  "_iso3": "LTU",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

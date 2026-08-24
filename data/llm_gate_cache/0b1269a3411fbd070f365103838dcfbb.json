@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate debt and low inflation, but recent negative growth and a slight current account deficit suggest cyclical risks, while political indicators are relatively calm, so economic factors dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate debt and low inflation, but recent negative growth and a slight current account deficit suggest cyclical risks, while political indicators are relatively calm, so economic factors dominate the forecast.\"\n}",
+  "_cache_key": "0b1269a3411fbd070f365103838dcfbb",
+  "_iso3": "BHR",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

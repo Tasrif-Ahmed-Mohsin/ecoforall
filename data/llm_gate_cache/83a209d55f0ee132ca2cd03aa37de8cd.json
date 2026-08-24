@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia is recovering from a mild recession with moderate debt and external imbalances, but political instability, protests, and sanctions raise downside risks, while social and demographic factors play a secondary role over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia is recovering from a mild recession with moderate debt and external imbalances, but political instability, protests, and sanctions raise downside risks, while social and demographic factors play a secondary role over a 5-year horizon.\"\n}",
+  "_cache_key": "83a209d55f0ee132ca2cd03aa37de8cd",
+  "_iso3": "SRB",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "PNG is a stable, resource-driven economy with strong current account surplus and moderate debt, so economic fundamentals dominate, while political stability is decent and no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PNG is a stable, resource-driven economy with strong current account surplus and moderate debt, so economic fundamentals dominate, while political stability is decent and no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "6e07b9f16189c261c0bb6936d4fa4ca7",
+  "_iso3": "PNG",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

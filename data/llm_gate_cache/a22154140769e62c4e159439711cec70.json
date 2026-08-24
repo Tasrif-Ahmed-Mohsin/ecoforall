@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "The economy is stable with no crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the 3-year outlook, while political and social factors are secondary and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"The economy is stable with no crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the 3-year outlook, while political and social factors are secondary and environmental data is limited.\"\n}",
+  "_cache_key": "a22154140769e62c4e159439711cec70",
+  "_iso3": "NPL",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

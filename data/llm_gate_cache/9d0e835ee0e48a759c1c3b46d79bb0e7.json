@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya in 2004 shows moderate economic imbalances (high inflation, moderate debt) but no acute crisis, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kenya in 2004 shows moderate economic imbalances (high inflation, moderate debt) but no acute crisis, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.\"\n}",
+  "_cache_key": "9d0e835ee0e48a759c1c3b46d79bb0e7",
+  "_iso3": "KEN",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

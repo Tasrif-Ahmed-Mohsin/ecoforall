@@ -1,0 +1,14 @@
+{
+  "economy": 0.82,
+  "politics": 0.06,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.75,
+  "reasoning": "NZL is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.82,\n  \"politics\": 0.06,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.75,\n  \"reasoning\": \"NZL is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "a42db7b006b4527cd9707633c165080d",
+  "_iso3": "NZL",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

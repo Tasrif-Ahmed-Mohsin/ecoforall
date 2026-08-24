@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, investment-heavy economy with moderate inflation and external deficits, but political instability, conflict, and sanctions risk could disrupt growth over a 5-year horizon, so economy dominates while politics carries substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TJK is a low-income, investment-heavy economy with moderate inflation and external deficits, but political instability, conflict, and sanctions risk could disrupt growth over a 5-year horizon, so economy dominates while politics carries substantial weight.\"\n}",
+  "_cache_key": "744954b8bdda4dafe1627dd424fed267",
+  "_iso3": "TJK",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

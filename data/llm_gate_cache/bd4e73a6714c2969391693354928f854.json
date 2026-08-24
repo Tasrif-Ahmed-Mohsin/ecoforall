@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.65,
+  "reasoning": "Ukraine in 2005 is recovering from political turmoil (Orange Revolution) with moderate growth and low debt, but high inflation, weak institutions, and social tensions warrant significant political and societal weights, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Ukraine in 2005 is recovering from political turmoil (Orange Revolution) with moderate growth and low debt, but high inflation, weak institutions, and social tensions warrant significant political and societal weights, while environmental factors are negligible.\"\n}",
+  "_cache_key": "bd4e73a6714c2969391693354928f854",
+  "_iso3": "UKR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

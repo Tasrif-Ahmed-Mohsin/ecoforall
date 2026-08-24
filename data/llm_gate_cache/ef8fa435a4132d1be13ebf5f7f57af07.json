@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya's moderate growth, high current account deficit, and debt levels make economic factors primary, but political instability and social tensions warrant significant weight, while environmental and social conditions are secondary for a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kenya's moderate growth, high current account deficit, and debt levels make economic factors primary, but political instability and social tensions warrant significant weight, while environmental and social conditions are secondary for a one-year horizon.\"\n}",
+  "_cache_key": "ef8fa435a4132d1be13ebf5f7f57af07",
+  "_iso3": "KEN",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

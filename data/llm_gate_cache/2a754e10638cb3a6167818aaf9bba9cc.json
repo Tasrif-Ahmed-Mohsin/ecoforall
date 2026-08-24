@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK shows moderate growth with fiscal and external imbalances, but political instability, sanctions, and social unrest elevate political and societal risks, while environmental pressures are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PAK shows moderate growth with fiscal and external imbalances, but political instability, sanctions, and social unrest elevate political and societal risks, while environmental pressures are secondary.\"\n}",
+  "_cache_key": "2a754e10638cb3a6167818aaf9bba9cc",
+  "_iso3": "PAK",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

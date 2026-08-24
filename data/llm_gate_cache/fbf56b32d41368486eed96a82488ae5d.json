@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi's high inflation, large current account deficit, and low investment signal severe economic fragility, while moderate political instability and conflict risk add significant but secondary pressure over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi's high inflation, large current account deficit, and low investment signal severe economic fragility, while moderate political instability and conflict risk add significant but secondary pressure over a 5-year horizon.\"\n}",
+  "_cache_key": "fbf56b32d41368486eed96a82488ae5d",
+  "_iso3": "BDI",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Laos in 2009 is a stable, low-income economy with moderate growth, no major political or environmental shocks, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given mild instability and low trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Laos in 2009 is a stable, low-income economy with moderate growth, no major political or environmental shocks, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given mild instability and low trust.\"\n}",
+  "_cache_key": "483c8507f6941ec3f987e75518d0e4a9",
+  "_iso3": "LAO",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

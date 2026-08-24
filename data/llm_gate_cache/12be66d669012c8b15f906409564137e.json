@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Oman is a high-income, oil-dependent economy with moderate investment and current account surplus, but political instability, sanctions, and negative Goldstein index warrant elevated political weight, while social trust and cohesion are weak but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Oman is a high-income, oil-dependent economy with moderate investment and current account surplus, but political instability, sanctions, and negative Goldstein index warrant elevated political weight, while social trust and cohesion are weak but not collapsing.\"\n}",
+  "_cache_key": "12be66d669012c8b15f906409564137e",
+  "_iso3": "OMN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

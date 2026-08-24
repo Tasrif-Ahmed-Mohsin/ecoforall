@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, moderately unstable economy with high inflation and debt, but no active banking, currency, or sovereign debt crises, so near-term growth is driven primarily by economic fundamentals, with political risk from sanctions and protests as a secondary factor.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GMB is a low-income, moderately unstable economy with high inflation and debt, but no active banking, currency, or sovereign debt crises, so near-term growth is driven primarily by economic fundamentals, with political risk from sanctions and protests as a secondary factor.\"\n}",
+  "_cache_key": "15c2389236783cd188a3f44860363c18",
+  "_iso3": "GMB",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

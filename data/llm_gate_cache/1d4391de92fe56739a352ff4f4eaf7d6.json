@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Jordan faces severe economic imbalances (high debt, unemployment, current account deficit) and moderate political instability with sanctions and protests, while social indicators show low trust and cohesion, but no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Jordan faces severe economic imbalances (high debt, unemployment, current account deficit) and moderate political instability with sanctions and protests, while social indicators show low trust and cohesion, but no major environmental shocks are evident.\"\n}",
+  "_cache_key": "1d4391de92fe56739a352ff4f4eaf7d6",
+  "_iso3": "JOR",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

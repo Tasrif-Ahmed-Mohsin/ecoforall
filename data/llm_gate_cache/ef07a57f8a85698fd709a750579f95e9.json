@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "High debt, moderate inflation, and volatile recent growth dominate the outlook, while political instability and social unrest (protests, low trust, high fear) add significant near-term risk, with environmental factors negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, moderate inflation, and volatile recent growth dominate the outlook, while political instability and social unrest (protests, low trust, high fear) add significant near-term risk, with environmental factors negligible.\"\n}",
+  "_cache_key": "ef07a57f8a85698fd709a750579f95e9",
+  "_iso3": "LAO",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

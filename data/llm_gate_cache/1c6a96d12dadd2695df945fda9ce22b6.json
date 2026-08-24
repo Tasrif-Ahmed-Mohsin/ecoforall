@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Syria is in a severe political crisis with extreme instability, sanctions, and ongoing conflict, which dominates short-term growth prospects, while the economy is weak and social pressures are high but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Syria is in a severe political crisis with extreme instability, sanctions, and ongoing conflict, which dominates short-term growth prospects, while the economy is weak and social pressures are high but secondary.\"\n}",
+  "_cache_key": "1c6a96d12dadd2695df945fda9ce22b6",
+  "_iso3": "SYR",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

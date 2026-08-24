@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2013 faces moderate political instability and conflict, high social distrust and protest pressure, and notable environmental vulnerabilities, while the economy is relatively stable but dependent on oil, so a balanced weighting with a slight economic tilt is appropriate for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2013 faces moderate political instability and conflict, high social distrust and protest pressure, and notable environmental vulnerabilities, while the economy is relatively stable but dependent on oil, so a balanced weighting with a slight economic tilt is appropriate for a 5-year horizon.\"\n}",
+  "_cache_key": "002d87abe13c7659c079a26c6fa77289",
+  "_iso3": "IRQ",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

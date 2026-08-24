@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Argentina's high inflation, debt, and recent growth volatility dominate the short-term outlook, but political instability (sanctions, protests) and social factors (low trust, high fear) add meaningful risk, while environmental impacts are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina's high inflation, debt, and recent growth volatility dominate the short-term outlook, but political instability (sanctions, protests) and social factors (low trust, high fear) add meaningful risk, while environmental impacts are moderate.\"\n}",
+  "_cache_key": "bc5ae3ca30e63db8e35daedec88444b4",
+  "_iso3": "ARG",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

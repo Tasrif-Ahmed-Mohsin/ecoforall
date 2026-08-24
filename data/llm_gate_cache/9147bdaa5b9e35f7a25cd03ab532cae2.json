@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Indonesia in 2006 is a stable emerging economy with moderate inflation and debt, no active crises, and recent growth around 3-4%, so economic fundamentals dominate the short-term outlook, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Indonesia in 2006 is a stable emerging economy with moderate inflation and debt, no active crises, and recent growth around 3-4%, so economic fundamentals dominate the short-term outlook, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "9147bdaa5b9e35f7a25cd03ab532cae2",
+  "_iso3": "IDN",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

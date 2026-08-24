@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "High-income stable economy with moderate debt and low inflation, but significant political instability and sanctions warrant a notable political weight, while environmental and social factors are minimal for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High-income stable economy with moderate debt and low inflation, but significant political instability and sanctions warrant a notable political weight, while environmental and social factors are minimal for a 1-year horizon.\"\n}",
+  "_cache_key": "0fa9ff0b985f6bd90121ff7b08dec551",
+  "_iso3": "ISL",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

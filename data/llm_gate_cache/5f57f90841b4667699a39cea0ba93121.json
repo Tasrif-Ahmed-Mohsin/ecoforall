@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Guyana in 2006 is a stable, middle-income economy with moderate debt and inflation, no active crises, and recent growth volatility driven by commodity cycles, so economic fundamentals dominate the 3-year outlook, with modest political risk from protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Guyana in 2006 is a stable, middle-income economy with moderate debt and inflation, no active crises, and recent growth volatility driven by commodity cycles, so economic fundamentals dominate the 3-year outlook, with modest political risk from protest and conflict indicators.\"\n}",
+  "_cache_key": "5f57f90841b4667699a39cea0ba93121",
+  "_iso3": "GUY",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

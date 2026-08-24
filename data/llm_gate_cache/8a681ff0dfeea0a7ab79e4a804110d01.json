@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2017 shows moderate economic growth with high unemployment and external imbalances, but political tensions (Nagorno-Karabakh conflict, sanctions) and social fragility (low trust, high protest counts) warrant elevated weights for politics and human_society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia in 2017 shows moderate economic growth with high unemployment and external imbalances, but political tensions (Nagorno-Karabakh conflict, sanctions) and social fragility (low trust, high protest counts) warrant elevated weights for politics and human_society over a 5-year horizon.\"\n}",
+  "_cache_key": "8a681ff0dfeea0a7ab79e4a804110d01",
+  "_iso3": "ARM",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

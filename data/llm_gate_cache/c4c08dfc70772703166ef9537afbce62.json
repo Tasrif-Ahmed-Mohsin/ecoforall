@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "CYP is a high-income economy with moderate debt and inflation, but elevated political instability and sanctions warrant a significant political weight, while environmental and social factors are less pressing for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CYP is a high-income economy with moderate debt and inflation, but elevated political instability and sanctions warrant a significant political weight, while environmental and social factors are less pressing for a 1-year horizon.\"\n}",
+  "_cache_key": "c4c08dfc70772703166ef9537afbce62",
+  "_iso3": "CYP",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High political instability, sanctions, and conflict intensity dominate the outlook, while weak economic fundamentals and negative growth trajectory also matter, but environmental and social data are too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High political instability, sanctions, and conflict intensity dominate the outlook, while weak economic fundamentals and negative growth trajectory also matter, but environmental and social data are too limited to heavily weight.\"\n}",
+  "_cache_key": "80d20f0e09908aa37c21b2eacd8e80b2",
+  "_iso3": "COD",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

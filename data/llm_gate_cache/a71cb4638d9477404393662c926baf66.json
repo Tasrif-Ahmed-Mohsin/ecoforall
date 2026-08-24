@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Somalia's low income, high unemployment, large current account deficit, and weak investment make economic fundamentals critical, but political instability, sanctions, and conflict intensity are substantial drags, while social unrest and limited environmental data add moderate risks over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Somalia's low income, high unemployment, large current account deficit, and weak investment make economic fundamentals critical, but political instability, sanctions, and conflict intensity are substantial drags, while social unrest and limited environmental data add moderate risks over a 5-year horizon.\"\n}",
+  "_cache_key": "a71cb4638d9477404393662c926baf66",
+  "_iso3": "SOM",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

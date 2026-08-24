@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MOZ faces high inflation, massive current account deficit, and heavy debt, but also has a large investment share and moderate political instability with conflict and sanctions, making economic fundamentals dominant while political risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MOZ faces high inflation, massive current account deficit, and heavy debt, but also has a large investment share and moderate political instability with conflict and sanctions, making economic fundamentals dominant while political risks are elevated.\"\n}",
+  "_cache_key": "969e29b0390df1e4ba45078097b6586e",
+  "_iso3": "MOZ",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

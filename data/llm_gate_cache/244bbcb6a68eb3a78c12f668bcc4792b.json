@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE faces moderate political instability and high protest/sanction pressure, but the economy is growing strongly with low inflation and debt, so economic fundamentals dominate while political risks are significant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE faces moderate political instability and high protest/sanction pressure, but the economy is growing strongly with low inflation and debt, so economic fundamentals dominate while political risks are significant for a 5-year horizon.\"\n}",
+  "_cache_key": "244bbcb6a68eb3a78c12f668bcc4792b",
+  "_iso3": "SLE",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

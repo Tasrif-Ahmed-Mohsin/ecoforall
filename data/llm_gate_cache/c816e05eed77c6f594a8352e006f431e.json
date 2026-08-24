@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Egypt is a middle-income economy with moderate debt and inflation, no active crises, and stable political conditions, so economic fundamentals dominate, while political, environmental, and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Egypt is a middle-income economy with moderate debt and inflation, no active crises, and stable political conditions, so economic fundamentals dominate, while political, environmental, and social factors play secondary roles.\"\n}",
+  "_cache_key": "c816e05eed77c6f594a8352e006f431e",
+  "_iso3": "EGY",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

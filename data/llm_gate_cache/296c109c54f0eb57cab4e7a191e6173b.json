@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate inflation, high debt, and negative current account suggest economic fragility, while elevated political instability and protest pressure warrant a notable political risk premium, with environmental and social factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate inflation, high debt, and negative current account suggest economic fragility, while elevated political instability and protest pressure warrant a notable political risk premium, with environmental and social factors playing secondary roles.\"\n}",
+  "_cache_key": "296c109c54f0eb57cab4e7a191e6173b",
+  "_iso3": "PHL",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

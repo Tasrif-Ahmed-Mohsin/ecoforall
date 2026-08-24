@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Albania in 2004 is a lower-middle-income economy with moderate debt, high unemployment, and external imbalances, but no active crises; however, weak political stability and significant protest/conflict indicators warrant a notable political weight, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania in 2004 is a lower-middle-income economy with moderate debt, high unemployment, and external imbalances, but no active crises; however, weak political stability and significant protest/conflict indicators warrant a notable political weight, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "a383121beaaf47293deef95abbe7727a",
+  "_iso3": "ALB",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

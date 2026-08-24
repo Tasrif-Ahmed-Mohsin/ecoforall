@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Bangladesh in 2014 shows stable macroeconomic fundamentals with moderate growth, no active crises, but political instability and environmental vulnerabilities warrant modest weights beyond the dominant economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bangladesh in 2014 shows stable macroeconomic fundamentals with moderate growth, no active crises, but political instability and environmental vulnerabilities warrant modest weights beyond the dominant economic factors.\"\n}",
+  "_cache_key": "f48c2a457134bd40aedbcd1c85a647b2",
+  "_iso3": "BGD",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Argentina is recovering from a sharp recession with high debt and inflation, but no active crises, so economic fundamentals dominate, while moderate political instability and social stress warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina is recovering from a sharp recession with high debt and inflation, but no active crises, so economic fundamentals dominate, while moderate political instability and social stress warrant secondary weights.\"\n}",
+  "_cache_key": "93965c79550eeb55236aeb48be7edff5",
+  "_iso3": "ARG",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

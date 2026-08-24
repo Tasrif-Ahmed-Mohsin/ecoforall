@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CIV is a low-income, politically fragile country with moderate instability and social tensions, so while economic fundamentals matter, political risk and social factors significantly influence the 5-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CIV is a low-income, politically fragile country with moderate instability and social tensions, so while economic fundamentals matter, political risk and social factors significantly influence the 5-year growth outlook.\"\n}",
+  "_cache_key": "18f59dfeccf84879b7e55a95b83f66d5",
+  "_iso3": "CIV",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

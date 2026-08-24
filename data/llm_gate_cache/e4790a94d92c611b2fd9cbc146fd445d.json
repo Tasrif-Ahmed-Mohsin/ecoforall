@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Qatar is a high-income, stable economy with moderate debt and positive current account, but recent negative growth and high investment suggest cyclical factors dominate, while political stability is low but not in acute crisis, so economy gets the largest weight.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Qatar is a high-income, stable economy with moderate debt and positive current account, but recent negative growth and high investment suggest cyclical factors dominate, while political stability is low but not in acute crisis, so economy gets the largest weight.\"\n}",
+  "_cache_key": "e4790a94d92c611b2fd9cbc146fd445d",
+  "_iso3": "QAT",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

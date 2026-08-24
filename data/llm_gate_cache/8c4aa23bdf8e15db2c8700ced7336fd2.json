@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2015 faces moderate political instability and conflict, but the dominant driver of short-term GDP growth remains the macroeconomic fundamentals, including high investment and recent growth momentum, despite elevated inflation and external imbalances.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2015 faces moderate political instability and conflict, but the dominant driver of short-term GDP growth remains the macroeconomic fundamentals, including high investment and recent growth momentum, despite elevated inflation and external imbalances.\"\n}",
+  "_cache_key": "8c4aa23bdf8e15db2c8700ced7336fd2",
+  "_iso3": "ETH",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

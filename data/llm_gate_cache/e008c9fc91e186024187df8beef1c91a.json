@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "PRT is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social factors and limited environmental data play minor roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"PRT is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political and social factors and limited environmental data play minor roles over the 5-year horizon.\"\n}",
+  "_cache_key": "e008c9fc91e186024187df8beef1c91a",
+  "_iso3": "PRT",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

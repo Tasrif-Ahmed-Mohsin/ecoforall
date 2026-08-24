@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria in 2013 is a stable, oil-exporting middle-income economy with moderate inflation, low debt, and positive growth, but political tensions, sanctions, and social unrest warrant elevated political and social weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria in 2013 is a stable, oil-exporting middle-income economy with moderate inflation, low debt, and positive growth, but political tensions, sanctions, and social unrest warrant elevated political and social weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "f0a6324fa34a6551173189f0289eaf0b",
+  "_iso3": "NGA",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

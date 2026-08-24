@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Cuba's economy is the primary driver given moderate growth and investment, but political factors (sanctions, protests, conflict) are significant enough to warrant a quarter of the weight for a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cuba's economy is the primary driver given moderate growth and investment, but political factors (sanctions, protests, conflict) are significant enough to warrant a quarter of the weight for a 1-year horizon.\"\n}",
+  "_cache_key": "9925a9422dab6ea8117179ae973fc723",
+  "_iso3": "CUB",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

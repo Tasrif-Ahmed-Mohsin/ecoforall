@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MDV is a middle-income economy with moderate debt and external imbalances, but political instability, sanctions, and negative sentiment elevate political risk, while the 5-year horizon increases the importance of structural factors beyond pure macro fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDV is a middle-income economy with moderate debt and external imbalances, but political instability, sanctions, and negative sentiment elevate political risk, while the 5-year horizon increases the importance of structural factors beyond pure macro fundamentals.\"\n}",
+  "_cache_key": "efc7e807dc6e682e18e9e8f8cdd989db",
+  "_iso3": "MDV",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

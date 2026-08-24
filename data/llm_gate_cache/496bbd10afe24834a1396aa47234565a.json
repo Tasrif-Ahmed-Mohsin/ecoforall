@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "DZA shows moderate economic imbalances (high investment, moderate inflation, low debt) but no acute crises, while political instability and social tensions (protests, low trust, high conflict) warrant elevated weights for politics and human_society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"DZA shows moderate economic imbalances (high investment, moderate inflation, low debt) but no acute crises, while political instability and social tensions (protests, low trust, high conflict) warrant elevated weights for politics and human_society over a 5-year horizon.\"\n}",
+  "_cache_key": "496bbd10afe24834a1396aa47234565a",
+  "_iso3": "DZA",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

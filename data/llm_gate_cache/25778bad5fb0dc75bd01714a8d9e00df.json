@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and sanctions, combined with high unemployment and external deficits, warrant elevated political weight, while stable growth and low inflation keep economy dominant, with social factors secondary due to high trust and optimism.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and sanctions, combined with high unemployment and external deficits, warrant elevated political weight, while stable growth and low inflation keep economy dominant, with social factors secondary due to high trust and optimism.\"\n}",
+  "_cache_key": "25778bad5fb0dc75bd01714a8d9e00df",
+  "_iso3": "CRI",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

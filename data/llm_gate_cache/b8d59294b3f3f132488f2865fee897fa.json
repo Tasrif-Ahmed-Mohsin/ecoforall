@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cuba faces severe political instability, sanctions, and conflict, which will heavily constrain investment and growth, while the moderate economic base and low unemployment provide some resilience, and social pressures add secondary risk.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cuba faces severe political instability, sanctions, and conflict, which will heavily constrain investment and growth, while the moderate economic base and low unemployment provide some resilience, and social pressures add secondary risk.\"\n}",
+  "_cache_key": "b8d59294b3f3f132488f2865fee897fa",
+  "_iso3": "CUB",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

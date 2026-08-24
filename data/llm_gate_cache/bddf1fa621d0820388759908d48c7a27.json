@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Italy is a stable high-income economy with moderate political and social tensions but no major crisis, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Italy is a stable high-income economy with moderate political and social tensions but no major crisis, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "bddf1fa621d0820388759908d48c7a27",
+  "_iso3": "ITA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

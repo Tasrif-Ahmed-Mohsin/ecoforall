@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Taiwan in 2012 is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, with modest political and social factors given the ongoing cross-strait tensions and moderate protest activity.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Taiwan in 2012 is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, with modest political and social factors given the ongoing cross-strait tensions and moderate protest activity.\"\n}",
+  "_cache_key": "3d44bfba54c41c8785c38edbbe20c56b",
+  "_iso3": "TWN",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

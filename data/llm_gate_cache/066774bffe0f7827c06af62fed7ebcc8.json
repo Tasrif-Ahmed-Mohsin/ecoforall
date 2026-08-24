@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Ireland is a high-income, stable economy with no active crises, but the deep recession and banking stress make economic factors dominant, while political and social conditions are relatively stable and secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland is a high-income, stable economy with no active crises, but the deep recession and banking stress make economic factors dominant, while political and social conditions are relatively stable and secondary.\"\n}",
+  "_cache_key": "066774bffe0f7827c06af62fed7ebcc8",
+  "_iso3": "IRL",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Ukraine in 2015 is in a severe political-military crisis with active conflict, sanctions, and sovereign debt distress, making politics the dominant driver, while economic recovery is fragile and social cohesion is strained, but environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ukraine in 2015 is in a severe political-military crisis with active conflict, sanctions, and sovereign debt distress, making politics the dominant driver, while economic recovery is fragile and social cohesion is strained, but environmental factors are negligible.\"\n}",
+  "_cache_key": "46f997505c42d40544816c2f8e398e85",
+  "_iso3": "UKR",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

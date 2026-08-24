@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA faces a large current account deficit, high investment needs, and recent negative growth, but political stability is moderate with some protest and sanction pressures, so economic fundamentals dominate while political risks and social strains add secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA faces a large current account deficit, high investment needs, and recent negative growth, but political stability is moderate with some protest and sanction pressures, so economic fundamentals dominate while political risks and social strains add secondary weight.\"\n}",
+  "_cache_key": "08e5adabbde93a78e072f462b631114f",
+  "_iso3": "DZA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

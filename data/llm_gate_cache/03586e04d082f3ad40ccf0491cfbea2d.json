@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Ukraine faces high political instability, conflict, and sanctions, alongside severe macroeconomic imbalances (high current account deficit, moderate debt, low growth), making politics and economy the dominant drivers, with social strain also relevant but environment negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ukraine faces high political instability, conflict, and sanctions, alongside severe macroeconomic imbalances (high current account deficit, moderate debt, low growth), making politics and economy the dominant drivers, with social strain also relevant but environment negligible.\"\n}",
+  "_cache_key": "03586e04d082f3ad40ccf0491cfbea2d",
+  "_iso3": "UKR",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

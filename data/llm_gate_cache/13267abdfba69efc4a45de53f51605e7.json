@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "CIV faces moderate economic imbalances (high debt, current account deficit) but severe political instability and social unrest, which are likely to dominate short-term growth prospects, while environmental factors are not a major constraint.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"CIV faces moderate economic imbalances (high debt, current account deficit) but severe political instability and social unrest, which are likely to dominate short-term growth prospects, while environmental factors are not a major constraint.\"\n}",
+  "_cache_key": "13267abdfba69efc4a45de53f51605e7",
+  "_iso3": "CIV",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

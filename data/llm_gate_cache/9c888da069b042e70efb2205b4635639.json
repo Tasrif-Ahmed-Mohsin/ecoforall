@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, but the economy is also fragile with high current account deficit and low investment, so politics and human society weigh heavily alongside core economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, but the economy is also fragile with high current account deficit and low investment, so politics and human society weigh heavily alongside core economic factors.\"\n}",
+  "_cache_key": "9c888da069b042e70efb2205b4635639",
+  "_iso3": "ZWE",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

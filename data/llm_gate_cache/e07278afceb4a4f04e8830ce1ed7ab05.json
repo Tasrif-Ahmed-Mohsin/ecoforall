@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Cambodia is a low-income, politically fragile economy with moderate growth and external imbalances, but no acute crisis, so economic fundamentals dominate while political instability and social vulnerabilities warrant significant weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cambodia is a low-income, politically fragile economy with moderate growth and external imbalances, but no acute crisis, so economic fundamentals dominate while political instability and social vulnerabilities warrant significant weight.\"\n}",
+  "_cache_key": "e07278afceb4a4f04e8830ce1ed7ab05",
+  "_iso3": "KHM",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

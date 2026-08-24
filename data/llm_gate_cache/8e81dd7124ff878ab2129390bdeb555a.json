@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia's high unemployment, external imbalances, and recent growth slowdown make economic factors dominant, but political instability and social tensions (protests, low stability) add significant risk, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia's high unemployment, external imbalances, and recent growth slowdown make economic factors dominant, but political instability and social tensions (protests, low stability) add significant risk, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "8e81dd7124ff878ab2129390bdeb555a",
+  "_iso3": "GEO",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

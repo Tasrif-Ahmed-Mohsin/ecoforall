@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "GBR is a stable, high-income economy with no ongoing crises, so short-term GDP growth is primarily driven by economic fundamentals, with minor contributions from political, environmental, and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"GBR is a stable, high-income economy with no ongoing crises, so short-term GDP growth is primarily driven by economic fundamentals, with minor contributions from political, environmental, and social factors.\"\n}",
+  "_cache_key": "f13864f205e8cc5f5a58392a559098f1",
+  "_iso3": "GBR",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

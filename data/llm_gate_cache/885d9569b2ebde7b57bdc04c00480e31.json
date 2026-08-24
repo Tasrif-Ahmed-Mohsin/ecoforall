@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Lebanon faces severe macroeconomic imbalances (huge current account deficit, high debt, negative recent growth) but no active crisis, so economic factors dominate, while political instability and social tensions add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Lebanon faces severe macroeconomic imbalances (huge current account deficit, high debt, negative recent growth) but no active crisis, so economic factors dominate, while political instability and social tensions add moderate risk.\"\n}",
+  "_cache_key": "885d9569b2ebde7b57bdc04c00480e31",
+  "_iso3": "LBN",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "India's growth is primarily driven by macroeconomic fundamentals (investment, inflation, external balance) with moderate political risk from instability and protests, while environmental and social factors are secondary over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.7,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.1,\n  \"confidence\": 0.75,\n  \"reasoning\": \"India's growth is primarily driven by macroeconomic fundamentals (investment, inflation, external balance) with moderate political risk from instability and protests, while environmental and social factors are secondary over a one-year horizon.\"\n}",
+  "_cache_key": "0239a4a8ae247f1ef59bc3056c22ab51",
+  "_iso3": "IND",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

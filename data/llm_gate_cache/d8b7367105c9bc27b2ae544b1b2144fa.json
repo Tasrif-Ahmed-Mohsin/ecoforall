@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "Yemen faces severe political instability and conflict (very low political stability, high conflict intensity, sanctions), which heavily weighs on near-term growth, while the economy remains the primary driver given moderate inflation, debt, and investment levels.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Yemen faces severe political instability and conflict (very low political stability, high conflict intensity, sanctions), which heavily weighs on near-term growth, while the economy remains the primary driver given moderate inflation, debt, and investment levels.\"\n}",
+  "_cache_key": "d8b7367105c9bc27b2ae544b1b2144fa",
+  "_iso3": "YEM",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

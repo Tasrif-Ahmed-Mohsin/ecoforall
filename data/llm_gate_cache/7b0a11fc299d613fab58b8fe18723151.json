@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High unemployment, moderate inflation, and external imbalances signal economic fragility, while political instability and high protest pressure add significant risk, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High unemployment, moderate inflation, and external imbalances signal economic fragility, while political instability and high protest pressure add significant risk, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "7b0a11fc299d613fab58b8fe18723151",
+  "_iso3": "BWA",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

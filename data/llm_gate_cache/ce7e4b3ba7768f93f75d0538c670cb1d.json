@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, crisis-prone economy with high inflation, large current account deficit, and recent negative growth, but political instability and sanctions also pose significant risks, while social pressures are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GMB is a low-income, crisis-prone economy with high inflation, large current account deficit, and recent negative growth, but political instability and sanctions also pose significant risks, while social pressures are moderate.\"\n}",
+  "_cache_key": "ce7e4b3ba7768f93f75d0538c670cb1d",
+  "_iso3": "GMB",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

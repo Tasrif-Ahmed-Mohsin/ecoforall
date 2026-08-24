@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SVK is a stable, high-income EU economy with no major crises, so economic fundamentals dominate, while moderate political and social factors play a secondary role over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SVK is a stable, high-income EU economy with no major crises, so economic fundamentals dominate, while moderate political and social factors play a secondary role over the 5-year horizon.\"\n}",
+  "_cache_key": "f52a1105c64595eb2902d2b18f44422f",
+  "_iso3": "SVK",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

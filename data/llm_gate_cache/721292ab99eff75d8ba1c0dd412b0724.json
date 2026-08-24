@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.02,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "CZE is a stable, high-income EU economy with no ongoing crises, strong growth, and moderate imbalances, so economic fundamentals dominate while political and social factors remain secondary.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.02,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CZE is a stable, high-income EU economy with no ongoing crises, strong growth, and moderate imbalances, so economic fundamentals dominate while political and social factors remain secondary.\"\n}",
+  "_cache_key": "721292ab99eff75d8ba1c0dd412b0724",
+  "_iso3": "CZE",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

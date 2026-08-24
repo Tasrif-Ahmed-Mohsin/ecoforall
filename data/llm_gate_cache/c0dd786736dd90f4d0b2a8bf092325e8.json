@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burkina Faso faces moderate political instability and conflict, but the economy is the primary driver given its low income, moderate debt, and recent growth slowdown, while environmental and social factors are less immediate over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burkina Faso faces moderate political instability and conflict, but the economy is the primary driver given its low income, moderate debt, and recent growth slowdown, while environmental and social factors are less immediate over a 3-year horizon.\"\n}",
+  "_cache_key": "c0dd786736dd90f4d0b2a8bf092325e8",
+  "_iso3": "BFA",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

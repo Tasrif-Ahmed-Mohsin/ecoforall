@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Argentina in 2004 is a stable, high-income economy with no ongoing crises, recovering from a past recession, so economic fundamentals dominate the forecast, with modest weights for political and social factors given moderate protest and trust levels.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Argentina in 2004 is a stable, high-income economy with no ongoing crises, recovering from a past recession, so economic fundamentals dominate the forecast, with modest weights for political and social factors given moderate protest and trust levels.\"\n}",
+  "_cache_key": "cb5724f6697cd5184be15d0c0ce95957",
+  "_iso3": "ARG",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

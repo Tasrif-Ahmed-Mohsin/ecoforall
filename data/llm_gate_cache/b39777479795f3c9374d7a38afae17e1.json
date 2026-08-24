@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "SAU is a high-income, stable economy with moderate growth and low debt, so economic fundamentals dominate, while political instability and social tensions are present but not crisis-level, and environmental risks are minor over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"SAU is a high-income, stable economy with moderate growth and low debt, so economic fundamentals dominate, while political instability and social tensions are present but not crisis-level, and environmental risks are minor over a 1-year horizon.\"\n}",
+  "_cache_key": "b39777479795f3c9374d7a38afae17e1",
+  "_iso3": "SAU",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

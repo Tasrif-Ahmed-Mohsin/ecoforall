@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "TCD is a low-income, fragile state with moderate political instability, high protest and conflict indicators, and negative inflation, so economic fundamentals matter most but political risks are significant for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"TCD is a low-income, fragile state with moderate political instability, high protest and conflict indicators, and negative inflation, so economic fundamentals matter most but political risks are significant for short-term growth.\"\n}",
+  "_cache_key": "172dc206c925697cfcf5b62fa317d478",
+  "_iso3": "TCD",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

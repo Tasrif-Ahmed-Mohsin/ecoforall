@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Kenya faces moderate economic imbalances (high inflation, current account deficit) and political instability (protests, conflicts), but no full-blown crisis, so economic factors dominate while political and social stresses are significant for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Kenya faces moderate economic imbalances (high inflation, current account deficit) and political instability (protests, conflicts), but no full-blown crisis, so economic factors dominate while political and social stresses are significant for a 5-year horizon.\"\n}",
+  "_cache_key": "0bba8ef8b5210f4bad0bd3caf4f85d40",
+  "_iso3": "KEN",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

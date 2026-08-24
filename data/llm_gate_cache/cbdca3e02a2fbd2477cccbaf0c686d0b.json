@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Somalia's low income, high inflation, and external deficit make economic fundamentals critical, but moderate political instability, protests, and sanctions warrant a significant political weight, while limited environmental and social data reduce their influence.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Somalia's low income, high inflation, and external deficit make economic fundamentals critical, but moderate political instability, protests, and sanctions warrant a significant political weight, while limited environmental and social data reduce their influence.\"\n}",
+  "_cache_key": "cbdca3e02a2fbd2477cccbaf0c686d0b",
+  "_iso3": "SOM",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan's economy is stable with low debt, high current account surplus, and no ongoing crises, but political instability and social tensions warrant moderate attention, while environmental factors are negligible for a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Azerbaijan's economy is stable with low debt, high current account surplus, and no ongoing crises, but political instability and social tensions warrant moderate attention, while environmental factors are negligible for a one-year horizon.\"\n}",
+  "_cache_key": "fde99cf937ca36ab9ca8435d5e4a5724",
+  "_iso3": "AZE",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

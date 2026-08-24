@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BFA is a low-income, stable economy with moderate debt and negative inflation, but political instability and sanctions risk warrant elevated political weight, while environmental and social data are too limited to assign higher importance.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BFA is a low-income, stable economy with moderate debt and negative inflation, but political instability and sanctions risk warrant elevated political weight, while environmental and social data are too limited to assign higher importance.\"\n}",
+  "_cache_key": "8f86f226437caf277d86849a3769a2a1",
+  "_iso3": "BFA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

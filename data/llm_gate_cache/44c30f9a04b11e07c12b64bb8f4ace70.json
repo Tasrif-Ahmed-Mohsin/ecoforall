@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "The economy is the dominant driver given stable political conditions, no crises, and strong recent growth, with modest contributions from social factors due to low trust and high fear, while environmental data is too limited to warrant higher weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"The economy is the dominant driver given stable political conditions, no crises, and strong recent growth, with modest contributions from social factors due to low trust and high fear, while environmental data is too limited to warrant higher weight.\"\n}",
+  "_cache_key": "44c30f9a04b11e07c12b64bb8f4ace70",
+  "_iso3": "MMR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

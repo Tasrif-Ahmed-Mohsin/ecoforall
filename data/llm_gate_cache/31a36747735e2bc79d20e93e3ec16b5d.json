@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Iraq in 2017 faces moderate political instability and conflict, high unemployment, and social fragility, while economic fundamentals are mixed with moderate debt and investment, so political and social risks weigh heavily alongside economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Iraq in 2017 faces moderate political instability and conflict, high unemployment, and social fragility, while economic fundamentals are mixed with moderate debt and investment, so political and social risks weigh heavily alongside economic factors.\"\n}",
+  "_cache_key": "31a36747735e2bc79d20e93e3ec16b5d",
+  "_iso3": "IRQ",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

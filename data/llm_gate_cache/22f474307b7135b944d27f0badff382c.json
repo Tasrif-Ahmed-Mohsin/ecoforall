@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia in 2008 faces a severe external imbalance and high unemployment, but no active crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Croatia in 2008 faces a severe external imbalance and high unemployment, but no active crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight.\"\n}",
+  "_cache_key": "22f474307b7135b944d27f0badff382c",
+  "_iso3": "HRV",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

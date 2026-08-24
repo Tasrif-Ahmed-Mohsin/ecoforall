@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BWA is a middle-income economy with moderate inflation and high investment, but political instability and protests warrant a notable political weight, while no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BWA is a middle-income economy with moderate inflation and high investment, but political instability and protests warrant a notable political weight, while no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "acbe3c2d1fb3ac286c18a294df7b8508",
+  "_iso3": "BWA",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "CHE is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors are secondary given the absence of shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CHE is a stable, high-income economy with no major crises, so economic fundamentals dominate, while political, environmental, and social factors are secondary given the absence of shocks.\"\n}",
+  "_cache_key": "a154df032771a8b0185126eff91378f6",
+  "_iso3": "CHE",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "South Africa in 2011 is a middle-income, stable economy with moderate debt and unemployment, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate and longer-term structural factors matter over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"South Africa in 2011 is a middle-income, stable economy with moderate debt and unemployment, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate and longer-term structural factors matter over the 5-year horizon.\"\n}",
+  "_cache_key": "e427b7777ba635042fddf96f2c4b9e4a",
+  "_iso3": "ZAF",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

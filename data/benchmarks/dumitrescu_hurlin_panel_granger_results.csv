@@ -1,0 +1,5 @@
+Hypothesis / Channel,W_bar,Z_tilde,p_value,Countries (N),Causal?
+Social Trust -> GDP Growth,3.7796,8.6727,0.0,95,YES (p < 0.05)
+Societal Fear -> Material Conflict,2.9553,4.6556,3.230760397210375e-06,95,YES (p < 0.05)
+Climate Damage -> Societal Fear,2.3698,1.3073,0.19110853903560354,50,NO
+Climate Disasters -> Conflict,2.8574,3.0313,0.0024347288019130886,50,YES (p < 0.05)

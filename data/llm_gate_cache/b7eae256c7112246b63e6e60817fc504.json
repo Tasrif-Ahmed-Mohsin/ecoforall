@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "PRT is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the near-term growth outlook, while political, social, and environmental factors play only minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"PRT is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the near-term growth outlook, while political, social, and environmental factors play only minor roles.\"\n}",
+  "_cache_key": "b7eae256c7112246b63e6e60817fc504",
+  "_iso3": "PRT",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Oman is a high-income, stable economy with moderate debt and low unemployment, but significant political instability (very low stability, high protests, sanctions) and social tensions warrant elevated political and societal weights, while environmental factors are negligible over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Oman is a high-income, stable economy with moderate debt and low unemployment, but significant political instability (very low stability, high protests, sanctions) and social tensions warrant elevated political and societal weights, while environmental factors are negligible over a 1-year horizon.\"\n}",
+  "_cache_key": "9b02153717d9298d4654220b38bb9202",
+  "_iso3": "OMN",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

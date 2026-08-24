@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Belgium is a stable high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Belgium is a stable high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the short-term outlook.\"\n}",
+  "_cache_key": "b52312b76dd2620bb30771cfd80e0567",
+  "_iso3": "BEL",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

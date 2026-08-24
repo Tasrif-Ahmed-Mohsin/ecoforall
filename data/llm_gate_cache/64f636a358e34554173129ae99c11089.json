@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "PNG is a stable, resource-driven economy with moderate inflation and low debt, so near-term growth is primarily driven by economic fundamentals, with modest political risk from protests and conflicts.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PNG is a stable, resource-driven economy with moderate inflation and low debt, so near-term growth is primarily driven by economic fundamentals, with modest political risk from protests and conflicts.\"\n}",
+  "_cache_key": "64f636a358e34554173129ae99c11089",
+  "_iso3": "PNG",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

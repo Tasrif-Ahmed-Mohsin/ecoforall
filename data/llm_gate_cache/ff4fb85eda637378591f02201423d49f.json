@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Congo-Brazzaville faces high debt, negative growth, and significant political instability and conflict, making economic and political factors dominant, while social unrest adds moderate pressure and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Congo-Brazzaville faces high debt, negative growth, and significant political instability and conflict, making economic and political factors dominant, while social unrest adds moderate pressure and environmental data is limited.\"\n}",
+  "_cache_key": "ff4fb85eda637378591f02201423d49f",
+  "_iso3": "COG",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

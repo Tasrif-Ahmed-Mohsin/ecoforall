@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Nigeria in 2008 is a stable, oil-exporting emerging economy with moderate inflation and no active crises, so economic fundamentals dominate, but political and social tensions (protests, low trust) and environmental risks (floods, droughts) warrant modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria in 2008 is a stable, oil-exporting emerging economy with moderate inflation and no active crises, so economic fundamentals dominate, but political and social tensions (protests, low trust) and environmental risks (floods, droughts) warrant modest weights.\"\n}",
+  "_cache_key": "a6d06a3aaf678ff96d10d5492ac9bcad",
+  "_iso3": "NGA",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

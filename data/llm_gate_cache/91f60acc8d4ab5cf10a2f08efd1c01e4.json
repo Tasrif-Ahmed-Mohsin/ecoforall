@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "AGO faces high inflation, negative recent growth, and elevated debt, but political instability and social tensions (protests, low trust) also pose significant risks, while environmental data is limited and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"AGO faces high inflation, negative recent growth, and elevated debt, but political instability and social tensions (protests, low trust) also pose significant risks, while environmental data is limited and less immediate.\"\n}",
+  "_cache_key": "91f60acc8d4ab5cf10a2f08efd1c01e4",
+  "_iso3": "AGO",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

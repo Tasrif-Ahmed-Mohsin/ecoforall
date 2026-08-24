@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh is a lower-middle-income economy with moderate growth, no active crises, but high political instability and protest pressure, so economic fundamentals dominate while political risks and social tensions warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh is a lower-middle-income economy with moderate growth, no active crises, but high political instability and protest pressure, so economic fundamentals dominate while political risks and social tensions warrant notable weight.\"\n}",
+  "_cache_key": "e321aba8c16ee77c20de44f91c83ca84",
+  "_iso3": "BGD",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

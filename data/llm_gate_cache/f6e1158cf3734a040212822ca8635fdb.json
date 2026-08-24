@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, large debt, and negative current account signal economic fragility, while moderate political instability and protest pressure add risk, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, large debt, and negative current account signal economic fragility, while moderate political instability and protest pressure add risk, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "f6e1158cf3734a040212822ca8635fdb",
+  "_iso3": "GIN",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

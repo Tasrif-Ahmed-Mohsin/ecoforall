@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Rwanda is a low-income, politically stable but authoritarian state with moderate inflation and external imbalances, so economic fundamentals and structural social factors (education, demographics, trust) dominate, while political risk is elevated due to sanctions and conflict indicators, and environmental data is too limited to weight heavily.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Rwanda is a low-income, politically stable but authoritarian state with moderate inflation and external imbalances, so economic fundamentals and structural social factors (education, demographics, trust) dominate, while political risk is elevated due to sanctions and conflict indicators, and environmental data is too limited to weight heavily.\"\n}",
+  "_cache_key": "fe442857e1c4ea48f09c03a60c722187",
+  "_iso3": "RWA",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

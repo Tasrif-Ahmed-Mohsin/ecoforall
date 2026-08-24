@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "China in 2011 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, but moderate political and social tensions and environmental risks warrant modest weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"China in 2011 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, but moderate political and social tensions and environmental risks warrant modest weights over a 5-year horizon.\"\n}",
+  "_cache_key": "37e8978ec3384ac3d8a79a8b68d773bb",
+  "_iso3": "CHN",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

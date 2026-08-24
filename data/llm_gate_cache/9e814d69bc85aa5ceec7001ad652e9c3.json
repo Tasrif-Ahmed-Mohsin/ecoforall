@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Angola in 2005 is a middle-income, oil-dependent economy with high inflation and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight, and environmental factors are negligible given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Angola in 2005 is a middle-income, oil-dependent economy with high inflation and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight, and environmental factors are negligible given limited data.\"\n}",
+  "_cache_key": "9e814d69bc85aa5ceec7001ad652e9c3",
+  "_iso3": "AGO",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CIV is a low-income, politically unstable country with significant conflict and sanctions, making politics a key driver, but the economy still dominates short-term growth due to moderate inflation, low debt, and recent growth volatility.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CIV is a low-income, politically unstable country with significant conflict and sanctions, making politics a key driver, but the economy still dominates short-term growth due to moderate inflation, low debt, and recent growth volatility.\"\n}",
+  "_cache_key": "7dbec95a0aea326715dbcee1de7d607c",
+  "_iso3": "CIV",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

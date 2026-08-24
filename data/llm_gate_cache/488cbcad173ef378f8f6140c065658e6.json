@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan has moderate growth and low debt but faces political instability and social tensions, making politics and society relevant, while environmental data is scarce and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan has moderate growth and low debt but faces political instability and social tensions, making politics and society relevant, while environmental data is scarce and less immediate.\"\n}",
+  "_cache_key": "488cbcad173ef378f8f6140c065658e6",
+  "_iso3": "UZB",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

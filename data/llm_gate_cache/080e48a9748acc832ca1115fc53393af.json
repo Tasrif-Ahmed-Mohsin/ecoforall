@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia in 2004 is a lower-middle-income economy with moderate growth, no active crises, but significant political instability and social tensions, so economic fundamentals dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia in 2004 is a lower-middle-income economy with moderate growth, no active crises, but significant political instability and social tensions, so economic fundamentals dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "080e48a9748acc832ca1115fc53393af",
+  "_iso3": "IDN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

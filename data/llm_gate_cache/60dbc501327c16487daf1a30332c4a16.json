@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income economy with moderate debt and low investment, but no active crises, so economic fundamentals dominate while political and social risks are moderate but not extreme.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNB is a low-income economy with moderate debt and low investment, but no active crises, so economic fundamentals dominate while political and social risks are moderate but not extreme.\"\n}",
+  "_cache_key": "60dbc501327c16487daf1a30332c4a16",
+  "_iso3": "GNB",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

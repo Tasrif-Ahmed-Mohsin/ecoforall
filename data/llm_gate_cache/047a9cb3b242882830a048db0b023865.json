@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth with high investment but large current account deficit and political instability/sanctions suggest economy dominates, with significant political risk and moderate social strain, while environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate growth with high investment but large current account deficit and political instability/sanctions suggest economy dominates, with significant political risk and moderate social strain, while environmental data is limited.\"\n}",
+  "_cache_key": "047a9cb3b242882830a048db0b023865",
+  "_iso3": "MAR",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

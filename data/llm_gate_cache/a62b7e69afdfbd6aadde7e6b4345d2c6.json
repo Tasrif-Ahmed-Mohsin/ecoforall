@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High inflation, banking crisis, and moderate debt signal economic fragility, while political instability and sanctions add risk, but environmental and social factors are secondary given the short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation, banking crisis, and moderate debt signal economic fragility, while political instability and sanctions add risk, but environmental and social factors are secondary given the short horizon.\"\n}",
+  "_cache_key": "a62b7e69afdfbd6aadde7e6b4345d2c6",
+  "_iso3": "VEN",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

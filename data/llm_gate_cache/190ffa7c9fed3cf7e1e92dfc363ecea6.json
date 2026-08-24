@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High investment and external imbalances dominate the growth outlook, but political instability and protest pressure warrant a significant political weight, while environmental and social factors are less critical given limited data and no major shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High investment and external imbalances dominate the growth outlook, but political instability and protest pressure warrant a significant political weight, while environmental and social factors are less critical given limited data and no major shocks.\"\n}",
+  "_cache_key": "190ffa7c9fed3cf7e1e92dfc363ecea6",
+  "_iso3": "BTN",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia in 2004 faces high unemployment, large current account deficit, and moderate inflation, but no active crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia in 2004 faces high unemployment, large current account deficit, and moderate inflation, but no active crisis, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight.\"\n}",
+  "_cache_key": "38a9b0cf3a28fb95f5599caf81813e0f",
+  "_iso3": "SRB",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

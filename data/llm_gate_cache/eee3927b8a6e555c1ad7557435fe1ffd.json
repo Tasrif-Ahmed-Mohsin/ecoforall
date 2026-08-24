@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GIN is a low-income, moderately unstable country with high inflation, external deficit, and significant political tensions (protests, sanctions, conflict), so economic fundamentals and political risks dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GIN is a low-income, moderately unstable country with high inflation, external deficit, and significant political tensions (protests, sanctions, conflict), so economic fundamentals and political risks dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "eee3927b8a6e555c1ad7557435fe1ffd",
+  "_iso3": "GIN",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "CZE is a stable, high-income EU economy with no ongoing crises, moderate debt, low inflation, and positive recent growth, so short-term GDP growth is driven primarily by standard economic factors, with minor political and social influences.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CZE is a stable, high-income EU economy with no ongoing crises, moderate debt, low inflation, and positive recent growth, so short-term GDP growth is driven primarily by standard economic factors, with minor political and social influences.\"\n}",
+  "_cache_key": "1e58e23273c764188778ef924c1f42b6",
+  "_iso3": "CZE",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

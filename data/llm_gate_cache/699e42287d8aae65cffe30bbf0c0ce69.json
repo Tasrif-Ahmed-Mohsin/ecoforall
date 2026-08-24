@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, commodity-dependent economy with high current account deficit and moderate debt, but political instability, conflict, and protests are significant risks, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, commodity-dependent economy with high current account deficit and moderate debt, but political instability, conflict, and protests are significant risks, while environmental and social data are limited.\"\n}",
+  "_cache_key": "699e42287d8aae65cffe30bbf0c0ce69",
+  "_iso3": "TJK",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

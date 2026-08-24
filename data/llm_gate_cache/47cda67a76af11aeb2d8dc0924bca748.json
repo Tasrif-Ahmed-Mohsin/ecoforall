@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "LSO faces severe political instability and conflict, which will weigh heavily on growth, but the economy remains the primary driver given its low income, high current account deficit, and moderate debt, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LSO faces severe political instability and conflict, which will weigh heavily on growth, but the economy remains the primary driver given its low income, high current account deficit, and moderate debt, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "47cda67a76af11aeb2d8dc0924bca748",
+  "_iso3": "LSO",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

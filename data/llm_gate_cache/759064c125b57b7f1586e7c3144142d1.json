@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability and social tensions, combined with a weak external position and mixed recent growth, elevate political and social risks, but the economy remains the primary driver over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with a weak external position and mixed recent growth, elevate political and social risks, but the economy remains the primary driver over a one-year horizon.\"\n}",
+  "_cache_key": "759064c125b57b7f1586e7c3144142d1",
+  "_iso3": "ECU",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Germany is a stable, high-income economy with low inflation, low unemployment, and strong external position, so economic fundamentals dominate, while political instability and environmental risks are moderate but not crisis-level for the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Germany is a stable, high-income economy with low inflation, low unemployment, and strong external position, so economic fundamentals dominate, while political instability and environmental risks are moderate but not crisis-level for the 3-year horizon.\"\n}",
+  "_cache_key": "8d8ec1dc77e2f118cd27fe78df9a6790",
+  "_iso3": "DEU",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

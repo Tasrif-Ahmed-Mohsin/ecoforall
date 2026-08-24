@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Brazil in 2009 is a stable, middle-income economy recovering from a mild recession with no major political, environmental, or social crises, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Brazil in 2009 is a stable, middle-income economy recovering from a mild recession with no major political, environmental, or social crises, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "760ff17265e5e8b7001f412f173edd35",
+  "_iso3": "BRA",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Congo's moderate political instability and conflict, combined with high debt and negative recent growth, make politics a significant risk, but the economy remains the primary driver given the short 3-year horizon and lack of major environmental or social shocks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Congo's moderate political instability and conflict, combined with high debt and negative recent growth, make politics a significant risk, but the economy remains the primary driver given the short 3-year horizon and lack of major environmental or social shocks.\"\n}",
+  "_cache_key": "51bc68c6bd53b8c798bc1ffc9a19c7b5",
+  "_iso3": "COG",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica's high debt, unemployment, and external deficits make economic factors dominant, but political instability and social unrest (protests, conflicts) add significant near-term risk, while environmental and social factors are secondary given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica's high debt, unemployment, and external deficits make economic factors dominant, but political instability and social unrest (protests, conflicts) add significant near-term risk, while environmental and social factors are secondary given limited data.\"\n}",
+  "_cache_key": "8e941fc40cba936c1c443f1d5345965a",
+  "_iso3": "JAM",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

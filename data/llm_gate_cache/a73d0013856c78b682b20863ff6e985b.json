@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ECU faces a sovereign debt crisis and moderate inflation, but political stability is high and no major conflict or environmental shock is present, so economic fundamentals dominate while political risk and social sentiment play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"ECU faces a sovereign debt crisis and moderate inflation, but political stability is high and no major conflict or environmental shock is present, so economic fundamentals dominate while political risk and social sentiment play secondary roles.\"\n}",
+  "_cache_key": "a73d0013856c78b682b20863ff6e985b",
+  "_iso3": "ECU",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

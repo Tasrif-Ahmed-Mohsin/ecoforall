@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "China in 2018 is a stable, upper-middle-income economy with moderate debt and investment-led growth, so economic fundamentals dominate, while political stability and social cohesion are solid, and environmental risks are moderate but not crisis-level.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"China in 2018 is a stable, upper-middle-income economy with moderate debt and investment-led growth, so economic fundamentals dominate, while political stability and social cohesion are solid, and environmental risks are moderate but not crisis-level.\"\n}",
+  "_cache_key": "34a6f6c090db964ded0bd0fe28a11c76",
+  "_iso3": "CHN",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

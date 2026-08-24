@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "BWA faces high unemployment, moderate inflation, and recent volatile growth, but the extreme political instability, sanctions, and conflict intensity elevate politics to a major driver over the 5-year horizon, while environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BWA faces high unemployment, moderate inflation, and recent volatile growth, but the extreme political instability, sanctions, and conflict intensity elevate politics to a major driver over the 5-year horizon, while environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "0ff5a2971f3ecb8e73749f9f27b1981b",
+  "_iso3": "BWA",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

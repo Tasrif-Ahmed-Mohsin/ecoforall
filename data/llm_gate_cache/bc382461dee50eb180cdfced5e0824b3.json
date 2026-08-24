@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Georgia faces high unemployment, large current account deficit, and moderate inflation, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Georgia faces high unemployment, large current account deficit, and moderate inflation, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate weight for a 5-year horizon.\"\n}",
+  "_cache_key": "bc382461dee50eb180cdfced5e0824b3",
+  "_iso3": "GEO",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

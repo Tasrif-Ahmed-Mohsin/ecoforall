@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.02,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "CZE is a stable, high-income EU economy with low debt, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.02,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CZE is a stable, high-income EU economy with low debt, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "48fd8b6b11ca12765661adb9db77b02a",
+  "_iso3": "CZE",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Fiji faces a large current account deficit and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Fiji faces a large current account deficit and moderate debt, but no active crises, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention.\"\n}",
+  "_cache_key": "e8834c2226920ae8ce453e0237b260d8",
+  "_iso3": "FJI",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

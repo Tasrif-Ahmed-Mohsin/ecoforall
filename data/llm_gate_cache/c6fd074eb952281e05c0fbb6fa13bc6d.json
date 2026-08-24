@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "SAU is a high-income, stable economy with strong external balances, but political instability and conflict risk warrant a significant political weight, while environmental and social factors are moderate due to climate exposure and social tensions.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SAU is a high-income, stable economy with strong external balances, but political instability and conflict risk warrant a significant political weight, while environmental and social factors are moderate due to climate exposure and social tensions.\"\n}",
+  "_cache_key": "c6fd074eb952281e05c0fbb6fa13bc6d",
+  "_iso3": "SAU",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

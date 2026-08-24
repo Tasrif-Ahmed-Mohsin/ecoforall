@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2019 faces moderate political instability, high protest pressure, and social unrest, but the economy is relatively stable with low inflation and positive current account, so economic factors dominate while political and social risks are significant but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Iraq in 2019 faces moderate political instability, high protest pressure, and social unrest, but the economy is relatively stable with low inflation and positive current account, so economic factors dominate while political and social risks are significant but secondary.\"\n}",
+  "_cache_key": "b48d391b631bd77a584e24b9b9dd8650",
+  "_iso3": "IRQ",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

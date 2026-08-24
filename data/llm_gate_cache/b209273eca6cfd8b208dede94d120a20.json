@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LBR shows moderate inflation, high current account deficit, and low investment, but no active crises, so economic fundamentals dominate the 1-year outlook, with political and social factors playing a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBR shows moderate inflation, high current account deficit, and low investment, but no active crises, so economic fundamentals dominate the 1-year outlook, with political and social factors playing a secondary role.\"\n}",
+  "_cache_key": "b209273eca6cfd8b208dede94d120a20",
+  "_iso3": "LBR",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bulgaria in 2011 is a stable, upper-middle-income EU member with moderate growth, low debt, and no acute crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, low trust) and longer-horizon structural shifts warrant modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bulgaria in 2011 is a stable, upper-middle-income EU member with moderate growth, low debt, and no acute crises, so economic fundamentals dominate, but political and social factors (moderate protest pressure, low trust) and longer-horizon structural shifts warrant modest weight.\"\n}",
+  "_cache_key": "438baf1e82a942673342fe8d454c176c",
+  "_iso3": "BGR",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Ghana's economy is stable with moderate growth, low inflation, and no crises, but the large current account deficit and moderate debt warrant a strong economic focus, while political and social factors are relatively calm and environmental risks are minor.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ghana's economy is stable with moderate growth, low inflation, and no crises, but the large current account deficit and moderate debt warrant a strong economic focus, while political and social factors are relatively calm and environmental risks are minor.\"\n}",
+  "_cache_key": "b0ac5325636bbd12f88467d8e5c24a64",
+  "_iso3": "GHA",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

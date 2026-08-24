@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income, moderately indebted economy with negative inflation and a recent mild recovery, but high political instability, protests, and sanctions elevate political risk, while social tensions and limited environmental data keep other weights modest.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income, moderately indebted economy with negative inflation and a recent mild recovery, but high political instability, protests, and sanctions elevate political risk, while social tensions and limited environmental data keep other weights modest.\"\n}",
+  "_cache_key": "de08befc20cdf93fd386ac75b9f22e94",
+  "_iso3": "TGO",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

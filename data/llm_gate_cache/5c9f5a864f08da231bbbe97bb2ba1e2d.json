@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam is a stable, high-growth emerging economy with moderate debt and strong investment, so economic fundamentals dominate, but climate risks and social/demographic shifts warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam is a stable, high-growth emerging economy with moderate debt and strong investment, so economic fundamentals dominate, but climate risks and social/demographic shifts warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "5c9f5a864f08da231bbbe97bb2ba1e2d",
+  "_iso3": "VNM",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

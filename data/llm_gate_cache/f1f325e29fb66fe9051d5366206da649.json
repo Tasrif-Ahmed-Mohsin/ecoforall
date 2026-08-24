@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "Iceland is a high-income economy with moderate debt and inflation, but severe political instability, high protest pressure, and negative sentiment warrant a significant political weight, while environmental and social factors are less critical over this 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Iceland is a high-income economy with moderate debt and inflation, but severe political instability, high protest pressure, and negative sentiment warrant a significant political weight, while environmental and social factors are less critical over this 3-year horizon.\"\n}",
+  "_cache_key": "f1f325e29fb66fe9051d5366206da649",
+  "_iso3": "ISL",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Large current account deficit and moderate debt suggest economic vulnerabilities, while political instability and conflict indicators warrant elevated political weight, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Large current account deficit and moderate debt suggest economic vulnerabilities, while political instability and conflict indicators warrant elevated political weight, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "e141d95dff1c4a30579b28ab39368133",
+  "_iso3": "MNE",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

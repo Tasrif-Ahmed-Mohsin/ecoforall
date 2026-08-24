@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bosnia and Herzegovina in 2010 faces high unemployment, external imbalances, and moderate debt, but political instability and social tensions (protests, negative sentiment) add significant downside risks, while environmental factors are negligible for the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Bosnia and Herzegovina in 2010 faces high unemployment, external imbalances, and moderate debt, but political instability and social tensions (protests, negative sentiment) add significant downside risks, while environmental factors are negligible for the 3-year horizon.\"\n}",
+  "_cache_key": "b14953d1e004b30789a4525cb8a4b8f3",
+  "_iso3": "BIH",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

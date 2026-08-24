@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Bolivia's moderate growth, high current account surplus, and low debt suggest a stable macro base, but elevated political instability, protests, and sanctions warrant a significant political risk premium over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bolivia's moderate growth, high current account surplus, and low debt suggest a stable macro base, but elevated political instability, protests, and sanctions warrant a significant political risk premium over the 5-year horizon.\"\n}",
+  "_cache_key": "0229e843741faf6dcc33dc7732254e5f",
+  "_iso3": "BOL",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Argentina in 2011 faces moderate economic imbalances (high inflation, negative current account) but no active crises, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Argentina in 2011 faces moderate economic imbalances (high inflation, negative current account) but no active crises, while political instability and social tensions are elevated, warranting a significant but not dominant political weight.\"\n}",
+  "_cache_key": "d6b1ee78193a3d5340138288e97e8418",
+  "_iso3": "ARG",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

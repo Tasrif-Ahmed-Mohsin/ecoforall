@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "CAF is a low-income, fragile state with moderate political instability, high protest counts, and external imbalances, so economic fundamentals dominate but political risks are elevated enough to warrant a substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"CAF is a low-income, fragile state with moderate political instability, high protest counts, and external imbalances, so economic fundamentals dominate but political risks are elevated enough to warrant a substantial weight.\"\n}",
+  "_cache_key": "9b8a97061c812296cb6066007e926948",
+  "_iso3": "CAF",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

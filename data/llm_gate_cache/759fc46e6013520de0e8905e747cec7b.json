@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate debt and low inflation, but political instability and sanctions warrant a notable political weight, while environmental and social data are limited and not currently crisis-driven.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate debt and low inflation, but political instability and sanctions warrant a notable political weight, while environmental and social data are limited and not currently crisis-driven.\"\n}",
+  "_cache_key": "759fc46e6013520de0e8905e747cec7b",
+  "_iso3": "BHR",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

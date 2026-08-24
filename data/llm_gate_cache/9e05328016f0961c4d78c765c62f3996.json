@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Australia in 2008 is a stable, high-income economy with no banking, currency, or sovereign debt crises, moderate inflation, and solid growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Australia in 2008 is a stable, high-income economy with no banking, currency, or sovereign debt crises, moderate inflation, and solid growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "9e05328016f0961c4d78c765c62f3996",
+  "_iso3": "AUS",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

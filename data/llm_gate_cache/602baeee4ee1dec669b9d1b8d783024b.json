@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Serbia faces moderate political instability and social tensions, but the economy is the primary driver given moderate debt, investment, and recovery from a mild recession, with politics elevated due to sanctions and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Serbia faces moderate political instability and social tensions, but the economy is the primary driver given moderate debt, investment, and recovery from a mild recession, with politics elevated due to sanctions and conflict indicators.\"\n}",
+  "_cache_key": "602baeee4ee1dec669b9d1b8d783024b",
+  "_iso3": "SRB",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

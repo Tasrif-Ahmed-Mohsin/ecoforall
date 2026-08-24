@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Syria in 2008 faces severe political instability, sanctions, and conflict risk, which will dominate growth prospects, while high inflation and external imbalances also matter, but environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Syria in 2008 faces severe political instability, sanctions, and conflict risk, which will dominate growth prospects, while high inflation and external imbalances also matter, but environmental factors are negligible.\"\n}",
+  "_cache_key": "29e6a5c79bf7c1acbb340c367336a64b",
+  "_iso3": "SYR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

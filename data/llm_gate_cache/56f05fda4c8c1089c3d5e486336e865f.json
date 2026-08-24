@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Guyana faces moderate economic imbalances (high current account deficit, moderate debt) but severe political instability and social unrest, which elevate political and societal risks, while environmental factors are not prominent in the data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Guyana faces moderate economic imbalances (high current account deficit, moderate debt) but severe political instability and social unrest, which elevate political and societal risks, while environmental factors are not prominent in the data.\"\n}",
+  "_cache_key": "56f05fda4c8c1089c3d5e486336e865f",
+  "_iso3": "GUY",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

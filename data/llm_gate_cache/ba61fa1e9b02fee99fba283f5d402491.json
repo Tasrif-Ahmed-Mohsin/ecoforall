@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "SLV is a lower-middle-income economy with moderate inflation, high debt, and external deficits, but no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.7,\n  \"politics\": 0.2,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"SLV is a lower-middle-income economy with moderate inflation, high debt, and external deficits, but no active crises, so economic fundamentals dominate, while moderate political instability and protest pressure warrant a secondary political weight.\"\n}",
+  "_cache_key": "ba61fa1e9b02fee99fba283f5d402491",
+  "_iso3": "SLV",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

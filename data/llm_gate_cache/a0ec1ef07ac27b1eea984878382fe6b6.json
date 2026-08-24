@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2006 faces moderate political instability and conflict, but the economy is growing strongly with high investment, so economic fundamentals dominate while political risks warrant a significant secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2006 faces moderate political instability and conflict, but the economy is growing strongly with high investment, so economic fundamentals dominate while political risks warrant a significant secondary weight.\"\n}",
+  "_cache_key": "a0ec1ef07ac27b1eea984878382fe6b6",
+  "_iso3": "ETH",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

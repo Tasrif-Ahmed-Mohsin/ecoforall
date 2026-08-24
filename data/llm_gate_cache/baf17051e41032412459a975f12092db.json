@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Fiji is a stable, middle-income economy with moderate debt and inflation, no active crises, and a short 1-year horizon, so economic fundamentals dominate while political and social factors play a minor supporting role.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Fiji is a stable, middle-income economy with moderate debt and inflation, no active crises, and a short 1-year horizon, so economic fundamentals dominate while political and social factors play a minor supporting role.\"\n}",
+  "_cache_key": "baf17051e41032412459a975f12092db",
+  "_iso3": "FJI",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

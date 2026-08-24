@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ukraine faces moderate political tensions and social unrest, but the economy is the primary driver given moderate debt, low investment, and recent growth volatility, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ukraine faces moderate political tensions and social unrest, but the economy is the primary driver given moderate debt, low investment, and recent growth volatility, while environmental factors are negligible.\"\n}",
+  "_cache_key": "8130afd285b68dd8644f0b251c029f5a",
+  "_iso3": "UKR",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

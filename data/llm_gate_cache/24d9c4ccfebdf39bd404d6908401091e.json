@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia in 2017 shows moderate growth, high unemployment, and external imbalances, but no acute crises, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia in 2017 shows moderate growth, high unemployment, and external imbalances, but no acute crises, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "24d9c4ccfebdf39bd404d6908401091e",
+  "_iso3": "ARM",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

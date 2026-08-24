@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "High investment and moderate debt suggest economic fundamentals dominate, but political instability and conflict intensity warrant a significant political risk premium over the 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High investment and moderate debt suggest economic fundamentals dominate, but political instability and conflict intensity warrant a significant political risk premium over the 3-year horizon.\"\n}",
+  "_cache_key": "77c93f0121c90e9232e2c3acd011941d",
+  "_iso3": "COG",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

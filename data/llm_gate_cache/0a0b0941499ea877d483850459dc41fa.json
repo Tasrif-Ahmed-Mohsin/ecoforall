@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Somalia is a low-income, fragile state with moderate political instability and high protest/sanction pressures, so economic fundamentals dominate but political risks significantly cloud the 3-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Somalia is a low-income, fragile state with moderate political instability and high protest/sanction pressures, so economic fundamentals dominate but political risks significantly cloud the 3-year outlook.\"\n}",
+  "_cache_key": "0a0b0941499ea877d483850459dc41fa",
+  "_iso3": "SOM",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

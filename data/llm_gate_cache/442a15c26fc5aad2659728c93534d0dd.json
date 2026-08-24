@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Kazakhstan in 2017 is a stable, upper-middle-income economy with moderate inflation, low debt, and no ongoing crises, so short-term growth is driven primarily by economic fundamentals, with minor political and social risks from low stability and high protest counts.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Kazakhstan in 2017 is a stable, upper-middle-income economy with moderate inflation, low debt, and no ongoing crises, so short-term growth is driven primarily by economic fundamentals, with minor political and social risks from low stability and high protest counts.\"\n}",
+  "_cache_key": "442a15c26fc5aad2659728c93534d0dd",
+  "_iso3": "KAZ",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Chile is a stable, upper-middle-income economy with moderate debt and investment, but the 5-year horizon and ongoing environmental vulnerabilities (droughts, wildfires, energy transition) and social tensions (protests, migration) warrant meaningful weights beyond the core economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Chile is a stable, upper-middle-income economy with moderate debt and investment, but the 5-year horizon and ongoing environmental vulnerabilities (droughts, wildfires, energy transition) and social tensions (protests, migration) warrant meaningful weights beyond the core economic fundamentals.\"\n}",
+  "_cache_key": "479e5659de56b645d2cdac4cfe369518",
+  "_iso3": "CHL",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

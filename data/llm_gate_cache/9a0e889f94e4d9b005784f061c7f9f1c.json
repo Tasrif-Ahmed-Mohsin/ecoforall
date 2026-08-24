@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Cameroon in 2003 shows moderate economic fragility with high debt, negative current account, and low investment, but the severe political instability, high protest pressure, and ongoing conflicts elevate political risk substantially, while environmental and social factors are less critical over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cameroon in 2003 shows moderate economic fragility with high debt, negative current account, and low investment, but the severe political instability, high protest pressure, and ongoing conflicts elevate political risk substantially, while environmental and social factors are less critical over this short horizon.\"\n}",
+  "_cache_key": "9a0e889f94e4d9b005784f061c7f9f1c",
+  "_iso3": "CMR",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

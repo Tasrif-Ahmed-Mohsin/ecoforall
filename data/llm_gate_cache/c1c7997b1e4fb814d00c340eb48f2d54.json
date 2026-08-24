@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "DZA is in a stable macroeconomic environment with moderate growth, low inflation, and no crises, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given moderate protest and trust levels.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"DZA is in a stable macroeconomic environment with moderate growth, low inflation, and no crises, so economic fundamentals dominate the short-term forecast, with modest weights for political and social factors given moderate protest and trust levels.\"\n}",
+  "_cache_key": "c1c7997b1e4fb814d00c340eb48f2d54",
+  "_iso3": "DZA",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

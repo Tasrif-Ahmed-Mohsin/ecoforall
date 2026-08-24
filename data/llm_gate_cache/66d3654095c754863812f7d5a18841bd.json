@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia faces moderate political instability and social tensions, but the economy is the primary driver given its growth trajectory and investment levels, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia faces moderate political instability and social tensions, but the economy is the primary driver given its growth trajectory and investment levels, while environmental factors are negligible.\"\n}",
+  "_cache_key": "66d3654095c754863812f7d5a18841bd",
+  "_iso3": "GEO",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

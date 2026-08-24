@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TCD shows high recent growth but severe external imbalances and deflation, while moderate political instability and protest pressure warrant elevated political weight, though no major crisis dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TCD shows high recent growth but severe external imbalances and deflation, while moderate political instability and protest pressure warrant elevated political weight, though no major crisis dominates.\"\n}",
+  "_cache_key": "8275d0b889048b2678ef337930f26378",
+  "_iso3": "TCD",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

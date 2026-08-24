@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.02,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "TWN is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, with modest weight on social factors given high optimism and trust.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.02,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TWN is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the 3-year growth outlook, with modest weight on social factors given high optimism and trust.\"\n}",
+  "_cache_key": "9d046e416d713a9aedcd5de67fd44182",
+  "_iso3": "TWN",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

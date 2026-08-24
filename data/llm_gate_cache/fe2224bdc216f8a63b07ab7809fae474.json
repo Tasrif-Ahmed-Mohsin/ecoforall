@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia faces a severe recession, high unemployment, and large external imbalances, but political stability is moderate and social indicators show resilience, so economic factors dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia faces a severe recession, high unemployment, and large external imbalances, but political stability is moderate and social indicators show resilience, so economic factors dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "fe2224bdc216f8a63b07ab7809fae474",
+  "_iso3": "ARM",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Singapore is a stable, high-income economy with strong external balances, low inflation, and no ongoing crises, so economic fundamentals dominate the forecast, while political and social factors remain secondary given the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Singapore is a stable, high-income economy with strong external balances, low inflation, and no ongoing crises, so economic fundamentals dominate the forecast, while political and social factors remain secondary given the 5-year horizon.\"\n}",
+  "_cache_key": "1f75bcf30493809efe117fb64d909d29",
+  "_iso3": "SGP",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

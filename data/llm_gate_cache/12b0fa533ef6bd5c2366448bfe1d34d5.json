@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Brunei is a stable, high-income oil exporter with strong external balances and low debt, so economic fundamentals dominate, while moderate political instability and protests warrant a modest political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Brunei is a stable, high-income oil exporter with strong external balances and low debt, so economic fundamentals dominate, while moderate political instability and protests warrant a modest political risk premium.\"\n}",
+  "_cache_key": "12b0fa533ef6bd5c2366448bfe1d34d5",
+  "_iso3": "BRN",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

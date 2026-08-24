@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Low income, negative inflation, and weak recent growth suggest economic fragility, while extreme political instability and high conflict/protest intensity elevate political risk, with social pressures also relevant but less directly tied to near-term GDP.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Low income, negative inflation, and weak recent growth suggest economic fragility, while extreme political instability and high conflict/protest intensity elevate political risk, with social pressures also relevant but less directly tied to near-term GDP.\"\n}",
+  "_cache_key": "f8a5a750865f444582f9f2fb51e89917",
+  "_iso3": "BEN",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Turkey faces high inflation, political instability, sanctions, and social unrest, but moderate debt and positive current account balance suggest economic resilience, while climate risks and social divisions add structural drag over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Turkey faces high inflation, political instability, sanctions, and social unrest, but moderate debt and positive current account balance suggest economic resilience, while climate risks and social divisions add structural drag over the 5-year horizon.\"\n}",
+  "_cache_key": "27d8dda91aedf87b1523e639d6e01aba",
+  "_iso3": "TUR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

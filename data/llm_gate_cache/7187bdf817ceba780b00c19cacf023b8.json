@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "GBR is a stable, high-income economy with moderate inflation, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"GBR is a stable, high-income economy with moderate inflation, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "7187bdf817ceba780b00c19cacf023b8",
+  "_iso3": "GBR",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

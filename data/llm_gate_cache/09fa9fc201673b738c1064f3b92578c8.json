@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SVK is a stable high-income EU economy with moderate debt and investment, but high unemployment and political instability warrant modest political and social weights, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SVK is a stable high-income EU economy with moderate debt and investment, but high unemployment and political instability warrant modest political and social weights, while environmental factors are negligible.\"\n}",
+  "_cache_key": "09fa9fc201673b738c1064f3b92578c8",
+  "_iso3": "SVK",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

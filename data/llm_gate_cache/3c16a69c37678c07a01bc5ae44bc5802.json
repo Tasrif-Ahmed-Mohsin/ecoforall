@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt, negative current account, and low investment signal economic fragility, while moderate political instability and conflict risk warrant a significant political weight, with longer-horizon structural factors also considered.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, negative current account, and low investment signal economic fragility, while moderate political instability and conflict risk warrant a significant political weight, with longer-horizon structural factors also considered.\"\n}",
+  "_cache_key": "3c16a69c37678c07a01bc5ae44bc5802",
+  "_iso3": "ERI",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

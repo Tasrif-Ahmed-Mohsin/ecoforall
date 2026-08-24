@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "CYP is a high-income economy facing a banking crisis, high debt, and negative growth, but political instability and protests are significant enough to warrant a notable political weight, while environmental and social factors are less critical over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"CYP is a high-income economy facing a banking crisis, high debt, and negative growth, but political instability and protests are significant enough to warrant a notable political weight, while environmental and social factors are less critical over this short horizon.\"\n}",
+  "_cache_key": "8395dd0d7aa19a1046ac4f14270f6d60",
+  "_iso3": "CYP",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

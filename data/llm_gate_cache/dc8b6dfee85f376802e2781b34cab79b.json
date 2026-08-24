@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Iran faces moderate political instability and sanctions, but its economy is relatively stable with high investment and no current crises, so economic factors dominate while political risks warrant significant weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces moderate political instability and sanctions, but its economy is relatively stable with high investment and no current crises, so economic factors dominate while political risks warrant significant weight over a 5-year horizon.\"\n}",
+  "_cache_key": "dc8b6dfee85f376802e2781b34cab79b",
+  "_iso3": "IRN",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

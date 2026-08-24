@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate economic vulnerabilities (high inflation, moderate debt) and political instability (negative stability, sanctions, conflicts) warrant a strong but not dominant economic weight, with politics elevated due to ongoing tensions, while social and environmental factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate economic vulnerabilities (high inflation, moderate debt) and political instability (negative stability, sanctions, conflicts) warrant a strong but not dominant economic weight, with politics elevated due to ongoing tensions, while social and environmental factors play secondary roles.\"\n}",
+  "_cache_key": "e4ef5d24c3632f361721c097349f1eed",
+  "_iso3": "AGO",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

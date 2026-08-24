@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and large current account deficit signal economic vulnerability, while moderate political instability and protest pressure warrant elevated political weight, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and large current account deficit signal economic vulnerability, while moderate political instability and protest pressure warrant elevated political weight, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "2c99126ba7fa21de4fd28769e74701e7",
+  "_iso3": "SUR",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

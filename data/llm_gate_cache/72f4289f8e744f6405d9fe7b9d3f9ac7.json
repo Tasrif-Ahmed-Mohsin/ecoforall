@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and recent growth recovery suggest economic fundamentals matter most, but elevated political instability, conflict, and protests warrant a significant political weight, while social pressures and limited environmental data contribute modestly.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and recent growth recovery suggest economic fundamentals matter most, but elevated political instability, conflict, and protests warrant a significant political weight, while social pressures and limited environmental data contribute modestly.\"\n}",
+  "_cache_key": "72f4289f8e744f6405d9fe7b9d3f9ac7",
+  "_iso3": "COG",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

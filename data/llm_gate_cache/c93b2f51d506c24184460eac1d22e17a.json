@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "C\u00f4te d'Ivoire is a lower-middle-income, post-conflict economy with moderate growth, but high political instability, significant protest and conflict indicators, and low institutional trust warrant a substantial political and social weighting, while environmental data is limited and less immediately relevant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"C\u00f4te d'Ivoire is a lower-middle-income, post-conflict economy with moderate growth, but high political instability, significant protest and conflict indicators, and low institutional trust warrant a substantial political and social weighting, while environmental data is limited and less immediately relevant.\"\n}",
+  "_cache_key": "c93b2f51d506c24184460eac1d22e17a",
+  "_iso3": "CIV",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

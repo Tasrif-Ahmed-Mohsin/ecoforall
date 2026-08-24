@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High-income oil exporter with strong external surplus but moderate debt and political instability (very low stability, sanctions, conflicts) warrants a dominant but not overwhelming economic weight, with elevated political risk over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High-income oil exporter with strong external surplus but moderate debt and political instability (very low stability, sanctions, conflicts) warrants a dominant but not overwhelming economic weight, with elevated political risk over a 5-year horizon.\"\n}",
+  "_cache_key": "ba19a216a81d422d51260c0bbb2beb68",
+  "_iso3": "SAU",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

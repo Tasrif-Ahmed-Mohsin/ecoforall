@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF faces high unemployment, low growth, and elevated debt, but no acute political or environmental crisis, so economic fundamentals dominate while political and social strains add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF faces high unemployment, low growth, and elevated debt, but no acute political or environmental crisis, so economic fundamentals dominate while political and social strains add moderate risk.\"\n}",
+  "_cache_key": "99ad1533cb9d9f2d8e3d6c9ce359d2e1",
+  "_iso3": "ZAF",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

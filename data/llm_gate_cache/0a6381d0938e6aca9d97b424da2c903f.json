@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GIN is a lower-middle-income economy with moderate inflation, high investment, and no active crises, so economic fundamentals dominate the 1-year outlook, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GIN is a lower-middle-income economy with moderate inflation, high investment, and no active crises, so economic fundamentals dominate the 1-year outlook, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "0a6381d0938e6aca9d97b424da2c903f",
+  "_iso3": "GIN",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

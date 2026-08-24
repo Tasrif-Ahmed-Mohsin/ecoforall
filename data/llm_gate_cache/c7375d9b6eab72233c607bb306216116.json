@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Guyana in 2016 is a stable, middle-income economy with moderate debt, positive current account, and no active crises, so economic fundamentals dominate the short-term outlook, though political instability and social tensions warrant a modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Guyana in 2016 is a stable, middle-income economy with moderate debt, positive current account, and no active crises, so economic fundamentals dominate the short-term outlook, though political instability and social tensions warrant a modest weight.\"\n}",
+  "_cache_key": "c7375d9b6eab72233c607bb306216116",
+  "_iso3": "GUY",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

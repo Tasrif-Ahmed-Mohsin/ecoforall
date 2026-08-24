@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.75,
+  "reasoning": "Austria is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors play only minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Austria is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, while political, environmental, and social factors play only minor roles.\"\n}",
+  "_cache_key": "cbe251c0495e54f1771f7108c07b2b10",
+  "_iso3": "AUT",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

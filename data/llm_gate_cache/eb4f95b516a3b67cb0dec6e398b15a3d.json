@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Georgia's high growth, large external deficit, and elevated unemployment make economic fundamentals central, but political instability, protests, and social tensions warrant significant weight, while environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Georgia's high growth, large external deficit, and elevated unemployment make economic fundamentals central, but political instability, protests, and social tensions warrant significant weight, while environmental data is too limited to matter.\"\n}",
+  "_cache_key": "eb4f95b516a3b67cb0dec6e398b15a3d",
+  "_iso3": "GEO",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

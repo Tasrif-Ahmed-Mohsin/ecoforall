@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GIN is a low-income, open economy with high inflation, a large current account deficit, and moderate debt, but political instability and protest pressure are significant enough to warrant a substantial political weight, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GIN is a low-income, open economy with high inflation, a large current account deficit, and moderate debt, but political instability and protest pressure are significant enough to warrant a substantial political weight, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "73c19989f4f5675464cf067a6976dee7",
+  "_iso3": "GIN",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

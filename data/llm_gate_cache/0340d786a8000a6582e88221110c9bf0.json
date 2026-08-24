@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and social tensions, combined with a recovering but fragile economy, warrant a balanced weighting with politics and human society elevated above the stable baseline.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with a recovering but fragile economy, warrant a balanced weighting with politics and human society elevated above the stable baseline.\"\n}",
+  "_cache_key": "0340d786a8000a6582e88221110c9bf0",
+  "_iso3": "ECU",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

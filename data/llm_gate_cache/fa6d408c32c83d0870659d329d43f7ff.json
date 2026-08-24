@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Guatemala is in a stable, non-crisis state with moderate growth, low inflation, and no banking or currency crises, so economic fundamentals dominate the short-term forecast, while political and social factors are secondary but not negligible given moderate protest pressure and low institutional trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Guatemala is in a stable, non-crisis state with moderate growth, low inflation, and no banking or currency crises, so economic fundamentals dominate the short-term forecast, while political and social factors are secondary but not negligible given moderate protest pressure and low institutional trust.\"\n}",
+  "_cache_key": "fa6d408c32c83d0870659d329d43f7ff",
+  "_iso3": "GTM",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

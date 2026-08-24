@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High debt, moderate inflation, and low investment signal economic fragility, while elevated conflict and sanctions add political risk, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, moderate inflation, and low investment signal economic fragility, while elevated conflict and sanctions add political risk, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "69db36c733e2044142ccdc20d0a1b231",
+  "_iso3": "ERI",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

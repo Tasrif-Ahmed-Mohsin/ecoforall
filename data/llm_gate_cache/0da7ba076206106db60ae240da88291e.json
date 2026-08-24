@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The economy is highly volatile with extreme current account surplus and high investment, but severe political instability, massive protests, and sanctions suggest political risk dominates the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is highly volatile with extreme current account surplus and high investment, but severe political instability, massive protests, and sanctions suggest political risk dominates the near-term growth outlook.\"\n}",
+  "_cache_key": "0da7ba076206106db60ae240da88291e",
+  "_iso3": "TLS",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

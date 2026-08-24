@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic instability with high investment and debt, combined with significant political conflict and social unrest, warrants a balanced weighting favoring economy and politics, while limited environmental data reduces its importance.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate economic instability with high investment and debt, combined with significant political conflict and social unrest, warrants a balanced weighting favoring economy and politics, while limited environmental data reduces its importance.\"\n}",
+  "_cache_key": "2b500f2e937072ece845b4cea0d32da8",
+  "_iso3": "DZA",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LTU in 2004 is a stable, high-income EU accession economy with no crises, strong recent growth, and moderate imbalances, so economic fundamentals dominate the 1-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LTU in 2004 is a stable, high-income EU accession economy with no crises, strong recent growth, and moderate imbalances, so economic fundamentals dominate the 1-year outlook.\"\n}",
+  "_cache_key": "135c93107541e4fe24b6b59abfefa5dd",
+  "_iso3": "LTU",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

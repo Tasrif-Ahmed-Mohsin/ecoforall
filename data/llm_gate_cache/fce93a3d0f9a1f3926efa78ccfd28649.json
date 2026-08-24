@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces high debt, inflation, and external imbalances, but no acute crisis, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces high debt, inflation, and external imbalances, but no acute crisis, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary weight.\"\n}",
+  "_cache_key": "fce93a3d0f9a1f3926efa78ccfd28649",
+  "_iso3": "JAM",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

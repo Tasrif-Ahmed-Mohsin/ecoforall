@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Chile is a stable, upper-middle-income economy with moderate external imbalances and political protests, so economic fundamentals dominate but political instability and social unrest warrant elevated weights, while environmental factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Chile is a stable, upper-middle-income economy with moderate external imbalances and political protests, so economic fundamentals dominate but political instability and social unrest warrant elevated weights, while environmental factors are secondary.\"\n}",
+  "_cache_key": "94a7d9cdb7f8dbb4754a5ddd7fd372ae",
+  "_iso3": "CHL",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Bosnia and Herzegovina is a stable, middle-income economy with moderate debt and unemployment, but no major political or environmental shocks, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Bosnia and Herzegovina is a stable, middle-income economy with moderate debt and unemployment, but no major political or environmental shocks, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "af3d4c33a5e3f41abb0b83d6c62d5e9c",
+  "_iso3": "BIH",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

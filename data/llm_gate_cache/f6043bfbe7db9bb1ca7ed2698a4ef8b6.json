@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB faces high debt and moderate inflation, but political instability and conflict indicators are elevated, making politics a significant secondary factor for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB faces high debt and moderate inflation, but political instability and conflict indicators are elevated, making politics a significant secondary factor for short-term growth.\"\n}",
+  "_cache_key": "f6043bfbe7db9bb1ca7ed2698a4ef8b6",
+  "_iso3": "ZMB",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

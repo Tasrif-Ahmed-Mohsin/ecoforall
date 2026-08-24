@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana faces moderate macroeconomic imbalances (high debt, inflation, current account deficit) and political tensions (sanctions, protests), but no acute crisis, so economic fundamentals dominate while political and social factors add risk over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ghana faces moderate macroeconomic imbalances (high debt, inflation, current account deficit) and political tensions (sanctions, protests), but no acute crisis, so economic fundamentals dominate while political and social factors add risk over the 5-year horizon.\"\n}",
+  "_cache_key": "8c06bcefbfc4612294e6ddc22cc5288f",
+  "_iso3": "GHA",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

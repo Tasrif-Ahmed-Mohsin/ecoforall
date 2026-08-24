@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq in 2010 is a post-conflict, oil-dependent economy with moderate political instability and sanctions, making economic fundamentals and political risks the primary drivers of near-term growth, while environmental and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq in 2010 is a post-conflict, oil-dependent economy with moderate political instability and sanctions, making economic fundamentals and political risks the primary drivers of near-term growth, while environmental and social factors play secondary roles.\"\n}",
+  "_cache_key": "266a5b327dbf171dbfe09f4c419807d7",
+  "_iso3": "IRQ",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

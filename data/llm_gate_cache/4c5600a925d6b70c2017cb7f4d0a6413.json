@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "KGZ is a lower-middle-income economy with moderate debt, high investment, and a large current account deficit, but political instability and protests add significant risk, while social pressures and limited environmental data play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"KGZ is a lower-middle-income economy with moderate debt, high investment, and a large current account deficit, but political instability and protests add significant risk, while social pressures and limited environmental data play secondary roles.\"\n}",
+  "_cache_key": "4c5600a925d6b70c2017cb7f4d0a6413",
+  "_iso3": "KGZ",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

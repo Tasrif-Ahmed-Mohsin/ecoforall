@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Mongolia faces large external imbalances and high inflation, but no acute crisis, so economic fundamentals dominate, while moderate political instability and social pressures warrant elevated weights for politics and human_society over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mongolia faces large external imbalances and high inflation, but no acute crisis, so economic fundamentals dominate, while moderate political instability and social pressures warrant elevated weights for politics and human_society over the 5-year horizon.\"\n}",
+  "_cache_key": "439981a8ffe24f961b5a85590f3405f4",
+  "_iso3": "MNG",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

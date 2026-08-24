@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia's high debt, high unemployment, and fragile post-crisis recovery make economic factors dominant, but political instability and social tensions (low stability, high protests, negative sentiment) add significant risk, while environmental factors are minor given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Croatia's high debt, high unemployment, and fragile post-crisis recovery make economic factors dominant, but political instability and social tensions (low stability, high protests, negative sentiment) add significant risk, while environmental factors are minor given limited data.\"\n}",
+  "_cache_key": "ede5d60154055c2cd766169078dcd2ab",
+  "_iso3": "HRV",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

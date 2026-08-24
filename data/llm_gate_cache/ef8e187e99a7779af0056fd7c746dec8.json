@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya faces moderate political instability, high debt, and external imbalances, but no extreme crisis, so economic fundamentals dominate while political and social risks temper the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kenya faces moderate political instability, high debt, and external imbalances, but no extreme crisis, so economic fundamentals dominate while political and social risks temper the outlook.\"\n}",
+  "_cache_key": "ef8e187e99a7779af0056fd7c746dec8",
+  "_iso3": "KEN",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Syria is in a severe political and conflict-driven crisis with extreme instability, sanctions, and negative growth, making political factors the dominant driver of GDP per capita over the next five years, while economic fundamentals are secondary and social unrest adds moderate pressure.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Syria is in a severe political and conflict-driven crisis with extreme instability, sanctions, and negative growth, making political factors the dominant driver of GDP per capita over the next five years, while economic fundamentals are secondary and social unrest adds moderate pressure.\"\n}",
+  "_cache_key": "aa2c69adf979a53c93c7d80da5ae7372",
+  "_iso3": "SYR",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

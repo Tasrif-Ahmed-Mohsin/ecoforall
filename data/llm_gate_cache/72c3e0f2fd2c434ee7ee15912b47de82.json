@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "The economy is the dominant driver given stable political indicators, moderate debt, and positive recent growth, with politics playing a secondary role due to moderate protest and sanction activity.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"The economy is the dominant driver given stable political indicators, moderate debt, and positive recent growth, with politics playing a secondary role due to moderate protest and sanction activity.\"\n}",
+  "_cache_key": "72c3e0f2fd2c434ee7ee15912b47de82",
+  "_iso3": "DJI",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

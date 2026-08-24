@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BTN faces moderate political instability and high protest activity, but the dominant driver is its large investment share and high inflation, making economic factors most important for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BTN faces moderate political instability and high protest activity, but the dominant driver is its large investment share and high inflation, making economic factors most important for near-term growth.\"\n}",
+  "_cache_key": "28cad99c58dd63c35ab9c4d31f508e4d",
+  "_iso3": "BTN",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

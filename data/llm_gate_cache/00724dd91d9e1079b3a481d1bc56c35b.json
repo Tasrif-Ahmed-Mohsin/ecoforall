@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Given the very low GDP per capita, extreme current account surplus, low investment, negative recent growth, and severe political instability with high protest and conflict indicators, political risk dominates the outlook, while economic fragility and social unrest also weigh heavily.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Given the very low GDP per capita, extreme current account surplus, low investment, negative recent growth, and severe political instability with high protest and conflict indicators, political risk dominates the outlook, while economic fragility and social unrest also weigh heavily.\"\n}",
+  "_cache_key": "00724dd91d9e1079b3a481d1bc56c35b",
+  "_iso3": "TLS",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

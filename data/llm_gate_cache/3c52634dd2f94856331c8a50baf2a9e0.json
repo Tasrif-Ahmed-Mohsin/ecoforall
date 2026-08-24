@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TLS is a low-income, politically unstable economy with severe conflict and sanctions, so political risk dominates alongside economic fragility, while environmental and social data are too limited to warrant high weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TLS is a low-income, politically unstable economy with severe conflict and sanctions, so political risk dominates alongside economic fragility, while environmental and social data are too limited to warrant high weights.\"\n}",
+  "_cache_key": "3c52634dd2f94856331c8a50baf2a9e0",
+  "_iso3": "TLS",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

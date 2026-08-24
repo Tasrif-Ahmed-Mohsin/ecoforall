@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "LBR faces severe macroeconomic imbalances (high inflation, large current account deficit, low investment) and recent negative growth, but political stability is moderate with some protest and sanction pressures, making economy the dominant driver while politics remains a significant risk over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LBR faces severe macroeconomic imbalances (high inflation, large current account deficit, low investment) and recent negative growth, but political stability is moderate with some protest and sanction pressures, making economy the dominant driver while politics remains a significant risk over the 5-year horizon.\"\n}",
+  "_cache_key": "0ec766289ee1d3cd3437823f7c4b2f58",
+  "_iso3": "LBR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

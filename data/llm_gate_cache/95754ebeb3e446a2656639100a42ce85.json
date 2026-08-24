@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Brazil in 2005 is a stable emerging economy with moderate debt and inflation, no active crises, and a positive growth trajectory, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are moderate but not immediate.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Brazil in 2005 is a stable emerging economy with moderate debt and inflation, no active crises, and a positive growth trajectory, so economic fundamentals dominate, while political and social factors are secondary and environmental risks are moderate but not immediate.\"\n}",
+  "_cache_key": "95754ebeb3e446a2656639100a42ce85",
+  "_iso3": "BRA",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

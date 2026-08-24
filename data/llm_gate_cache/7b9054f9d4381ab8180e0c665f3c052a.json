@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, fragile economy with negative recent growth, high inflation, and large external imbalances, but political instability and conflict indicators are moderate, so economic factors dominate while political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GMB is a low-income, fragile economy with negative recent growth, high inflation, and large external imbalances, but political instability and conflict indicators are moderate, so economic factors dominate while political risks warrant a notable share.\"\n}",
+  "_cache_key": "7b9054f9d4381ab8180e0c665f3c052a",
+  "_iso3": "GMB",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

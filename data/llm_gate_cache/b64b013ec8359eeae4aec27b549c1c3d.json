@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "PRT is a stable, high-income economy with no active crises, so economic fundamentals dominate, while political and social factors are moderate due to high debt and unemployment but no acute instability.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"PRT is a stable, high-income economy with no active crises, so economic fundamentals dominate, while political and social factors are moderate due to high debt and unemployment but no acute instability.\"\n}",
+  "_cache_key": "b64b013ec8359eeae4aec27b549c1c3d",
+  "_iso3": "PRT",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA shows moderate economic imbalances (high investment, large current account deficit) but no active crises, so economic factors dominate, with political and social risks (protests, low trust) adding moderate uncertainty.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA shows moderate economic imbalances (high investment, large current account deficit) but no active crises, so economic factors dominate, with political and social risks (protests, low trust) adding moderate uncertainty.\"\n}",
+  "_cache_key": "192efee46fdfb474ae5f2863bb11105d",
+  "_iso3": "DZA",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate economic fundamentals with high unemployment and political instability, but no active crises, suggest a primary economic focus with significant political risk and moderate social fragility.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate economic fundamentals with high unemployment and political instability, but no active crises, suggest a primary economic focus with significant political risk and moderate social fragility.\"\n}",
+  "_cache_key": "20fdc110ec8c36c3ddca16232966f944",
+  "_iso3": "MAR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "High debt, moderate inflation, and low investment suggest economic fragility, while political instability and social unrest (protests, low optimism) add significant non-economic risks, but no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, moderate inflation, and low investment suggest economic fragility, while political instability and social unrest (protests, low optimism) add significant non-economic risks, but no major environmental shocks are evident.\"\n}",
+  "_cache_key": "ea88b56fc0a30f0c4cebd0efd7403aa4",
+  "_iso3": "MMR",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

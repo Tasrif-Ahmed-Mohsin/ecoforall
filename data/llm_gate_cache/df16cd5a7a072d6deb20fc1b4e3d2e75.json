@@ -1,0 +1,14 @@
+{
+  "economy": 0.6499999999999999,
+  "politics": 0.19999999999999996,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "TGO is a low-income, moderately unstable economy with high inflation, large current account deficit, and recent growth volatility, but no active crises, so economic fundamentals dominate while political and social tensions add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TGO is a low-income, moderately unstable economy with high inflation, large current account deficit, and recent growth volatility, but no active crises, so economic fundamentals dominate while political and social tensions add moderate risk.\"\n}",
+  "_cache_key": "df16cd5a7a072d6deb20fc1b4e3d2e75",
+  "_iso3": "TGO",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

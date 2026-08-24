@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "China in 2010 is a stable, high-growth emerging economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic momentum and investment, with modest roles for political stability and social conditions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"China in 2010 is a stable, high-growth emerging economy with no ongoing crises, so short-term GDP growth is driven primarily by macroeconomic momentum and investment, with modest roles for political stability and social conditions.\"\n}",
+  "_cache_key": "3b73aaf6226621144592150c1bad51eb",
+  "_iso3": "CHN",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

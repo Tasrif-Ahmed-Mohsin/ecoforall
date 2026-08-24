@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "ARE is a stable, high-income economy with moderate inflation and strong external position, but political tensions and environmental risks are present, so economic fundamentals dominate while other domains play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ARE is a stable, high-income economy with moderate inflation and strong external position, but political tensions and environmental risks are present, so economic fundamentals dominate while other domains play secondary roles.\"\n}",
+  "_cache_key": "3357a05cad73fb9a342f2180d312cb28",
+  "_iso3": "ARE",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

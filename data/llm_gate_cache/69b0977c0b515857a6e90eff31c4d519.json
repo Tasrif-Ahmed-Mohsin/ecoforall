@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDA is a middle-income economy with stable growth, moderate inflation, and low unemployment, but a large current account deficit and moderate political instability warrant a modest political weight, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDA is a middle-income economy with stable growth, moderate inflation, and low unemployment, but a large current account deficit and moderate political instability warrant a modest political weight, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "69b0977c0b515857a6e90eff31c4d519",
+  "_iso3": "MDA",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

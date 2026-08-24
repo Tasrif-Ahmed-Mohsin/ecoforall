@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "The US is a stable, high-income economy recovering from the 2008 crisis, so economic fundamentals dominate, with modest political and social factors given the high unemployment and political polarization, while environmental risks are low.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"The US is a stable, high-income economy recovering from the 2008 crisis, so economic fundamentals dominate, with modest political and social factors given the high unemployment and political polarization, while environmental risks are low.\"\n}",
+  "_cache_key": "ccbd6e05dc8e0d59730f5999eeaed59a",
+  "_iso3": "USA",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

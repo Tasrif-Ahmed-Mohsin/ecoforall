@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "SAU is a high-income, stable economy with moderate inflation and strong external balance, but political instability and social tensions warrant modest non-economic weights, while environmental risks are secondary over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SAU is a high-income, stable economy with moderate inflation and strong external balance, but political instability and social tensions warrant modest non-economic weights, while environmental risks are secondary over a 1-year horizon.\"\n}",
+  "_cache_key": "50743644d8b3af89df7cf84d2abd7447",
+  "_iso3": "SAU",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

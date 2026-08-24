@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "GNQ is a stable, high-income economy with low debt, no crises, and moderate political stability, so economic fundamentals dominate, while political and social factors play a minor supporting role over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNQ is a stable, high-income economy with low debt, no crises, and moderate political stability, so economic fundamentals dominate, while political and social factors play a minor supporting role over the 5-year horizon.\"\n}",
+  "_cache_key": "41676972141206c813d56ed95f8b4f45",
+  "_iso3": "GNQ",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

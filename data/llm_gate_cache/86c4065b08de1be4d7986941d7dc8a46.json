@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan's growth is primarily driven by macroeconomic fundamentals (high investment, moderate debt, but large current account deficit), with moderate political and social risks from regional instability and low trust, while environmental factors are negligible over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan's growth is primarily driven by macroeconomic fundamentals (high investment, moderate debt, but large current account deficit), with moderate political and social risks from regional instability and low trust, while environmental factors are negligible over a 1-year horizon.\"\n}",
+  "_cache_key": "86c4065b08de1be4d7986941d7dc8a46",
+  "_iso3": "JOR",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

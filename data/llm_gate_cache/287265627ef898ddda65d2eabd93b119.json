@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Iraq faces moderate political instability and conflict, high unemployment, and recent negative growth, but no extreme crisis, so economic factors dominate while political risks and social fragility are also significant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iraq faces moderate political instability and conflict, high unemployment, and recent negative growth, but no extreme crisis, so economic factors dominate while political risks and social fragility are also significant.\"\n}",
+  "_cache_key": "287265627ef898ddda65d2eabd93b119",
+  "_iso3": "IRQ",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

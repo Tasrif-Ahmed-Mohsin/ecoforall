@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces extreme inflation, high debt, and low investment, but the severe political instability, sanctions, and conflict intensity are equally critical, while social distrust and fear further undermine growth prospects.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces extreme inflation, high debt, and low investment, but the severe political instability, sanctions, and conflict intensity are equally critical, while social distrust and fear further undermine growth prospects.\"\n}",
+  "_cache_key": "a3a536eb40420ad10b5202fb892812bd",
+  "_iso3": "ZWE",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

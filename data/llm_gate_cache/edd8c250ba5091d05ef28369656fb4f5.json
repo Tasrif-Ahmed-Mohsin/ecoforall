@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MUS is a stable, upper-middle-income economy with moderate debt and external imbalances, but no active crises, so economic fundamentals dominate while political and social tensions warrant a modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MUS is a stable, upper-middle-income economy with moderate debt and external imbalances, but no active crises, so economic fundamentals dominate while political and social tensions warrant a modest weight.\"\n}",
+  "_cache_key": "edd8c250ba5091d05ef28369656fb4f5",
+  "_iso3": "MUS",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

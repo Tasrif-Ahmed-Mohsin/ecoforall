@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces moderate political instability, high unemployment, and a large current account deficit, but its high investment rate and low inflation suggest economic factors dominate, with political risks and social pressures also significant over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mauritania faces moderate political instability, high unemployment, and a large current account deficit, but its high investment rate and low inflation suggest economic factors dominate, with political risks and social pressures also significant over a 5-year horizon.\"\n}",
+  "_cache_key": "bb2b543ea6c7e7a4aecbe4b8a5d74db5",
+  "_iso3": "MRT",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

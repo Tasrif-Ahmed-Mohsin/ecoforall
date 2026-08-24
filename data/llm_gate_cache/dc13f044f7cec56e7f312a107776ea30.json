@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "Estonia is in a deep recession with high unemployment and deflationary pressures, but the political instability, protests, and sanctions signal significant political risk that will heavily influence recovery over the next five years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Estonia is in a deep recession with high unemployment and deflationary pressures, but the political instability, protests, and sanctions signal significant political risk that will heavily influence recovery over the next five years.\"\n}",
+  "_cache_key": "dc13f044f7cec56e7f312a107776ea30",
+  "_iso3": "EST",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

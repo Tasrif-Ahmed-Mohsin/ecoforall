@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "NIC faces moderate economic imbalances (high current account deficit, negative growth trajectory) and significant political instability (very low stability, high protests, sanctions), but no acute crisis, so economy dominates while politics and social unrest add substantial risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC faces moderate economic imbalances (high current account deficit, negative growth trajectory) and significant political instability (very low stability, high protests, sanctions), but no acute crisis, so economy dominates while politics and social unrest add substantial risk.\"\n}",
+  "_cache_key": "a2f365b0dded114e2350e9e04a3d1dcf",
+  "_iso3": "NIC",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

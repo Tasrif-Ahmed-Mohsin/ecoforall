@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Poland is a stable high-income EU economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Poland is a stable high-income EU economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are secondary.\"\n}",
+  "_cache_key": "1c3e0a1c164ab669b47f5dbb866b7a21",
+  "_iso3": "POL",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

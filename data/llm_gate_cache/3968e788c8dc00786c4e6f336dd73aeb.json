@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Somalia in 2008 is a low-income, fragile state with ongoing conflict and sanctions, so while economic fundamentals matter, political instability and violence are major near-term growth risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Somalia in 2008 is a low-income, fragile state with ongoing conflict and sanctions, so while economic fundamentals matter, political instability and violence are major near-term growth risks.\"\n}",
+  "_cache_key": "3968e788c8dc00786c4e6f336dd73aeb",
+  "_iso3": "SOM",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

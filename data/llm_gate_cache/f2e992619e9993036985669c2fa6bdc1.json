@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Syria in 2008 faces severe political instability, sanctions, and conflict, which dominate the growth outlook, while the economy is already strained with high inflation and unemployment, making politics and economy the primary drivers.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Syria in 2008 faces severe political instability, sanctions, and conflict, which dominate the growth outlook, while the economy is already strained with high inflation and unemployment, making politics and economy the primary drivers.\"\n}",
+  "_cache_key": "f2e992619e9993036985669c2fa6bdc1",
+  "_iso3": "SYR",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

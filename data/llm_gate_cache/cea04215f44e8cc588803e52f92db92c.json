@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.15,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Kenya in 2004 shows moderate economic instability with high inflation and debt, but no active crises, so economic fundamentals dominate, while political tensions and environmental vulnerabilities (droughts, storms) add secondary risks.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.15,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kenya in 2004 shows moderate economic instability with high inflation and debt, but no active crises, so economic fundamentals dominate, while political tensions and environmental vulnerabilities (droughts, storms) add secondary risks.\"\n}",
+  "_cache_key": "cea04215f44e8cc588803e52f92db92c",
+  "_iso3": "KEN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

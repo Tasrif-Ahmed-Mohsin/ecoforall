@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BRN is a stable, high-income economy with strong external surplus and low inflation, so economic fundamentals dominate, while moderate political risks and limited environmental/social data warrant smaller weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BRN is a stable, high-income economy with strong external surplus and low inflation, so economic fundamentals dominate, while moderate political risks and limited environmental/social data warrant smaller weights.\"\n}",
+  "_cache_key": "19a29acaef49e8d7d36bcc8d2a27a213",
+  "_iso3": "BRN",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

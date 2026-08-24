@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico in 2004 is a stable emerging economy with moderate debt, low inflation, and no ongoing crises, but political instability and social tensions warrant a notable weight on politics and society, while environmental factors are less pressing over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico in 2004 is a stable emerging economy with moderate debt, low inflation, and no ongoing crises, but political instability and social tensions warrant a notable weight on politics and society, while environmental factors are less pressing over this short horizon.\"\n}",
+  "_cache_key": "6c2c5f976c647abeafd744eac278aa18",
+  "_iso3": "MEX",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

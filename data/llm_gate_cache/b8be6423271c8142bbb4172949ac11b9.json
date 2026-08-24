@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan's economy is heavily dependent on oil exports, and while the current account surplus and low debt are stabilizing, the sharp growth slowdown and high political instability (low stability, sanctions, conflict) warrant a significant political weight, with moderate social concerns due to low trust and high protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan's economy is heavily dependent on oil exports, and while the current account surplus and low debt are stabilizing, the sharp growth slowdown and high political instability (low stability, sanctions, conflict) warrant a significant political weight, with moderate social concerns due to low trust and high protest pressure.\"\n}",
+  "_cache_key": "b8be6423271c8142bbb4172949ac11b9",
+  "_iso3": "AZE",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

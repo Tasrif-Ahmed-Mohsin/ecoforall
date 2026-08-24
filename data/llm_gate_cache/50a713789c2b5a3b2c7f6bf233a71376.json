@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High-income economy with moderate inflation and strong external balance, but political instability and sanctions warrant elevated political weight, while environmental and social data are too limited to assign higher importance.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High-income economy with moderate inflation and strong external balance, but political instability and sanctions warrant elevated political weight, while environmental and social data are too limited to assign higher importance.\"\n}",
+  "_cache_key": "50a713789c2b5a3b2c7f6bf233a71376",
+  "_iso3": "AND",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

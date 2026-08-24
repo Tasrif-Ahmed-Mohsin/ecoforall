@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Angola's growth is heavily dependent on oil prices and external demand, but political instability, sanctions, and social unrest add significant downside risks over the next three years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Angola's growth is heavily dependent on oil prices and external demand, but political instability, sanctions, and social unrest add significant downside risks over the next three years.\"\n}",
+  "_cache_key": "ff253066e94cc6fd87a86c1479af406e",
+  "_iso3": "AGO",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

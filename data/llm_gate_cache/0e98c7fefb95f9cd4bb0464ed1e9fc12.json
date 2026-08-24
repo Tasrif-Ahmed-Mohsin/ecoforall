@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High external deficits, heavy sanctions, and political instability signal significant political-economic risk, while the economy remains the primary driver given moderate growth and investment levels.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High external deficits, heavy sanctions, and political instability signal significant political-economic risk, while the economy remains the primary driver given moderate growth and investment levels.\"\n}",
+  "_cache_key": "0e98c7fefb95f9cd4bb0464ed1e9fc12",
+  "_iso3": "MDV",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

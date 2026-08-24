@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Australia in 2011 is a stable, high-income economy with no crises, moderate debt, and solid growth, so economic fundamentals dominate while political, environmental, and social factors are relatively benign and secondary.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Australia in 2011 is a stable, high-income economy with no crises, moderate debt, and solid growth, so economic fundamentals dominate while political, environmental, and social factors are relatively benign and secondary.\"\n}",
+  "_cache_key": "06328b8624edae29b7b5e8c7b8bd20d2",
+  "_iso3": "AUS",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Burkina Faso in 2006 shows moderate growth, low inflation, and no active crises, but high current account deficit and political instability/protests suggest a modest political risk premium, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Burkina Faso in 2006 shows moderate growth, low inflation, and no active crises, but high current account deficit and political instability/protests suggest a modest political risk premium, while environmental and social data are limited.\"\n}",
+  "_cache_key": "4b66c0108f414559acc29e1d67979590",
+  "_iso3": "BFA",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

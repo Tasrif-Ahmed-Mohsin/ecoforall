@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, moderate debt, and negative inflation, but the main near-term risk is political instability and social unrest, which could disrupt investment and growth, while environmental factors are not prominent.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, moderate debt, and negative inflation, but the main near-term risk is political instability and social unrest, which could disrupt investment and growth, while environmental factors are not prominent.\"\n}",
+  "_cache_key": "cc679a8c81e6cab706cac8ac013e0cd5",
+  "_iso3": "MKD",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi is a low-income, fragile state with high inflation, large current account deficit, and moderate political instability and conflict, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi is a low-income, fragile state with high inflation, large current account deficit, and moderate political instability and conflict, so economic fundamentals dominate but political risks are substantial for a 5-year horizon.\"\n}",
+  "_cache_key": "5aae400fd0c3cdc9477ab35e58b62a13",
+  "_iso3": "BDI",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

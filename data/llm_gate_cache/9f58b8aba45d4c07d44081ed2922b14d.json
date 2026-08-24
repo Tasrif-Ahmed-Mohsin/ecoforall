@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "CYP is a high-income economy with moderate debt and external imbalances, but political instability and conflict indicators are elevated, warranting a significant political weight while economic fundamentals remain the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CYP is a high-income economy with moderate debt and external imbalances, but political instability and conflict indicators are elevated, warranting a significant political weight while economic fundamentals remain the primary driver.\"\n}",
+  "_cache_key": "9f58b8aba45d4c07d44081ed2922b14d",
+  "_iso3": "CYP",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

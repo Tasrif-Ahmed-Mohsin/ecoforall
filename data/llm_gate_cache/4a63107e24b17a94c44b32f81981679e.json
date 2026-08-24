@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria faces moderate economic instability with high inflation, unemployment, and negative recent growth, but no active crises, so economic factors dominate while political and social stresses warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria faces moderate economic instability with high inflation, unemployment, and negative recent growth, but no active crises, so economic factors dominate while political and social stresses warrant moderate attention.\"\n}",
+  "_cache_key": "4a63107e24b17a94c44b32f81981679e",
+  "_iso3": "NGA",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

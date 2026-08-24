@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "CIV faces moderate political instability, high protest pressure, and low institutional trust, while economic fundamentals are weak with low investment and recent negative growth, so politics and human society weigh heavily alongside the economy.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"CIV faces moderate political instability, high protest pressure, and low institutional trust, while economic fundamentals are weak with low investment and recent negative growth, so politics and human society weigh heavily alongside the economy.\"\n}",
+  "_cache_key": "75ed9dfb5a343bbe5f51af429c0d3ca6",
+  "_iso3": "CIV",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

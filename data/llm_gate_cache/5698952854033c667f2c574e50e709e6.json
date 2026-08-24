@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic instability (high unemployment, current account deficit) combined with significant political stress (very low stability, sanctions, conflicts) and social pressures warrant a higher political weight, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic instability (high unemployment, current account deficit) combined with significant political stress (very low stability, sanctions, conflicts) and social pressures warrant a higher political weight, while environmental factors are negligible.\"\n}",
+  "_cache_key": "5698952854033c667f2c574e50e709e6",
+  "_iso3": "CRI",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# API keys
+deepseek.txt
+*.key
+*.secret
+
+# Data files (too large for git)
+data/harmonized/*.parquet
+data/features/*.parquet
+data/features/**/*.parquet
+data/features/**/*.joblib
+data/features/**/*.db
+data/features/**/*.faiss
+data/features/**/*.npy
+data/raw/
+*.parquet
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.puku/
+
+# Logs
+*.log
+_*.log
+data/features/*.log
+data/features/_*.log

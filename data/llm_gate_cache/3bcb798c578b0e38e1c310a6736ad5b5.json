@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High-income oil exporter with moderate political instability and sanctions, but no major conflict or climate shock, so economic fundamentals dominate while political risk warrants a notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High-income oil exporter with moderate political instability and sanctions, but no major conflict or climate shock, so economic fundamentals dominate while political risk warrants a notable weight.\"\n}",
+  "_cache_key": "3bcb798c578b0e38e1c310a6736ad5b5",
+  "_iso3": "SAU",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDV is a stable, upper-middle-income economy with moderate debt and inflation, no active crises, and only mild political instability, so economic fundamentals dominate the 1-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDV is a stable, upper-middle-income economy with moderate debt and inflation, no active crises, and only mild political instability, so economic fundamentals dominate the 1-year growth outlook.\"\n}",
+  "_cache_key": "32f121fb4fbd97b7fa911e745374f431",
+  "_iso3": "MDV",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

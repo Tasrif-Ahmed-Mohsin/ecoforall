@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.85,
+  "reasoning": "China in 2007 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, while moderate attention to political, environmental, and social factors reflects structural trends over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"China in 2007 is a stable, high-growth emerging economy with no major crises, so economic fundamentals dominate, while moderate attention to political, environmental, and social factors reflects structural trends over a 5-year horizon.\"\n}",
+  "_cache_key": "5e32c685eb3bc9cc942043d71cab0e33",
+  "_iso3": "CHN",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

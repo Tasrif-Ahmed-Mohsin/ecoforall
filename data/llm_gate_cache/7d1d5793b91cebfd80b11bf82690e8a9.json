@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria faces moderate political instability and social tensions, but the dominant near-term driver is still the high inflation and weak growth momentum, while environmental and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria faces moderate political instability and social tensions, but the dominant near-term driver is still the high inflation and weak growth momentum, while environmental and social factors play secondary roles.\"\n}",
+  "_cache_key": "7d1d5793b91cebfd80b11bf82690e8a9",
+  "_iso3": "NGA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

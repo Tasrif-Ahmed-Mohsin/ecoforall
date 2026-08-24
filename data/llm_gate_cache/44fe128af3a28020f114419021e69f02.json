@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Bangladesh in 2006 shows stable growth, moderate inflation, no active crises, and a typical developing economy pattern, so economic fundamentals dominate the short-term forecast, with minor adjustments for political and environmental risks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Bangladesh in 2006 shows stable growth, moderate inflation, no active crises, and a typical developing economy pattern, so economic fundamentals dominate the short-term forecast, with minor adjustments for political and environmental risks.\"\n}",
+  "_cache_key": "44fe128af3a28020f114419021e69f02",
+  "_iso3": "BGD",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

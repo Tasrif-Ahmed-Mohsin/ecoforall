@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Singapore is a stable, high-income economy with no ongoing crises, strong external position, and moderate growth, so economic fundamentals dominate while political, environmental, and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Singapore is a stable, high-income economy with no ongoing crises, strong external position, and moderate growth, so economic fundamentals dominate while political, environmental, and social factors play minor roles.\"\n}",
+  "_cache_key": "35e457f01415a80eceea0725c99af7cf",
+  "_iso3": "SGP",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

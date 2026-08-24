@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Togo is a low-income, politically fragile state with moderate instability and sanctions, so while economic fundamentals dominate, political risks are elevated enough to warrant a substantial weight, with environmental and social factors playing secondary roles over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Togo is a low-income, politically fragile state with moderate instability and sanctions, so while economic fundamentals dominate, political risks are elevated enough to warrant a substantial weight, with environmental and social factors playing secondary roles over a 5-year horizon.\"\n}",
+  "_cache_key": "60acbaea9aff0c80dae02979f83264bf",
+  "_iso3": "TGO",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

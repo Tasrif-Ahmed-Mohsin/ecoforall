@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GIN faces high inflation, a large current account deficit, and moderate debt, but political stability is moderate with some protest pressure, so economic fundamentals dominate while political and social risks add meaningful uncertainty.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GIN faces high inflation, a large current account deficit, and moderate debt, but political stability is moderate with some protest pressure, so economic fundamentals dominate while political and social risks add meaningful uncertainty.\"\n}",
+  "_cache_key": "7aba788175c3ea6f2e4fad90ff4259b5",
+  "_iso3": "GIN",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

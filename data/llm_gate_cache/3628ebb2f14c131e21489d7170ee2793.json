@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces high debt, high unemployment, and external imbalances, but political instability and protest pressure are significant, while environmental and social data are limited, so economic fundamentals dominate with a substantial political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces high debt, high unemployment, and external imbalances, but political instability and protest pressure are significant, while environmental and social data are limited, so economic fundamentals dominate with a substantial political risk premium.\"\n}",
+  "_cache_key": "3628ebb2f14c131e21489d7170ee2793",
+  "_iso3": "JAM",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

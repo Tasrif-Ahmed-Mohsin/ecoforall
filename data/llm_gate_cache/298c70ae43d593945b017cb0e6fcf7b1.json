@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "NIC is a lower-middle-income economy with moderate inflation and investment, but high political instability, sanctions, and conflict intensity, making politics a major near-term risk while economic fundamentals still dominate growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"NIC is a lower-middle-income economy with moderate inflation and investment, but high political instability, sanctions, and conflict intensity, making politics a major near-term risk while economic fundamentals still dominate growth.\"\n}",
+  "_cache_key": "298c70ae43d593945b017cb0e6fcf7b1",
+  "_iso3": "NIC",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "PNG's growth is recovering from a deep recession with high current account surplus and moderate debt, but political instability and conflict risks warrant a significant political weight, while environmental and social factors are less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PNG's growth is recovering from a deep recession with high current account surplus and moderate debt, but political instability and conflict risks warrant a significant political weight, while environmental and social factors are less immediate.\"\n}",
+  "_cache_key": "74bf1032a361ecdd98bc1d8b4b5762c3",
+  "_iso3": "PNG",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Burundi's low income, high current account deficit, and deflation signal economic fragility, while moderate political instability and conflict risk warrant elevated political weight, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Burundi's low income, high current account deficit, and deflation signal economic fragility, while moderate political instability and conflict risk warrant elevated political weight, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "7093ab4e953207c3b3390a77a9f73434",
+  "_iso3": "BDI",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

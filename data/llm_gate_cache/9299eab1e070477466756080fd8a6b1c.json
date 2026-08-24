@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan faces moderate political risks (conflict, sanctions) and social strains, but the economy is the primary driver given its oil-dependent structure and recent negative growth, while environmental factors are less immediate over this 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan faces moderate political risks (conflict, sanctions) and social strains, but the economy is the primary driver given its oil-dependent structure and recent negative growth, while environmental factors are less immediate over this 5-year horizon.\"\n}",
+  "_cache_key": "9299eab1e070477466756080fd8a6b1c",
+  "_iso3": "AZE",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

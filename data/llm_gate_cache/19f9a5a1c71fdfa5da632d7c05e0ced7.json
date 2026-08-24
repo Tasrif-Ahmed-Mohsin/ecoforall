@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Armenia's high unemployment, deflation, and moderate debt signal economic fragility, while political instability and social tensions (low trust, high protests) add significant non-economic risks, but no major environmental shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Armenia's high unemployment, deflation, and moderate debt signal economic fragility, while political instability and social tensions (low trust, high protests) add significant non-economic risks, but no major environmental shocks are evident.\"\n}",
+  "_cache_key": "19f9a5a1c71fdfa5da632d7c05e0ced7",
+  "_iso3": "ARM",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

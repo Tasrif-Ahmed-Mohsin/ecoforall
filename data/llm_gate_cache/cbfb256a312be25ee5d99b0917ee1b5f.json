@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Turkey faces moderate external imbalances, high inflation, and political instability (negative stability, sanctions, protests), but no acute crisis, so economic fundamentals dominate while political risks warrant substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Turkey faces moderate external imbalances, high inflation, and political instability (negative stability, sanctions, protests), but no acute crisis, so economic fundamentals dominate while political risks warrant substantial weight.\"\n}",
+  "_cache_key": "cbfb256a312be25ee5d99b0917ee1b5f",
+  "_iso3": "TUR",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

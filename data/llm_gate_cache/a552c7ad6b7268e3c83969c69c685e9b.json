@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Guyana's moderate income, high current account deficit, and recent growth momentum make economic factors primary, but very low political stability and high protest/sanction levels elevate political risk, while environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Guyana's moderate income, high current account deficit, and recent growth momentum make economic factors primary, but very low political stability and high protest/sanction levels elevate political risk, while environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "a552c7ad6b7268e3c83969c69c685e9b",
+  "_iso3": "GUY",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

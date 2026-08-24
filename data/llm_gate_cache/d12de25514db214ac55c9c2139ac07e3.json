@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan's growth is primarily driven by ongoing economic reforms and high investment, but moderate political instability, social tensions, and a 5-year horizon warrant meaningful weights for politics and human society, while environmental data is too limited to be significant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Uzbekistan's growth is primarily driven by ongoing economic reforms and high investment, but moderate political instability, social tensions, and a 5-year horizon warrant meaningful weights for politics and human society, while environmental data is too limited to be significant.\"\n}",
+  "_cache_key": "d12de25514db214ac55c9c2139ac07e3",
+  "_iso3": "UZB",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

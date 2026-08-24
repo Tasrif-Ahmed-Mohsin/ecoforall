@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Belarus faces severe political instability, sanctions, and protests, which significantly disrupt economic activity, but the moderate debt and inflation levels still make economic fundamentals important for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Belarus faces severe political instability, sanctions, and protests, which significantly disrupt economic activity, but the moderate debt and inflation levels still make economic fundamentals important for short-term growth.\"\n}",
+  "_cache_key": "0ff8b51c4b26b79ffad4c30b42a879bf",
+  "_iso3": "BLR",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

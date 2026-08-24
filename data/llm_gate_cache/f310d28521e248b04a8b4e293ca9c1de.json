@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "NIC faces high inflation, large current account deficit, and moderate debt, but the very low political stability and high protest/sanction levels elevate political risk for the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC faces high inflation, large current account deficit, and moderate debt, but the very low political stability and high protest/sanction levels elevate political risk for the short-term outlook.\"\n}",
+  "_cache_key": "f310d28521e248b04a8b4e293ca9c1de",
+  "_iso3": "NIC",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Despite high income and low debt, the economy is the primary driver given moderate growth and investment, but political instability and conflict risk warrant a significant weight, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite high income and low debt, the economy is the primary driver given moderate growth and investment, but political instability and conflict risk warrant a significant weight, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "2b4da51a0a85d662fefd4ca10c8765a5",
+  "_iso3": "SAU",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

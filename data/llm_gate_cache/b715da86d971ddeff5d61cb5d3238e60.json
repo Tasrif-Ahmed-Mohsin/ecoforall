@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA faces moderate political instability and sanctions, but the economy is the primary driver given high investment and external imbalances, while social indicators are relatively stable and environmental data is limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA faces moderate political instability and sanctions, but the economy is the primary driver given high investment and external imbalances, while social indicators are relatively stable and environmental data is limited.\"\n}",
+  "_cache_key": "b715da86d971ddeff5d61cb5d3238e60",
+  "_iso3": "DZA",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

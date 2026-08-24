@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.75,
+  "reasoning": "BRB is a high-income economy with moderate imbalances (high current account deficit, debt, and inflation) but faces severe political instability, sanctions, and conflict, making politics a major near-term risk while economic fundamentals still dominate the short-run growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"BRB is a high-income economy with moderate imbalances (high current account deficit, debt, and inflation) but faces severe political instability, sanctions, and conflict, making politics a major near-term risk while economic fundamentals still dominate the short-run growth outlook.\"\n}",
+  "_cache_key": "85df27f8ccc4303dc0e6bd90d6d1f0ea",
+  "_iso3": "BRB",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

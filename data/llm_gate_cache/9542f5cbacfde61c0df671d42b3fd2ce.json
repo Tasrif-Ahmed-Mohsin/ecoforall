@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Israel is a stable, high-income economy with moderate debt, low inflation, and solid growth, so economic fundamentals dominate, while political and environmental risks are modest and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Israel is a stable, high-income economy with moderate debt, low inflation, and solid growth, so economic fundamentals dominate, while political and environmental risks are modest and social factors are secondary.\"\n}",
+  "_cache_key": "9542f5cbacfde61c0df671d42b3fd2ce",
+  "_iso3": "ISR",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

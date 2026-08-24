@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Ethiopia in 2016 shows moderate growth but high inflation, external deficits, and political instability (low stability, sanctions, conflicts), making economic fundamentals and political risk the dominant short-term drivers, with environmental and social factors secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Ethiopia in 2016 shows moderate growth but high inflation, external deficits, and political instability (low stability, sanctions, conflicts), making economic fundamentals and political risk the dominant short-term drivers, with environmental and social factors secondary.\"\n}",
+  "_cache_key": "c180794b805d647d848430076eb5086a",
+  "_iso3": "ETH",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

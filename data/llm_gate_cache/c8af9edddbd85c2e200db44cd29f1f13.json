@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "TTO is a stable, high-income economy with no major crises, so economic fundamentals dominate, while moderate political and social tensions warrant a modest weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TTO is a stable, high-income economy with no major crises, so economic fundamentals dominate, while moderate political and social tensions warrant a modest weight.\"\n}",
+  "_cache_key": "c8af9edddbd85c2e200db44cd29f1f13",
+  "_iso3": "TTO",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

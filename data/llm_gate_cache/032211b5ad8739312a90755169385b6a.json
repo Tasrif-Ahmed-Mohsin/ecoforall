@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, politically unstable country with high protest and conflict indicators, but the immediate growth outlook is dominated by macroeconomic imbalances (large current account deficit, low investment) and recent growth volatility, while political instability adds moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNB is a low-income, politically unstable country with high protest and conflict indicators, but the immediate growth outlook is dominated by macroeconomic imbalances (large current account deficit, low investment) and recent growth volatility, while political instability adds moderate risk.\"\n}",
+  "_cache_key": "032211b5ad8739312a90755169385b6a",
+  "_iso3": "GNB",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

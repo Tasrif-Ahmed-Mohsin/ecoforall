@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Serbia shows moderate economic fragility (high unemployment, current account deficit) but no acute crisis, while political instability and social tensions (low trust, high protests) warrant elevated weights for politics and human_society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Serbia shows moderate economic fragility (high unemployment, current account deficit) but no acute crisis, while political instability and social tensions (low trust, high protests) warrant elevated weights for politics and human_society over a 5-year horizon.\"\n}",
+  "_cache_key": "a0748cca3da580909e8696ccda3ac99a",
+  "_iso3": "SRB",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

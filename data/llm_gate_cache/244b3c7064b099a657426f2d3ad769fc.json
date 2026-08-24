@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Brazil in 2011 is a stable, middle-income economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Brazil in 2011 is a stable, middle-income economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the forecast, while political, environmental, and social factors play secondary roles.\"\n}",
+  "_cache_key": "244b3c7064b099a657426f2d3ad769fc",
+  "_iso3": "BRA",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

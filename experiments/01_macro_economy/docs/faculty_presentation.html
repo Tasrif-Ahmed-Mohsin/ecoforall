@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Macroeconomic Forecasting via Machine Learning Ensembles</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --primary-light: #3b82f6;
+            --primary-dark: #1e293b;
+            --accent: #0284c7;
+            --accent-gold: #d97706;
+            --bg-main: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --success: #059669;
+            --warning: #d97706;
+            --danger: #dc2626;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-main);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 2.5rem;
+            max-width: 1050px;
+            margin: 0 auto;
+        }
+
+        /* Inline SVG styling */
+        .icon-svg {
+            display: inline-block;
+            vertical-align: -0.15em;
+            margin-right: 0.35rem;
+            flex-shrink: 0;
+        }
+
+        /* Print styles for high quality PDF conversion */
+        @media print {
+            body {
+                background-color: #ffffff;
+                padding: 0;
+                max-width: 100%;
+                font-size: 11pt;
+            }
+            .no-print {
+                display: none !important;
+            }
+            .card, .stat-card, .table-container {
+                break-inside: avoid;
+                box-shadow: none !important;
+                border: 1px solid #cbd5e1 !important;
+            }
+            header {
+                padding: 1.5rem !important;
+                border-bottom: 2px solid #1e3a8a !important;
+                border-radius: 0 !important;
+            }
+            .page-break {
+                page-break-before: always;
+            }
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+            color: #ffffff;
+            padding: 2.5rem;
+            border-radius: 16px;
+            margin-bottom: 2rem;
+            box-shadow: 0 10px 25px -5px rgba(30, 58, 138, 0.25);
+        }
+
+        header h1 {
+            font-family: 'Newsreader', serif;
+            font-size: 2.3rem;
+            font-weight: 600;
+            line-height: 1.25;
+            margin-bottom: 0.75rem;
+        }
+
+        header p {
+            color: #94a3b8;
+            font-size: 1.05rem;
+            max-width: 800px;
+        }
+
+        .meta-bar {
+            display: flex;
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+            padding-top: 1.25rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.9rem;
+            color: #cbd5e1;
+        }
+
+        .meta-item strong {
+            color: #ffffff;
+        }
+
+        section {
+            margin-bottom: 2.5rem;
+        }
+
+        .section-title {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--primary-dark);
+            margin-bottom: 1.25rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .section-number {
+            background: var(--primary);
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.95rem;
+            font-weight: 700;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.75rem;
+            margin-bottom: 1.25rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.25rem;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.25rem;
+        }
+
+        .stat-card {
+            background: #ffffff;
+            border-left: 4px solid var(--primary-light);
+            border-radius: 8px;
+            padding: 1.25rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+            border: 1px solid var(--border);
+            border-left-width: 4px;
+        }
+
+        .stat-card.accent {
+            border-left-color: var(--accent-gold);
+        }
+
+        .stat-card.success {
+            border-left-color: var(--success);
+        }
+
+        .stat-val {
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--primary-dark);
+            margin: 0.25rem 0;
+        }
+
+        .stat-label {
+            font-size: 0.82rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+        }
+
+        .stat-desc {
+            font-size: 0.9rem;
+            color: var(--text-main);
+            margin-top: 0.5rem;
+        }
+
+        p.text-body {
+            font-size: 1.02rem;
+            color: #334155;
+            margin-bottom: 1rem;
+        }
+
+        .highlight-box {
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            border-radius: 10px;
+            padding: 1.25rem;
+            margin: 1.25rem 0;
+        }
+
+        .highlight-box h4 {
+            color: #1e40af;
+            margin-bottom: 0.5rem;
+            font-size: 1.05rem;
+            display: flex;
+            align-items: center;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            font-size: 0.95rem;
+        }
+
+        th, td {
+            padding: 0.85rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background-color: #f1f5f9;
+            color: var(--primary-dark);
+            font-weight: 600;
+        }
+
+        tr:hover {
+            background-color: #f8fafc;
+        }
+
+        .winner-tag {
+            background: #dcfce7;
+            color: #15803d;
+            font-weight: 700;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        .ar1-tag {
+            background: #e0f2fe;
+            color: #0369a1;
+            font-weight: 700;
+            padding: 0.2rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        .step-list {
+            list-style: none;
+            counter-reset: step-counter;
+        }
+
+        .step-item {
+            position: relative;
+            padding-left: 3rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .step-item::before {
+            counter-increment: step-counter;
+            content: counter(step-counter);
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 2.2rem;
+            height: 2.2rem;
+            background: var(--primary-light);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.95rem;
+        }
+
+        .step-title {
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: var(--primary-dark);
+            margin-bottom: 0.25rem;
+        }
+
+        .action-bar {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            display: flex;
+            gap: 1rem;
+            z-index: 100;
+        }
+
+        .btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.95rem;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            transition: transform 0.15s, background 0.15s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            text-decoration: none;
+        }
+
+        .btn:hover {
+            background: var(--primary-light);
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="action-bar no-print">
+        <button class="btn" onclick="window.print()">
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"></path></svg>
+            Print / Save as PDF
+        </button>
+    </div>
+
+    <header>
+        <h1>Global Macroeconomic Forecasting via Machine Learning Ensembles</h1>
+        <p>A multi-horizon Machine Learning research framework evaluated on 237 economies over 64 years (1960 to 2024).</p>
+        <div class="meta-bar">
+            <div class="meta-item">Dataset: <strong>Geo-Macroeconomic Dataset (GMD v6)</strong></div>
+            <div class="meta-item">Sample Size: <strong>15,071 Country-Years</strong></div>
+            <div class="meta-item">Horizons: <strong>1, 3, 5, 10 Years Forward</strong></div>
+        </div>
+    </header>
+
+    <!-- SECTION 1: EXECUTIVE SUMMARY & DATA SOURCE -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">1</div>
+            <h2>Research Objective & Data Foundation</h2>
+        </div>
+        <div class="card">
+            <p class="text-body">
+                Predicting national economic growth (Real GDP per Capita) across diverse global economies is notoriously difficult. Policy-makers and economists need accurate growth projections to plan sovereign debt, infrastructure, and fiscal policy.
+            </p>
+            <p class="text-body">
+                Traditional econometric models (like simple Auto-Regressive models) are good at capturing long-term steady trends, but miss sudden non-linear shifts. Conversely, a <strong>stacked Ensemble of Machine Learning (ML) models</strong>—combining LightGBM gradient boosting, Ridge regression, CatBoost, and XGBoost—can capture non-linear cross-country macroeconomic interactions.
+            </p>
+
+            <div class="highlight-box" style="background:#f8fafc; border-color:#cbd5e1; margin-top:1.25rem;">
+                <h4 style="color:var(--primary); margin-bottom:0.75rem;">
+                    <svg class="icon-svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+                    Data Source Overview: Geo-Macroeconomic Dataset (GMD v6)
+                </h4>
+                <p style="font-size:0.95rem; color:#334155; margin-bottom:0.75rem;">
+                    The research is powered by the <strong>Geo-Macroeconomic Dataset (GMD v6, Müller et al., 2026)</strong>, providing 15,071 country-year observations (12,166 valid labeled target rows) across 237 sovereign nations and territories from 1960 to 2024.
+                </p>
+                <div class="grid-2" style="gap:0.75rem; margin-top:0.75rem;">
+                    <div style="font-size:0.88rem; color:#475569; background:#ffffff; padding:0.75rem; border-radius:6px; border:1px solid #e2e8f0;">
+                        <strong>Core Growth & Output:</strong> Real GDP per Capita (constant USD & LCU), Nominal GDP, Real GDP, GDP Deflator, Population.
+                    </div>
+                    <div style="font-size:0.88rem; color:#475569; background:#ffffff; padding:0.75rem; border-radius:6px; border:1px solid #e2e8f0;">
+                        <strong>Fiscal & External Accounts:</strong> Govt Debt/GDP, Fiscal Deficit/GDP, Expenditure, Tax Revenue, Current Account, Investment, Exports, Imports.
+                    </div>
+                    <div style="font-size:0.88rem; color:#475569; background:#ffffff; padding:0.75rem; border-radius:6px; border:1px solid #e2e8f0;">
+                        <strong>Prices, Rates & Liquidity:</strong> CPI, Inflation Rate, Exchange Rate (USD & REER), Short/Long Bond Yields, Central Bank Policy Rate, Money Supply ($M_0$ to $M_4$).
+                    </div>
+                    <div style="font-size:0.88rem; color:#475569; background:#ffffff; padding:0.75rem; border-radius:6px; border:1px solid #e2e8f0;">
+                        <strong>Systemic Crisis Flags:</strong> Historical binary crisis indicators for Sovereign Debt Crises, Currency Crises, and Banking Crises.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-3">
+            <div class="stat-card">
+                <div class="stat-label">Global Coverage</div>
+                <div class="stat-val">237</div>
+                <div class="stat-desc">Countries & Territories analyzed from 1960 to 2024.</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-label">Short-Term ML Skill</div>
+                <div class="stat-val">+7.0%</div>
+                <div class="stat-desc">ML Ensemble accuracy advantage over traditional AR(1) at 1-year horizon.</div>
+            </div>
+            <div class="stat-card accent">
+                <div class="stat-label">Long-Term Economics</div>
+                <div class="stat-val">48.5%</div>
+                <div class="stat-desc">Classic AR(1) model beats ML Ensemble at 10-year horizon.</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2: KEY FINDINGS -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">2</div>
+            <h2>Key Empirical Findings & Benchmark Results</h2>
+        </div>
+
+        <div class="card">
+            <h3 style="margin-bottom: 1rem; color: var(--primary-dark);">Finding 1: ML Ensemble Dominates Short-Term, Classic Econometrics Dominates Long-Term</h3>
+            <p class="text-body">
+                A major breakthrough of this project is demonstrating <strong>scientific honesty</strong>. We do not claim machine learning beats everything everywhere. Instead, our 5-fold walk-forward cross-validation reveals a clear structural crossover:
+            </p>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Forecast Horizon ($h$)</th>
+                            <th>ML Ensemble MAE (Lower is better)</th>
+                            <th>Classic AR(1) Model MAE</th>
+                            <th>Naive Persistence MAE</th>
+                            <th>Winning Model Class</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>1 Year ($h=1$)</strong></td>
+                            <td><strong>0.0334</strong></td>
+                            <td>0.0359</td>
+                            <td>0.0469</td>
+                            <td><span class="winner-tag">ML Ensemble (+7.0% over AR(1))</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>3 Years ($h=3$)</strong></td>
+                            <td><strong>0.0695</strong></td>
+                            <td>0.0710</td>
+                            <td>0.0783</td>
+                            <td><span class="winner-tag">ML Ensemble (+2.1% over AR(1))</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>5 Years ($h=5$)</strong></td>
+                            <td>0.0843</td>
+                            <td><strong>0.0686</strong></td>
+                            <td>0.0735</td>
+                            <td><span class="ar1-tag">Classic AR(1) (+22.9% over ML)</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>10 Years ($h=10$)</strong></td>
+                            <td>0.1328</td>
+                            <td><strong>0.0894</strong></td>
+                            <td>0.0936</td>
+                            <td><span class="ar1-tag">Classic AR(1) (+48.5% over ML)</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: 0.5rem;">
+                *MAE = Mean Absolute Error (lower score means higher predictive accuracy). Evaluated via 5-fold rolling-origin walk-forward cross-validation.
+            </p>
+        </div>
+
+        <div class="grid-2">
+            <div class="card">
+                <h3 style="color: var(--primary-dark); margin-bottom: 0.75rem;">Finding 2: "Historical Twins" Vector Retrieval</h3>
+                <p class="text-body">
+                    Using mathematical vector search (FAISS), the system searches 64 years of global history (15,071 country-years) to find historical country-years matching a target country's current macroeconomic profile.
+                </p>
+                <p class="text-body" style="font-size: 0.95rem; color: #475569;">
+                    It identifies <strong>"Divergent Twins"</strong>—countries that started in identical positions but diverged due to structural policy choices.
+                </p>
+            </div>
+            <div class="card">
+                <h3 style="color: var(--primary-dark); margin-bottom: 0.75rem;">Finding 3: Calibrated Conformal Risk Bands</h3>
+                <p class="text-body">
+                    Rather than providing a single point forecast, the system calibrates non-parametric <strong>80% prediction intervals</strong>.
+                </p>
+                <p class="text-body" style="font-size: 0.95rem; color: #475569;">
+                    It incorporates an explicit <strong>+75% lower-tail expansion</strong> to guard against severe downside macro shocks (such as pandemic crises or sovereign debt defaults).
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <div class="page-break"></div>
+
+    <!-- SECTION 3: SYSTEM ARCHITECTURE -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">3</div>
+            <h2>System Architecture & Core Processing Pipeline</h2>
+        </div>
+
+        <div class="card">
+            <ul class="step-list">
+                <li class="step-item">
+                    <div class="step-title">Data Harmonization & Forecast Stripping</div>
+                    <p class="text-body">
+                        Standardizes 162 macro indicators across 237 countries. Strips IMF-style <code>forecast_*</code> rows so models train 100% on real historical observations, and removes regional aggregates (e.g. Arab World, High Income) to evaluate genuine sovereign states.
+                    </p>
+                </li>
+                <li class="step-item">
+                    <div class="step-title">Multi-Horizon ML Stacking Ensemble</div>
+                    <p class="text-body">
+                        Combines four complementary machine learning algorithms (LightGBM gradient boosting, Ridge linear regression, CatBoost, and XGBoost) to predict growth at 1, 3, 5, and 10-year horizons.
+                    </p>
+                </li>
+                <li class="step-item">
+                    <div class="step-title">Historical Analog Search (Vector Retrieval)</div>
+                    <p class="text-body">
+                        Transforms country profiles into mathematical vectors. Uses Euclidean distance over rank-transformed features to instantly retrieve historical analog situations.
+                    </p>
+                </li>
+                <li class="step-item">
+                    <div class="step-title">Conformal Risk Calibration & Tail Buffer</div>
+                    <p class="text-body">
+                        Instead of giving just one point prediction, the system creates <strong>calibrated 80% confidence bands</strong> with a +75% lower-tail buffer to guard against downside crisis events.
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- SECTION 4: SCIENTIFIC RIGOR & ANTI-LEAKAGE -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">4</div>
+            <h2>Methodological Rigor & Anti-Data-Leakage Rules</h2>
+        </div>
+
+        <div class="card">
+            <p class="text-body">
+                Many machine learning papers suffer from "data leakage" (accidentally letting future data influence past predictions), resulting in inflated accuracy scores. This codebase enforces <strong>six strict anti-leakage safeguards</strong>:
+            </p>
+            <div class="grid-2" style="margin-top: 1rem;">
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">1. Rolling-Origin Backtest:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Models only train on years $\le t$ when evaluating year $t+1$.</p>
+                </div>
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">2. Nested Optuna Tuning:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">ML hyperparameters are tuned strictly inside historical fold windows.</p>
+                </div>
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">3. Out-of-Time Imputation:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Missing values are filled using only historical statistics.</p>
+                </div>
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">4. Honest AR(1) Baseline:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Evaluated on the exact same folds for an unbiased benchmark comparison.</p>
+                </div>
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">5. No Country Memorization:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Country dummies are excluded during cross-validation to test true cross-sectional transferability.</p>
+                </div>
+                <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">6. 100% Test Pass Rate:</strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Full pytest suite covering data integrity and model inference contract.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 5: COMPARISON WITH PRIOR LITERATURE & INSTITUTIONAL BENCHMARKS -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">5</div>
+            <h2>Comparison with Prior Literature & Institutional Benchmarks</h2>
+        </div>
+
+        <div class="card">
+            <p class="text-body">
+                To position this research within computational economics and machine learning forecasting, we compare our methodology and scope against canonical papers and major institutional forecasting bodies:
+            </p>
+
+            <div class="table-container" style="margin-top: 1rem;">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Study / System</th>
+                            <th>Panel Scope</th>
+                            <th>Horizons ($h$)</th>
+                            <th>Model Class</th>
+                            <th>Key Difference vs. Our Work</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Ours (GMD v6 Framework)</strong></td>
+                            <td><strong>237 Countries</strong> (1960 to 2024)</td>
+                            <td><strong>{1, 3, 5, 10} Years</strong></td>
+                            <td>Stacked ML Ensemble + AR(1) + FAISS Search</td>
+                            <td><span class="winner-tag">Massive global panel, multi-horizon crossover discovery, historical twins vector search.</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Coulibaly &amp; Li (2019)</strong> (SARB)</td>
+                            <td>~30 OECD Nations</td>
+                            <td>{1} Year</td>
+                            <td>Random Forest, Gradient Boosting, Elastic-Net</td>
+                            <td>Restricted to OECD economies and 1-year horizon; no stacking or historical analog search.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Salesi (2016)</strong> (Univ. Adelaide)</td>
+                            <td>21 OECD Nations</td>
+                            <td>{1} Year</td>
+                            <td>Super Learner (ML Stacking)</td>
+                            <td>Early ML stacking for 1-year OECD growth; lacks multi-horizon evaluation and risk bands.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>IMF World Economic Outlook (WEO)</strong></td>
+                            <td>~190 Economies</td>
+                            <td>{1, 2} Years</td>
+                            <td>DSGE / VAR + Staff Country Judgement</td>
+                            <td>Institutional benchmark; relies on staff consensus over short horizons without non-linear ML stacking.</td>
+                        </tr>
+                        <tr>
+                            <td><strong>World Bank GEP Report</strong></td>
+                            <td>~180 Economies</td>
+                            <td>{1, 2} Years</td>
+                            <td>Growth Accounting + Country Models</td>
+                            <td>Semi-annual expert forecasts; uses fan charts over 1–2 year projections without vector search.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 1.25rem;">
+                <h4>
+                    <svg class="icon-svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"></path><path d="M10 22h4"></path><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1.55.59 2.92 1.5 3.93.76.76 1.23 1.52 1.41 2.57"></path></svg>
+                    Key Research Differentiator
+                </h4>
+                <p style="font-size:0.95rem; color:#1e40af;">
+                    While existing literature focuses almost exclusively on <strong>short-term ($h=1$) forecasts for small OECD panels (~20–30 countries)</strong>, our work evaluates a <strong>massive global panel of 237 economies across multi-year horizons ($h \in \{1, 3, 5, 10\}$)</strong>, discovering the structural crossover where classic economics dominates long-term forecasting.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 6: INTERACTIVE WEB APPLICATION & POLICY DASHBOARD -->
+    <section>
+        <div class="section-title">
+            <div class="section-number">6</div>
+            <h2>Interactive Web Application & Policy Dashboard</h2>
+        </div>
+
+        <div class="card" style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border-color: #cbd5e1;">
+            <h3 style="color: var(--primary-dark); margin-bottom: 0.75rem;">Macroeconomic Intelligence Studio (<code>scripts/web_app.py</code>)</h3>
+            <p class="text-body">
+                To make this research system directly usable by non-technical policy-makers and economists, we deployed a full interactive Streamlit web dashboard. Key features include:
+            </p>
+            <div class="grid-2" style="margin-top: 1rem;">
+                <div style="background: #ffffff; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">
+                        <svg class="icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                        Sovereign &amp; Horizon Selector:
+                    </strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Query any of 237 countries/territories across 1, 3, 5, or 10-year horizons.</p>
+                </div>
+                <div style="background: #ffffff; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">
+                        <svg class="icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+                        Multi-Model Consensus View:
+                    </strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Real-time comparison across LightGBM, Ridge, CatBoost, XGBoost, and AR(1) baseline.</p>
+                </div>
+                <div style="background: #ffffff; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">
+                        <svg class="icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        FAISS Twin Economy Search:
+                    </strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Instantly visualizes top historical matching country-years and divergent policy paths.</p>
+                </div>
+                <div style="background: #ffffff; padding: 1rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <strong style="color: var(--primary);">
+                        <svg class="icon-svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                        Conformal Risk Visualizer:
+                    </strong>
+                    <p style="font-size: 0.9rem; color: #475569;">Displays calibrated 80% confidence bands ($q_{05}$ to $q_{95}$) with downside crisis buffers.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, emerging economy with high current account deficit and moderate debt, but political instability and conflict intensity are elevated, so politics gets a substantial weight while environment remains minimal due to lack of data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TJK is a low-income, emerging economy with high current account deficit and moderate debt, but political instability and conflict intensity are elevated, so politics gets a substantial weight while environment remains minimal due to lack of data.\"\n}",
+  "_cache_key": "6983ddfabc1a27439a231350a662d8a3",
+  "_iso3": "TJK",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

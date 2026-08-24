@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "In a stable, high-income economy with no major crises, economic fundamentals dominate short-term growth, while political, environmental, and social factors play only minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"In a stable, high-income economy with no major crises, economic fundamentals dominate short-term growth, while political, environmental, and social factors play only minor roles.\"\n}",
+  "_cache_key": "1f59f09595794dafd51896cb1f8937c3",
+  "_iso3": "USA",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

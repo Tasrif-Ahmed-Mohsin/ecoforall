@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, external imbalances, and moderate inflation, but political instability and protests are significant risks, while environmental and social data are limited, so economic fundamentals dominate but politics warrants substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, external imbalances, and moderate inflation, but political instability and protests are significant risks, while environmental and social data are limited, so economic fundamentals dominate but politics warrants substantial weight.\"\n}",
+  "_cache_key": "e706e2acc877a22711e59f6e4e6a459b",
+  "_iso3": "MKD",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

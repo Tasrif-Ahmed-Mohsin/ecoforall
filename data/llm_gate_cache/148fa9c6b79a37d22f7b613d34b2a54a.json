@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan's moderate income, high inflation, and external imbalances make economic factors dominant, but political instability and social tensions warrant elevated weights, while environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan's moderate income, high inflation, and external imbalances make economic factors dominant, but political instability and social tensions warrant elevated weights, while environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "148fa9c6b79a37d22f7b613d34b2a54a",
+  "_iso3": "UZB",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

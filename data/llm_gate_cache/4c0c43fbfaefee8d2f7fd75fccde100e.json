@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Croatia in 2007 is a stable, upper-middle-income economy with moderate debt and investment, but high unemployment and external imbalances, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Croatia in 2007 is a stable, upper-middle-income economy with moderate debt and investment, but high unemployment and external imbalances, so economic fundamentals dominate, while political instability and social tensions warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "4c0c43fbfaefee8d2f7fd75fccde100e",
+  "_iso3": "HRV",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

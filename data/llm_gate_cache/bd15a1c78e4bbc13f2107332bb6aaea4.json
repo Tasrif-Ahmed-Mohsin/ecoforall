@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "NZL is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, while other domains have minimal impact.",
+  "_raw_response": "{\n  \"economy\": 0.8,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.1,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NZL is a stable, high-income economy with no major crises, so economic fundamentals dominate the short-term growth outlook, while other domains have minimal impact.\"\n}",
+  "_cache_key": "bd15a1c78e4bbc13f2107332bb6aaea4",
+  "_iso3": "NZL",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

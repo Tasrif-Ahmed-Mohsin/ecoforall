@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Laos is a lower-middle-income economy with moderate debt and a large current account deficit, but political stability is high and no major crises are evident, so economic fundamentals dominate while social and political factors play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Laos is a lower-middle-income economy with moderate debt and a large current account deficit, but political stability is high and no major crises are evident, so economic fundamentals dominate while social and political factors play a secondary role.\"\n}",
+  "_cache_key": "33530a3d0c177a9b44b4a219d7a623b2",
+  "_iso3": "LAO",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

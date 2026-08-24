@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "SLE is a low-income, politically unstable country with high protest and conflict indicators, so politics weighs heavily alongside economic fundamentals, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"SLE is a low-income, politically unstable country with high protest and conflict indicators, so politics weighs heavily alongside economic fundamentals, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "05a1e4bf1e996f6cae367be9b9d82214",
+  "_iso3": "SLE",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

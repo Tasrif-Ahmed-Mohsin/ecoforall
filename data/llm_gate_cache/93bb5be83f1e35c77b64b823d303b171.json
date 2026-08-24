@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Gabon is a stable, upper-middle-income oil exporter with no active crises, so economic fundamentals dominate, but moderate political risk and structural vulnerabilities warrant a modest political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Gabon is a stable, upper-middle-income oil exporter with no active crises, so economic fundamentals dominate, but moderate political risk and structural vulnerabilities warrant a modest political weight.\"\n}",
+  "_cache_key": "93bb5be83f1e35c77b64b823d303b171",
+  "_iso3": "GAB",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

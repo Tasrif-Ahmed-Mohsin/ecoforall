@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "The economy is stable with moderate growth, low debt, and no crises, so economic factors dominate, while political and social indicators show mild stress but no acute shocks.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"The economy is stable with moderate growth, low debt, and no crises, so economic factors dominate, while political and social indicators show mild stress but no acute shocks.\"\n}",
+  "_cache_key": "e26a126cfe27630a8e4313bcb2d52125",
+  "_iso3": "NPL",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

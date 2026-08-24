@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LSO faces high unemployment, large current account deficit, and moderate debt, but the extreme political instability, sanctions, and conflict intensity are likely to dominate growth prospects over the next five years, while social pressures and protests add secondary risk.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LSO faces high unemployment, large current account deficit, and moderate debt, but the extreme political instability, sanctions, and conflict intensity are likely to dominate growth prospects over the next five years, while social pressures and protests add secondary risk.\"\n}",
+  "_cache_key": "f68ef95e21e7dca6a766d3a9bdc236ee",
+  "_iso3": "LSO",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

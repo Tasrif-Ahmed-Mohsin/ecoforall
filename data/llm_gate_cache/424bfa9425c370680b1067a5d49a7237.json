@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Bangladesh in 2013 shows moderate growth with stable macro fundamentals but elevated political instability and protests, making economic factors dominant while political risks warrant significant weight for the one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bangladesh in 2013 shows moderate growth with stable macro fundamentals but elevated political instability and protests, making economic factors dominant while political risks warrant significant weight for the one-year horizon.\"\n}",
+  "_cache_key": "424bfa9425c370680b1067a5d49a7237",
+  "_iso3": "BGD",
+  "_year": 2013,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

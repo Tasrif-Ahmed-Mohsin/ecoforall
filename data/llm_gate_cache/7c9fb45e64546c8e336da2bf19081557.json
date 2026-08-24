@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Gabon is a stable, upper-middle-income economy with moderate debt and inflation, but recent negative growth and political stability suggest a modest political risk, while environmental and social factors are not currently dominant.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Gabon is a stable, upper-middle-income economy with moderate debt and inflation, but recent negative growth and political stability suggest a modest political risk, while environmental and social factors are not currently dominant.\"\n}",
+  "_cache_key": "7c9fb45e64546c8e336da2bf19081557",
+  "_iso3": "GAB",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

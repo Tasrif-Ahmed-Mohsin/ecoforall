@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Austria is a stable high-income economy with moderate political tensions and no major crisis, so economic fundamentals dominate the short-term forecast, while political and social factors play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Austria is a stable high-income economy with moderate political tensions and no major crisis, so economic fundamentals dominate the short-term forecast, while political and social factors play minor roles.\"\n}",
+  "_cache_key": "1da900f9913b2187ec49d8e4399e4cca",
+  "_iso3": "AUT",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "With moderate growth, stable politics, and no major crises, economic fundamentals dominate the 5-year outlook, though political risks and structural factors warrant some attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.70,\n  \"reasoning\": \"With moderate growth, stable politics, and no major crises, economic fundamentals dominate the 5-year outlook, though political risks and structural factors warrant some attention.\"\n}",
+  "_cache_key": "486708236dcdcdf0d51ecf69c15edd0d",
+  "_iso3": "DJI",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

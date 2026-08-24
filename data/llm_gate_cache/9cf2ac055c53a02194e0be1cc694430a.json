@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Iraq in 2016 faces moderate political instability, sanctions, and conflict, alongside weak social trust and high unemployment, while the economy is recovering from past shocks and faces environmental risks, so a balanced weighting across domains is warranted.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Iraq in 2016 faces moderate political instability, sanctions, and conflict, alongside weak social trust and high unemployment, while the economy is recovering from past shocks and faces environmental risks, so a balanced weighting across domains is warranted.\"\n}",
+  "_cache_key": "9cf2ac055c53a02194e0be1cc694430a",
+  "_iso3": "IRQ",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

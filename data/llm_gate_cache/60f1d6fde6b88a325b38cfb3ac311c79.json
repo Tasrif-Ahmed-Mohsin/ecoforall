@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Ukraine faces a banking crisis, high inflation, and external imbalances, but the ongoing political instability, conflict, and sanctions elevate political risk, while social strain and low trust also weigh on the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ukraine faces a banking crisis, high inflation, and external imbalances, but the ongoing political instability, conflict, and sanctions elevate political risk, while social strain and low trust also weigh on the medium-term outlook.\"\n}",
+  "_cache_key": "60f1d6fde6b88a325b38cfb3ac311c79",
+  "_iso3": "UKR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

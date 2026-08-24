@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "The economy is stable with moderate growth, low inflation, no crises, and strong political stability, so economic fundamentals dominate the 3-year outlook, with minor adjustments for social and political factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"The economy is stable with moderate growth, low inflation, no crises, and strong political stability, so economic fundamentals dominate the 3-year outlook, with minor adjustments for social and political factors.\"\n}",
+  "_cache_key": "9ddfdc863749b38cc411e80ee1246cac",
+  "_iso3": "MMR",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

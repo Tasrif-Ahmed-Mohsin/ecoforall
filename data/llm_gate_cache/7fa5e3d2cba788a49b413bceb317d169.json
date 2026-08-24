@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "BLZ shows moderate economic fragility with high debt, unemployment, and negative recent growth, but political instability and protest pressure are elevated, warranting a significant political weight, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BLZ shows moderate economic fragility with high debt, unemployment, and negative recent growth, but political instability and protest pressure are elevated, warranting a significant political weight, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "7fa5e3d2cba788a49b413bceb317d169",
+  "_iso3": "BLZ",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Albania faces moderate political instability and social unrest, but the dominant driver is the large current account deficit and high unemployment, making economic factors most important, while environmental risks are minimal.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania faces moderate political instability and social unrest, but the dominant driver is the large current account deficit and high unemployment, making economic factors most important, while environmental risks are minimal.\"\n}",
+  "_cache_key": "2e4fff0c63633fe3865c7c02a36ccd42",
+  "_iso3": "ALB",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

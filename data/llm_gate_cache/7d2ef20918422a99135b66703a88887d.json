@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Oman is a high-income, stable oil exporter with moderate political risk (negative stability, sanctions, protests) and social strain, but no major environmental shocks, so economic fundamentals dominate while political and social factors warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Oman is a high-income, stable oil exporter with moderate political risk (negative stability, sanctions, protests) and social strain, but no major environmental shocks, so economic fundamentals dominate while political and social factors warrant notable weight.\"\n}",
+  "_cache_key": "7d2ef20918422a99135b66703a88887d",
+  "_iso3": "OMN",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and sanctions, combined with a developing economy and high investment, make economic fundamentals key but politics a significant risk over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate political instability and sanctions, combined with a developing economy and high investment, make economic fundamentals key but politics a significant risk over the 5-year horizon.\"\n}",
+  "_cache_key": "60bbae450e7a21ffe0fb5089d7a0f441",
+  "_iso3": "DJI",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

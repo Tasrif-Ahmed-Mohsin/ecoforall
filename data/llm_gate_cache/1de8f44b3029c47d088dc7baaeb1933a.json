@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Angola's moderate growth, high investment, and low debt suggest a stable economic base, but political instability, sanctions, and social tensions warrant a significant political weight, while environmental factors are minimal given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Angola's moderate growth, high investment, and low debt suggest a stable economic base, but political instability, sanctions, and social tensions warrant a significant political weight, while environmental factors are minimal given limited data.\"\n}",
+  "_cache_key": "1de8f44b3029c47d088dc7baaeb1933a",
+  "_iso3": "AGO",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

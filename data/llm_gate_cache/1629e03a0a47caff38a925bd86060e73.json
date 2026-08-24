@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Venezuela in 2005 shows moderate inflation, high unemployment, and a recent volatile growth path, but no active banking or currency crisis, while political instability and sanctions are present but not extreme, so economic fundamentals dominate with a notable political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Venezuela in 2005 shows moderate inflation, high unemployment, and a recent volatile growth path, but no active banking or currency crisis, while political instability and sanctions are present but not extreme, so economic fundamentals dominate with a notable political risk premium.\"\n}",
+  "_cache_key": "1629e03a0a47caff38a925bd86060e73",
+  "_iso3": "VEN",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

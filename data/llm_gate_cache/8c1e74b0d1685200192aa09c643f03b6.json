@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Egypt in 2012 faces moderate economic imbalances (high debt, unemployment, low investment) but no active crisis, while political instability and protests are elevated, and environmental risks (droughts, floods) are present, so economy leads but politics and environment matter for the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Egypt in 2012 faces moderate economic imbalances (high debt, unemployment, low investment) but no active crisis, while political instability and protests are elevated, and environmental risks (droughts, floods) are present, so economy leads but politics and environment matter for the 5-year horizon.\"\n}",
+  "_cache_key": "8c1e74b0d1685200192aa09c643f03b6",
+  "_iso3": "EGY",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

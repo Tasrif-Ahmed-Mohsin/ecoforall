@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "DZA is in a stable, high-income state with no ongoing crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the 1-year outlook, with modest political and social risks from high unemployment and protest activity.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"DZA is in a stable, high-income state with no ongoing crises, moderate inflation, and positive recent growth, so economic fundamentals dominate the 1-year outlook, with modest political and social risks from high unemployment and protest activity.\"\n}",
+  "_cache_key": "9b074566533ef1d9c12aed48ed64946f",
+  "_iso3": "DZA",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

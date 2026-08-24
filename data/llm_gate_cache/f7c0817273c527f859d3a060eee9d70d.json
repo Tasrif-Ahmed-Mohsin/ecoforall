@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "HTI is a low-income, politically fragile economy with moderate inflation, high protest pressure, and negative media sentiment, but no active banking, currency, or sovereign debt crises, so economic fundamentals dominate while political and social instability add significant risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"HTI is a low-income, politically fragile economy with moderate inflation, high protest pressure, and negative media sentiment, but no active banking, currency, or sovereign debt crises, so economic fundamentals dominate while political and social instability add significant risk.\"\n}",
+  "_cache_key": "f7c0817273c527f859d3a060eee9d70d",
+  "_iso3": "HTI",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

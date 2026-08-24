@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Malawi faces severe political instability, sanctions, and negative diplomatic sentiment, while also grappling with high inflation, a large current account deficit, and low investment, making both economic and political factors critical for near-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Malawi faces severe political instability, sanctions, and negative diplomatic sentiment, while also grappling with high inflation, a large current account deficit, and low investment, making both economic and political factors critical for near-term growth.\"\n}",
+  "_cache_key": "127e8a1fc468ab91e4bab215a013c723",
+  "_iso3": "MWI",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

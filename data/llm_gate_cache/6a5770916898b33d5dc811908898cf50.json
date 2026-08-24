@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High inflation and debt, but no active crises, make economic factors dominant, with moderate political risk from protests and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation and debt, but no active crises, make economic factors dominant, with moderate political risk from protests and sanctions.\"\n}",
+  "_cache_key": "6a5770916898b33d5dc811908898cf50",
+  "_iso3": "SUR",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

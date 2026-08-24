@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam in 2014 is a stable, emerging economy with strong growth, moderate debt, and no crises, so economic fundamentals dominate, but environmental vulnerabilities (floods, droughts, storms) and social/demographic factors (urbanization, migration) warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam in 2014 is a stable, emerging economy with strong growth, moderate debt, and no crises, so economic fundamentals dominate, but environmental vulnerabilities (floods, droughts, storms) and social/demographic factors (urbanization, migration) warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "7639d7b5d711dff4fd665a1950c0aa73",
+  "_iso3": "VNM",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

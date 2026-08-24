@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "ZAF is a stable middle-income economy with no active crises, moderate political stability, and mild environmental pressures, so short-term growth is driven primarily by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ZAF is a stable middle-income economy with no active crises, moderate political stability, and mild environmental pressures, so short-term growth is driven primarily by economic fundamentals.\"\n}",
+  "_cache_key": "e246e1e3f77311c98433d0e7942f21e5",
+  "_iso3": "ZAF",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

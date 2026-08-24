@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "THA is a stable, upper-middle-income economy with low inflation, low unemployment, and no current crises, so economic fundamentals dominate, but moderate political instability and environmental risks warrant modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"THA is a stable, upper-middle-income economy with low inflation, low unemployment, and no current crises, so economic fundamentals dominate, but moderate political instability and environmental risks warrant modest weights.\"\n}",
+  "_cache_key": "12687c30bfd6929dc1c3b6e30f19a075",
+  "_iso3": "THA",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

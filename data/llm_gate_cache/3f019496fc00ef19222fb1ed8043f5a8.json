@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces severe political instability, sanctions, and social unrest, while the economy is recovering from hyperinflation and crisis, so politics and human society weigh heavily alongside economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces severe political instability, sanctions, and social unrest, while the economy is recovering from hyperinflation and crisis, so politics and human society weigh heavily alongside economic fundamentals.\"\n}",
+  "_cache_key": "3f019496fc00ef19222fb1ed8043f5a8",
+  "_iso3": "ZWE",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

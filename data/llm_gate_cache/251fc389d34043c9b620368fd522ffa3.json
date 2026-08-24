@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Dominican Republic in 2011 shows moderate growth, low inflation, no active crises, and stable political conditions, so economic fundamentals dominate the short-term forecast, with minor weights for social and political factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Dominican Republic in 2011 shows moderate growth, low inflation, no active crises, and stable political conditions, so economic fundamentals dominate the short-term forecast, with minor weights for social and political factors.\"\n}",
+  "_cache_key": "251fc389d34043c9b620368fd522ffa3",
+  "_iso3": "DOM",
+  "_year": 2011,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

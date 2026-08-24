@@ -1,0 +1,14 @@
+{
+  "economy": 0.35000000000000003,
+  "politics": 0.30000000000000004,
+  "environment": 0.20000000000000004,
+  "human_society": 0.15000000000000002,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2008 faces high inflation, external imbalances, and political instability with sanctions and conflict, while climate vulnerabilities and low social trust add structural risks, so economic and political factors dominate but environment and society also matter over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.20,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Ethiopia in 2008 faces high inflation, external imbalances, and political instability with sanctions and conflict, while climate vulnerabilities and low social trust add structural risks, so economic and political factors dominate but environment and society also matter over a 5-year horizon.\"\n}",
+  "_cache_key": "259e71c5b9fbde8be7870e14356c4e13",
+  "_iso3": "ETH",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

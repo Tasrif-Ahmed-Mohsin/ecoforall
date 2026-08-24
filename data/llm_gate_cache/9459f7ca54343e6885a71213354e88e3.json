@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Uzbekistan in 2010 is a lower-middle-income, resource-dependent economy with moderate growth and low debt, but high political instability, repression, and social fear, making politics and social factors significant for the 5-year outlook, while environmental data is limited and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Uzbekistan in 2010 is a lower-middle-income, resource-dependent economy with moderate growth and low debt, but high political instability, repression, and social fear, making politics and social factors significant for the 5-year outlook, while environmental data is limited and less immediate.\"\n}",
+  "_cache_key": "9459f7ca54343e6885a71213354e88e3",
+  "_iso3": "UZB",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

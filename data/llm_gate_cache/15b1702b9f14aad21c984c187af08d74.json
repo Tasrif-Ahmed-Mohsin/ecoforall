@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "El Salvador in 2011 faces moderate macroeconomic imbalances (high debt, current account deficit, moderate inflation) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"El Salvador in 2011 faces moderate macroeconomic imbalances (high debt, current account deficit, moderate inflation) but no active crisis, while political instability and conflict indicators are elevated, warranting a significant but secondary political weight over a 5-year horizon.\"\n}",
+  "_cache_key": "15b1702b9f14aad21c984c187af08d74",
+  "_iso3": "SLV",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

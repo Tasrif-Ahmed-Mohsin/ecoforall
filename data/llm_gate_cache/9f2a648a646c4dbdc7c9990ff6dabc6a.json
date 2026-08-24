@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Stable high-income economy with low inflation, low debt, and moderate growth, but recent negative trajectory and mild political/social tensions warrant modest non-economic weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Stable high-income economy with low inflation, low debt, and moderate growth, but recent negative trajectory and mild political/social tensions warrant modest non-economic weights.\"\n}",
+  "_cache_key": "9f2a648a646c4dbdc7c9990ff6dabc6a",
+  "_iso3": "ARE",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

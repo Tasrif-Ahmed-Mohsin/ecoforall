@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Serbia's moderate growth, high unemployment, and external imbalances are key, but political instability, sanctions, and social tensions warrant significant weight, while environmental factors are minor over this horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Serbia's moderate growth, high unemployment, and external imbalances are key, but political instability, sanctions, and social tensions warrant significant weight, while environmental factors are minor over this horizon.\"\n}",
+  "_cache_key": "f6cea9e824b28cb7f59edd7d62199511",
+  "_iso3": "SRB",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.85,
+  "reasoning": "Lebanon in 2003 is a stable, high-income economy with no active crises, so economic fundamentals dominate, though high debt and external imbalances warrant moderate political and social attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Lebanon in 2003 is a stable, high-income economy with no active crises, so economic fundamentals dominate, though high debt and external imbalances warrant moderate political and social attention.\"\n}",
+  "_cache_key": "504ed351bcf2ee20fc10f4ed6933689c",
+  "_iso3": "LBN",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE faces severe political instability, high protest and conflict intensity, and sanctions, which alongside a large current account deficit and moderate inflation, will likely dominate growth prospects, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE faces severe political instability, high protest and conflict intensity, and sanctions, which alongside a large current account deficit and moderate inflation, will likely dominate growth prospects, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "0c158c732f258255acdcb67d24cd6874",
+  "_iso3": "SLE",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

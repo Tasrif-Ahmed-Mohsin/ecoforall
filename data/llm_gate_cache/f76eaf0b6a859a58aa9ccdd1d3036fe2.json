@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia in 2012 is a stable, non-crisis economy with moderate debt and high unemployment, so economic fundamentals dominate, but political instability and social tensions warrant modest weights.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Croatia in 2012 is a stable, non-crisis economy with moderate debt and high unemployment, so economic fundamentals dominate, but political instability and social tensions warrant modest weights.\"\n}",
+  "_cache_key": "f76eaf0b6a859a58aa9ccdd1d3036fe2",
+  "_iso3": "HRV",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

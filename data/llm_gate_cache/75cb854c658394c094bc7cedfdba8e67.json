@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Given the high political instability, sanctions, and conflict intensity, politics is a major drag on growth, while the large current account deficit and moderate debt levels make the economy vulnerable, with social unrest adding secondary pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Given the high political instability, sanctions, and conflict intensity, politics is a major drag on growth, while the large current account deficit and moderate debt levels make the economy vulnerable, with social unrest adding secondary pressure.\"\n}",
+  "_cache_key": "75cb854c658394c094bc7cedfdba8e67",
+  "_iso3": "NAM",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

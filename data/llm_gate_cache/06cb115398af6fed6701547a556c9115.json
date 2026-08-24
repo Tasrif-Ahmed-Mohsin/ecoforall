@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MNG is a middle-income, open economy with high investment and large current account deficit, making short-term growth highly sensitive to economic fundamentals, while moderate political instability and social tensions add secondary risks.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MNG is a middle-income, open economy with high investment and large current account deficit, making short-term growth highly sensitive to economic fundamentals, while moderate political instability and social tensions add secondary risks.\"\n}",
+  "_cache_key": "06cb115398af6fed6701547a556c9115",
+  "_iso3": "MNG",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

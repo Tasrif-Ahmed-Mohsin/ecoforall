@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "Mozambique's extreme external imbalance and high investment dependence make economic factors dominant, but political instability, high protest pressure, and low institutional trust warrant substantial political and social weights, while environmental data is too limited to assign more.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Mozambique's extreme external imbalance and high investment dependence make economic factors dominant, but political instability, high protest pressure, and low institutional trust warrant substantial political and social weights, while environmental data is too limited to assign more.\"\n}",
+  "_cache_key": "7649f5af3d30a454bb987fd7afd43025",
+  "_iso3": "MOZ",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

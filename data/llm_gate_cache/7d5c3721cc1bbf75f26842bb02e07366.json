@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Despite high inflation and a large current account deficit, the absence of active crises and a stable political environment make economic factors dominant for short-term growth, with moderate political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Despite high inflation and a large current account deficit, the absence of active crises and a stable political environment make economic factors dominant for short-term growth, with moderate political risk from sanctions and protests.\"\n}",
+  "_cache_key": "7d5c3721cc1bbf75f26842bb02e07366",
+  "_iso3": "DJI",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

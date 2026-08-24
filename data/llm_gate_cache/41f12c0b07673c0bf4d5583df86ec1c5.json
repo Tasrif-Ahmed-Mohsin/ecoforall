@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan shows moderate economic imbalances (high debt, unemployment, current account deficit) but no active crises, so economy dominates, with modest political and social risks from protests and low trust, while environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan shows moderate economic imbalances (high debt, unemployment, current account deficit) but no active crises, so economy dominates, with modest political and social risks from protests and low trust, while environmental data is too limited to matter.\"\n}",
+  "_cache_key": "41f12c0b07673c0bf4d5583df86ec1c5",
+  "_iso3": "JOR",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

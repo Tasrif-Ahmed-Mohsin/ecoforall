@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Turkey in 2004 shows moderate economic imbalances (current account deficit, moderate debt) but no active crises, while political instability and sanctions pressure warrant a notable political weight, with environmental and social factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Turkey in 2004 shows moderate economic imbalances (current account deficit, moderate debt) but no active crises, while political instability and sanctions pressure warrant a notable political weight, with environmental and social factors playing secondary roles.\"\n}",
+  "_cache_key": "c77ed3810d43932400a5b709ad924479",
+  "_iso3": "TUR",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

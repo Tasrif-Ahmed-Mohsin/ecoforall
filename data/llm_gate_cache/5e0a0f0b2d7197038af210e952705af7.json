@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ecuador's economy is stable with moderate growth, low debt, and no crises, but political instability and social tensions warrant modest weights for politics and human_society, while environmental factors are less relevant given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ecuador's economy is stable with moderate growth, low debt, and no crises, but political instability and social tensions warrant modest weights for politics and human_society, while environmental factors are less relevant given limited data.\"\n}",
+  "_cache_key": "5e0a0f0b2d7197038af210e952705af7",
+  "_iso3": "ECU",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

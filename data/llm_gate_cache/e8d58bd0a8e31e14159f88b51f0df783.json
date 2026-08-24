@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF faces moderate economic stagnation with high unemployment and debt, but no acute crises, so economic factors dominate while political and social tensions warrant secondary attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF faces moderate economic stagnation with high unemployment and debt, but no acute crises, so economic factors dominate while political and social tensions warrant secondary attention.\"\n}",
+  "_cache_key": "e8d58bd0a8e31e14159f88b51f0df783",
+  "_iso3": "ZAF",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

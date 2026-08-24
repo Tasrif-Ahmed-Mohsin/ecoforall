@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bangladesh is in a stable growth phase with moderate inflation and no crises, so economic fundamentals dominate, but political tensions and social pressures warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bangladesh is in a stable growth phase with moderate inflation and no crises, so economic fundamentals dominate, but political tensions and social pressures warrant moderate attention.\"\n}",
+  "_cache_key": "e48e541e7a41646848a0cf4b6897d35e",
+  "_iso3": "BGD",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

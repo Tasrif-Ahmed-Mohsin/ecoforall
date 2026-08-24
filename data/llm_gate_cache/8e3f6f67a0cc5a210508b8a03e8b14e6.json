@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mozambique is a low-income, aid-dependent economy with high inflation, large current account deficit, and moderate debt, but recent growth is positive and stable, while political stability is moderate with some conflict and social unrest, making economic fundamentals the primary driver but politics and social factors also relevant.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Mozambique is a low-income, aid-dependent economy with high inflation, large current account deficit, and moderate debt, but recent growth is positive and stable, while political stability is moderate with some conflict and social unrest, making economic fundamentals the primary driver but politics and social factors also relevant.\"\n}",
+  "_cache_key": "8e3f6f67a0cc5a210508b8a03e8b14e6",
+  "_iso3": "MOZ",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

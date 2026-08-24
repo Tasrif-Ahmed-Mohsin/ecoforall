@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Mexico is recovering from a severe recession with high political instability and moderate social stress, but no major environmental shocks, so economic fundamentals dominate while political risk and social factors warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mexico is recovering from a severe recession with high political instability and moderate social stress, but no major environmental shocks, so economic fundamentals dominate while political risk and social factors warrant notable weight.\"\n}",
+  "_cache_key": "02d0ebcce7b345fb3367b7d658e48327",
+  "_iso3": "MEX",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

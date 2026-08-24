@@ -1,0 +1,14 @@
+{
+  "economy": 0.7894736842105262,
+  "politics": 0.10526315789473684,
+  "environment": 0.05263157894736842,
+  "human_society": 0.05263157894736842,
+  "confidence": 0.05,
+  "reasoning": "Israel is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, with minor adjustments for political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.05,\n  \"reasoning\": \"Israel is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, with minor adjustments for political and social factors.\"\n}",
+  "_cache_key": "7c503331dafcca3ded60d3f37c7ad001",
+  "_iso3": "ISR",
+  "_year": 2017,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

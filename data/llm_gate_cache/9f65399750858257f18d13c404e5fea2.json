@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Mexico in 2010 is a stable, middle-income economy with no active crises, so economic fundamentals dominate, but moderate political instability and social tensions warrant some weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mexico in 2010 is a stable, middle-income economy with no active crises, so economic fundamentals dominate, but moderate political instability and social tensions warrant some weight.\"\n}",
+  "_cache_key": "9f65399750858257f18d13c404e5fea2",
+  "_iso3": "MEX",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

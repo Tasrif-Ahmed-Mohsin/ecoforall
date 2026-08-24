@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Egypt faces moderate economic imbalances (high debt, inflation, current account deficit) and political instability (protests, conflicts, sanctions), but no acute crisis, so economy dominates while politics and social/environmental factors play secondary roles over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Egypt faces moderate economic imbalances (high debt, inflation, current account deficit) and political instability (protests, conflicts, sanctions), but no acute crisis, so economy dominates while politics and social/environmental factors play secondary roles over the 5-year horizon.\"\n}",
+  "_cache_key": "b311f12e7621456d2ab8eee5c255a983",
+  "_iso3": "EGY",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK faces high inflation, external imbalances, and weak recent growth, but no acute crisis, so economic fundamentals dominate, while moderate political instability, environmental vulnerabilities, and social strains warrant secondary weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"PAK faces high inflation, external imbalances, and weak recent growth, but no acute crisis, so economic fundamentals dominate, while moderate political instability, environmental vulnerabilities, and social strains warrant secondary weights.\"\n}",
+  "_cache_key": "82689ef6bb1c004dbe02e2aa5db1d6a5",
+  "_iso3": "PAK",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a high-income, stable economy with moderate inflation, low debt, and strong external surplus, so near-term growth is driven primarily by economic fundamentals, with only minor political or social risks.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a high-income, stable economy with moderate inflation, low debt, and strong external surplus, so near-term growth is driven primarily by economic fundamentals, with only minor political or social risks.\"\n}",
+  "_cache_key": "6b914678166cf165b4693770340145d7",
+  "_iso3": "BHR",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

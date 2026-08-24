@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Dominican Republic faces simultaneous banking, currency, and debt crises with high inflation and negative growth, making economic factors critical, but political instability and social stress also weigh heavily on the 5-year outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Dominican Republic faces simultaneous banking, currency, and debt crises with high inflation and negative growth, making economic factors critical, but political instability and social stress also weigh heavily on the 5-year outlook.\"\n}",
+  "_cache_key": "29b4fef4e3c8e87441f68553290bc1d9",
+  "_iso3": "DOM",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

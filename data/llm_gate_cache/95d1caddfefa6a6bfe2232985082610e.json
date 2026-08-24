@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Dominican Republic shows moderate economic volatility with high inflation and external deficits, but political stability is moderate with some protest pressure and social trust issues, making economy and human_society the primary drivers over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Dominican Republic shows moderate economic volatility with high inflation and external deficits, but political stability is moderate with some protest pressure and social trust issues, making economy and human_society the primary drivers over a 3-year horizon.\"\n}",
+  "_cache_key": "95d1caddfefa6a6bfe2232985082610e",
+  "_iso3": "DOM",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

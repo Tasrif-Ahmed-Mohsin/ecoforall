@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "BTN faces severe external imbalances and high debt, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social data are too limited to assign higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"BTN faces severe external imbalances and high debt, but political instability and conflict indicators are elevated, warranting a significant political weight, while environmental and social data are too limited to assign higher weights.\"\n}",
+  "_cache_key": "7b054e1fe21626e164230c36f3450171",
+  "_iso3": "BTN",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

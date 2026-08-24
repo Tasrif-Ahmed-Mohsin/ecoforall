@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Philippines in 2005 faces moderate inflation, high debt, and unemployment, but no acute crises, so economic fundamentals dominate, with political instability and social tensions adding moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Philippines in 2005 faces moderate inflation, high debt, and unemployment, but no acute crises, so economic fundamentals dominate, with political instability and social tensions adding moderate risk.\"\n}",
+  "_cache_key": "a00e30d66829f824ae6e14c08c11f602",
+  "_iso3": "PHL",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

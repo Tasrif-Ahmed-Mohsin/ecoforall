@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Estonia's economy is relatively stable with moderate growth and low debt, but political instability and sanctions pressure warrant a significant political weight, while environmental and social factors are less critical over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Estonia's economy is relatively stable with moderate growth and low debt, but political instability and sanctions pressure warrant a significant political weight, while environmental and social factors are less critical over this short horizon.\"\n}",
+  "_cache_key": "a0f3c97d4a6f363afe3cd0568f95d915",
+  "_iso3": "EST",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

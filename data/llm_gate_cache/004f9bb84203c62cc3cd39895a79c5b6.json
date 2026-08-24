@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "France is a stable, high-income economy with moderate debt and unemployment, no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"France is a stable, high-income economy with moderate debt and unemployment, no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "004f9bb84203c62cc3cd39895a79c5b6",
+  "_iso3": "FRA",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

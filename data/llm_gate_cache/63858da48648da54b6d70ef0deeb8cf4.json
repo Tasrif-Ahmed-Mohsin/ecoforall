@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.55,
+  "reasoning": "ZWE faces moderate political instability and sanctions, weak investment, and low social trust, but no major environmental shocks, so economic fundamentals and political risks dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.55,\n  \"reasoning\": \"ZWE faces moderate political instability and sanctions, weak investment, and low social trust, but no major environmental shocks, so economic fundamentals and political risks dominate the short-term outlook.\"\n}",
+  "_cache_key": "63858da48648da54b6d70ef0deeb8cf4",
+  "_iso3": "ZWE",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "IDN is a stable, middle-income economy with moderate debt and investment, but faces notable environmental vulnerabilities (disasters, climate) and social pressures, so while economic fundamentals dominate, structural risks warrant meaningful weights for environment and society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"IDN is a stable, middle-income economy with moderate debt and investment, but faces notable environmental vulnerabilities (disasters, climate) and social pressures, so while economic fundamentals dominate, structural risks warrant meaningful weights for environment and society over a 5-year horizon.\"\n}",
+  "_cache_key": "4aa9c5a847261e8489287bd7606bae60",
+  "_iso3": "IDN",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

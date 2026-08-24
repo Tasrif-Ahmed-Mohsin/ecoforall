@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, moderately unstable economy with high debt, negative current account, and recent weak growth, so economic fundamentals dominate, but political instability and sanctions risk warrant a substantial political weight, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GMB is a low-income, moderately unstable economy with high debt, negative current account, and recent weak growth, so economic fundamentals dominate, but political instability and sanctions risk warrant a substantial political weight, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "628e305ba5845b16dbcdb6200c03ce0c",
+  "_iso3": "GMB",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

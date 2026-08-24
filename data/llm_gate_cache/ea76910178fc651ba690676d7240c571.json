@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "BHR is a stable, high-income economy with moderate inflation, low debt, strong investment, and a large current account surplus, while political indicators show no severe crisis, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"BHR is a stable, high-income economy with moderate inflation, low debt, strong investment, and a large current account surplus, while political indicators show no severe crisis, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "ea76910178fc651ba690676d7240c571",
+  "_iso3": "BHR",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

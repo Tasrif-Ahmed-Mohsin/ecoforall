@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "LUX is a stable, high-income economy with a banking crisis (which is already reflected in the economic indicators) but no major political, environmental, or social shocks, so economic factors dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LUX is a stable, high-income economy with a banking crisis (which is already reflected in the economic indicators) but no major political, environmental, or social shocks, so economic factors dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "91bc446d415e6afadfce68e5a70336b9",
+  "_iso3": "LUX",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

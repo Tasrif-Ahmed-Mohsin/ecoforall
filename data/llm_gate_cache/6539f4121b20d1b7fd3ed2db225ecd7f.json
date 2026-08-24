@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "GNB faces severe macroeconomic imbalances (high debt, high inflation, large current account deficit, low investment) and moderate political instability, but no acute crisis, so economic factors dominate while political and social risks are elevated.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"GNB faces severe macroeconomic imbalances (high debt, high inflation, large current account deficit, low investment) and moderate political instability, but no acute crisis, so economic factors dominate while political and social risks are elevated.\"\n}",
+  "_cache_key": "6539f4121b20d1b7fd3ed2db225ecd7f",
+  "_iso3": "GNB",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

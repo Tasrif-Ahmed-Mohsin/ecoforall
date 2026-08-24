@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Despite the ongoing banking crisis, the US is a stable high-income economy with no political or environmental shocks, so economic factors dominate the near-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Despite the ongoing banking crisis, the US is a stable high-income economy with no political or environmental shocks, so economic factors dominate the near-term growth outlook.\"\n}",
+  "_cache_key": "297cdddfa4eb074a1b178db7babe5c90",
+  "_iso3": "USA",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

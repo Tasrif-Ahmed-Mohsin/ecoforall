@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "C\u00f4te d'Ivoire is emerging from a severe political-military crisis (low stability, high conflict, sanctions, negative growth) with weak institutions and social trust, making political and social recovery critical for medium-term growth, while economic fundamentals are fragile but not the primary driver.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"C\u00f4te d'Ivoire is emerging from a severe political-military crisis (low stability, high conflict, sanctions, negative growth) with weak institutions and social trust, making political and social recovery critical for medium-term growth, while economic fundamentals are fragile but not the primary driver.\"\n}",
+  "_cache_key": "c00735dcbde5121fdc08ef07df754407",
+  "_iso3": "CIV",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

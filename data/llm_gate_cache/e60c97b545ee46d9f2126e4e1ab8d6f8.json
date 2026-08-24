@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "In a stable, high-income economy with no major crises, economic fundamentals dominate the 5-year growth outlook, while political, environmental, and social factors play only modest supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"In a stable, high-income economy with no major crises, economic fundamentals dominate the 5-year growth outlook, while political, environmental, and social factors play only modest supporting roles.\"\n}",
+  "_cache_key": "e60c97b545ee46d9f2126e4e1ab8d6f8",
+  "_iso3": "USA",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

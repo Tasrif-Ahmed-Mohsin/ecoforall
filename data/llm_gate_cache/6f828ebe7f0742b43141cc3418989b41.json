@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bulgaria in 2008 is a stable, upper-middle-income EU member with high growth and investment but a large current account deficit and moderate inflation, so economic factors dominate, while political and social stability are supportive but not crisis-driven, and environmental data is too limited to matter.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bulgaria in 2008 is a stable, upper-middle-income EU member with high growth and investment but a large current account deficit and moderate inflation, so economic factors dominate, while political and social stability are supportive but not crisis-driven, and environmental data is too limited to matter.\"\n}",
+  "_cache_key": "6f828ebe7f0742b43141cc3418989b41",
+  "_iso3": "BGR",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

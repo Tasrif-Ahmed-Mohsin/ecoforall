@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB has moderate debt and inflation but no acute crisis, so economic fundamentals dominate, while political instability and protest pressure warrant a notable but secondary weight, with longer-horizon structural factors slightly elevating non-economic domains.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB has moderate debt and inflation but no acute crisis, so economic fundamentals dominate, while political instability and protest pressure warrant a notable but secondary weight, with longer-horizon structural factors slightly elevating non-economic domains.\"\n}",
+  "_cache_key": "dd0096e9e273b8e5d8214350cc664b94",
+  "_iso3": "ZMB",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

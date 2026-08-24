@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BRB is a high-income economy with moderate growth and inflation, but significant political instability, sanctions, and external imbalances elevate political risk, while environmental and social factors appear less binding over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BRB is a high-income economy with moderate growth and inflation, but significant political instability, sanctions, and external imbalances elevate political risk, while environmental and social factors appear less binding over a 1-year horizon.\"\n}",
+  "_cache_key": "0778e4334af8857e0c3d7d5d98eaeef7",
+  "_iso3": "BRB",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

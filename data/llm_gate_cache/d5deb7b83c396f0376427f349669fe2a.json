@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Malaysia in 2015 is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and positive growth trajectory, so economic fundamentals dominate the short-term forecast, with minor roles for political stability, social conditions, and environmental factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Malaysia in 2015 is a stable, upper-middle-income economy with no ongoing crises, moderate debt, and positive growth trajectory, so economic fundamentals dominate the short-term forecast, with minor roles for political stability, social conditions, and environmental factors.\"\n}",
+  "_cache_key": "d5deb7b83c396f0376427f349669fe2a",
+  "_iso3": "MYS",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

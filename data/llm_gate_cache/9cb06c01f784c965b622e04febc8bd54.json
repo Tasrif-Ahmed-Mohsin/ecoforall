@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "IDN is a stable emerging economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the 1-year outlook, while political, environmental, and social factors are secondary but non-negligible due to moderate protest pressure and disaster exposure.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"IDN is a stable emerging economy with moderate inflation, manageable debt, and no ongoing crises, so economic fundamentals dominate the 1-year outlook, while political, environmental, and social factors are secondary but non-negligible due to moderate protest pressure and disaster exposure.\"\n}",
+  "_cache_key": "9cb06c01f784c965b622e04febc8bd54",
+  "_iso3": "IDN",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

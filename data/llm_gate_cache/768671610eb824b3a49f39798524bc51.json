@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Croatia is a stable, high-income EU member with moderate debt and low inflation, but high unemployment and political instability (negative stability index, protests, sanctions) warrant a significant political weight, while social factors like low trust and demographic shifts add moderate influence.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Croatia is a stable, high-income EU member with moderate debt and low inflation, but high unemployment and political instability (negative stability index, protests, sanctions) warrant a significant political weight, while social factors like low trust and demographic shifts add moderate influence.\"\n}",
+  "_cache_key": "768671610eb824b3a49f39798524bc51",
+  "_iso3": "HRV",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

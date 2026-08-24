@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "ZAF faces high unemployment, moderate inflation, and political instability, but no acute crisis, so economic fundamentals dominate while political and social risks are notable but secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZAF faces high unemployment, moderate inflation, and political instability, but no acute crisis, so economic fundamentals dominate while political and social risks are notable but secondary.\"\n}",
+  "_cache_key": "704e6bb23a05d3f623f71b364c19f502",
+  "_iso3": "ZAF",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

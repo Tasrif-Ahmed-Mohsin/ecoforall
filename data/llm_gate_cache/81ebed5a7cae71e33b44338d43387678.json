@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan's high current account surplus, low debt, and moderate inflation suggest a stable macroeconomic base, but political instability, sanctions, and conflict risk warrant a significant political weight, while social tensions and low trust add moderate human_society influence.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan's high current account surplus, low debt, and moderate inflation suggest a stable macroeconomic base, but political instability, sanctions, and conflict risk warrant a significant political weight, while social tensions and low trust add moderate human_society influence.\"\n}",
+  "_cache_key": "81ebed5a7cae71e33b44338d43387678",
+  "_iso3": "AZE",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

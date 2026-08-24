@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.65,
+  "reasoning": "Mozambique faces severe external imbalances and a currency crisis, but political instability and social fragility also weigh heavily on growth prospects, while environmental factors are less salient given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Mozambique faces severe external imbalances and a currency crisis, but political instability and social fragility also weigh heavily on growth prospects, while environmental factors are less salient given limited data.\"\n}",
+  "_cache_key": "e6061ea124cd849bc4f180d51e67bddf",
+  "_iso3": "MOZ",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

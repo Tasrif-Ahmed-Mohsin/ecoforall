@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Ukraine in 2016 faces ongoing conflict, sanctions, and political instability, but the economy is recovering from a deep recession with moderate inflation and debt, so economic fundamentals and political risks dominate, while social factors like low trust and high protest pressure add secondary drag.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Ukraine in 2016 faces ongoing conflict, sanctions, and political instability, but the economy is recovering from a deep recession with moderate inflation and debt, so economic fundamentals and political risks dominate, while social factors like low trust and high protest pressure add secondary drag.\"\n}",
+  "_cache_key": "9409e9e8a6cb5c5d114ef0667592e35b",
+  "_iso3": "UKR",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

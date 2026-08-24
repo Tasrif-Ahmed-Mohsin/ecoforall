@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TCD is a low-income, politically fragile country with moderate instability and protests, but no active banking or currency crisis, so economic fundamentals dominate while political risks warrant a substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TCD is a low-income, politically fragile country with moderate instability and protests, but no active banking or currency crisis, so economic fundamentals dominate while political risks warrant a substantial weight.\"\n}",
+  "_cache_key": "f71bf7e97004d8f52f852145870be90f",
+  "_iso3": "TCD",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Poland faces high inflation, a negative current account, and moderate debt, but the dominant near-term risk is severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) which can disrupt investment and growth, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Poland faces high inflation, a negative current account, and moderate debt, but the dominant near-term risk is severe political instability (very low stability, high conflict, sanctions, negative Goldstein index) which can disrupt investment and growth, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "680813601c2a52f882c25677bad26367",
+  "_iso3": "POL",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

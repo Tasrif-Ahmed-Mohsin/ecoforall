@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "MAR faces moderate economic imbalances (high debt, current account deficit, moderate inflation) and significant political instability (very low stability, high conflict and sanctions), while social indicators show low trust and cohesion but moderate optimism, making economy and politics the primary drivers over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"MAR faces moderate economic imbalances (high debt, current account deficit, moderate inflation) and significant political instability (very low stability, high conflict and sanctions), while social indicators show low trust and cohesion but moderate optimism, making economy and politics the primary drivers over the 5-year horizon.\"\n}",
+  "_cache_key": "62b81d65932b20be3a90f80de8757585",
+  "_iso3": "MAR",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

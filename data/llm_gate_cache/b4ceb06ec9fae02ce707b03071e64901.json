@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Brazil's high debt, unemployment, and negative recent growth dominate the short-term outlook, while moderate political instability and social stress add secondary risks, with environmental factors less binding over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Brazil's high debt, unemployment, and negative recent growth dominate the short-term outlook, while moderate political instability and social stress add secondary risks, with environmental factors less binding over a one-year horizon.\"\n}",
+  "_cache_key": "b4ceb06ec9fae02ce707b03071e64901",
+  "_iso3": "BRA",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

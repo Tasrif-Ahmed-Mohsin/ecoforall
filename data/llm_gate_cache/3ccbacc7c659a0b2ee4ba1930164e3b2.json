@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Albania in 2016 shows moderate growth, high unemployment, and external imbalances, but political instability and conflict indicators are elevated, warranting a significant political weight for a 1-year forecast.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Albania in 2016 shows moderate growth, high unemployment, and external imbalances, but political instability and conflict indicators are elevated, warranting a significant political weight for a 1-year forecast.\"\n}",
+  "_cache_key": "3ccbacc7c659a0b2ee4ba1930164e3b2",
+  "_iso3": "ALB",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

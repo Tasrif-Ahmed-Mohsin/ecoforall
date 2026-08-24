@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "CIV has moderate growth and low inflation but faces significant political instability, high protest pressure, and negative sentiment, while social trust is low and optimism is moderate, making politics and human society key risks alongside the still-dominant economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"CIV has moderate growth and low inflation but faces significant political instability, high protest pressure, and negative sentiment, while social trust is low and optimism is moderate, making politics and human society key risks alongside the still-dominant economic fundamentals.\"\n}",
+  "_cache_key": "6645132fcaa54d1d614468fb51a16c88",
+  "_iso3": "CIV",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

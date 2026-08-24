@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Russia in 2005 is a stable, upper-middle-income economy with strong growth and no active crises, but political risks (sanctions, conflict intensity) and moderate social/structural factors warrant a slightly higher non-economic weight than a purely stable high-income case.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Russia in 2005 is a stable, upper-middle-income economy with strong growth and no active crises, but political risks (sanctions, conflict intensity) and moderate social/structural factors warrant a slightly higher non-economic weight than a purely stable high-income case.\"\n}",
+  "_cache_key": "e6dc582973ebef9f219a7097a50c3799",
+  "_iso3": "RUS",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

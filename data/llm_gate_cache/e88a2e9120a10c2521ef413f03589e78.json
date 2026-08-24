@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "High political instability, sanctions, and social unrest combined with moderate debt and unemployment make politics and human society key drivers, while the economy remains central but less dominant due to the ongoing crisis.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"High political instability, sanctions, and social unrest combined with moderate debt and unemployment make politics and human society key drivers, while the economy remains central but less dominant due to the ongoing crisis.\"\n}",
+  "_cache_key": "e88a2e9120a10c2521ef413f03589e78",
+  "_iso3": "MMR",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

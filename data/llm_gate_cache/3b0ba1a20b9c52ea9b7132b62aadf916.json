@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Philippines is a stable, emerging economy with moderate growth, low crisis indicators, and manageable debt, but faces notable environmental risks (disasters, climate) and social pressures (protests, low trust) that warrant modest weights beyond the core economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Philippines is a stable, emerging economy with moderate growth, low crisis indicators, and manageable debt, but faces notable environmental risks (disasters, climate) and social pressures (protests, low trust) that warrant modest weights beyond the core economic fundamentals.\"\n}",
+  "_cache_key": "3b0ba1a20b9c52ea9b7132b62aadf916",
+  "_iso3": "PHL",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

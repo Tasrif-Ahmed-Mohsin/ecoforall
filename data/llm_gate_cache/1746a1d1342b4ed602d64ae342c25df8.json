@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt, high inflation, and negative recent growth dominate the outlook, but elevated political instability, protests, and sanctions add significant political risk, while environmental and social factors are less critical given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, high inflation, and negative recent growth dominate the outlook, but elevated political instability, protests, and sanctions add significant political risk, while environmental and social factors are less critical given limited data.\"\n}",
+  "_cache_key": "1746a1d1342b4ed602d64ae342c25df8",
+  "_iso3": "ERI",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

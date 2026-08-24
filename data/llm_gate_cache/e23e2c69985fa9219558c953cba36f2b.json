@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "ZWE faces extreme inflation, high debt, and negative growth, but the severe political instability, sanctions, and social unrest are equally critical for near-term GDP per capita growth.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"ZWE faces extreme inflation, high debt, and negative growth, but the severe political instability, sanctions, and social unrest are equally critical for near-term GDP per capita growth.\"\n}",
+  "_cache_key": "e23e2c69985fa9219558c953cba36f2b",
+  "_iso3": "ZWE",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Australia is a stable, high-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Australia is a stable, high-income economy with moderate growth, low inflation, and no major political or environmental shocks, so economic fundamentals dominate the forecast.\"\n}",
+  "_cache_key": "c83e3e610ccc9221626d41813f164498",
+  "_iso3": "AUS",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

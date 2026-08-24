@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya in 2010 is a lower-middle-income economy with moderate growth, no active crises, but high current account deficit and moderate political instability, so economic fundamentals dominate while political, environmental, and social factors each play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Kenya in 2010 is a lower-middle-income economy with moderate growth, no active crises, but high current account deficit and moderate political instability, so economic fundamentals dominate while political, environmental, and social factors each play a secondary role.\"\n}",
+  "_cache_key": "91c88c7c22911d10d538b221f715ae5c",
+  "_iso3": "KEN",
+  "_year": 2010,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

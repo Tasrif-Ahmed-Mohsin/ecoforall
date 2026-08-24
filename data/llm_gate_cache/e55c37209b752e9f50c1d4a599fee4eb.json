@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic instability with high unemployment and inflation, but no major political or environmental shocks, so economy dominates while structural factors like climate and social trust gain importance over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic instability with high unemployment and inflation, but no major political or environmental shocks, so economy dominates while structural factors like climate and social trust gain importance over a 5-year horizon.\"\n}",
+  "_cache_key": "e55c37209b752e9f50c1d4a599fee4eb",
+  "_iso3": "COL",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

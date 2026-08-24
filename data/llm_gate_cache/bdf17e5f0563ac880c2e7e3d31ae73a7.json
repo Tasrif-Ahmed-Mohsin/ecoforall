@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "Fiji faces moderate political instability and high external imbalances, but no acute crisis, so near-term growth is primarily driven by economic fundamentals with a notable political risk premium.",
+  "_raw_response": "{\n  \"economy\": 0.7,\n  \"politics\": 0.2,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Fiji faces moderate political instability and high external imbalances, but no acute crisis, so near-term growth is primarily driven by economic fundamentals with a notable political risk premium.\"\n}",
+  "_cache_key": "bdf17e5f0563ac880c2e7e3d31ae73a7",
+  "_iso3": "FJI",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Brazil is in a currency crisis with negative recent growth and high inflation, making economic factors dominant, but political instability and social stress also weigh on the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Brazil is in a currency crisis with negative recent growth and high inflation, making economic factors dominant, but political instability and social stress also weigh on the short-term outlook.\"\n}",
+  "_cache_key": "4e80692a9abadd94567c5e9a97c179e6",
+  "_iso3": "BRA",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

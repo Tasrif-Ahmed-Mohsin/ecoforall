@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "Denmark is a stable, high-income economy with no ongoing crises, strong institutions, and moderate growth, so near-term GDP growth is overwhelmingly driven by standard economic factors.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Denmark is a stable, high-income economy with no ongoing crises, strong institutions, and moderate growth, so near-term GDP growth is overwhelmingly driven by standard economic factors.\"\n}",
+  "_cache_key": "959460bb37945258d1b30ff51aa4911a",
+  "_iso3": "DNK",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

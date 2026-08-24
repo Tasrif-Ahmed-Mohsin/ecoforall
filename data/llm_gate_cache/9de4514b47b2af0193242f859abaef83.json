@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Mauritania faces moderate political instability and sanctions, but the dominant driver is its large external deficit and high investment dependence, making economic vulnerabilities the primary near-term growth constraint.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mauritania faces moderate political instability and sanctions, but the dominant driver is its large external deficit and high investment dependence, making economic vulnerabilities the primary near-term growth constraint.\"\n}",
+  "_cache_key": "9de4514b47b2af0193242f859abaef83",
+  "_iso3": "MRT",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

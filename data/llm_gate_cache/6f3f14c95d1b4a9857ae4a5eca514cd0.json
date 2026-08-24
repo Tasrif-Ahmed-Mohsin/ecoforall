@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Mozambique shows moderate growth with high inflation and external deficits, but political instability and social tensions (protests, low trust) warrant significant weight on politics and human_society, while environment is less relevant given limited data.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Mozambique shows moderate growth with high inflation and external deficits, but political instability and social tensions (protests, low trust) warrant significant weight on politics and human_society, while environment is less relevant given limited data.\"\n}",
+  "_cache_key": "6f3f14c95d1b4a9857ae4a5eca514cd0",
+  "_iso3": "MOZ",
+  "_year": 2006,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

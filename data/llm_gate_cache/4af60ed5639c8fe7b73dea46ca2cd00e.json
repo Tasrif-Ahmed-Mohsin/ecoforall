@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Lebanon's high debt, large current account deficit, and moderate growth are the primary drivers, but elevated political instability, protests, and sanctions risk warrant a significant political weight, while social trust and cohesion are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Lebanon's high debt, large current account deficit, and moderate growth are the primary drivers, but elevated political instability, protests, and sanctions risk warrant a significant political weight, while social trust and cohesion are secondary.\"\n}",
+  "_cache_key": "4af60ed5639c8fe7b73dea46ca2cd00e",
+  "_iso3": "LBN",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

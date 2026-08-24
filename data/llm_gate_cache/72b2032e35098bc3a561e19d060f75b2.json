@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability, sanctions, and protests, combined with high external deficits and investment dependence, elevate political risk, while the economy remains the primary driver given moderate growth and inflation.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability, sanctions, and protests, combined with high external deficits and investment dependence, elevate political risk, while the economy remains the primary driver given moderate growth and inflation.\"\n}",
+  "_cache_key": "72b2032e35098bc3a561e19d060f75b2",
+  "_iso3": "DZA",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

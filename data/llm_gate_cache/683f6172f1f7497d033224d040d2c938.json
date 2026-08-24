@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic fundamentals with high unemployment and political instability (negative stability, sanctions, conflicts) warrant a significant but not dominant economic weight, while social stress and low trust add human_society risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate economic fundamentals with high unemployment and political instability (negative stability, sanctions, conflicts) warrant a significant but not dominant economic weight, while social stress and low trust add human_society risk.\"\n}",
+  "_cache_key": "683f6172f1f7497d033224d040d2c938",
+  "_iso3": "MAR",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Despite moderate economic fundamentals, high political instability, protests, and sanctions signal significant political risk that could disrupt growth over the next five years, while environmental factors are negligible.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Despite moderate economic fundamentals, high political instability, protests, and sanctions signal significant political risk that could disrupt growth over the next five years, while environmental factors are negligible.\"\n}",
+  "_cache_key": "8dd32f6e5c3079d14a1c2975dd530b4e",
+  "_iso3": "BEN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "LKA is a stable, middle-income economy with moderate debt and external imbalances, but no major political, environmental, or social crises, so near-term growth is primarily driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"LKA is a stable, middle-income economy with moderate debt and external imbalances, but no major political, environmental, or social crises, so near-term growth is primarily driven by economic fundamentals.\"\n}",
+  "_cache_key": "be6643f3d478738958fe31ca81198f68",
+  "_iso3": "LKA",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

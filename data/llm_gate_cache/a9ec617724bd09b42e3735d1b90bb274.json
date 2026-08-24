@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LBY faces severe macroeconomic imbalances (high inflation, large current account deficit, low investment) and political instability (very low stability, high protests, sanctions), making both economy and politics critical, while environmental and social data are limited and less immediate.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBY faces severe macroeconomic imbalances (high inflation, large current account deficit, low investment) and political instability (very low stability, high protests, sanctions), making both economy and politics critical, while environmental and social data are limited and less immediate.\"\n}",
+  "_cache_key": "a9ec617724bd09b42e3735d1b90bb274",
+  "_iso3": "LBY",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

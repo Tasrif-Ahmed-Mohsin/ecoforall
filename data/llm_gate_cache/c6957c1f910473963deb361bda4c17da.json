@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "PAK is a lower-middle-income economy with moderate debt, high unemployment, and external imbalances, but no acute crises, so economic fundamentals dominate while political instability and social tensions add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"PAK is a lower-middle-income economy with moderate debt, high unemployment, and external imbalances, but no acute crises, so economic fundamentals dominate while political instability and social tensions add moderate risk.\"\n}",
+  "_cache_key": "c6957c1f910473963deb361bda4c17da",
+  "_iso3": "PAK",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

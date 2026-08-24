@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "GBR in 2007 is a stable, high-income economy with no ongoing crises, so short-term GDP growth is overwhelmingly driven by macroeconomic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"GBR in 2007 is a stable, high-income economy with no ongoing crises, so short-term GDP growth is overwhelmingly driven by macroeconomic fundamentals.\"\n}",
+  "_cache_key": "9adb66286758534d0c839f17312ac5b3",
+  "_iso3": "GBR",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

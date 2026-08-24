@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Malaysia in 2003 is a stable, upper-middle-income economy with no ongoing crises, strong external position, and moderate growth, so economic fundamentals dominate the short-term outlook, with minor roles for political stability and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Malaysia in 2003 is a stable, upper-middle-income economy with no ongoing crises, strong external position, and moderate growth, so economic fundamentals dominate the short-term outlook, with minor roles for political stability and social factors.\"\n}",
+  "_cache_key": "70cd0709dc515785d281f616f1fb12b5",
+  "_iso3": "MYS",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

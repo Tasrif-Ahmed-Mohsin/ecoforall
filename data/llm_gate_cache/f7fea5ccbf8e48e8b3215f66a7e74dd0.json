@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Tanzania in 2012 shows moderate economic imbalances (high inflation, large current account deficit) but no active crises, while political stability is decent yet protest and conflict indicators are elevated, so economic fundamentals dominate but political risks warrant a notable share.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Tanzania in 2012 shows moderate economic imbalances (high inflation, large current account deficit) but no active crises, while political stability is decent yet protest and conflict indicators are elevated, so economic fundamentals dominate but political risks warrant a notable share.\"\n}",
+  "_cache_key": "f7fea5ccbf8e48e8b3215f66a7e74dd0",
+  "_iso3": "TZA",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

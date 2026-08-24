@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "MDG faces high inflation, large debt, current account deficit, and a recent currency crisis, but the ongoing political instability and conflict pressure elevate politics to a significant secondary driver for short-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MDG faces high inflation, large debt, current account deficit, and a recent currency crisis, but the ongoing political instability and conflict pressure elevate politics to a significant secondary driver for short-term growth.\"\n}",
+  "_cache_key": "c3d4ebe206f3bd5a5cd76cc6e669cdb5",
+  "_iso3": "MDG",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

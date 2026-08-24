@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Dominican Republic in 2010 shows moderate growth, low inflation, and no crises, but high current account deficit and moderate political/social tensions, so economic fundamentals dominate while political and social factors add modest risk.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Dominican Republic in 2010 shows moderate growth, low inflation, and no crises, but high current account deficit and moderate political/social tensions, so economic fundamentals dominate while political and social factors add modest risk.\"\n}",
+  "_cache_key": "df074942c5256523c0226859eb55db5c",
+  "_iso3": "DOM",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

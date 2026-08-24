@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Japan in 2011 is a stable, high-income economy with no major political or financial crises, but the recent growth trajectory and high debt suggest economic factors dominate, while moderate environmental and social stresses (e.g., disaster damage, low trust) warrant minor weights.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Japan in 2011 is a stable, high-income economy with no major political or financial crises, but the recent growth trajectory and high debt suggest economic factors dominate, while moderate environmental and social stresses (e.g., disaster damage, low trust) warrant minor weights.\"\n}",
+  "_cache_key": "7affd0ff19df5cd467ed64905eb368eb",
+  "_iso3": "JPN",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

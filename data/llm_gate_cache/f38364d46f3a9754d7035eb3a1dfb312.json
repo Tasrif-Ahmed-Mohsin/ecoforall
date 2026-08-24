@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Colombia in 2016 shows moderate inflation, high unemployment, and a current account deficit, but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Colombia in 2016 shows moderate inflation, high unemployment, and a current account deficit, but no major political or environmental shocks, so economic fundamentals dominate the short-term growth outlook.\"\n}",
+  "_cache_key": "f38364d46f3a9754d7035eb3a1dfb312",
+  "_iso3": "COL",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

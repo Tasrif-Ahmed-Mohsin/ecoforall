@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate growth, high unemployment, and external deficits suggest economic fragility, while political instability and social tensions add moderate risk, but no major crisis dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate growth, high unemployment, and external deficits suggest economic fragility, while political instability and social tensions add moderate risk, but no major crisis dominates.\"\n}",
+  "_cache_key": "9389094d964c09db4572bb60db1b50f6",
+  "_iso3": "COL",
+  "_year": 2019,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

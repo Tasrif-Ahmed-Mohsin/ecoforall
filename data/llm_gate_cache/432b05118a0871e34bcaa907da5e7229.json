@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "India's growth is primarily driven by economic fundamentals (investment, inflation, external balance) but political instability and social tensions add moderate risk, while environmental and demographic factors play a secondary role over this 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"India's growth is primarily driven by economic fundamentals (investment, inflation, external balance) but political instability and social tensions add moderate risk, while environmental and demographic factors play a secondary role over this 3-year horizon.\"\n}",
+  "_cache_key": "432b05118a0871e34bcaa907da5e7229",
+  "_iso3": "IND",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Qatar is a high-income economy with severe political instability, sanctions, and conflict indicators, but its hydrocarbon-driven growth and fiscal buffers make economic factors still dominant, while social trust and optimism are moderately strained.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Qatar is a high-income economy with severe political instability, sanctions, and conflict indicators, but its hydrocarbon-driven growth and fiscal buffers make economic factors still dominant, while social trust and optimism are moderately strained.\"\n}",
+  "_cache_key": "b3efc2fd97661acde4f04c4f33a9ad6b",
+  "_iso3": "QAT",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

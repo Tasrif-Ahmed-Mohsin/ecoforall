@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Tanzania is a low-income, politically stable country with moderate debt and investment, but high protest pressure and low institutional trust suggest social and political risks that could affect growth over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Tanzania is a low-income, politically stable country with moderate debt and investment, but high protest pressure and low institutional trust suggest social and political risks that could affect growth over a 5-year horizon.\"\n}",
+  "_cache_key": "fad8cd96bb2e9a9d57e561058c402132",
+  "_iso3": "TZA",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

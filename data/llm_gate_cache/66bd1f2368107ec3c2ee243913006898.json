@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "BHS is a high-income, stable economy with moderate debt and investment, but high unemployment and a large current account deficit, so economic fundamentals dominate, while political stability is high and no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"BHS is a high-income, stable economy with moderate debt and investment, but high unemployment and a large current account deficit, so economic fundamentals dominate, while political stability is high and no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "66bd1f2368107ec3c2ee243913006898",
+  "_iso3": "BHS",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

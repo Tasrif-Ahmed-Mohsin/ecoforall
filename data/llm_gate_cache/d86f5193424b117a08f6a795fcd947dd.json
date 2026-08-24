@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GNB is a low-income, highly indebted economy with moderate political instability and conflict, so economic fundamentals dominate but political risks and structural factors warrant significant weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GNB is a low-income, highly indebted economy with moderate political instability and conflict, so economic fundamentals dominate but political risks and structural factors warrant significant weight over a 5-year horizon.\"\n}",
+  "_cache_key": "d86f5193424b117a08f6a795fcd947dd",
+  "_iso3": "GNB",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

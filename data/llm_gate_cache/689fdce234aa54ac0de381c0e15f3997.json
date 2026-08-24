@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Romania in 2020 is a stable upper-middle-income EU member with moderate debt and inflation, but faces a mild recession and external imbalances, so economic fundamentals dominate while political and social factors (moderate instability, protests, and migration) play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Romania in 2020 is a stable upper-middle-income EU member with moderate debt and inflation, but faces a mild recession and external imbalances, so economic fundamentals dominate while political and social factors (moderate instability, protests, and migration) play secondary roles.\"\n}",
+  "_cache_key": "689fdce234aa54ac0de381c0e15f3997",
+  "_iso3": "ROU",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

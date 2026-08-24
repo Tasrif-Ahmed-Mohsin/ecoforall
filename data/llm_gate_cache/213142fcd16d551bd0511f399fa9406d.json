@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Honduras faces moderate political instability and conflict, but the economy is the primary driver given moderate debt, current account deficit, and recent growth momentum, with no major environmental or social shocks indicated.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Honduras faces moderate political instability and conflict, but the economy is the primary driver given moderate debt, current account deficit, and recent growth momentum, with no major environmental or social shocks indicated.\"\n}",
+  "_cache_key": "213142fcd16d551bd0511f399fa9406d",
+  "_iso3": "HND",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "TUN is a stable middle-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary attention.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"TUN is a stable middle-income economy with moderate debt, low inflation, and no ongoing crises, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary attention.\"\n}",
+  "_cache_key": "40a9b117738566cf52f1b74a34b3d39f",
+  "_iso3": "TUN",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

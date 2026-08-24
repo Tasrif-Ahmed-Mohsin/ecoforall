@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TLS is a low-income, highly open economy with a massive current account deficit and high investment, making economic fundamentals dominant, but elevated political instability, protests, and sanctions warrant a substantial political risk premium, while social pressures and limited environmental data play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TLS is a low-income, highly open economy with a massive current account deficit and high investment, making economic fundamentals dominant, but elevated political instability, protests, and sanctions warrant a substantial political risk premium, while social pressures and limited environmental data play secondary roles.\"\n}",
+  "_cache_key": "bae99069ea68d672c2a54ec529ddd7e0",
+  "_iso3": "TLS",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

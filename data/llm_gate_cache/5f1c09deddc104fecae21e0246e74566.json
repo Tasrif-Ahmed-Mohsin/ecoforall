@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "ZMB has moderate debt and inflation but no major political crisis or environmental shock, so economic fundamentals dominate, with elevated political weight due to high protest and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"ZMB has moderate debt and inflation but no major political crisis or environmental shock, so economic fundamentals dominate, with elevated political weight due to high protest and sanctions.\"\n}",
+  "_cache_key": "5f1c09deddc104fecae21e0246e74566",
+  "_iso3": "ZMB",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

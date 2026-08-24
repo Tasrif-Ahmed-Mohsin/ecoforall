@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "DZA shows moderate economic stability with high investment and current account surplus, but elevated unemployment and social tensions warrant significant weight on political and societal factors over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"DZA shows moderate economic stability with high investment and current account surplus, but elevated unemployment and social tensions warrant significant weight on political and societal factors over a 5-year horizon.\"\n}",
+  "_cache_key": "a219f8c6f62e4502218a7c1965a965fb",
+  "_iso3": "DZA",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

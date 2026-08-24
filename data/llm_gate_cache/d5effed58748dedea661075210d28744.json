@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "The economy is weak with high investment but negative current account and low GDP per capita, while severe political instability, conflict, and sanctions create significant downside risks, making politics nearly as important as economics over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"The economy is weak with high investment but negative current account and low GDP per capita, while severe political instability, conflict, and sanctions create significant downside risks, making politics nearly as important as economics over the 5-year horizon.\"\n}",
+  "_cache_key": "d5effed58748dedea661075210d28744",
+  "_iso3": "COD",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

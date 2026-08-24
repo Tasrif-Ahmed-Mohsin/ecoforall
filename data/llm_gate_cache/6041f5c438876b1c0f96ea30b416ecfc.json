@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "LVA is a high-income, stable economy with no ongoing crises, but large external imbalances and rapid credit-driven growth suggest a high risk of a sharp correction, making economic factors dominant while political and social conditions remain relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LVA is a high-income, stable economy with no ongoing crises, but large external imbalances and rapid credit-driven growth suggest a high risk of a sharp correction, making economic factors dominant while political and social conditions remain relatively benign.\"\n}",
+  "_cache_key": "6041f5c438876b1c0f96ea30b416ecfc",
+  "_iso3": "LVA",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Vietnam in 2012 is a stable, emerging economy with no active crises, moderate inflation, and solid growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and secondary.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Vietnam in 2012 is a stable, emerging economy with no active crises, moderate inflation, and solid growth, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and secondary.\"\n}",
+  "_cache_key": "7642e14f7eeb78a1f690eeb656c26028",
+  "_iso3": "VNM",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

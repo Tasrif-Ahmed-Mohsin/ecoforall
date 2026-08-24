@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Qatar is a high-income, stable economy with strong external surpluses and low debt, but moderate political instability and social tensions warrant a modest weight on politics and society, while environmental factors are negligible over this short horizon.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Qatar is a high-income, stable economy with strong external surpluses and low debt, but moderate political instability and social tensions warrant a modest weight on politics and society, while environmental factors are negligible over this short horizon.\"\n}",
+  "_cache_key": "dac9c5059d25657dda95f7602d1c1f36",
+  "_iso3": "QAT",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

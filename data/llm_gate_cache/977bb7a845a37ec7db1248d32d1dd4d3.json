@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "TKM is a stable, high-income economy with moderate inflation and high investment, but a large current account deficit and recent growth slowdown suggest economic factors dominate the short-term outlook, with political stability and low conflict reducing political risk.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"TKM is a stable, high-income economy with moderate inflation and high investment, but a large current account deficit and recent growth slowdown suggest economic factors dominate the short-term outlook, with political stability and low conflict reducing political risk.\"\n}",
+  "_cache_key": "977bb7a845a37ec7db1248d32d1dd4d3",
+  "_iso3": "TKM",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

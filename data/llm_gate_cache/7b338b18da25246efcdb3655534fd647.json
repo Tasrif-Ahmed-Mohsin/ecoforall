@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TLS is a low-income, politically fragile economy with high investment and current account surplus, but no acute crisis, so economic fundamentals dominate while political instability adds moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TLS is a low-income, politically fragile economy with high investment and current account surplus, but no acute crisis, so economic fundamentals dominate while political instability adds moderate risk.\"\n}",
+  "_cache_key": "7b338b18da25246efcdb3655534fd647",
+  "_iso3": "TLS",
+  "_year": 2015,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.7894736842105262,
+  "politics": 0.10526315789473684,
+  "environment": 0.05263157894736842,
+  "human_society": 0.05263157894736842,
+  "confidence": 0.05,
+  "reasoning": "NLD is a stable, high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the 5-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.05,\n  \"reasoning\": \"NLD is a stable, high-income economy with a banking crisis but no political or environmental shocks, so economic factors dominate the 5-year growth outlook.\"\n}",
+  "_cache_key": "f8e4a954295529f37f5f49d1c7f96d8a",
+  "_iso3": "NLD",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "SDN faces high debt, unemployment, and external deficits, but political instability, sanctions, and conflict intensity elevate political risk, while environmental and social data are too sparse to materially affect the 1-year forecast.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SDN faces high debt, unemployment, and external deficits, but political instability, sanctions, and conflict intensity elevate political risk, while environmental and social data are too sparse to materially affect the 1-year forecast.\"\n}",
+  "_cache_key": "2d123c15cb53510e3d9f307e6d8b2bc8",
+  "_iso3": "SDN",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Paraguay is a stable, middle-income economy with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate the forecast, with modest weights for social and political factors given moderate institutional trust and protest activity.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Paraguay is a stable, middle-income economy with moderate growth, low debt, and no major political or environmental shocks, so economic fundamentals dominate the forecast, with modest weights for social and political factors given moderate institutional trust and protest activity.\"\n}",
+  "_cache_key": "b662bcce1710bfe1f92d88ee8ac37039",
+  "_iso3": "PRY",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

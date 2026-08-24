@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam in 2007 is a stable, emerging economy with high investment and moderate inflation, but external imbalances and environmental vulnerabilities warrant moderate weights on non-economic domains over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam in 2007 is a stable, emerging economy with high investment and moderate inflation, but external imbalances and environmental vulnerabilities warrant moderate weights on non-economic domains over a 5-year horizon.\"\n}",
+  "_cache_key": "d1029979346a416814623d2c4b263887",
+  "_iso3": "VNM",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

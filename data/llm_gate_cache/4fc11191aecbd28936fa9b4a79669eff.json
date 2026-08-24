@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "High inflation and debt, but no active crises, make economic factors dominant for short-term growth, with moderate political risk from sanctions and protests.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High inflation and debt, but no active crises, make economic factors dominant for short-term growth, with moderate political risk from sanctions and protests.\"\n}",
+  "_cache_key": "4fc11191aecbd28936fa9b4a79669eff",
+  "_iso3": "SUR",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

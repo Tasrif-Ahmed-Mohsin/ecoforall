@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Vietnam in 2010 is a stable, emerging economy with moderate inflation and external imbalances, but no major political or environmental crises, so economic fundamentals dominate while structural and climate factors gain importance over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Vietnam in 2010 is a stable, emerging economy with moderate inflation and external imbalances, but no major political or environmental crises, so economic fundamentals dominate while structural and climate factors gain importance over a 5-year horizon.\"\n}",
+  "_cache_key": "afc49369dc8cac0ef75ef72328058d1d",
+  "_iso3": "VNM",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

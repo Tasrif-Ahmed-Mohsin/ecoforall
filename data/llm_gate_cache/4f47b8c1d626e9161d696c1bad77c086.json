@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "Malta is a stable, high-income economy with strong external balances and low political risk, so economic fundamentals dominate the 5-year growth outlook, with modest political weight due to ongoing but non-crisis-level protest and sanction activity.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Malta is a stable, high-income economy with strong external balances and low political risk, so economic fundamentals dominate the 5-year growth outlook, with modest political weight due to ongoing but non-crisis-level protest and sanction activity.\"\n}",
+  "_cache_key": "4f47b8c1d626e9161d696c1bad77c086",
+  "_iso3": "MLT",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

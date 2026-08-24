@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Latvia is in a severe recession with high unemployment and a banking crisis, but no major political or environmental shocks, so economic factors dominate the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Latvia is in a severe recession with high unemployment and a banking crisis, but no major political or environmental shocks, so economic factors dominate the near-term outlook.\"\n}",
+  "_cache_key": "9383c8778873d2ec26a0bd605d76ab98",
+  "_iso3": "LVA",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "Spain in 2004 is a stable, high-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Spain in 2004 is a stable, high-income economy with no ongoing crises, moderate debt, and positive recent growth, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "f93815c7005fa832a8275efd29d7159d",
+  "_iso3": "ESP",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

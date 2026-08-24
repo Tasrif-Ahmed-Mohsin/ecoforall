@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "JAM faces high debt, unemployment, and political instability, but no acute crisis, so economic fundamentals dominate while political risk and social pressures warrant moderate weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"JAM faces high debt, unemployment, and political instability, but no acute crisis, so economic fundamentals dominate while political risk and social pressures warrant moderate weight over a 5-year horizon.\"\n}",
+  "_cache_key": "4386f801e2372e1dcba8e82f9aedf6e0",
+  "_iso3": "JAM",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

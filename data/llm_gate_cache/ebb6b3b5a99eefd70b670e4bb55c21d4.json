@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Low income, moderate debt, negative current account, and weak growth trajectory make economic fundamentals key, but political instability, high protest pressure, and negative sentiment elevate political and social risks over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Low income, moderate debt, negative current account, and weak growth trajectory make economic fundamentals key, but political instability, high protest pressure, and negative sentiment elevate political and social risks over a 5-year horizon.\"\n}",
+  "_cache_key": "ebb6b3b5a99eefd70b670e4bb55c21d4",
+  "_iso3": "CAF",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

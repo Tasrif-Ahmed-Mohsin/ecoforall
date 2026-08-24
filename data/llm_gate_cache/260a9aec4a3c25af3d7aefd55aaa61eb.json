@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SDN is a lower-middle-income country with high debt, unemployment, and inflation, but no active crises, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SDN is a lower-middle-income country with high debt, unemployment, and inflation, but no active crises, so economic fundamentals dominate, while moderate political instability and social pressures warrant secondary weight.\"\n}",
+  "_cache_key": "260a9aec4a3c25af3d7aefd55aaa61eb",
+  "_iso3": "SDN",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

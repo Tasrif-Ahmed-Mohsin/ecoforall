@@ -1,0 +1,50 @@
+# Expert-nudged feature weights for the rank-Euclidean retrieval index.
+#
+# Each weight multiplies the z-scored rank value of one indicator before
+# the L2 distance is computed. Higher weight = that indicator contributes
+# more to "closeness" between two country-years.
+#
+# Defaults are conservative 1.0 (= equal) for every indicator. Set
+# individual indicators higher to upweight them, lower to downweight.
+# Unknown indicators fall back to 1.0 with a warning.
+#
+# Reference (why these nudges are mild):
+#   - Real interest rate / short rate are strong 5y-growth predictors
+#     (Jordà-Schularick-Taylor 2013, 2017).
+#   - Debt/GDP and current-account imbalances are forward-looking
+#     macro vulnerability flags (Reinhart-Rogoff 2010).
+#
+# Scope: this file applies to the GMD-shaped v2 index
+# (`data/features/retrieval_v2/`). The legacy v1 5-source index was
+# removed during the GMD-only cleanup.
+
+# Growth & cycle  ---------------------------------------------------
+gdp_real:                    1.00
+gdp_pc_real:                 1.10
+real_house_price_index:      1.00
+
+# Inflation & rates  -----------------------------------------------
+inflation_rate:              1.15
+cpi:                         1.00
+short_rate:                  1.30
+long_rate:                   1.10
+gdp_deflator:                1.00
+
+# External position  -----------------------------------------------
+current_account:             1.20
+current_account_usd:         1.20
+exports_gdp:                 1.00
+imports_gdp:                 1.00
+reer:                        1.10
+
+# Leverage & banking  ---------------------------------------------
+gov_debt:                    1.20
+gov_debt_gdp:                1.20
+gen_gov_debt_gdp:            1.20
+cgov_debt_gdp:               1.20
+gen_gov_deficit_gdp:         1.10
+
+# Labour & inequality  --------------------------------------------
+unemployment_rate:           1.20
+
+# Asset prices  ---------------------------------------------------

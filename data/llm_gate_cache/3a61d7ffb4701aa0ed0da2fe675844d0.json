@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria's moderate growth, low debt, and stable macro indicators suggest economy dominates, but political instability, sanctions, and social unrest warrant elevated political and societal weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria's moderate growth, low debt, and stable macro indicators suggest economy dominates, but political instability, sanctions, and social unrest warrant elevated political and societal weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "3a61d7ffb4701aa0ed0da2fe675844d0",
+  "_iso3": "NGA",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

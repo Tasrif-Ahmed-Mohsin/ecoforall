@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Despite moderate economic fundamentals, extreme political instability, high conflict, and sanctions dominate the outlook, while social unrest and limited environmental data play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Despite moderate economic fundamentals, extreme political instability, high conflict, and sanctions dominate the outlook, while social unrest and limited environmental data play secondary roles.\"\n}",
+  "_cache_key": "3c4fdcc1856b34cd055ad09a541d2602",
+  "_iso3": "EST",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

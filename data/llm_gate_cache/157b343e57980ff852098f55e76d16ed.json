@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Cameroon is a lower-middle-income economy with moderate debt and investment, but political instability, high protest counts, and sanctions risk weigh on growth, while environmental and social data are limited.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Cameroon is a lower-middle-income economy with moderate debt and investment, but political instability, high protest counts, and sanctions risk weigh on growth, while environmental and social data are limited.\"\n}",
+  "_cache_key": "157b343e57980ff852098f55e76d16ed",
+  "_iso3": "CMR",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

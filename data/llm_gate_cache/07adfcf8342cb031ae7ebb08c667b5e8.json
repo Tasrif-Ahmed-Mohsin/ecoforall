@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.9,
+  "reasoning": "Singapore is a stable, high-income economy with no ongoing crises, strong external position, and solid recent growth, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.9,\n  \"reasoning\": \"Singapore is a stable, high-income economy with no ongoing crises, strong external position, and solid recent growth, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "07adfcf8342cb031ae7ebb08c667b5e8",
+  "_iso3": "SGP",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

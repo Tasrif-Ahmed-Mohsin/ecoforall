@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Nigeria in 2010 is a lower-middle-income, oil-dependent economy with moderate growth and low debt, but political instability, conflict, and environmental vulnerabilities (floods, droughts) warrant significant non-economic weights, while social trust and cohesion are weak but not collapsing.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Nigeria in 2010 is a lower-middle-income, oil-dependent economy with moderate growth and low debt, but political instability, conflict, and environmental vulnerabilities (floods, droughts) warrant significant non-economic weights, while social trust and cohesion are weak but not collapsing.\"\n}",
+  "_cache_key": "bc9f301d6fd9b4a698a3e75febd69650",
+  "_iso3": "NGA",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

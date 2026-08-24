@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.85,
+  "reasoning": "MLT is a stable, high-income economy with moderate debt and external imbalances but no major political or environmental shocks, so near-term growth is primarily driven by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.85,\n  \"reasoning\": \"MLT is a stable, high-income economy with moderate debt and external imbalances but no major political or environmental shocks, so near-term growth is primarily driven by economic fundamentals.\"\n}",
+  "_cache_key": "2d2f4230e39de45f926018a2a03fb9ec",
+  "_iso3": "MLT",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Brazil's growth outlook is primarily driven by its moderate inflation, high debt, and investment levels, with secondary but notable political and social risks from protests and low trust, while environmental factors are less binding over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Brazil's growth outlook is primarily driven by its moderate inflation, high debt, and investment levels, with secondary but notable political and social risks from protests and low trust, while environmental factors are less binding over a one-year horizon.\"\n}",
+  "_cache_key": "e9cd9fe28fa3739ed58f565995239527",
+  "_iso3": "BRA",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

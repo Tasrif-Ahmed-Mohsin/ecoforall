@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LKA is a stable, middle-income economy with moderate debt and external imbalances, but political tensions and social unrest are present, so economic fundamentals dominate while political and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LKA is a stable, middle-income economy with moderate debt and external imbalances, but political tensions and social unrest are present, so economic fundamentals dominate while political and social factors play secondary roles.\"\n}",
+  "_cache_key": "006992fa380a83b2947ef0589dfc119e",
+  "_iso3": "LKA",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

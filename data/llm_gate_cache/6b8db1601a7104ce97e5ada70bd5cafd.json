@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan faces moderate macroeconomic imbalances (high debt, unemployment, current account deficit) and political tensions (sanctions, protests, conflict intensity), but no acute crisis, so economic fundamentals dominate while political and social risks warrant notable weight over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan faces moderate macroeconomic imbalances (high debt, unemployment, current account deficit) and political tensions (sanctions, protests, conflict intensity), but no acute crisis, so economic fundamentals dominate while political and social risks warrant notable weight over a 5-year horizon.\"\n}",
+  "_cache_key": "6b8db1601a7104ce97e5ada70bd5cafd",
+  "_iso3": "JOR",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

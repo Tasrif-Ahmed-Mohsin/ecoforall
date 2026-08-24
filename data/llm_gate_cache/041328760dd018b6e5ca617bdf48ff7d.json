@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Georgia faces high unemployment, large external deficits, and moderate political instability, but no acute crisis, so economic fundamentals dominate while political risks and social strains play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Georgia faces high unemployment, large external deficits, and moderate political instability, but no acute crisis, so economic fundamentals dominate while political risks and social strains play secondary roles.\"\n}",
+  "_cache_key": "041328760dd018b6e5ca617bdf48ff7d",
+  "_iso3": "GEO",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

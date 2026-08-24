@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "DZA is a stable, oil-exporting economy with strong external balances and low debt, but moderate unemployment and social pressures warrant a modest weight on politics and human society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"DZA is a stable, oil-exporting economy with strong external balances and low debt, but moderate unemployment and social pressures warrant a modest weight on politics and human society over a 5-year horizon.\"\n}",
+  "_cache_key": "a804f7a7c6dc7055c698d0dd33dd724e",
+  "_iso3": "DZA",
+  "_year": 2007,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

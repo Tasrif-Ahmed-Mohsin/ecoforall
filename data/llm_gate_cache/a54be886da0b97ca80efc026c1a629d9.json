@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Bangladesh's growth is primarily driven by strong investment and recent momentum, but moderate political instability, environmental vulnerabilities, and social pressures warrant significant non-economic weights over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Bangladesh's growth is primarily driven by strong investment and recent momentum, but moderate political instability, environmental vulnerabilities, and social pressures warrant significant non-economic weights over a 5-year horizon.\"\n}",
+  "_cache_key": "a54be886da0b97ca80efc026c1a629d9",
+  "_iso3": "BGD",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Vietnam in 2016 is a stable, growing economy with low inflation, moderate debt, and no crises, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Vietnam in 2016 is a stable, growing economy with low inflation, moderate debt, and no crises, so economic fundamentals dominate the short-term outlook, while political, environmental, and social factors are relatively benign and play minor roles.\"\n}",
+  "_cache_key": "39f1b18bfaf9eeb55ec35dd19e93a193",
+  "_iso3": "VNM",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate economic fundamentals with high unemployment and external deficits, combined with political instability and social tensions, warrant a balanced but economy-led weighting for medium-term growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate economic fundamentals with high unemployment and external deficits, combined with political instability and social tensions, warrant a balanced but economy-led weighting for medium-term growth.\"\n}",
+  "_cache_key": "398d875e0dd5b12fb5a8417e86dc1fab",
+  "_iso3": "COL",
+  "_year": 2017,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

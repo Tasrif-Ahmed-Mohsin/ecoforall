@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.85,
+  "reasoning": "Belgium is a stable high-income economy with no active crises, so economic fundamentals dominate, while moderate political instability and social factors warrant minor attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Belgium is a stable high-income economy with no active crises, so economic fundamentals dominate, while moderate political instability and social factors warrant minor attention.\"\n}",
+  "_cache_key": "2a109ca39592c58d5ed48e176ab9450d",
+  "_iso3": "BEL",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

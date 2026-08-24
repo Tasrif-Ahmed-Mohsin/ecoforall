@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Uzbekistan has moderate growth and low debt but faces political instability and social tensions, so economic fundamentals dominate while political risks and social factors are significant, with minimal environmental impact.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Uzbekistan has moderate growth and low debt but faces political instability and social tensions, so economic fundamentals dominate while political risks and social factors are significant, with minimal environmental impact.\"\n}",
+  "_cache_key": "d731953d915dddbbb38ca0aadec56c25",
+  "_iso3": "UZB",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

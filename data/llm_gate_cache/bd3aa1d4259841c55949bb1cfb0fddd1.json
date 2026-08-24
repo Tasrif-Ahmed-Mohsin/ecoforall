@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "SLE faces high debt, negative current account, low investment, and recent growth slowdown, but severe political instability, high conflict, and sanctions likely dominate the medium-term outlook, while social unrest adds moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"SLE faces high debt, negative current account, low investment, and recent growth slowdown, but severe political instability, high conflict, and sanctions likely dominate the medium-term outlook, while social unrest adds moderate risk.\"\n}",
+  "_cache_key": "bd3aa1d4259841c55949bb1cfb0fddd1",
+  "_iso3": "SLE",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MUS faces high external imbalances and moderate debt, but severe political instability and social unrest (low stability, high protests, sanctions) warrant a significant political weight, while the 5-year horizon elevates structural social factors above environmental ones.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MUS faces high external imbalances and moderate debt, but severe political instability and social unrest (low stability, high protests, sanctions) warrant a significant political weight, while the 5-year horizon elevates structural social factors above environmental ones.\"\n}",
+  "_cache_key": "b2d7f57d742eaed082a8d5b9f2021f1b",
+  "_iso3": "MUS",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

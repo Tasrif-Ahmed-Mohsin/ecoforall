@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Portugal is a stable high-income economy with no major political or environmental shocks, so economic factors dominate, though moderate debt and external imbalances warrant attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Portugal is a stable high-income economy with no major political or environmental shocks, so economic factors dominate, though moderate debt and external imbalances warrant attention.\"\n}",
+  "_cache_key": "e5323ea855b6886e5217f76203019bac",
+  "_iso3": "PRT",
+  "_year": 2009,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

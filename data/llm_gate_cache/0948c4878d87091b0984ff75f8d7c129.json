@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Peru in 2012 is a stable, middle-income economy with moderate growth, low debt, and no major crises, so economic fundamentals dominate the forecast, with minor adjustments for political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Peru in 2012 is a stable, middle-income economy with moderate growth, low debt, and no major crises, so economic fundamentals dominate the forecast, with minor adjustments for political and social factors.\"\n}",
+  "_cache_key": "0948c4878d87091b0984ff75f8d7c129",
+  "_iso3": "PER",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

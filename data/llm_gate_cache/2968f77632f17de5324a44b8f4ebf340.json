@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MDG is a low-income, stable economy with moderate inflation and debt, no active crises, and recent positive growth, so economic fundamentals dominate while political and social risks are moderate but not extreme.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDG is a low-income, stable economy with moderate inflation and debt, no active crises, and recent positive growth, so economic fundamentals dominate while political and social risks are moderate but not extreme.\"\n}",
+  "_cache_key": "2968f77632f17de5324a44b8f4ebf340",
+  "_iso3": "MDG",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

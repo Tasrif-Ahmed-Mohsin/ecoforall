@@ -1,0 +1,14 @@
+{
+  "economy": 0.8,
+  "politics": 0.08,
+  "environment": 0.05,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "In a stable, high-income economy with no ongoing crises, short-term GDP growth is overwhelmingly driven by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.08,\n  \"environment\": 0.05,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"In a stable, high-income economy with no ongoing crises, short-term GDP growth is overwhelmingly driven by macroeconomic fundamentals, with minimal political, environmental, or social disruptions.\"\n}",
+  "_cache_key": "a4f96d2e295dc8e01ecca2a7dc5b6eb8",
+  "_iso3": "USA",
+  "_year": 2006,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

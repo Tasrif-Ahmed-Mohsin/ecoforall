@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Guyana in 2007 shows moderate inflation, high investment, and no active crises, so economic fundamentals dominate, with modest political risk from protests and sanctions but no severe instability.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Guyana in 2007 shows moderate inflation, high investment, and no active crises, so economic fundamentals dominate, with modest political risk from protests and sanctions but no severe instability.\"\n}",
+  "_cache_key": "6e8a7bb7b2982dcd25e76912eee1a145",
+  "_iso3": "GUY",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

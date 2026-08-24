@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MNE is a middle-income economy with moderate inflation, high current account deficit, and low investment, but political instability and conflict indicators are elevated, so politics carries significant weight while environment and society remain secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MNE is a middle-income economy with moderate inflation, high current account deficit, and low investment, but political instability and conflict indicators are elevated, so politics carries significant weight while environment and society remain secondary.\"\n}",
+  "_cache_key": "498def98d27f12b19c1e03f8527c2166",
+  "_iso3": "MNE",
+  "_year": 2003,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

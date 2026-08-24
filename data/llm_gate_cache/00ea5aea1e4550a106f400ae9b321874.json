@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "LBY faces severe external imbalances, high debt, and negative recent growth, but the extreme political instability, sanctions, and conflict risk elevate politics to near-equal weight, while social unrest and protests add moderate human_society pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"LBY faces severe external imbalances, high debt, and negative recent growth, but the extreme political instability, sanctions, and conflict risk elevate politics to near-equal weight, while social unrest and protests add moderate human_society pressure.\"\n}",
+  "_cache_key": "00ea5aea1e4550a106f400ae9b321874",
+  "_iso3": "LBY",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

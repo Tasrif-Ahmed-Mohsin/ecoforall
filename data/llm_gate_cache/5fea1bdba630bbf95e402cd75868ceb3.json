@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Indonesia is a stable emerging economy with moderate growth, but political instability and social pressures warrant elevated political and societal weights, while environmental risks are moderate and longer-term structural factors matter over the 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Indonesia is a stable emerging economy with moderate growth, but political instability and social pressures warrant elevated political and societal weights, while environmental risks are moderate and longer-term structural factors matter over the 5-year horizon.\"\n}",
+  "_cache_key": "5fea1bdba630bbf95e402cd75868ceb3",
+  "_iso3": "IDN",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

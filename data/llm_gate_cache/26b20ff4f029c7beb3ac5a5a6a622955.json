@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Norway is a stable, high-income economy with no crises, strong fiscal and external balances, and moderate recent growth, so economic fundamentals dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Norway is a stable, high-income economy with no crises, strong fiscal and external balances, and moderate recent growth, so economic fundamentals dominate the short-term outlook.\"\n}",
+  "_cache_key": "26b20ff4f029c7beb3ac5a5a6a622955",
+  "_iso3": "NOR",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

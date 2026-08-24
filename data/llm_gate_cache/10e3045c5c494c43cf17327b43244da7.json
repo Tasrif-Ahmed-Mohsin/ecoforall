@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.3,
+  "environment": 0.15,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Ethiopia in 2012 faces severe political instability, sanctions, and conflict, alongside high inflation and external imbalances, while moderate environmental risks and social fragility also weigh on medium-term growth prospects.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.30,\n  \"environment\": 0.15,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Ethiopia in 2012 faces severe political instability, sanctions, and conflict, alongside high inflation and external imbalances, while moderate environmental risks and social fragility also weigh on medium-term growth prospects.\"\n}",
+  "_cache_key": "10e3045c5c494c43cf17327b43244da7",
+  "_iso3": "ETH",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

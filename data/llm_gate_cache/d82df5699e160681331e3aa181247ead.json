@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Iran faces significant sanctions and political instability, but the economy is the primary driver given moderate growth, high inflation, and investment levels, with political risks elevated but not dominant over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Iran faces significant sanctions and political instability, but the economy is the primary driver given moderate growth, high inflation, and investment levels, with political risks elevated but not dominant over a 1-year horizon.\"\n}",
+  "_cache_key": "d82df5699e160681331e3aa181247ead",
+  "_iso3": "IRN",
+  "_year": 2018,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

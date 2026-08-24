@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "CYP is a high-income economy with moderate debt and unemployment, but significant political instability and conflict indicators warrant a notable political weight, while environmental and social data are too limited to assign higher importance.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CYP is a high-income economy with moderate debt and unemployment, but significant political instability and conflict indicators warrant a notable political weight, while environmental and social data are too limited to assign higher importance.\"\n}",
+  "_cache_key": "5a6f27a80d700a07ea88f806b9e5e8c7",
+  "_iso3": "CYP",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "Cameroon in 2007 shows stable macroeconomic fundamentals with low inflation, low debt, no crises, and moderate growth, so economic factors dominate, while political and social tensions are present but not severe enough to override the near-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon in 2007 shows stable macroeconomic fundamentals with low inflation, low debt, no crises, and moderate growth, so economic factors dominate, while political and social tensions are present but not severe enough to override the near-term outlook.\"\n}",
+  "_cache_key": "78548ca467389593086305761da28b0c",
+  "_iso3": "CMR",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

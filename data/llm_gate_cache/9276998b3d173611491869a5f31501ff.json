@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.25,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "PAK in 2003 shows moderate economic imbalances (high debt, low investment) but no acute crises, while political instability and conflict indicators are elevated, and environmental risks (floods, droughts) are present, so economic fundamentals dominate but politics and environment warrant notable weights.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.25,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"PAK in 2003 shows moderate economic imbalances (high debt, low investment) but no acute crises, while political instability and conflict indicators are elevated, and environmental risks (floods, droughts) are present, so economic fundamentals dominate but politics and environment warrant notable weights.\"\n}",
+  "_cache_key": "9276998b3d173611491869a5f31501ff",
+  "_iso3": "PAK",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

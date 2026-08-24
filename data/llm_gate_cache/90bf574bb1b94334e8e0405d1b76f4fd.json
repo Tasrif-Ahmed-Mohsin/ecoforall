@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "CYP is a high-income economy with severe debt, high unemployment, and negative growth trajectory, but political instability and protests are significant, so economy dominates while politics gets substantial weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CYP is a high-income economy with severe debt, high unemployment, and negative growth trajectory, but political instability and protests are significant, so economy dominates while politics gets substantial weight.\"\n}",
+  "_cache_key": "90bf574bb1b94334e8e0405d1b76f4fd",
+  "_iso3": "CYP",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LKA shows moderate growth with high investment and no active crises, but elevated debt, current account deficit, and political/social tensions warrant a modest shift away from pure economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LKA shows moderate growth with high investment and no active crises, but elevated debt, current account deficit, and political/social tensions warrant a modest shift away from pure economic fundamentals.\"\n}",
+  "_cache_key": "791da1b8e26e15552f7e8a2dada44655",
+  "_iso3": "LKA",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Mexico is a stable middle-income economy with moderate debt and no current crises, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Mexico is a stable middle-income economy with moderate debt and no current crises, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are moderate.\"\n}",
+  "_cache_key": "c23129af38cdfd61a5dbd356115781af",
+  "_iso3": "MEX",
+  "_year": 2005,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

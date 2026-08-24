@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "Despite high political instability and protest pressure, the economy shows strong external surplus, low debt, and moderate investment, so economic fundamentals dominate but political risks warrant a notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Despite high political instability and protest pressure, the economy shows strong external surplus, low debt, and moderate investment, so economic fundamentals dominate but political risks warrant a notable weight.\"\n}",
+  "_cache_key": "f9937541a6290f0d905719d6d0f87ec8",
+  "_iso3": "LBY",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

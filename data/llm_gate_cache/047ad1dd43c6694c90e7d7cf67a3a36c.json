@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "TTO is a stable, high-income economy with moderate debt and low inflation, but recent negative growth and high current account surplus suggest economic factors dominate short-term outlook, with mild political risk from protests and sanctions.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TTO is a stable, high-income economy with moderate debt and low inflation, but recent negative growth and high current account surplus suggest economic factors dominate short-term outlook, with mild political risk from protests and sanctions.\"\n}",
+  "_cache_key": "047ad1dd43c6694c90e7d7cf67a3a36c",
+  "_iso3": "TTO",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

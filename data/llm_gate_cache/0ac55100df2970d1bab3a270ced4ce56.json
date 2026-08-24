@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.75,
+  "reasoning": "GNQ is a stable, high-income economy with strong growth, low inflation, no crises, and high investment, so economic fundamentals dominate the short-term forecast.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.75,\n  \"reasoning\": \"GNQ is a stable, high-income economy with strong growth, low inflation, no crises, and high investment, so economic fundamentals dominate the short-term forecast.\"\n}",
+  "_cache_key": "0ac55100df2970d1bab3a270ced4ce56",
+  "_iso3": "GNQ",
+  "_year": 2007,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

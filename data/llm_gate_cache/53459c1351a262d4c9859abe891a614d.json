@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High investment and moderate growth suggest economic factors dominate, but significant political instability, protests, and sanctions warrant a substantial political weight, while social pressures and limited environmental data play smaller roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High investment and moderate growth suggest economic factors dominate, but significant political instability, protests, and sanctions warrant a substantial political weight, while social pressures and limited environmental data play smaller roles.\"\n}",
+  "_cache_key": "53459c1351a262d4c9859abe891a614d",
+  "_iso3": "BTN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

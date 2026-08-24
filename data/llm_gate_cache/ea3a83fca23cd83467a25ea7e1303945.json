@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "MMR is a low-income, moderately stable economy with solid recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the short-term outlook, with modest political and social risks from low stability and trust.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"MMR is a low-income, moderately stable economy with solid recent growth, moderate inflation, and no active crises, so economic fundamentals dominate the short-term outlook, with modest political and social risks from low stability and trust.\"\n}",
+  "_cache_key": "ea3a83fca23cd83467a25ea7e1303945",
+  "_iso3": "MMR",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

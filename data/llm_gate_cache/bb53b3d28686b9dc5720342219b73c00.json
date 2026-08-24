@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Bolivia faces moderate economic fragility with high debt and low investment, but significant political instability and conflict intensity warrant a substantial political weight, while environmental and social factors are less critical given limited data and no immediate crisis.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bolivia faces moderate economic fragility with high debt and low investment, but significant political instability and conflict intensity warrant a substantial political weight, while environmental and social factors are less critical given limited data and no immediate crisis.\"\n}",
+  "_cache_key": "bb53b3d28686b9dc5720342219b73c00",
+  "_iso3": "BOL",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

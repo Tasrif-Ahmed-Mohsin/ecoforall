@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Senegal faces moderate political instability and social pressures, but its economic fundamentals (investment, low inflation) and external vulnerabilities (current account deficit) are key, while environmental data is too limited to heavily weight.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Senegal faces moderate political instability and social pressures, but its economic fundamentals (investment, low inflation) and external vulnerabilities (current account deficit) are key, while environmental data is too limited to heavily weight.\"\n}",
+  "_cache_key": "30343d32786b130e504a0ea17df879b4",
+  "_iso3": "SEN",
+  "_year": 2019,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

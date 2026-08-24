@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Turkey in 2003 faces moderate inflation, high debt, and a recent recession, but political instability and sanctions risk weigh heavily on the 5-year outlook, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Turkey in 2003 faces moderate inflation, high debt, and a recent recession, but political instability and sanctions risk weigh heavily on the 5-year outlook, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "3608e370b0199035ac662f74cc76fef5",
+  "_iso3": "TUR",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

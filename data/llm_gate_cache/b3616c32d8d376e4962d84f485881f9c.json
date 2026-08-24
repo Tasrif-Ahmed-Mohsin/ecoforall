@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Jordan faces moderate political instability and social pressures, but the dominant risks are economic (high debt, unemployment, and current account deficit) with a 5-year horizon where structural factors like demographics and trust also matter.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Jordan faces moderate political instability and social pressures, but the dominant risks are economic (high debt, unemployment, and current account deficit) with a 5-year horizon where structural factors like demographics and trust also matter.\"\n}",
+  "_cache_key": "b3616c32d8d376e4962d84f485881f9c",
+  "_iso3": "JOR",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.4,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CAF faces severe political instability, high conflict, sanctions, and negative diplomatic sentiment, which likely dominate short-term growth prospects, while the weak external position and high inflation add economic stress, with limited environmental data and social unrest playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.40,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"CAF faces severe political instability, high conflict, sanctions, and negative diplomatic sentiment, which likely dominate short-term growth prospects, while the weak external position and high inflation add economic stress, with limited environmental data and social unrest playing secondary roles.\"\n}",
+  "_cache_key": "e86a35ca72b0a3892576d406f4d979bb",
+  "_iso3": "CAF",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

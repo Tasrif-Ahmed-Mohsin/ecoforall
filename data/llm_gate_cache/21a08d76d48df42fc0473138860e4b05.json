@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "NIC faces a severe current account deficit, negative growth trajectory, and high political instability with protests and sanctions, but no major environmental or social shocks, so economic and political factors dominate the short-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"NIC faces a severe current account deficit, negative growth trajectory, and high political instability with protests and sanctions, but no major environmental or social shocks, so economic and political factors dominate the short-term outlook.\"\n}",
+  "_cache_key": "21a08d76d48df42fc0473138860e4b05",
+  "_iso3": "NIC",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Iran faces severe economic instability (high inflation, currency crisis, negative growth) and significant political/sanctions pressures, making economy and politics the dominant drivers, with moderate social stress and minor environmental factors playing secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Iran faces severe economic instability (high inflation, currency crisis, negative growth) and significant political/sanctions pressures, making economy and politics the dominant drivers, with moderate social stress and minor environmental factors playing secondary roles.\"\n}",
+  "_cache_key": "99c3e240bc2d7fd32537d9440bef0a30",
+  "_iso3": "IRN",
+  "_year": 2013,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

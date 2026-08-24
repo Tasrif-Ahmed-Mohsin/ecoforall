@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Turkey faces high inflation, a large current account deficit, and political instability with sanctions and negative sentiment, making economic and political factors dominant for short-term growth, while environmental and social factors are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Turkey faces high inflation, a large current account deficit, and political instability with sanctions and negative sentiment, making economic and political factors dominant for short-term growth, while environmental and social factors are secondary.\"\n}",
+  "_cache_key": "8e872a83579b73423cda016a87cf9142",
+  "_iso3": "TUR",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

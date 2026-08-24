@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Kenya faces moderate inflation, a large current account deficit, and recent growth volatility, but no acute political or environmental crisis, so economic factors dominate while political and social risks remain secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kenya faces moderate inflation, a large current account deficit, and recent growth volatility, but no acute political or environmental crisis, so economic factors dominate while political and social risks remain secondary.\"\n}",
+  "_cache_key": "5d3de8610c5bc3047d3b3b6f964d45f7",
+  "_iso3": "KEN",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

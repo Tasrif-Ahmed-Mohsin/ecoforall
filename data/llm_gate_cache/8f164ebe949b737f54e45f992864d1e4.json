@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Syria is in a severe political crisis with extreme instability, sanctions, and conflict, making politics the dominant driver of near-term GDP growth, while the economy is weak but secondary and social unrest adds moderate pressure.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Syria is in a severe political crisis with extreme instability, sanctions, and conflict, making politics the dominant driver of near-term GDP growth, while the economy is weak but secondary and social unrest adds moderate pressure.\"\n}",
+  "_cache_key": "8f164ebe949b737f54e45f992864d1e4",
+  "_iso3": "SYR",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

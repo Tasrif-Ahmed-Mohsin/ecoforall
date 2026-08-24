@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "Bolivia faces moderate economic imbalances (current account deficit, moderate debt) but severe political instability and conflict, making politics a key near-term risk, while the economy remains the primary driver of growth.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Bolivia faces moderate economic imbalances (current account deficit, moderate debt) but severe political instability and conflict, making politics a key near-term risk, while the economy remains the primary driver of growth.\"\n}",
+  "_cache_key": "8aaeebc4930e91ce26f7b04ba9c81f24",
+  "_iso3": "BOL",
+  "_year": 2016,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

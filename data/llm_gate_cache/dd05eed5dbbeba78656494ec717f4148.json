@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "TUN shows moderate economic imbalances (current account deficit, unemployment) but no crisis, while elevated protest pressure and political instability warrant a notable political weight, though the short horizon favors economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"TUN shows moderate economic imbalances (current account deficit, unemployment) but no crisis, while elevated protest pressure and political instability warrant a notable political weight, though the short horizon favors economic fundamentals.\"\n}",
+  "_cache_key": "dd05eed5dbbeba78656494ec717f4148",
+  "_iso3": "TUN",
+  "_year": 2010,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

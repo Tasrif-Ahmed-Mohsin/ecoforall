@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Hungary in 2004 is a stable, upper-middle-income EU accession economy with moderate imbalances (current account deficit, inflation) but no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Hungary in 2004 is a stable, upper-middle-income EU accession economy with moderate imbalances (current account deficit, inflation) but no major political or environmental shocks, so economic fundamentals dominate the 3-year growth outlook.\"\n}",
+  "_cache_key": "2d0570c129a23aae19b36b728c38ab2c",
+  "_iso3": "HUN",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

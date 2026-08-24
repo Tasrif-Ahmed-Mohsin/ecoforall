@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and sanctions, combined with decent but not stellar economic fundamentals, warrant a higher political weight, while social indicators are mixed but not crisis-level, and environmental data is too limited to matter much.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Moderate political instability and sanctions, combined with decent but not stellar economic fundamentals, warrant a higher political weight, while social indicators are mixed but not crisis-level, and environmental data is too limited to matter much.\"\n}",
+  "_cache_key": "60996d4f336ec4dd874f9ffa79ca92a7",
+  "_iso3": "ECU",
+  "_year": 2022,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

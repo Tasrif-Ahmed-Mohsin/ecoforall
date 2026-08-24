@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "MUS in 2008 shows moderate inflation, high current account deficit, and recent growth slowdown, but no major political or environmental shocks, so economic factors dominate while political instability and social pressures warrant some attention.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MUS in 2008 shows moderate inflation, high current account deficit, and recent growth slowdown, but no major political or environmental shocks, so economic factors dominate while political instability and social pressures warrant some attention.\"\n}",
+  "_cache_key": "9e75c02eebb1693487b4e0ad75dd6ffe",
+  "_iso3": "MUS",
+  "_year": 2008,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

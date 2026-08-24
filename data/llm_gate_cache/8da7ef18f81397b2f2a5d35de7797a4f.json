@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "NLD is a stable, high-income economy with no crises, moderate growth, and strong institutions, so economic fundamentals dominate the 1-year outlook, with minor roles for social and environmental factors.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"NLD is a stable, high-income economy with no crises, moderate growth, and strong institutions, so economic fundamentals dominate the 1-year outlook, with minor roles for social and environmental factors.\"\n}",
+  "_cache_key": "8da7ef18f81397b2f2a5d35de7797a4f",
+  "_iso3": "NLD",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

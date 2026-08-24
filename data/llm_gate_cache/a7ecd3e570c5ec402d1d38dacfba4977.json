@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "High debt, large current account surplus, and moderate investment suggest economic vulnerabilities, while political instability and conflict indicators warrant elevated political weight, though no major crisis dominates.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"High debt, large current account surplus, and moderate investment suggest economic vulnerabilities, while political instability and conflict indicators warrant elevated political weight, though no major crisis dominates.\"\n}",
+  "_cache_key": "a7ecd3e570c5ec402d1d38dacfba4977",
+  "_iso3": "COG",
+  "_year": 2004,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

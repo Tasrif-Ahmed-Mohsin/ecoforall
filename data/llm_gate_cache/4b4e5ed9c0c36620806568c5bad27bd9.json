@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, negative inflation, and low investment signal severe economic fragility, while moderate political instability and high protest pressure add risk, but no major environmental or social shocks are evident.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, negative inflation, and low investment signal severe economic fragility, while moderate political instability and high protest pressure add risk, but no major environmental or social shocks are evident.\"\n}",
+  "_cache_key": "4b4e5ed9c0c36620806568c5bad27bd9",
+  "_iso3": "ERI",
+  "_year": 2017,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

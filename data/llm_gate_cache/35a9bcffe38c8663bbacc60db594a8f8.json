@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MKD faces high unemployment, large current account deficit, and moderate inflation, but no active crisis, so economic fundamentals dominate, while political instability and social unrest add moderate risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MKD faces high unemployment, large current account deficit, and moderate inflation, but no active crisis, so economic fundamentals dominate, while political instability and social unrest add moderate risk.\"\n}",
+  "_cache_key": "35a9bcffe38c8663bbacc60db594a8f8",
+  "_iso3": "MKD",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

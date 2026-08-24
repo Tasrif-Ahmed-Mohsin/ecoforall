@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cameroon faces high unemployment, external imbalances, and moderate debt, but the dominant near-term risk is political instability (negative stability, protests, sanctions) which can disrupt growth, while social pressures amplify the political risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cameroon faces high unemployment, external imbalances, and moderate debt, but the dominant near-term risk is political instability (negative stability, protests, sanctions) which can disrupt growth, while social pressures amplify the political risk.\"\n}",
+  "_cache_key": "478382a2320854b8205fd1120ce6b4e8",
+  "_iso3": "CMR",
+  "_year": 2005,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

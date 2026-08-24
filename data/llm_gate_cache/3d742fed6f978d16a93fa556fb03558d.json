@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Ireland in 2006 is a stable, high-income economy with no major crises, so economic fundamentals dominate the 5-year growth outlook, with modest weight on social factors given high trust and optimism.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Ireland in 2006 is a stable, high-income economy with no major crises, so economic fundamentals dominate the 5-year growth outlook, with modest weight on social factors given high trust and optimism.\"\n}",
+  "_cache_key": "3d742fed6f978d16a93fa556fb03558d",
+  "_iso3": "IRL",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

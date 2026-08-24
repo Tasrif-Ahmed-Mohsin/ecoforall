@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Togo is a low-income, politically fragile country with high inflation, large current account deficit, and recent growth volatility, but no acute crisis, so economic fundamentals dominate while political instability and social pressures warrant moderate attention.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Togo is a low-income, politically fragile country with high inflation, large current account deficit, and recent growth volatility, but no acute crisis, so economic fundamentals dominate while political instability and social pressures warrant moderate attention.\"\n}",
+  "_cache_key": "58a4a2755ebb913677a19eaa7061b024",
+  "_iso3": "TGO",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

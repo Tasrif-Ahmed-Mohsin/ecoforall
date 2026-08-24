@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "High debt, moderate inflation, and weak growth trajectory make economy central, but severe political instability, sanctions, and conflict intensity elevate politics to near-equal weight, with social unrest also relevant.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"High debt, moderate inflation, and weak growth trajectory make economy central, but severe political instability, sanctions, and conflict intensity elevate politics to near-equal weight, with social unrest also relevant.\"\n}",
+  "_cache_key": "b50e77e6204fbe209efccbae41b40813",
+  "_iso3": "SYR",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

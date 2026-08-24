@@ -1,0 +1,14 @@
+{
+  "economy": 0.5499999999999999,
+  "politics": 0.29999999999999993,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.7,
+  "reasoning": "LSO faces moderate economic vulnerabilities (negative current account, volatile growth) but severe political instability and conflict indicators, making politics a key near-term risk, while environmental and social data are too limited to warrant high weights.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"LSO faces moderate economic vulnerabilities (negative current account, volatile growth) but severe political instability and conflict indicators, making politics a key near-term risk, while environmental and social data are too limited to warrant high weights.\"\n}",
+  "_cache_key": "f91fbdf26a2be138cb4a8e99088066eb",
+  "_iso3": "LSO",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

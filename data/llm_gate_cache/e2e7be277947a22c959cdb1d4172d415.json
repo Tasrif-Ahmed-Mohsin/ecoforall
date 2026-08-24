@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Niger faces severe political instability, high conflict, and sanctions, which will heavily disrupt growth, while its weak economic fundamentals (large current account deficit, high unemployment) and moderate inflation also constrain the outlook, though the 5-year horizon allows some structural factors to matter.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Niger faces severe political instability, high conflict, and sanctions, which will heavily disrupt growth, while its weak economic fundamentals (large current account deficit, high unemployment) and moderate inflation also constrain the outlook, though the 5-year horizon allows some structural factors to matter.\"\n}",
+  "_cache_key": "e2e7be277947a22c959cdb1d4172d415",
+  "_iso3": "NER",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

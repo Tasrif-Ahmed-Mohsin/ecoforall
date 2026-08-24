@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "High debt, negative growth, and external imbalances signal economic fragility, while significant political instability, sanctions, and conflict intensity warrant a substantial political weight, with social unrest adding moderate pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"High debt, negative growth, and external imbalances signal economic fragility, while significant political instability, sanctions, and conflict intensity warrant a substantial political weight, with social unrest adding moderate pressure.\"\n}",
+  "_cache_key": "7593ae988a2090ce8932eb55e9ae95df",
+  "_iso3": "COG",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

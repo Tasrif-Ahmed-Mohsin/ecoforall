@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.6,
+  "reasoning": "India's growth is primarily driven by economic fundamentals (recent contraction, high debt, moderate inflation), but political instability and sanctions add significant risk, while environmental and social factors are secondary over a 1-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.60,\n  \"reasoning\": \"India's growth is primarily driven by economic fundamentals (recent contraction, high debt, moderate inflation), but political instability and sanctions add significant risk, while environmental and social factors are secondary over a 1-year horizon.\"\n}",
+  "_cache_key": "6fd0be33b6b4cc55add1184ed2487df9",
+  "_iso3": "IND",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

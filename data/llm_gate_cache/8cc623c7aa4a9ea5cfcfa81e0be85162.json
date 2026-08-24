@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "CHE is a stable, high-income economy with no ongoing crises, strong fundamentals, and moderate political/social tensions that are unlikely to derail growth over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"CHE is a stable, high-income economy with no ongoing crises, strong fundamentals, and moderate political/social tensions that are unlikely to derail growth over a 3-year horizon.\"\n}",
+  "_cache_key": "8cc623c7aa4a9ea5cfcfa81e0be85162",
+  "_iso3": "CHE",
+  "_year": 2007,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

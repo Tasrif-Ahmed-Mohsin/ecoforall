@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Moderate political instability and sanctions, combined with a fragile external balance and moderate debt, elevate political risk while the economy remains the primary driver over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Moderate political instability and sanctions, combined with a fragile external balance and moderate debt, elevate political risk while the economy remains the primary driver over a 5-year horizon.\"\n}",
+  "_cache_key": "259a22154fc58434caf692d49a5fecd7",
+  "_iso3": "HND",
+  "_year": 2006,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

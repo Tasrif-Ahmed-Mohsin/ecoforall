@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Guatemala shows moderate economic fragility with high inflation, external deficit, and low investment, but political instability and social tensions (protests, low trust, low cohesion) are significant enough to warrant elevated weights for politics and human society, while environmental data is too limited to be a major factor.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Guatemala shows moderate economic fragility with high inflation, external deficit, and low investment, but political instability and social tensions (protests, low trust, low cohesion) are significant enough to warrant elevated weights for politics and human society, while environmental data is too limited to be a major factor.\"\n}",
+  "_cache_key": "b4f462bde11773d35a97e9d55c8cd891",
+  "_iso3": "GTM",
+  "_year": 2011,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

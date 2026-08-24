@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces severe macroeconomic imbalances (high debt, high unemployment, current account deficit) and negative growth trajectory, but political instability and protests are also significant, while environmental and social factors are less immediate for a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces severe macroeconomic imbalances (high debt, high unemployment, current account deficit) and negative growth trajectory, but political instability and protests are also significant, while environmental and social factors are less immediate for a 3-year horizon.\"\n}",
+  "_cache_key": "88504d5103f7be5161641a9be57b1336",
+  "_iso3": "JAM",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jordan faces moderate political instability and social pressures, but the dominant driver is its large current account deficit and high debt, making economic vulnerabilities the primary growth constraint over the next three years.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jordan faces moderate political instability and social pressures, but the dominant driver is its large current account deficit and high debt, making economic vulnerabilities the primary growth constraint over the next three years.\"\n}",
+  "_cache_key": "cf3caeb7e1ebe27174a94a25abc4557b",
+  "_iso3": "JOR",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

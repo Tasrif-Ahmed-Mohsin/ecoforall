@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan faces a currency crisis and weak growth, making economic factors dominant, but political instability and social unrest also weigh heavily on the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Azerbaijan faces a currency crisis and weak growth, making economic factors dominant, but political instability and social unrest also weigh heavily on the outlook.\"\n}",
+  "_cache_key": "85c45c5904e155f78cc566ae2450d7f1",
+  "_iso3": "AZE",
+  "_year": 2015,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

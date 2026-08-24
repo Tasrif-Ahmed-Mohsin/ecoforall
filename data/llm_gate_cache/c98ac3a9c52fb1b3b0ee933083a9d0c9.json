@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.45,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "MDV faces severe political instability, sanctions, and conflict, which dominate the near-term growth outlook, while high debt, negative current account, and volatile growth add economic fragility, but environmental and social data are too limited to warrant higher weights.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.45,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"MDV faces severe political instability, sanctions, and conflict, which dominate the near-term growth outlook, while high debt, negative current account, and volatile growth add economic fragility, but environmental and social data are too limited to warrant higher weights.\"\n}",
+  "_cache_key": "c98ac3a9c52fb1b3b0ee933083a9d0c9",
+  "_iso3": "MDV",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

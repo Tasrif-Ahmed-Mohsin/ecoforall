@@ -1,0 +1,14 @@
+{
+  "economy": 0.7999999999999998,
+  "politics": 0.04999999999999999,
+  "environment": 0.04999999999999999,
+  "human_society": 0.09999999999999998,
+  "confidence": 0.85,
+  "reasoning": "Sweden is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, with modest weight on social factors given high trust and optimism.",
+  "_raw_response": "{\n  \"economy\": 0.80,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.85,\n  \"reasoning\": \"Sweden is a stable, high-income economy with no ongoing crises, so economic fundamentals dominate the short-term growth outlook, with modest weight on social factors given high trust and optimism.\"\n}",
+  "_cache_key": "18f60462254ce7ddc51d8316b5ec0b60",
+  "_iso3": "SWE",
+  "_year": 2009,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

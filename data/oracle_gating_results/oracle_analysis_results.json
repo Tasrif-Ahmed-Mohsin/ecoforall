@@ -1,0 +1,49 @@
+{
+  "experiment": "oracle_gating_analysis",
+  "purpose": "Compute theoretical upper bound for LLM-gated cross-domain forecasting",
+  "horizons": [
+    1,
+    3,
+    5
+  ],
+  "n_folds": 5,
+  "runtime_seconds": 77.2,
+  "headline": [
+    {
+      "horizon": 1,
+      "n_folds": 5,
+      "eco_only_mae_mean": 0.02657,
+      "uniform_mae_mean": 0.02652,
+      "oracle_mae_mean": 0.02323,
+      "avg_gap_eco_to_oracle_pct": 13.68,
+      "avg_gap_uniform_to_oracle_pct": 13.47,
+      "avg_pct_non_eco": 84.3
+    },
+    {
+      "horizon": 3,
+      "n_folds": 5,
+      "eco_only_mae_mean": 0.06036,
+      "uniform_mae_mean": 0.0596,
+      "oracle_mae_mean": 0.05086,
+      "avg_gap_eco_to_oracle_pct": 15.87,
+      "avg_gap_uniform_to_oracle_pct": 14.82,
+      "avg_pct_non_eco": 83.8
+    },
+    {
+      "horizon": 5,
+      "n_folds": 5,
+      "eco_only_mae_mean": 0.07994,
+      "uniform_mae_mean": 0.0786,
+      "oracle_mae_mean": 0.06518,
+      "avg_gap_eco_to_oracle_pct": 18.43,
+      "avg_gap_uniform_to_oracle_pct": 17.04,
+      "avg_pct_non_eco": 83.7
+    }
+  ],
+  "verdict": {
+    "recommendation": "STRONG_GO",
+    "avg_gap_pct": 15.99,
+    "avg_pct_non_eco_oracle": 83.9,
+    "message": "Oracle gating improves over eco-only by 16.0% on average. The oracle chooses non-economic configs 84% of the time. There is substantial room for an LLM gate to capture this signal."
+  }
+}

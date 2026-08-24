@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Peru in 2004 is a stable, middle-income economy with moderate debt and inflation, no active crises, and recent positive growth, so economic fundamentals dominate, but structural factors like political stability, environmental vulnerabilities, and social conditions warrant moderate attention over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Peru in 2004 is a stable, middle-income economy with moderate debt and inflation, no active crises, and recent positive growth, so economic fundamentals dominate, but structural factors like political stability, environmental vulnerabilities, and social conditions warrant moderate attention over a 5-year horizon.\"\n}",
+  "_cache_key": "cce603bdacbd9a8790bba96c8d3707b1",
+  "_iso3": "PER",
+  "_year": 2004,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

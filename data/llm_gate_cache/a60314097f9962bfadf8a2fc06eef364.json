@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "TJK is a low-income, politically unstable country with high conflict and sanctions, so while economic fundamentals matter, political risks significantly cloud the 5-year growth outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"TJK is a low-income, politically unstable country with high conflict and sanctions, so while economic fundamentals matter, political risks significantly cloud the 5-year growth outlook.\"\n}",
+  "_cache_key": "a60314097f9962bfadf8a2fc06eef364",
+  "_iso3": "TJK",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

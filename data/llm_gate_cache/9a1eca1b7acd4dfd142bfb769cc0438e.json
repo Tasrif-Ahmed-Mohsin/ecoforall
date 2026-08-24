@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.15,
+  "environment": 0.15,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Ghana is a lower-middle-income economy with strong recent growth, moderate inflation, and high investment, but large current account deficit and some environmental vulnerabilities (floods, droughts) and social pressures, so economic fundamentals dominate while political, environmental, and social factors each play a secondary role.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.15,\n  \"environment\": 0.15,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Ghana is a lower-middle-income economy with strong recent growth, moderate inflation, and high investment, but large current account deficit and some environmental vulnerabilities (floods, droughts) and social pressures, so economic fundamentals dominate while political, environmental, and social factors each play a secondary role.\"\n}",
+  "_cache_key": "9a1eca1b7acd4dfd142bfb769cc0438e",
+  "_iso3": "GHA",
+  "_year": 2012,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

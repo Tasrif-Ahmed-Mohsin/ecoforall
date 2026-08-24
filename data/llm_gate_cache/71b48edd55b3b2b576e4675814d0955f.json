@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Dominican Republic is a stable middle-income economy with moderate debt and inflation, but high current account deficit and social tensions warrant significant weight on politics and human society over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Dominican Republic is a stable middle-income economy with moderate debt and inflation, but high current account deficit and social tensions warrant significant weight on politics and human society over a 5-year horizon.\"\n}",
+  "_cache_key": "71b48edd55b3b2b576e4675814d0955f",
+  "_iso3": "DOM",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

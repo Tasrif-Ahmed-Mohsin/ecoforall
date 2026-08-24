@@ -1,0 +1,14 @@
+{
+  "economy": 0.7000000000000001,
+  "politics": 0.10000000000000002,
+  "environment": 0.10000000000000002,
+  "human_society": 0.10000000000000002,
+  "confidence": 0.75,
+  "reasoning": "Mexico in 2018 is a stable, upper-middle-income economy with moderate growth, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast, while other domains play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Mexico in 2018 is a stable, upper-middle-income economy with moderate growth, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate the forecast, while other domains play minor supporting roles.\"\n}",
+  "_cache_key": "4448ed7f4c073193a7a8a5eb4ee06260",
+  "_iso3": "MEX",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

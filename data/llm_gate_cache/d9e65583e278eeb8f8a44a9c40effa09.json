@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "India in 2005 is a stable, growing emerging economy with moderate inflation and investment, no active crises, and a short 1-year horizon, so economic fundamentals dominate while political, environmental, and social factors play minor supporting roles.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"India in 2005 is a stable, growing emerging economy with moderate inflation and investment, no active crises, and a short 1-year horizon, so economic fundamentals dominate while political, environmental, and social factors play minor supporting roles.\"\n}",
+  "_cache_key": "d9e65583e278eeb8f8a44a9c40effa09",
+  "_iso3": "IND",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

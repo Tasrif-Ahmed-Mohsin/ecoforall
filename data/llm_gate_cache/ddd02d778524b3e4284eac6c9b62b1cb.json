@@ -1,0 +1,14 @@
+{
+  "economy": 0.35,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.25,
+  "confidence": 0.6,
+  "reasoning": "Lebanon is in a severe economic and political crisis with hyperinflation, massive debt, high unemployment, and ongoing protests/conflict, making economic and political factors dominant, while social instability and low trust also weigh heavily.",
+  "_raw_response": "{\n  \"economy\": 0.35,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.25,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Lebanon is in a severe economic and political crisis with hyperinflation, massive debt, high unemployment, and ongoing protests/conflict, making economic and political factors dominant, while social instability and low trust also weigh heavily.\"\n}",
+  "_cache_key": "ddd02d778524b3e4284eac6c9b62b1cb",
+  "_iso3": "LBN",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Serbia faces severe external imbalances and high inflation, but political instability and social tensions are moderate, so economic fundamentals dominate while politics and social factors play secondary roles.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Serbia faces severe external imbalances and high inflation, but political instability and social tensions are moderate, so economic fundamentals dominate while politics and social factors play secondary roles.\"\n}",
+  "_cache_key": "473c1e9a58040f731aa42ef8318a1c90",
+  "_iso3": "SRB",
+  "_year": 2008,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.9,
+  "reasoning": "SVN is a stable, high-income EU economy with no ongoing crises, moderate debt, low inflation, and a mild recovery from recession, so short-term growth is driven almost entirely by economic fundamentals.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.9,\n  \"reasoning\": \"SVN is a stable, high-income EU economy with no ongoing crises, moderate debt, low inflation, and a mild recovery from recession, so short-term growth is driven almost entirely by economic fundamentals.\"\n}",
+  "_cache_key": "e7044d10e70ac3c27318aa2645d3a99f",
+  "_iso3": "SVN",
+  "_year": 2012,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

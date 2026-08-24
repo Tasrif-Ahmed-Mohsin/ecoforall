@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Malaysia is a stable upper-middle-income economy with moderate debt and healthy growth, but political instability and moderate social tensions warrant a notable political weight, while environmental risks are secondary over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Malaysia is a stable upper-middle-income economy with moderate debt and healthy growth, but political instability and moderate social tensions warrant a notable political weight, while environmental risks are secondary over a 5-year horizon.\"\n}",
+  "_cache_key": "e1688d7dc94c7633a13894cc62eb66c1",
+  "_iso3": "MYS",
+  "_year": 2018,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "Kazakhstan in 2021 shows moderate economic recovery with low debt and investment, but political instability, sanctions, and negative sentiment warrant elevated political weight, while environmental and social factors are secondary for a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Kazakhstan in 2021 shows moderate economic recovery with low debt and investment, but political instability, sanctions, and negative sentiment warrant elevated political weight, while environmental and social factors are secondary for a one-year horizon.\"\n}",
+  "_cache_key": "d64bce6bef91b6b69599f113bcfa8a9e",
+  "_iso3": "KAZ",
+  "_year": 2021,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

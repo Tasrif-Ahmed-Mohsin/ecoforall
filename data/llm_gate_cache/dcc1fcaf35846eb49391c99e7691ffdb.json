@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.35,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "LBY faces extreme external imbalances and political instability, but no active conflict or environmental shock, so economic vulnerabilities and political fragility dominate the forecast.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.35,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"LBY faces extreme external imbalances and political instability, but no active conflict or environmental shock, so economic vulnerabilities and political fragility dominate the forecast.\"\n}",
+  "_cache_key": "dcc1fcaf35846eb49391c99e7691ffdb",
+  "_iso3": "LBY",
+  "_year": 2014,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Vietnam in 2014 is a stable, emerging economy with strong growth, moderate inflation, and no major crises, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Vietnam in 2014 is a stable, emerging economy with strong growth, moderate inflation, and no major crises, so economic fundamentals dominate, while political and social factors are secondary but not negligible given moderate protest and conflict indicators.\"\n}",
+  "_cache_key": "eeb2cfeaab46f76f2b7f55999b16113d",
+  "_iso3": "VNM",
+  "_year": 2014,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

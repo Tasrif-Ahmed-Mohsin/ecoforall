@@ -1,0 +1,14 @@
+{
+  "economy": 0.7,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.75,
+  "reasoning": "Bulgaria is a stable EU member with moderate debt, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate, while social factors like low trust and high protest pressure add modest risk.",
+  "_raw_response": "{\n  \"economy\": 0.70,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bulgaria is a stable EU member with moderate debt, low unemployment, and no major political or environmental shocks, so economic fundamentals dominate, while social factors like low trust and high protest pressure add modest risk.\"\n}",
+  "_cache_key": "735e80761dbb327e7c9833be1e5e145f",
+  "_iso3": "BGR",
+  "_year": 2021,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

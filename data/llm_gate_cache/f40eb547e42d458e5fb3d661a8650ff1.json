@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Jamaica faces severe macroeconomic imbalances (high debt, inflation, current account deficit) and moderate political instability, but no acute crisis, so economic factors dominate while political and social risks warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Jamaica faces severe macroeconomic imbalances (high debt, inflation, current account deficit) and moderate political instability, but no acute crisis, so economic factors dominate while political and social risks warrant notable weight.\"\n}",
+  "_cache_key": "f40eb547e42d458e5fb3d661a8650ff1",
+  "_iso3": "JAM",
+  "_year": 2008,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.08,
+  "environment": 0.03,
+  "human_society": 0.04,
+  "confidence": 0.75,
+  "reasoning": "The economy is stable with moderate growth, low inflation, and no crises, so economic fundamentals dominate the short-term forecast, while political and social factors are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.08,\n  \"environment\": 0.03,\n  \"human_society\": 0.04,\n  \"confidence\": 0.75,\n  \"reasoning\": \"The economy is stable with moderate growth, low inflation, and no crises, so economic fundamentals dominate the short-term forecast, while political and social factors are relatively benign.\"\n}",
+  "_cache_key": "0bbdab32c1b87c147bc392783cca1df3",
+  "_iso3": "DJI",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

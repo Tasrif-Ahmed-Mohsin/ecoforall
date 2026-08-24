@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Nigeria's moderate growth, low debt, and stable banking system support a strong economic weight, but political instability, high protest pressure, and conflict intensity elevate political risk, while social distrust and demographic pressures add moderate human society concerns.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Nigeria's moderate growth, low debt, and stable banking system support a strong economic weight, but political instability, high protest pressure, and conflict intensity elevate political risk, while social distrust and demographic pressures add moderate human society concerns.\"\n}",
+  "_cache_key": "8ddb709db0577bf743b1fb3da3cf6c1d",
+  "_iso3": "NGA",
+  "_year": 2011,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

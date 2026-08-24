@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.6,
+  "reasoning": "Moderate economic instability (high debt, unemployment, current account deficit) combined with severe political instability and social unrest, but no major environmental shocks, warrants a higher weight on economy and politics, with human society also significant due to low trust and high protest pressure.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.60,\n  \"reasoning\": \"Moderate economic instability (high debt, unemployment, current account deficit) combined with severe political instability and social unrest, but no major environmental shocks, warrants a higher weight on economy and politics, with human society also significant due to low trust and high protest pressure.\"\n}",
+  "_cache_key": "31b1080800492a8ffbfdbd66c107132f",
+  "_iso3": "MAR",
+  "_year": 2016,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

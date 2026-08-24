@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "GMB is a low-income, moderately unstable economy with high inflation, low investment, and significant political tensions (protests, sanctions, conflicts), so economic fundamentals dominate but political risks are substantial for a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"GMB is a low-income, moderately unstable economy with high inflation, low investment, and significant political tensions (protests, sanctions, conflicts), so economic fundamentals dominate but political risks are substantial for a 5-year horizon.\"\n}",
+  "_cache_key": "65d9b99b04657f4cef64bc0f17a10d23",
+  "_iso3": "GMB",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

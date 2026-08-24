@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "CIV is a lower-middle-income economy with moderate growth and low inflation, but high political instability, protests, and conflict intensity warrant a significant political weight, while social indicators like low trust and high fear also temper the outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"CIV is a lower-middle-income economy with moderate growth and low inflation, but high political instability, protests, and conflict intensity warrant a significant political weight, while social indicators like low trust and high fear also temper the outlook.\"\n}",
+  "_cache_key": "863a3b8050a165e32340677ed410ccf2",
+  "_iso3": "CIV",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

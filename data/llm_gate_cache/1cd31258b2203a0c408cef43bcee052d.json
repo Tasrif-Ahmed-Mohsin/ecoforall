@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "Hungary in 2005 is a stable, high-income EU accession economy with moderate imbalances (current account deficit, debt) but no crises, so short-term growth is driven primarily by macroeconomic fundamentals, with minor political and social factors.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"Hungary in 2005 is a stable, high-income EU accession economy with moderate imbalances (current account deficit, debt) but no crises, so short-term growth is driven primarily by macroeconomic fundamentals, with minor political and social factors.\"\n}",
+  "_cache_key": "1cd31258b2203a0c408cef43bcee052d",
+  "_iso3": "HUN",
+  "_year": 2005,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

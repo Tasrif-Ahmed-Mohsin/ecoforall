@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Azerbaijan is a stable, oil-dependent middle-income economy with moderate political risk and social tensions, so economic fundamentals dominate but political and social factors warrant notable weight.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Azerbaijan is a stable, oil-dependent middle-income economy with moderate political risk and social tensions, so economic fundamentals dominate but political and social factors warrant notable weight.\"\n}",
+  "_cache_key": "906f82e1e45ac76ca56af0ac222ea71e",
+  "_iso3": "AZE",
+  "_year": 2018,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

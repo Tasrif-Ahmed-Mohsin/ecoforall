@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BWA is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political instability and protest activity warrant a secondary political weight.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BWA is a stable, middle-income economy with no ongoing crises, so economic fundamentals dominate, while moderate political instability and protest activity warrant a secondary political weight.\"\n}",
+  "_cache_key": "658833610420b39935b78708044ff2a9",
+  "_iso3": "BWA",
+  "_year": 2004,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

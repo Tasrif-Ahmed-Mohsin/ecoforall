@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Armenia shows moderate growth but high unemployment, external imbalances, and significant protest/sanction pressures, making economic and political/social factors key for short-term GDP outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Armenia shows moderate growth but high unemployment, external imbalances, and significant protest/sanction pressures, making economic and political/social factors key for short-term GDP outlook.\"\n}",
+  "_cache_key": "37aa53d554532d9ba6a33c17ce7becf6",
+  "_iso3": "ARM",
+  "_year": 2019,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

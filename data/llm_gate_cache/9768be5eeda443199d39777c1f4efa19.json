@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.08,
+  "human_society": 0.07,
+  "confidence": 0.85,
+  "reasoning": "ARE is a stable, high-income economy with moderate political stability and no major crisis, so economic fundamentals dominate the short-term growth forecast.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.08,\n  \"human_society\": 0.07,\n  \"confidence\": 0.85,\n  \"reasoning\": \"ARE is a stable, high-income economy with moderate political stability and no major crisis, so economic fundamentals dominate the short-term growth forecast.\"\n}",
+  "_cache_key": "9768be5eeda443199d39777c1f4efa19",
+  "_iso3": "ARE",
+  "_year": 2009,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

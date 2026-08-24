@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "Cuba's low investment, modest growth, and high political/sanction pressures suggest politics is a key risk, but the economy remains the primary driver over a 3-year horizon, with social unrest adding moderate uncertainty.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.7,\n  \"reasoning\": \"Cuba's low investment, modest growth, and high political/sanction pressures suggest politics is a key risk, but the economy remains the primary driver over a 3-year horizon, with social unrest adding moderate uncertainty.\"\n}",
+  "_cache_key": "c672e3dc896b8e27456a7e59256f6cf3",
+  "_iso3": "CUB",
+  "_year": 2016,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}

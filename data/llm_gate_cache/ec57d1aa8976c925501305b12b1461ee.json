@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.1,
+  "environment": 0.05,
+  "human_society": 0.1,
+  "confidence": 0.8,
+  "reasoning": "The economy is stable with no ongoing crises, moderate inflation, and positive recent growth, so economic factors dominate the short-term forecast, while political and social indicators are relatively benign.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.10,\n  \"environment\": 0.05,\n  \"human_society\": 0.10,\n  \"confidence\": 0.80,\n  \"reasoning\": \"The economy is stable with no ongoing crises, moderate inflation, and positive recent growth, so economic factors dominate the short-term forecast, while political and social indicators are relatively benign.\"\n}",
+  "_cache_key": "ec57d1aa8976c925501305b12b1461ee",
+  "_iso3": "NPL",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

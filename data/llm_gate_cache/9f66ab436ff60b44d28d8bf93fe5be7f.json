@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.1,
+  "human_society": 0.15,
+  "confidence": 0.7,
+  "reasoning": "IDN is a middle-income economy with moderate growth and no active crises, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are secondary.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.10,\n  \"human_society\": 0.15,\n  \"confidence\": 0.70,\n  \"reasoning\": \"IDN is a middle-income economy with moderate growth and no active crises, but political instability and social tensions warrant elevated political and societal weights, while environmental risks are secondary.\"\n}",
+  "_cache_key": "9f66ab436ff60b44d28d8bf93fe5be7f",
+  "_iso3": "IDN",
+  "_year": 2003,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

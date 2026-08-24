@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.05,
+  "human_society": 0.15,
+  "confidence": 0.6,
+  "reasoning": "Moderate political instability and social tensions, combined with a low-income economy and recent strong growth, suggest a balanced but economy-led forecast with notable political risk.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.05,\n  \"human_society\": 0.15,\n  \"confidence\": 0.6,\n  \"reasoning\": \"Moderate political instability and social tensions, combined with a low-income economy and recent strong growth, suggest a balanced but economy-led forecast with notable political risk.\"\n}",
+  "_cache_key": "fa992cc3dbd0df803f2c39d1b3c73de6",
+  "_iso3": "MMR",
+  "_year": 2010,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

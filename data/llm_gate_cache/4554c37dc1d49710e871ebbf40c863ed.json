@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.7,
+  "reasoning": "Laos is a lower-middle-income economy with high investment and moderate debt, but political instability, social unrest, and low trust warrant elevated political and societal weights, while environmental data is too limited to assign high importance.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.70,\n  \"reasoning\": \"Laos is a lower-middle-income economy with high investment and moderate debt, but political instability, social unrest, and low trust warrant elevated political and societal weights, while environmental data is too limited to assign high importance.\"\n}",
+  "_cache_key": "4554c37dc1d49710e871ebbf40c863ed",
+  "_iso3": "LAO",
+  "_year": 2012,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

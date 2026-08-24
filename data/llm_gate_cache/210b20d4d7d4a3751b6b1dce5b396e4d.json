@@ -1,0 +1,14 @@
+{
+  "economy": 0.45,
+  "politics": 0.3,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Lebanon faces a severe economic crisis with hyperinflation, massive debt, and a sharp contraction, while political instability and social unrest are significant but secondary to the immediate economic collapse.",
+  "_raw_response": "{\n  \"economy\": 0.45,\n  \"politics\": 0.30,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Lebanon faces a severe economic crisis with hyperinflation, massive debt, and a sharp contraction, while political instability and social unrest are significant but secondary to the immediate economic collapse.\"\n}",
+  "_cache_key": "210b20d4d7d4a3751b6b1dce5b396e4d",
+  "_iso3": "LBN",
+  "_year": 2020,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

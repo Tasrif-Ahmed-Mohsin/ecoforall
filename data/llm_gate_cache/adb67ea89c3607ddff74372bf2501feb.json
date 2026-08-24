@@ -1,0 +1,14 @@
+{
+  "economy": 0.85,
+  "politics": 0.05,
+  "environment": 0.02,
+  "human_society": 0.08,
+  "confidence": 0.9,
+  "reasoning": "TWN is a stable, high-income economy with no ongoing crises, strong external position, and moderate debt, so near-term growth is driven primarily by economic fundamentals, with minor social and political factors.",
+  "_raw_response": "{\n  \"economy\": 0.85,\n  \"politics\": 0.05,\n  \"environment\": 0.02,\n  \"human_society\": 0.08,\n  \"confidence\": 0.9,\n  \"reasoning\": \"TWN is a stable, high-income economy with no ongoing crises, strong external position, and moderate debt, so near-term growth is driven primarily by economic fundamentals, with minor social and political factors.\"\n}",
+  "_cache_key": "adb67ea89c3607ddff74372bf2501feb",
+  "_iso3": "TWN",
+  "_year": 2014,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

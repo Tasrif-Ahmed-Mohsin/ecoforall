@@ -1,0 +1,14 @@
+{
+  "economy": 0.75,
+  "politics": 0.15,
+  "environment": 0.05,
+  "human_society": 0.05,
+  "confidence": 0.7,
+  "reasoning": "BRN is a high-income, stable economy with low inflation and strong current account surplus, but political instability and protests warrant a moderate political weight, while environmental and social factors are less critical over a one-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.75,\n  \"politics\": 0.15,\n  \"environment\": 0.05,\n  \"human_society\": 0.05,\n  \"confidence\": 0.7,\n  \"reasoning\": \"BRN is a high-income, stable economy with low inflation and strong current account surplus, but political instability and protests warrant a moderate political weight, while environmental and social factors are less critical over a one-year horizon.\"\n}",
+  "_cache_key": "49992a798a1743b55ec72bfc018a20d3",
+  "_iso3": "BRN",
+  "_year": 2003,
+  "_horizon": 1,
+  "_model": "deepseek-chat"
+}

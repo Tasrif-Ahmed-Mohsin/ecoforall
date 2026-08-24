@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.2,
+  "environment": 0.05,
+  "human_society": 0.2,
+  "confidence": 0.75,
+  "reasoning": "Greece is emerging from a deep recession with high debt and unemployment, making economic fundamentals critical, but political instability and social strain from austerity also weigh heavily on the medium-term outlook.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.20,\n  \"environment\": 0.05,\n  \"human_society\": 0.20,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Greece is emerging from a deep recession with high debt and unemployment, making economic fundamentals critical, but political instability and social strain from austerity also weigh heavily on the medium-term outlook.\"\n}",
+  "_cache_key": "0f3cbdbba825860c917351f59d0e7f80",
+  "_iso3": "GRC",
+  "_year": 2015,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

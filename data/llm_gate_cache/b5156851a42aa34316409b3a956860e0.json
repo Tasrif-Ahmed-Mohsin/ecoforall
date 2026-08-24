@@ -1,0 +1,14 @@
+{
+  "economy": 0.55,
+  "politics": 0.25,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.7,
+  "reasoning": "HTI is a low-income, politically fragile country with moderate instability and sanctions, so economic fundamentals dominate but political risks are elevated, while environmental and social factors are less critical over a 5-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.55,\n  \"politics\": 0.25,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.70,\n  \"reasoning\": \"HTI is a low-income, politically fragile country with moderate instability and sanctions, so economic fundamentals dominate but political risks are elevated, while environmental and social factors are less critical over a 5-year horizon.\"\n}",
+  "_cache_key": "b5156851a42aa34316409b3a956860e0",
+  "_iso3": "HTI",
+  "_year": 2013,
+  "_horizon": 5,
+  "_model": "deepseek-chat"
+}

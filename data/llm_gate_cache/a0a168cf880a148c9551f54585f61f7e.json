@@ -1,0 +1,14 @@
+{
+  "economy": 0.65,
+  "politics": 0.15,
+  "environment": 0.1,
+  "human_society": 0.1,
+  "confidence": 0.75,
+  "reasoning": "Vietnam's stable political environment, moderate debt, and strong investment/current account position suggest economic fundamentals dominate, while moderate climate risks and social indicators play secondary roles over a 3-year horizon.",
+  "_raw_response": "{\n  \"economy\": 0.65,\n  \"politics\": 0.15,\n  \"environment\": 0.10,\n  \"human_society\": 0.10,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Vietnam's stable political environment, moderate debt, and strong investment/current account position suggest economic fundamentals dominate, while moderate climate risks and social indicators play secondary roles over a 3-year horizon.\"\n}",
+  "_cache_key": "a0a168cf880a148c9551f54585f61f7e",
+  "_iso3": "VNM",
+  "_year": 2020,
+  "_horizon": 3,
+  "_model": "deepseek-chat"
+}
