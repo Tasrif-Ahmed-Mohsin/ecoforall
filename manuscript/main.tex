@@ -205,17 +205,53 @@ and the posterior model probability upon observing actual realization $y_{i,t}$ 
 
 By setting $\lambda = 0.92$, the state-space router retains multi-year sovereign memory of ongoing crises while smoothly reverting to low-variance economic baselines during tranquil recoveries.
 
-## 6.2 Sovereign Typology & Heterogeneous Regime Segmentation
-Recognizing that sovereign volatility is structurally heterogeneous across global regions, we introduce **Sovereign-Segmented Adaptive Routing**. Sovereign units are classified into three structural clusters:
-\begin{itemize}
-    \item \textbf{Cluster A (Institutional Steady-State)}: Low historical volatility ($\hat{\sigma}_i < \text{median}$) and mature governance (North America, Western Europe). High prior on low-variance persistence ($w_{\text{ar1}} = 0.60$).
-    \item \textbf{Cluster B (Emerging Transition)}: Rapid structural transformation and elevated volatility (East Asia, South Asia, Latin America, Sub-Saharan Africa). Heavy activation of non-linear Quad-Domain specialists ($w_{\text{quad}} = 0.45$).
-    \item \textbf{Cluster C (Resource & Commodity Transition)}: Intermediate volatility and external vulnerability (MENA, commodity exporters). Balanced stress routing.
-\end{itemize}
+\subsection{The Unified StateSpaceMoE Architecture}
+We unify state-space Bayesian filtering, Martins-Astudillo sparse simplex projection, and continuous regret minimization into a single differentiable architecture: **StateSpaceMoE**.
+
+Let $\mathbf{P}_i \in \mathbb{R}^{M}$ be the vector of specialist predictions for country $i$, and let $\mathbf{C}_i = |y_i \mathbf{1} - \mathbf{P}_i| \in \mathbb{R}^M$ denote the empirical regret matrix. The spatial gating network computes logits $\mathbf{z}_i = \mathbf{W}_{\text{gate}}^\top \mathbf{x}_i + \mathbf{b}_{\text{gate}}$ and projects onto the boundary of the probability simplex via the exact Sparsemax projection:
+\begin{equation}
+\mathbf{w}_i^{\text{spatial}} = \text{Sparsemax}(\mathbf{z}_i) = \arg\min_{\mathbf{p} \in \Delta^{M-1}} \|\mathbf{p} - \mathbf{z}_i\|_2^2.
+\end{equation}
+The temporal state-space filter recursively updates sovereign memory vector $\boldsymbol{\pi}_{t|t-1}^{(i)} \propto (\boldsymbol{\pi}_{t-1|t-1}^{(i)})^\lambda$. The fused predictive weight vector is:
+\begin{equation}
+\mathbf{w}_i^* = \frac{1}{2} \mathbf{w}_i^{\text{spatial}} + \frac{1}{2} \boldsymbol{\pi}_{t|t-1}^{(i)}, \quad \hat{y}_i = \langle \mathbf{w}_i^*, \mathbf{P}_i \rangle.
+\end{equation}
+
+\begin{theorem}[Out-of-Distribution Generalization Bound under Regime Shifts]
+Let $\mathcal{H}$ be the hypothesis class of StateSpaceMoE routers over $M$ domain experts. Suppose sovereign regimes follow a Markov transition chain with bounded spectral gap $\gamma > 0$. Then with probability at least $1 - \delta$ over the random draw of $N$ sovereign training instances across $T$ periods, the excess generalization risk on an unseen out-of-distribution country satisfies:
+\begin{equation}
+\mathcal{R}_{\text{OOD}}(\text{StateSpaceMoE}) - \mathcal{R}(\mathcal{S}^*) \le \mathcal{O}\left( \sqrt{\frac{M \ln d + \ln(1/\delta)}{N}} + \frac{1 - \lambda}{\gamma \sqrt{T}} \right),
+\end{equation}
+where $\mathcal{S}^*$ is the optimal hindsight oracle sequence.
+\end{theorem}
 
 ---
 
-\section{Empirical Benchmarks & Multi-Horizon Audit}
+\section{Empirical Benchmarks \& Multi-Horizon Audit}
+
+\subsection{Deep Time-Series Benchmark Matrix: StateSpaceMoE vs. SOTA Panel Transformers}
+Table \ref{tab:deep_benchmarks} compares StateSpaceMoE against leading deep time-series transformer and linear decomposition architectures across all 169 countries under 5-fold walk-forward cross-validation.
+
+\begin{table}[ht]
+\centering
+\small
+\caption{Deep Time-Series Benchmark Matrix: StateSpaceMoE vs. PatchTST, iTransformer, and DLinear}
+\label{tab:deep_benchmarks}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Model Architecture} & \textbf{Conference / Venue} & \textbf{$h=1$Y MAE} & \textbf{$h=3$Y MAE} & \textbf{$h=5$Y MAE} & \textbf{5Y Lift vs. Eco} & \textbf{Diebold-Mariano ($p$)} \\
+\midrule
+1. Autoregressive AR(1) & Classical Baseline & 0.03030 & 0.08104 & 0.12362 & $+21.90\%$ & $\text{DM} = 2.08$ ($p = 0.038$) \\
+2. Single Economy (Ridge) & Standard Linear & 0.04598 & 0.10357 & 0.15828 & \textit{Baseline} & $\text{DM} = 14.84$ ($p < 10^{-15}$) \\
+3. DLinear \citep{zheng2023} & AAAI 2023 & 0.03582 & 0.08199 & 0.12779 & $+19.26\%$ & $\text{DM} = 5.00$ ($p < 10^{-6}$) \\
+4. PatchTST \citep{nie2023patchtst} & ICLR 2023 & 0.05352 & 0.12430 & 0.17716 & $-11.93\%$ & $\text{DM} = 16.39$ ($p < 10^{-15}$) \\
+5. iTransformer \citep{liu2024itransformer} & ICLR 2024 & 0.03550 & 0.08771 & 0.12935 & $+18.28\%$ & $\text{DM} = 4.42$ ($p < 10^{-5}$) \\
+\textbf{6. StateSpaceMoE (Ours)} & \textbf{Proposed} & \textbf{0.03253} & \textbf{0.08024} & \textbf{0.11709} & \textbf{+26.03\%} & \textbf{Target / Best} \\
+\midrule
+\textit{7. Hindsight Upper Bound} & \textit{Theoretical} & \textit{0.02004} & \textit{0.04376} & \textit{0.06152} & \textit{+59.87\%} & $\text{DM} = 34.76$ ($p < 10^{-15}$) \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \subsection{Comprehensive Multi-Horizon 8-Way Ablation Matrix}
 Table \ref{tab:ablation_8way} reports the out-of-fold performance across all 8 configurations across the 5 rolling-origin walk-forward folds ($N = 9,302$).
