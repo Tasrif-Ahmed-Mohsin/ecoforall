@@ -1,0 +1,25 @@
+Horizon,Region,Obs,MAE_AR1,MAE_Global_Router,MAE_Segmented_Router,Lift_vs_AR1_pct,Lift_vs_Global_pct
+1Y,East Asia & Pacific,288,0.0223,0.03,0.0277,-24.52,7.73
+1Y,Europe & Central Asia,576,0.0244,0.0341,0.0258,-5.46,24.58
+1Y,Latin America & Caribbean,360,0.0309,0.0361,0.0345,-11.58,4.36
+1Y,Middle East & North Africa,336,0.0337,0.0389,0.0366,-8.62,5.89
+1Y,North America,48,0.0157,0.0254,0.0184,-16.96,27.74
+1Y,Other / Emerging,1920,0.0344,0.036,0.0343,0.21,4.54
+1Y,South Asia,144,0.0307,0.035,0.0328,-6.73,6.21
+1Y,Sub-Saharan Africa,360,0.0222,0.0308,0.0287,-29.6,6.8
+3Y,East Asia & Pacific,264,0.0837,0.0646,0.0582,30.49,9.84
+3Y,Europe & Central Asia,528,0.0587,0.0754,0.0614,-4.59,18.59
+3Y,Latin America & Caribbean,330,0.0788,0.0766,0.0722,8.35,5.68
+3Y,Middle East & North Africa,308,0.0728,0.0948,0.088,-20.89,7.18
+3Y,North America,44,0.0313,0.0462,0.034,-8.51,26.52
+3Y,Other / Emerging,1760,0.0904,0.0827,0.0809,10.55,2.23
+3Y,South Asia,132,0.0973,0.0776,0.0718,26.24,7.52
+3Y,Sub-Saharan Africa,330,0.0748,0.0766,0.0699,6.56,8.83
+5Y,East Asia & Pacific,240,0.1434,0.0984,0.0868,39.42,11.72
+5Y,Europe & Central Asia,480,0.0839,0.1181,0.0842,-0.35,28.74
+5Y,Latin America & Caribbean,300,0.1211,0.1162,0.1081,10.69,6.95
+5Y,Middle East & North Africa,280,0.1029,0.1413,0.1288,-25.17,8.85
+5Y,North America,40,0.0433,0.0823,0.0384,11.19,53.28
+5Y,Other / Emerging,1600,0.1345,0.1203,0.1152,14.35,4.22
+5Y,South Asia,120,0.1727,0.1258,0.1164,32.63,7.53
+5Y,Sub-Saharan Africa,300,0.1263,0.1188,0.1113,11.9,6.27

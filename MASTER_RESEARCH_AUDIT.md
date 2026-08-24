@@ -284,5 +284,52 @@ To address the fundamental theoretical question—*How much of the +18.5% to +59
 1. **The Decisive Power of State-Space Memory:** Koop-Korobilis DMS emerged as the decisive winner, closing **56.6% ($h=1$), 63.5% ($h=3$), and 67.8% ($h=5$) of the Oracle Gap**, yielding an out-of-fold error reduction of **+40.59% at 5 years ($\text{DM} = 24.843, p < 10^{-15}$)**.
 2. **Economic Intuition:** Static i.i.d. routers fail because sovereign structural breaks persist across multi-year cycles. By maintaining a recursive state-space Bayesian filter with forgetting factor $\lambda = 0.92$, the DMS router latches onto stress/crisis specialists during turbulence and smoothly reverts to trend experts during tranquil recovery periods.
 
+---
+
+## 10. Multi-Horizon Sovereign Segmentation & Heterogeneous Regime Routing
+*Source Artifacts: `data/benchmarks/sovereign_segmentation_benchmarks.csv` and `data/benchmarks/sovereign_segmentation_regional_breakdown.csv`*
+
+To address the fundamental econometric problem of sovereign heterogeneity—where developed, low-volatility economies suffer from variance inflation under unregularized non-linear gating, while emerging markets require aggressive non-linear activation—we evaluated the **Sovereign-Segmented Adaptive Router** across $h \in \{1, 3, 5\}$ Years under 5-Fold Rolling Walk-Forward CV (11,088 evaluated country-year instances).
+
+### Multi-Horizon Global Tournament Summary
+
+| Horizon | Test Obs ($N$) | Honest AR(1) MAE | Economy Ridge MAE | Global Router MAE | **Sovereign-Segmented MAE** | **Lift vs. AR(1)** | **Lift vs. Eco Ridge** | Diebold-Mariano vs. AR(1) | $p$-value |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **$h=1$Y** | 4,032 | 0.03030 | 0.04598 | 0.03492 | **0.03210** | −5.94% | **+30.19%** | $\text{DM} = -5.631$ | $p = 1.8 \times 10^{-8}$ |
+| **$h=3$Y** | 3,696 | 0.08104 | 0.10357 | 0.07967 | **0.07442** | **+8.17%** | **+28.14%** | $\text{DM} = 5.209$ | **$p = 1.9 \times 10^{-7}$** |
+| **$h=5$Y** | 3,360 | 0.12362 | 0.15828 | 0.11940 | **0.10802** | **+12.61%** | **+31.75%** | $\text{DM} = 5.114$ | **$p = 3.2 \times 10^{-7}$** |
+
+### Complete Multi-Horizon Regional Breakdown ($h=1, 3, 5$ Years)
+
+| Horizon | World Bank Geographic Region | Observations | Honest AR(1) MAE | Global Router MAE | **Segmented Router MAE** | **Lift vs. AR(1) (%)** | **Lift vs. Global (%)** |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| $h=1$Y | East Asia & Pacific | 288 | 0.0223 | 0.0300 | **0.0277** | −24.52% | **+7.73%** |
+| $h=1$Y | Europe & Central Asia | 576 | 0.0244 | 0.0341 | **0.0258** | −5.46% | **+24.58%** |
+| $h=1$Y | Latin America & Caribbean | 360 | 0.0309 | 0.0361 | **0.0345** | −11.58% | **+4.36%** |
+| $h=1$Y | Middle East & North Africa | 336 | 0.0337 | 0.0389 | **0.0366** | −8.62% | **+5.89%** |
+| $h=1$Y | North America (USA, CAN) | 48 | 0.0157 | 0.0254 | **0.0184** | −16.96% | **+27.74%** |
+| $h=1$Y | Other / Emerging Panel | 1,920 | 0.0344 | 0.0360 | **0.0343** | **+0.21%** | **+4.54%** |
+| $h=1$Y | South Asia (India, etc.) | 144 | 0.0307 | 0.0350 | **0.0328** | −6.73% | **+6.21%** |
+| $h=1$Y | Sub-Saharan Africa | 360 | 0.0222 | 0.0308 | **0.0287** | −29.60% | **+6.80%** |
+|---|---|---|---|---|---|---|---|
+| **$h=3$Y** | **East Asia & Pacific** | 264 | 0.0837 | 0.0646 | **0.0582** | **+30.49%** | **+9.84%** |
+| $h=3$Y | Europe & Central Asia | 528 | 0.0587 | 0.0754 | **0.0614** | −4.59% | **+18.59%** |
+| **$h=3$Y** | **Latin America & Caribbean** | 330 | 0.0788 | 0.0766 | **0.0722** | **+8.35%** | **+5.68%** |
+| $h=3$Y | Middle East & North Africa | 308 | 0.0728 | 0.0948 | **0.0880** | −20.89% | **+7.18%** |
+| $h=3$Y | North America (USA, CAN) | 44 | 0.0313 | 0.0462 | **0.0340** | −8.51% | **+26.52%** |
+| **$h=3$Y** | **Other / Emerging Panel** | 1,760 | 0.0904 | 0.0827 | **0.0809** | **+10.55%** | **+2.23%** |
+| **$h=3$Y** | **South Asia (India, etc.)** | 132 | 0.0973 | 0.0776 | **0.0718** | **+26.24%** | **+7.52%** |
+| **$h=3$Y** | **Sub-Saharan Africa** | 330 | 0.0748 | 0.0766 | **0.0699** | **+6.56%** | **+8.83%** |
+|---|---|---|---|---|---|---|---|
+| **$h=5$Y** | **East Asia & Pacific** | 240 | 0.1434 | 0.0984 | **0.0868** | **+39.42%** | **+11.72%** |
+| $h=5$Y | Europe & Central Asia | 480 | 0.0839 | 0.1181 | **0.0842** | −0.35% | **+28.74%** |
+| **$h=5$Y** | **Latin America & Caribbean** | 300 | 0.1211 | 0.1162 | **0.1081** | **+10.69%** | **+6.95%** |
+| $h=5$Y | Middle East & North Africa | 280 | 0.1029 | 0.1413 | **0.1288** | −25.17% | **+8.85%** |
+| **$h=5$Y** | **North America (USA, CAN)** | 40 | 0.0433 | 0.0823 | **0.0384** | **+11.19%** | **+53.28%** |
+| **$h=5$Y** | **Other / Emerging Panel** | 1,600 | 0.1345 | 0.1203 | **0.1152** | **+14.35%** | **+4.22%** |
+| **$h=5$Y** | **South Asia (India, etc.)** | 120 | 0.1727 | 0.1258 | **0.1164** | **+32.63%** | **+7.53%** |
+| **$h=5$Y** | **Sub-Saharan Africa** | 300 | 0.1263 | 0.1188 | **0.1113** | **+11.90%** | **+6.27%** |
+
+
 
 
