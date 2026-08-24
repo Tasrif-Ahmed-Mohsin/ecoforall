@@ -245,4 +245,44 @@ To address the highest-standard machine learning and econometric cross-validatio
 | **Temporal Decade Freeze** | $h=3$ | 2015–2025 Era ($N=1,176$) | 0.07878 | 0.10546 | **0.07337** | **+6.86%** | **+30.42%** | $\text{DM} = 15.363$ ($p < 10^{-15}$) |
 | **Temporal Decade Freeze** | $h=5$ | 2015–2025 Era ($N=840$) | 0.09812 | 0.17234 | **0.10657** | −8.62% | **+38.16%** | $\text{DM} = 14.306$ ($p < 10^{-15}$) |
 
+---
+
+## 9. The Oracle Gap Tournament & State-Space Gating Breakthrough
+*Source Artifact: `data/benchmarks/oracle_gap_tournament_results.csv`*
+
+To address the fundamental theoretical question—*How much of the +18.5% to +59.9% Oracle Ceiling can practically be captured by an automated router?*—we conducted a comprehensive tournament evaluating 4 advanced routing methodologies under 5-fold rolling-origin walk-forward CV (1960–2025):
+
+### Tournament Results Table
+
+| Horizon | Competing Architecture / Gating Strategy | Out-of-Fold MAE | Lift vs. Single Economy | **Oracle Gap Closed (%)** | Diebold-Mariano Stat | $p$-value |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|
+| **$h=1$Y** | **1. Economy Baseline (Ridge)** | 0.04323 | *Baseline* | 0.0% | — | $p = 1.000$ |
+| $h=1$Y | 2. Baseline Softmax Router | 0.03095 | +28.40% | 52.95% | $\text{DM} = 32.171$ | $p < 10^{-15}$ |
+| $h=1$Y | 3. Sparsemax Direct MAE (Martins & Astudillo) | 0.03073 | +28.91% | 53.90% | $\text{DM} = 25.923$ | $p < 10^{-15}$ |
+| $h=1$Y | 4. Cost-Sensitive L2D (Mozannar & Sontag) | 0.03027 | +29.97% | 55.87% | $\text{DM} = 26.990$ | $p < 10^{-15}$ |
+| **$h=1$Y** | **5. Koop-Korobilis Dynamic Model Selection (DMS)** | **0.03011** | **+30.35%** | **56.58%** | **$\text{DM} = 31.226$** | **$p < 10^{-15}$** |
+| $h=1$Y | 6. Hybrid DMS-Sparsemax Synthesis | 0.03036 | +29.77% | 55.51% | $\text{DM} = 26.315$ | $p < 10^{-15}$ |
+| $h=1$Y | 7. Theoretical Oracle Bound (Upper Ceiling) | **0.02004** | **+53.64%** | **100.00%** | $\text{DM} = 52.725$ | $p < 10^{-15}$ |
+|---|---|---|---|---|---|---|
+| **$h=3$Y** | **1. Economy Baseline (Ridge)** | 0.10122 | *Baseline* | 0.0% | — | $p = 1.000$ |
+| $h=3$Y | 2. Baseline Softmax Router | 0.07035 | +30.50% | 53.73% | $\text{DM} = 22.343$ | $p < 10^{-15}$ |
+| $h=3$Y | 3. Sparsemax Direct MAE (Martins & Astudillo) | 0.07182 | +29.05% | 51.17% | $\text{DM} = 18.059$ | $p < 10^{-15}$ |
+| $h=3$Y | 4. Cost-Sensitive L2D (Mozannar & Sontag) | 0.07092 | +29.93% | 52.73% | $\text{DM} = 18.416$ | $p < 10^{-15}$ |
+| **$h=3$Y** | **5. Koop-Korobilis Dynamic Model Selection (DMS)** | **0.06475** | **+36.03%** | **63.47%** | **$\text{DM} = 22.894$** | **$p < 10^{-15}$** |
+| $h=3$Y | 6. Hybrid DMS-Sparsemax Synthesis | 0.06929 | +31.54% | 55.56% | $\text{DM} = 19.457$ | $p < 10^{-15}$ |
+| $h=3$Y | 7. Theoretical Oracle Bound (Upper Ceiling) | **0.04376** | **+56.76%** | **100.00%** | $\text{DM} = 35.720$ | $p < 10^{-15}$ |
+|---|---|---|---|---|---|---|
+| **$h=5$Y** | **1. Economy Baseline (Ridge)** | 0.15329 | *Baseline* | 0.0% | — | $p = 1.000$ |
+| $h=5$Y | 2. Baseline Softmax Router | 0.10409 | +32.10% | 53.62% | $\text{DM} = 23.324$ | $p < 10^{-15}$ |
+| $h=5$Y | 3. Sparsemax Direct MAE (Martins & Astudillo) | 0.11148 | +27.28% | 45.56% | $\text{DM} = 15.086$ | $p < 10^{-15}$ |
+| $h=5$Y | 4. Cost-Sensitive L2D (Mozannar & Sontag) | 0.10601 | +30.84% | 51.52% | $\text{DM} = 17.223$ | $p < 10^{-15}$ |
+| **$h=5$Y** | **5. Koop-Korobilis Dynamic Model Selection (DMS)** | **0.09108** | **+40.59%** | **67.79%** | **$\text{DM} = 24.843$** | **$p < 10^{-15}$** |
+| $h=5$Y | 6. Hybrid DMS-Sparsemax Synthesis | 0.10501 | +31.50% | 52.61% | $\text{DM} = 17.903$ | $p < 10^{-15}$ |
+| $h=5$Y | 7. Theoretical Oracle Bound (Upper Ceiling) | **0.06152** | **+59.87%** | **100.00%** | $\text{DM} = 34.759$ | $p < 10^{-15}$ |
+
+### Key Methodological Takeaways:
+1. **The Decisive Power of State-Space Memory:** Koop-Korobilis DMS emerged as the decisive winner, closing **56.6% ($h=1$), 63.5% ($h=3$), and 67.8% ($h=5$) of the Oracle Gap**, yielding an out-of-fold error reduction of **+40.59% at 5 years ($\text{DM} = 24.843, p < 10^{-15}$)**.
+2. **Economic Intuition:** Static i.i.d. routers fail because sovereign structural breaks persist across multi-year cycles. By maintaining a recursive state-space Bayesian filter with forgetting factor $\lambda = 0.92$, the DMS router latches onto stress/crisis specialists during turbulence and smoothly reverts to trend experts during tranquil recovery periods.
+
+
 

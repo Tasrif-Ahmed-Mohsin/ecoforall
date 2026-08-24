@@ -1,0 +1,22 @@
+Horizon,Total_Obs,Model_Router,MAE,Lift_vs_Eco_pct,Oracle_Gap_Closed_pct,DM_Stat,DM_p_value
+1Y,3528,1. Economy Baseline (Ridge),0.04323,0.0,0.0,0.0,1.0
+1Y,3528,2. Baseline Softmax Router,0.03095,28.4,52.95,32.171,0.0
+1Y,3528,3. Sparsemax Direct MAE,0.03073,28.91,53.9,25.923,0.0
+1Y,3528,4. Cost-Sensitive L2D,0.03027,29.97,55.87,26.99,0.0
+1Y,3528,5. Koop-Korobilis DMS,0.03011,30.35,56.58,31.226,0.0
+1Y,3528,6. Hybrid DMS-Sparsemax,0.03036,29.77,55.51,26.315,0.0
+1Y,3528,7. Theoretical Oracle Bound,0.02004,53.64,100.0,52.725,0.0
+3Y,3192,1. Economy Baseline (Ridge),0.10122,0.0,0.0,0.0,1.0
+3Y,3192,2. Baseline Softmax Router,0.07035,30.5,53.73,22.343,0.0
+3Y,3192,3. Sparsemax Direct MAE,0.07182,29.05,51.17,18.059,0.0
+3Y,3192,4. Cost-Sensitive L2D,0.07092,29.93,52.73,18.416,0.0
+3Y,3192,5. Koop-Korobilis DMS,0.06475,36.03,63.47,22.894,0.0
+3Y,3192,6. Hybrid DMS-Sparsemax,0.06929,31.54,55.56,19.457,0.0
+3Y,3192,7. Theoretical Oracle Bound,0.04376,56.76,100.0,35.72,0.0
+5Y,2856,1. Economy Baseline (Ridge),0.15329,0.0,0.0,0.0,1.0
+5Y,2856,2. Baseline Softmax Router,0.10409,32.1,53.62,23.324,0.0
+5Y,2856,3. Sparsemax Direct MAE,0.11148,27.28,45.56,15.086,0.0
+5Y,2856,4. Cost-Sensitive L2D,0.10601,30.84,51.52,17.223,0.0
+5Y,2856,5. Koop-Korobilis DMS,0.09108,40.59,67.79,24.843,0.0
+5Y,2856,6. Hybrid DMS-Sparsemax,0.10501,31.5,52.61,17.903,0.0
+5Y,2856,7. Theoretical Oracle Bound,0.06152,59.87,100.0,34.759,0.0
