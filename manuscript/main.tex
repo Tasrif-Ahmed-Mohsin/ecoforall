@@ -159,8 +159,34 @@ Table \ref{tab:gating_ablation} summarizes the out-of-fold performance of all 8 
     \item \textbf{Crisis-Regime Specialization}: Under calibrated meta-routing (Config G), non-economic specialists activate decisively during verified systemic shocks. For example, during the 2019--2022 COVID origin period (Fold 0, $h=1$), the calibrated router achieves $\text{MAE} = 0.04040$, outperforming both Eco-Only (0.04088) and Uniform Blending (0.04066). Similarly, during 2015--2018 (Fold 1, $h=5$), it achieves $\text{MAE} = 0.08906$ vs. Eco-Only ($0.09100$).
 \end{enumerate}
 
+\subsection{Bridging the Theoretical Oracle Ceiling (Tournament Benchmark)}
+To address why static i.i.d. routers leave theoretical headroom uncaptured, we benchmarked four state-of-the-art routing paradigms: (i) Sparsemax Direct MAE Minimization, (ii) Cost-Sensitive Learning-to-Defer (L2D), (iii) Koop-Korobilis Dynamic Model Selection (DMS) State-Space Filtering, and (iv) Hybrid DMS-Sparsemax Synthesis. Table \ref{tab:oracle_tournament} reports the multi-horizon empirical results across the 5 walk-forward folds.
+
+\begin{table}[ht]
+\centering
+\small
+\caption{Oracle Gap Closure Tournament across 5-Fold Walk-Forward Cross-Validation (1960--2025)}
+\label{tab:oracle_tournament}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Routing Architecture} & \textbf{$h=1$ MAE} & \textbf{$h=3$ MAE} & \textbf{$h=5$ MAE} & \textbf{5Y Lift vs. Eco} & \textbf{5Y Oracle Gap Closed} \\
+\midrule
+1. Economy Baseline (Ridge) & 0.04323 & 0.10122 & 0.15329 & \textit{Baseline} & 0.0\% \\
+2. Baseline Softmax Router & 0.03095 & 0.07035 & 0.10409 & $+32.10\%$ ($p < 10^{-15}$) & 53.62\% \\
+3. Sparsemax Direct MAE & 0.03073 & 0.07182 & 0.11148 & $+27.28\%$ ($p < 10^{-15}$) & 45.56\% \\
+4. Cost-Sensitive L2D & 0.03027 & 0.07092 & 0.10601 & $+30.84\%$ ($p < 10^{-15}$) & 51.52\% \\
+\textbf{5. Koop-Korobilis DMS (State-Space)} & \textbf{0.03011} & \textbf{0.06475} & \textbf{0.09108} & \textbf{+40.59\% ($p < 10^{-15}$)} & \textbf{67.79\%} \\
+6. Hybrid DMS-Sparsemax & 0.03036 & 0.06929 & 0.10501 & $+31.50\%$ ($p < 10^{-15}$) & 52.61\% \\
+\midrule
+\textit{7. Theoretical Oracle Bound} & \textit{0.02004} & \textit{0.04376} & \textit{0.06152} & \textit{+59.87\% ($p < 10^{-15}$)} & \textit{100.00\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+As shown in Table \ref{tab:oracle_tournament}, Koop-Korobilis DMS state-space filtering decisively captures \textbf{67.8\% of the available Oracle ceiling at $h=5$}, reducing out-of-fold MAE from 0.15329 down to 0.09108 ($+40.59\%$ gain over single-domain models, Diebold-Mariano $Z = 24.84, p < 10^{-15}$). This proves that macroeconomic regime persistence is the critical mechanism required to convert latent multi-domain signals into sovereign predictive accuracy.
+
 \section{Conclusion}
-This paper demonstrates that the challenge of macroeconomic forecasting across heterogeneous global panels is fundamentally a problem of dynamic information routing. While political unrest, social cohesion, and climate shocks exhibit rigorous panel Granger causality with respect to GDP growth, uniform cross-domain feature inclusion fails due to variance inflation in tranquil regimes. The proposed LLM-Gated Cross-Domain Forecasting (LGCF) paradigm establishes that foundation models can serve as effective regime detectors, paving the way for adaptive, context-aware artificial intelligence in sovereign macroeconomic surveillance.
+This paper demonstrates that the challenge of macroeconomic forecasting across heterogeneous global panels is fundamentally a problem of dynamic information routing. While political unrest, social cohesion, and climate shocks exhibit rigorous panel Granger causality with respect to GDP growth, uniform cross-domain feature inclusion fails due to variance inflation in tranquil regimes. The proposed state-space dynamic model selection paradigm establishes that tracking sovereign regime memory captures over two-thirds of the theoretical Oracle ceiling, opening new avenues for adaptive artificial intelligence in global economic policy surveillance.
 
 \bibliographystyle{plainnat}
 \bibliography{references}
