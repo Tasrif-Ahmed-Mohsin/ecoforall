@@ -1,0 +1,7 @@
+Protocol,Horizon,N_Test_Obs,Test_Domain,MAE_AR1,MAE_Eco_Ridge,MAE_LGBM_Quad,MAE_LGCF_v2_Gated,Lift_vs_AR1_pct,Lift_vs_Eco_pct,DM_Stat,DM_p_value,Lift_in_Shocks_pct
+1_Spatial_OOD,1Y,1971,N=33 Unseen Countries,0.06755,0.06047,0.04925,0.04989,26.14,17.49,10.953,0.0,
+1_Spatial_OOD,3Y,1905,N=33 Unseen Countries,0.15031,0.13408,0.11958,0.11899,20.84,11.26,6.041,1.5325190005910372e-09,
+1_Spatial_OOD,5Y,1839,N=33 Unseen Countries,0.23175,0.20202,0.18753,0.18509,20.13,8.38,4.44,8.994164627296186e-06,
+2_Temporal_Decade_Freeze,1Y,1512,2015-2025 Era Freeze,0.03471,0.04407,0.03183,0.03275,5.64,25.68,19.674,0.0,20.52
+2_Temporal_Decade_Freeze,3Y,1176,2015-2025 Era Freeze,0.07878,0.10546,0.07112,0.07337,6.86,30.42,15.363,0.0,25.75
+2_Temporal_Decade_Freeze,5Y,840,2015-2025 Era Freeze,0.09812,0.17234,0.10249,0.10657,-8.62,38.16,14.306,0.0,0.0

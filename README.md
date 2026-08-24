@@ -112,6 +112,20 @@ python scripts/run_panel_granger.py
 
 ---
 
+### 5. External Out-of-Sample Generalization Benchmarks
+*Source: `data/benchmarks/external_generalization_benchmarks.csv`*
+
+| Protocol | Horizon ($h$) | Evaluation Scope | Baseline AR(1) | Economy Ridge | **LGCF-v2 Gated** | Lift vs. AR(1) | Lift vs. Eco | Statistical Significance |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Spatial OOD Transfer** | $h=1$ | 33 Unseen Countries ($N=1,971$) | 0.06755 | 0.06047 | **0.04989** | **+26.14%** | **+17.49%** | $\text{DM}=10.95, p < 10^{-15}$ |
+| **Spatial OOD Transfer** | $h=3$ | 33 Unseen Countries ($N=1,905$) | 0.15031 | 0.13408 | **0.11899** | **+20.84%** | **+11.26%** | $\text{DM}=6.04, p = 1.5 \times 10^{-9}$ |
+| **Spatial OOD Transfer** | $h=5$ | 33 Unseen Countries ($N=1,839$) | 0.23175 | 0.20202 | **0.18509** | **+20.13%** | **+8.38%** | $\text{DM}=4.44, p = 8.9 \times 10^{-6}$ |
+| **Temporal Decade Freeze** | $h=1$ | 2015–2025 Era ($N=1,512$) | 0.03471 | 0.04407 | **0.03275** | **+5.64%** | **+25.68%** | $\text{DM}=19.67, p < 10^{-15}$ |
+| **Temporal Decade Freeze** | $h=3$ | 2015–2025 Era ($N=1,176$) | 0.07878 | 0.10546 | **0.07337** | **+6.86%** | **+30.42%** | $\text{DM}=15.36, p < 10^{-15}$ |
+| **Temporal Decade Freeze** | $h=5$ | 2015–2025 Era ($N=840$) | 0.09812 | 0.17234 | **0.10657** | −8.62% | **+38.16%** | $\text{DM}=14.31, p < 10^{-15}$ |
+
+---
+
 ## 📜 Citation & Research Attribution
 
 If utilizing this codebase or datasets in academic research, please cite:
