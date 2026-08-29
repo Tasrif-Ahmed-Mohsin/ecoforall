@@ -150,17 +150,30 @@ def build_real_cross_domain_panel() -> pd.DataFrame:
         panel[f"{col_name}_lag5"] = lag5_val.where(panel["year"] - year_lag5 == 5, np.nan)
 
         panel[f"{col_name}_delta1"] = panel[col_name] - panel[f"{col_name}_lag1"]
-        panel[f"{col_name}_roll5_mean"] = panel.groupby("iso3")[col_name].transform(lambda s: s.rolling(5, min_periods=2).mean())
+        panel[f"{col_name}_roll5_mean"] = np.nan
 
-    # Enforce calendar gap guards across all pre-existing and engineered lag/delta columns
+    # Enforce strict calendar gap guards across all lag, delta, and logret columns
     panel = panel.sort_values(["iso3", "year"]).reset_index(drop=True)
     year_gap1 = panel.groupby("iso3")["year"].diff(1)
     year_gap5 = panel.groupby("iso3")["year"].diff(5)
     for c in panel.columns:
-        if c.endswith("_lag1") or c.endswith("_delta1"):
+        if any(c.endswith(suf) for suf in ["_lag1", "_delta1", "_logret1"]):
             panel.loc[year_gap1 != 1, c] = np.nan
-        elif c.endswith("_lag5"):
+        elif any(c.endswith(suf) for suf in ["_lag5", "_delta5", "_logret5"]):
             panel.loc[year_gap5 != 5, c] = np.nan
+
+    # Compute calendar-aware 5-year rolling means ([t-4, t] interval on continuous calendar grid)
+    roll_cols = [c for c in panel.columns if c.endswith("_roll5_mean")]
+    for rc in roll_cols:
+        base = rc.replace("_roll5_mean", "")
+        if base in panel.columns:
+            piv = panel.pivot(index="year", columns="iso3", values=base)
+            full_years = np.arange(piv.index.min(), piv.index.max() + 1)
+            piv_full = piv.reindex(full_years)
+            roll = piv_full.rolling(5, min_periods=2).mean()
+            unpiv = roll.unstack().reset_index().rename(columns={0: rc})
+            panel = panel.drop(columns=[rc]).merge(unpiv, on=["iso3", "year"], how="left")
+
 
     # Build forward growth targets: h in {1, 3, 5} with strict calendar gap guards
     if "gdp_pc_real" in panel.columns:
@@ -169,6 +182,7 @@ def build_real_cross_domain_panel() -> pd.DataFrame:
             gdp_fwd = panel.groupby("iso3")["gdp_pc_real"].shift(-h)
             growth = (gdp_fwd / panel["gdp_pc_real"]) - 1.0
             panel[f"gdp_pc_growth_{h}y_fwd"] = growth.where(year_fwd - panel["year"] == h, np.nan)
+
 
     out_path = PROCESSED_DIR / "real_cross_domain_annual_panel.parquet"
     panel.to_parquet(out_path, index=False)

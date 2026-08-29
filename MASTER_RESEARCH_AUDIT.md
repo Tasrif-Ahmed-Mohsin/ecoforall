@@ -33,7 +33,8 @@ This document presents the verified empirical results from an exhaustive, leak-f
 ---
 
 ## 1. Verified Data Provenance & Dimensions
-*Source Artifact: `data/processed_panels/real_cross_domain_annual_panel.parquet` (SHA-256: `4d6706d03724469b8fd5a8ca171057617e74643a9bab4b6d6795ae9aaf95135a`)*
+*Source Artifact: `data/processed_panels/real_cross_domain_annual_panel.parquet` (SHA-256: `64bfebad625e2248bccf31bbf3c5ef22d48708b8d29ed0172ef08142eed2c3cd`)*
+
 
 | Domain | Source | Feature Count ($d$) | Panel Structure | Temporal Span |
 |---|---|---|---|---|

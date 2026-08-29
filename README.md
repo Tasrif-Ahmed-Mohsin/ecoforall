@@ -116,7 +116,8 @@ Reconstructs the complete 15,071 row $\times$ 246 column panel from genuine raw 
 python src/harmonization/ingest_real_cross_domain_panel.py
 ```
 *Expected Output Parquet:* `data/processed_panels/real_cross_domain_annual_panel.parquet`  
-*Verified SHA-256:* `4d6706d03724469b8fd5a8ca171057617e74643a9bab4b6d6795ae9aaf95135a`
+*Verified SHA-256:* `64bfebad625e2248bccf31bbf3c5ef22d48708b8d29ed0172ef08142eed2c3cd`
+
 
 ### 1. Forensic Data Provenance & Cryptographic Verification Audit:
 Verifies genuine external provenance, timestamps, line counts, and SHA-256 hashes across all raw inputs, processed parquet, and benchmark CSVs:
