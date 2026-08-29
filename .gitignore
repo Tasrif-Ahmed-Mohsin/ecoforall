@@ -14,6 +14,11 @@ venv/
 deepseek.txt
 *.key
 *.secret
+*.env*
+.env*
+*token*
+*api_key*
+secrets/
 
 # Testing & IDE
 .pytest_cache/
