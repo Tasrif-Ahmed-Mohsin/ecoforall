@@ -5,7 +5,7 @@ Acquires authenticated public datasets from:
   1. GMD / World Bank / IMF WEO: Real economic panel (209 indicators)
   2. Varieties of Democracy (V-Dem v14): Polyarchy, Liberal Democracy, Corruption, Rule of Law, Free Expression
   3. Copernicus / ERA5 / Berkeley Earth: Country-level annual surface temperature anomalies
-  4. Global Carbon Budget / OWID: Annual CO2 emissions per capita and total
+  4. Global Carbon Budget / OWID: Annual total territorial CO2 emissions (megatonnes)
 
 Enforces strict data provenance, no fake rectangularization, zero forward leakage,
 and exports the unified real panel to data/processed_panels/real_cross_domain_annual_panel.parquet.

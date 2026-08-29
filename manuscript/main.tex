@@ -436,7 +436,7 @@ The harmonised panel integrates three public databases:
 \begin{enumerate}[leftmargin=*, label=\arabic*.]
     \item \textbf{Global Macro Database (GMD v6)}: Downloaded from \url{https://www.globalmacrodata.com}. Provides 206 macroeconomic and trade variables for 237 economies (1960--2024) including GDP, inflation, trade, fiscal, and financial indicators. All variables are in their original reported units without log transformation.
     \item \textbf{Varieties of Democracy (V-Dem v14)}: Downloaded from \url{https://v-dem.net}. Five core indices are retained: electoral democracy (polyarchy), liberal democracy, political corruption, rule of law, and freedom of expression. Each is augmented with 1-year and 5-year lags, 5-year rolling means, and 5-year differences, yielding 25 features.
-    \item \textbf{Copernicus ERA5 \& Global Carbon Budget}: ERA5 surface temperature anomalies (degrees C above the 1960--1990 baseline) and Global Carbon Budget CO$_2$ emissions per capita. Each is augmented with lags and differences, yielding 10 features.
+    \item \textbf{Copernicus ERA5 \& Global Carbon Budget}: ERA5 surface temperature anomalies (degrees C above the 1960--1990 baseline) and Global Carbon Budget annual total territorial CO$_2$ emissions (in megatonnes from Our World in Data). Each is augmented with lags and differences, yielding 10 features.
 \end{enumerate}
 
 Country-years are merged on ISO-3166-1 alpha-3 codes and calendar year. No synthetic gap-filling is applied; missingness is handled exclusively through per-fold median imputation as described in Section~\ref{sec:imputation}.
