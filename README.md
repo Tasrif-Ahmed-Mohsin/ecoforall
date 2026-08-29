@@ -1,6 +1,8 @@
-# Multi-Domain Macroeconomic Forecasting & State-Space Dynamic Model Selection
+# The Cross-Domain Forecasting Paradox
+### Why Political and Climate Signals Fail to Improve Macroeconomic Growth Predictions under Uniform Concatenation
 
-**A Rigorous Empirical Framework across 237 Economies (1960–2024; $N = 15,071$ country-years)**
+**An Empirical Investigation Across 237 Economies (1960–2024; $N = 15,071$ country-years)**
+
 
 ---
 
