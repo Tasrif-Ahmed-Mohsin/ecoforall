@@ -20,11 +20,16 @@ deepseek.txt
 *api_key*
 secrets/
 
-# Testing & IDE
+# Testing, IDE & AI Assistants
 .pytest_cache/
 .vscode/
 .idea/
 .puku/
+.agents/
+.claude/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
 
 # Archives & Duplicates
 archive/
