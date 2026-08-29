@@ -23,25 +23,26 @@ This document presents the verified empirical results from an exhaustive, leak-f
      - At $h=5$: Economy-Only Ridge MAE is **0.12855** vs. All-Domain Ridge **0.13109** (+1.97% higher error).
    - This validates the finite-sample information dilution proposition ($\mathcal{O}(d_2/N)$ variance penalty during tranquil steady-states).
 
-3. **State-Space Dynamic Model Selection (DMS) with Real-Time Feedback**:
-   - Recursive Bayesian state-space filtering ($\lambda = 0.92$) with release-date-gated feedback ($t_0 + h \le t$) across domain-quarantined functional specialists achieves:
+3. **State-Space Dynamic Model Averaging (DMA) with Calendar-Gated Feedback**:
+   - Online recursive Bayesian probability discounting ($\lambda = 0.92$) with release-date-gated feedback ($t_0 + h \le t$) across domain-quarantined functional specialists achieves:
      - At $h=1$: MAE = **0.03255** (+9.71% lift vs. AR(1), year-clustered DM = 5.79, $p < 10^{-4}$)
-     - At $h=3$: MAE = **0.07715** (+13.75% lift vs. AR(1), year-clustered DM = 9.20, $p < 10^{-4}$)
-     - At $h=5$: MAE = **0.11589** (+17.43% lift vs. AR(1), year-clustered DM = 5.24, $p < 10^{-4}$)
-   - In the absence of updates, DMA algebraically coincides with the equal-weight average to machine precision (`|DMS_no_feedback - Equal_Weight| = 0.00e+00`).
+     - At $h=3$: MAE = **0.07715** (+13.75% lift vs. AR(1), year-clustered DM = 10.10, $p < 10^{-4}$)
+     - At $h=5$: MAE = **0.11589** (+17.43% lift vs. AR(1), year-clustered DM = 3.15, $p = 0.0053$)
+   - In the absence of updates, DMA algebraically coincides with the equal-weight average to machine precision (`|DMA_no_feedback - Equal_Weight| = 0.00e+00`).
 
 ---
 
 ## 1. Verified Data Provenance & Dimensions
-*Source Artifact: `data/processed_panels/real_cross_domain_annual_panel.parquet` (SHA-256: `5c0128c250bd6c04a5f71dd776a3b7a21ec1f5abdde5ed1db54a3a9a4d63e6bd`)*
+*Source Artifact: `data/processed_panels/real_cross_domain_annual_panel.parquet` (SHA-256: `4d6706d03724469b8fd5a8ca171057617e74643a9bab4b6d6795ae9aaf95135a`)*
 
-| Domain | Source | Feature Count ($d$) | Non-Null Obs | Temporal Span |
+| Domain | Source | Feature Count ($d$) | Panel Structure | Temporal Span |
 |---|---|---|---|---|
-| **Domain 1: Macroeconomics & Trade** | GMD v6, World Bank, IMF WEO | **206 features** | Complete panel | 1960–2024 |
-| **Domain 2: Political Institutions** | Varieties of Democracy (**V-Dem v14**) | **25 features** (Polyarchy, Liberal Dem, Corruption, Rule of Law, Free Expression + lags) | Complete panel | 1960–2024 |
-| **Domain 3: Climate & Biophysical** | Copernicus **ERA5** & Global Carbon Budget | **10 features** (Temp anomalies, CO2 emissions + lags) | Complete panel | 1960–2024 |
-| **Metadata & Identifiers** | ISO3, Country, Year, Region, Income | 5 columns | Complete | 237 countries |
+| **Domain 1: Macroeconomics & Trade** | GMD v6, World Bank, IMF WEO | **206 features** | Unbalanced (median-imputed) | 1960–2024 |
+| **Domain 2: Political Institutions** | Varieties of Democracy (**V-Dem v14**) | **25 features** (Polyarchy, Liberal Dem, Corruption, Rule of Law, Free Expression + lags) | Unbalanced (median-imputed) | 1960–2024 |
+| **Domain 3: Climate & Biophysical** | Copernicus **ERA5** & Global Carbon Budget | **10 features** (Temp anomalies, total annual CO2 emissions + lags) | Unbalanced (median-imputed) | 1960–2024 |
+| **Metadata & Identifiers** | ISO3, Country, Year, Region, Income | 5 columns | Verified | 237 countries |
 | **Total Panel** | **100% Genuine Public Data (Zero Synthetic Series)** | **246 columns** | **15,071 country-years** | **1960–2024** |
+
 
 ---
 

@@ -116,7 +116,7 @@ Reconstructs the complete 15,071 row $\times$ 246 column panel from genuine raw 
 python src/harmonization/ingest_real_cross_domain_panel.py
 ```
 *Expected Output Parquet:* `data/processed_panels/real_cross_domain_annual_panel.parquet`  
-*Verified SHA-256:* `5c0128c250bd6c04a5f71dd776a3b7a21ec1f5abdde5ed1db54a3a9a4d63e6bd`
+*Verified SHA-256:* `4d6706d03724469b8fd5a8ca171057617e74643a9bab4b6d6795ae9aaf95135a`
 
 ### 1. Forensic Data Provenance & Cryptographic Verification Audit:
 Verifies genuine external provenance, timestamps, line counts, and SHA-256 hashes across all raw inputs, processed parquet, and benchmark CSVs:
@@ -124,10 +124,11 @@ Verifies genuine external provenance, timestamps, line counts, and SHA-256 hashe
 python scripts/verify_raw_data_provenance.py
 ```
 
-### 2. Execute Full Forecasting Tournament:
+### 2. Execute Full Forecasting Tournament (Pseudo-Real-Time Walk-Forward):
 ```bash
 python scripts/run_real_multidomain_benchmark.py
 ```
+
 
 ### 3. Execute CIPS Panel Unit Root, Cointegration & Granger Causality Audit:
 ```bash
