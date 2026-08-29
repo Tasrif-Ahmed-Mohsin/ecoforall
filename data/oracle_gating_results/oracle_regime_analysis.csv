@@ -1,8 +1,0 @@
-characteristic,non_eco_mean,eco_mean,non_eco_std,eco_std
-y_true,0.05131,0.04299,0.10647,0.09429
-eco_only_error,835466.09687,314477.11535,36232210.03412,11919461.79762
-oracle_improvement_over_eco,396408.94207,0.0,20156124.98458,0.0
-oracle_non_eco_picks_full_quad,2284.0,0.0,29.3,0.0
-oracle_non_eco_picks_eco_human,2174.0,0.0,27.9,0.0
-oracle_non_eco_picks_eco_pol,1681.0,0.0,21.6,0.0
-oracle_non_eco_picks_eco_env,1647.0,0.0,21.2,0.0

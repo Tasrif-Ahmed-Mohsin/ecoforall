@@ -1,0 +1,16 @@
+Parameter,Value,Horizon,MAE_Eco_Ridge,MAE_All_Domain_Concat,Dilution_Penalty_pct
+Ridge Shrinkage (alpha),10.0,1,0.03452,0.03518,1.93
+Ridge Shrinkage (alpha),25.0,1,0.03436,0.035,1.85
+Ridge Shrinkage (alpha),50.0,1,0.03421,0.03482,1.78
+Ridge Shrinkage (alpha),100.0,1,0.03402,0.03461,1.71
+Ridge Shrinkage (alpha),200.0,1,0.03384,0.03438,1.6
+Ridge Shrinkage (alpha),10.0,3,0.08429,0.08654,2.67
+Ridge Shrinkage (alpha),25.0,3,0.08376,0.08594,2.61
+Ridge Shrinkage (alpha),50.0,3,0.08327,0.08534,2.48
+Ridge Shrinkage (alpha),100.0,3,0.08265,0.08457,2.32
+Ridge Shrinkage (alpha),200.0,3,0.08186,0.08359,2.12
+Ridge Shrinkage (alpha),10.0,5,0.13308,0.13607,2.25
+Ridge Shrinkage (alpha),25.0,5,0.13154,0.13449,2.25
+Ridge Shrinkage (alpha),50.0,5,0.13013,0.13298,2.19
+Ridge Shrinkage (alpha),100.0,5,0.12855,0.13109,1.97
+Ridge Shrinkage (alpha),200.0,5,0.12663,0.1288,1.71

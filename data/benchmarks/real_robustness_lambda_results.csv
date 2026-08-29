@@ -1,0 +1,22 @@
+Parameter,Value,Horizon,MAE,RMSE,Description
+Forgetting Factor (lambda),0.85,1,0.03255,0.05751,DMS Memory (decay=15%/yr)
+Forgetting Factor (lambda),0.88,1,0.03254,0.05752,DMS Memory (decay=12%/yr)
+Forgetting Factor (lambda),0.9,1,0.03254,0.05753,DMS Memory (decay=10%/yr)
+Forgetting Factor (lambda),0.92,1,0.03254,0.05753,DMS Memory (decay=8%/yr)
+Forgetting Factor (lambda),0.95,1,0.03254,0.05755,DMS Memory (decay=5%/yr)
+Forgetting Factor (lambda),0.98,1,0.03255,0.05756,DMS Memory (decay=2%/yr)
+Forgetting Factor (lambda),1.0,1,0.03255,0.05757,Static Recursive BMA
+Forgetting Factor (lambda),0.85,3,0.07704,0.12146,DMS Memory (decay=15%/yr)
+Forgetting Factor (lambda),0.88,3,0.0771,0.12152,DMS Memory (decay=12%/yr)
+Forgetting Factor (lambda),0.9,3,0.07714,0.12156,DMS Memory (decay=10%/yr)
+Forgetting Factor (lambda),0.92,3,0.07718,0.1216,DMS Memory (decay=8%/yr)
+Forgetting Factor (lambda),0.95,3,0.07723,0.12167,DMS Memory (decay=5%/yr)
+Forgetting Factor (lambda),0.98,3,0.07728,0.12173,DMS Memory (decay=2%/yr)
+Forgetting Factor (lambda),1.0,3,0.07732,0.12178,Static Recursive BMA
+Forgetting Factor (lambda),0.85,5,0.11572,0.1812,DMS Memory (decay=15%/yr)
+Forgetting Factor (lambda),0.88,5,0.11579,0.18129,DMS Memory (decay=12%/yr)
+Forgetting Factor (lambda),0.9,5,0.11584,0.18135,DMS Memory (decay=10%/yr)
+Forgetting Factor (lambda),0.92,5,0.11589,0.18141,DMS Memory (decay=8%/yr)
+Forgetting Factor (lambda),0.95,5,0.11597,0.18151,DMS Memory (decay=5%/yr)
+Forgetting Factor (lambda),0.98,5,0.11607,0.18161,DMS Memory (decay=2%/yr)
+Forgetting Factor (lambda),1.0,5,0.11613,0.18168,Static Recursive BMA

@@ -1,29 +1,25 @@
 """
-Koop-Korobilis Dynamic Model Selection & Averaging (DMS / DMA) State-Space Router
-=================================================================================
-From Gary Koop & Dimitris Korobilis (International Economic Review, 2012; Economic Modelling, 2011).
+State-Space Dynamic Model Averaging & Selection (DMA / DMS) Online Router
+=========================================================================
+Implements an online recursive Bayesian expert-weighting rule inspired by Gary Koop & Dimitris
+Korobilis (International Economic Review, 2012; Economic Modelling, 2011).
 
-In sovereign macroeconomic panels, regimes (e.g. tranquil growth, debt stress, financial crisis,
-climate shocks) persist across multiple contiguous years.
+Methodological Architecture:
+----------------------------
+1. Operates over fixed point predictions from M candidate functional specialists.
+2. Maintains recursive Bayesian state-space probabilities pi_{t|t-1, m}^{(c)} for each
+   country c over time, discounted via forgetting factor lambda in (0, 1].
+3. Updates predictive likelihoods under an online decaying country-level residual variance
+   sigma_c^2 (shared across specialists).
+4. Produces either a probability-weighted convex combination (Dynamic Model Averaging,
+   mode="dma") or a hard argmax selection (Dynamic Model Selection, mode="dms").
 
-Instead of treating each year as an independent i.i.d. instance, DMS/DMA maintains a recursive
-Bayesian state-space probability vector pi_{t, m}^{(c)} for each country c over time, updated
-via a forgetting factor lambda in [0.85, 0.99].
-
-Mathematical Formulation:
--------------------------
-1. Prior Model Probability (with Forgetting Factor lambda):
-       pi_{t|t-1, m}^{(c)} = (pi_{t-1|t-1, m}^{(c)})^lambda / sum_j (pi_{t-1|t-1, j}^{(c)})^lambda
-
-2. Predictive Likelihood (Laplace / Gaussian Predictive Density):
-       f_m(y_t^{(c)} | y_{1:t-1}^{(c)}) propto exp( - | y_t^{(c)} - y_hat_{t,m}^{(c)} | / (sigma_{t,m}^{(c)} + eps) )
-
-3. Posterior Probability Update:
-       pi_{t|t, m}^{(c)} = pi_{t|t-1, m}^{(c)} * f_m(y_t^{(c)}) / sum_j ( pi_{t|t-1, j}^{(c)} * f_j(y_t^{(c)}) )
-
-4. Forecasting:
-       - DMA (Averaging): y_hat_t = sum_m pi_{t|t-1, m}^{(c)} * y_hat_{t,m}^{(c)}
-       - DMS (Selection): y_hat_t = y_hat_{t, m*}^{(c)}, where m* = argmax_m pi_{t|t-1, m}^{(c)}
+Real-time feedback discipline:
+------------------------------
+An h-step-ahead forecast made at origin t targets y_{t+h}, which is not realised until
+t + h. The filter may therefore only condition on targets from origins t0 with
+t0 + h <= t. `route_panel` enforces this by queueing each origin's realisation and
+releasing it into the filter only once the calendar has caught up.
 """
 
 from __future__ import annotations
@@ -33,101 +29,170 @@ import pandas as pd
 
 class DynamicModelSelectionRouter:
     """
-    Koop-Korobilis State-Space DMS/DMA Router for Sovereign Macroeconomic Panels.
+    Online State-Space DMA/DMS Router for Sovereign Macroeconomic Panels.
+
+    Combines M domain specialists via online recursive Bayesian probability discounting
+    (Koop & Korobilis 2012) with a country-level residual variance.
     """
+
     def __init__(self, n_experts: int = 4, forgetting_factor: float = 0.92,
-                 initial_prior: np.ndarray | None = None, mode: str = "dma"):
-        """
-        Args:
-            n_experts: Number of competing specialist models (M).
-            forgetting_factor: Decay factor lambda in [0.80, 0.99] controlling memory horizon.
-            initial_prior: Initial uniform or informative model probability vector.
-            mode: 'dma' for dynamic model averaging, 'dms' for hard dynamic model selection.
-        """
+                 initial_prior: np.ndarray | None = None, mode: str = "dma",
+                 init_variance: float = 1e-3, variance_decay: float = 0.90):
+        if not (0.0 < forgetting_factor <= 1.0):
+            raise ValueError("forgetting_factor must lie in (0, 1]")
         self.n_experts = n_experts
         self.forgetting_factor = forgetting_factor
         self.mode = mode.lower()
+
+        self.init_variance = init_variance
+        self.variance_decay = variance_decay
         if initial_prior is None:
             self.initial_prior = np.ones(n_experts, dtype=np.float64) / n_experts
         else:
             self.initial_prior = np.asarray(initial_prior, dtype=np.float64) / np.sum(initial_prior)
 
-        # Dictionary tracking sovereign country states: iso3 -> current_posterior_probs
+        # Country posterior state: iso3 -> pi_post (M,)
         self.country_states: dict[str, np.ndarray] = {}
-        # Running volatility estimate per country and expert: iso3 -> sigma_m
-        self.country_volatilities: dict[str, np.ndarray] = {}
+        # Country shared variance estimate: iso3 -> sigma_sq
+        self.country_variances: dict[str, float] = {}
+        # Realisations queued but not yet observable: iso3 -> [(origin_year, preds, actual)]
+        self._pending: dict[str, list[tuple[int, np.ndarray, float]]] = {}
+        # Last origin year processed per country, for the elapsed-time discount
+        self._last_origin: dict[str, int] = {}
 
     def reset(self):
         """Reset all sovereign state histories."""
         self.country_states.clear()
-        self.country_volatilities.clear()
+        self.country_variances.clear()
+        self._pending.clear()
+        self._last_origin.clear()
+
+    def n_pending(self) -> int:
+        """Realisations queued but never released -- diagnostic for warm-up sizing."""
+        return sum(len(v) for v in self._pending.values())
+
+    def _discount(self, pi: np.ndarray, periods: int = 1) -> np.ndarray:
+        r"""State-space prediction step: $\pi^{\lambda^k}$, renormalised (Koop-Korobilis 2012)."""
+        if periods <= 0:
+            return pi
+        p = np.power(np.maximum(pi, 1e-12), self.forgetting_factor ** periods)
+        total = np.sum(p)
+        return p / total if total > 0 else self.initial_prior.copy()
+
+    def _measurement_update(self, pi_prior: np.ndarray, preds: np.ndarray,
+                            actual: float, sigma_sq: float) -> tuple[np.ndarray, float]:
+        """Gaussian predictive-density update for one realised observation."""
+        sq_errors = (actual - preds) ** 2
+        sigma_sq = (self.variance_decay * sigma_sq
+                    + (1.0 - self.variance_decay) * max(float(np.mean(sq_errors)), 1e-5))
+        log_lik = -0.5 * (sq_errors / sigma_sq)
+        log_lik -= np.max(log_lik)
+        pi_post = pi_prior * np.exp(log_lik)
+        total = np.sum(pi_post)
+        if not np.isfinite(total) or total <= 1e-300:
+            return pi_prior.copy(), sigma_sq
+        return pi_post / total, sigma_sq
 
     def route_panel(self, df: pd.DataFrame, expert_preds: np.ndarray,
-                    y_true: np.ndarray | None = None) -> tuple[np.ndarray, np.ndarray]:
+                    y_true: np.ndarray | None = None, horizon: int = 1,
+                    year_col: str = "year", iso_col: str = "iso3"
+                    ) -> tuple[np.ndarray, np.ndarray]:
         """
-        Execute sequential state-space DMS/DMA routing across a chronological country-year panel.
+        Sequential state-space DMS/DMA routing across a chronological country-year panel.
 
-        Args:
-            df: DataFrame containing at least 'iso3' and 'year' columns.
-            expert_preds: Array of shape (N, M) of predictions from each specialist.
-            y_true: Optional ground-truth targets of shape (N,) used for recursive Bayesian updating.
+        Parameters
+        ----------
+        df
+            Frame carrying ``iso_col`` and ``year_col``; ``year_col`` is the forecast
+            **origin** year, not the target year.
+        expert_preds
+            ``(N, M)`` matrix of specialist point forecasts, row-aligned to ``df``.
+        y_true
+            Realised targets, row-aligned to ``df``. Each entry is released into the
+            filter only at origins ``>= origin_year + horizon``. Pass ``None`` to run
+            with no feedback at all (the weights then stay at the initial prior, so DMA
+            degenerates to the 1/M average).
+        horizon
+            Forecast horizon in years. Sets the release delay. ``horizon=1`` gives the
+            classical one-step filter that updates from the immediately preceding origin.
 
-        Returns:
-            y_gated: Gated predictions of shape (N,).
-            weights: Dynamic model probability weights of shape (N, M).
+        Returns
+        -------
+        (y_gated, weights)
+            Both row-aligned to ``df`` in its original order.
         """
+        expert_preds = np.asarray(expert_preds, dtype=np.float64)
+        if expert_preds.ndim != 2:
+            raise ValueError(f"expert_preds must be 2-D (N, M); got shape {expert_preds.shape}")
         N, M = expert_preds.shape
-        lam = self.forgetting_factor
-        
+        if M != self.n_experts:
+            raise ValueError(f"expert_preds has {M} experts but router was built for {self.n_experts}")
+        if len(df) != N:
+            raise ValueError(f"df has {len(df)} rows but expert_preds has {N}")
+        if int(horizon) < 1:
+            raise ValueError(f"horizon must be >= 1; got {horizon}")
+        horizon = int(horizon)
+        for c in (iso_col, year_col):
+            if c not in df.columns:
+                raise KeyError(
+                    f"route_panel: column '{c}' is required. The router needs the forecast "
+                    f"origin year to gate feedback by realisation date."
+                )
+
+        iso_arr = df[iso_col].astype(str).to_numpy()
+        year_arr = pd.to_numeric(df[year_col], errors="coerce").to_numpy(dtype=np.float64)
+        if not np.all(np.isfinite(year_arr)):
+            raise ValueError("route_panel: non-numeric or missing values in the origin-year column")
+        year_arr = year_arr.astype(np.int64)
+
+        y_arr = None
+        if y_true is not None:
+            y_arr = np.asarray(y_true, dtype=np.float64).ravel()
+            if len(y_arr) != N:
+                raise ValueError(f"y_true has {len(y_arr)} entries but df has {N} rows")
+
         y_gated = np.zeros(N, dtype=np.float64)
         weights = np.zeros((N, M), dtype=np.float64)
 
-        # Ensure we iterate in chronological order per country
-        df_sorted = df.copy().reset_index(drop=True)
-        iso3_series = df_sorted["iso3"].values
+        # Chronological within country: primary key iso, secondary key origin year.
+        order = np.lexsort((year_arr, iso_arr))
 
-        for i in range(N):
-            iso = str(iso3_series[i])
-            
-            # Retrieve or initialize country prior state
+        for pos in order:
+            iso = iso_arr[pos]
+            t = int(year_arr[pos])
+
             if iso not in self.country_states:
-                pi_prior = self.initial_prior.copy()
-                sigma_m = np.full(M, 0.03, dtype=np.float64)
-            else:
-                pi_prev = self.country_states[iso]
-                # 1. State-Space Prediction Step with Forgetting Factor
-                pi_exp = np.power(np.maximum(pi_prev, 1e-12), lam)
-                pi_prior = pi_exp / np.sum(pi_exp)
-                sigma_m = self.country_volatilities[iso]
+                self.country_states[iso] = self.initial_prior.copy()
+                self.country_variances[iso] = self.init_variance
+                self._pending[iso] = []
 
-            weights[i] = pi_prior
+            # 1. Prediction step, once per elapsed year since this country was last seen.
+            last_t = self._last_origin.get(iso)
+            if last_t is not None and t > last_t:
+                self.country_states[iso] = self._discount(self.country_states[iso], t - last_t)
+            self._last_origin[iso] = t
 
-            # 2. Compute Gated Forecast
+            # 2. Release only those realisations already observable at origin t.
+            still_pending = []
+            for origin_t, preds_t, actual_t in self._pending[iso]:
+                if origin_t + horizon <= t:
+                    self.country_states[iso], self.country_variances[iso] = self._measurement_update(
+                        self.country_states[iso], preds_t, actual_t, self.country_variances[iso]
+                    )
+                else:
+                    still_pending.append((origin_t, preds_t, actual_t))
+            self._pending[iso] = still_pending
+
+            # 3. Gated forecast from the information set available at origin t.
+            pi = self.country_states[iso]
+            weights[pos] = pi
             if self.mode == "dms":
-                # Hard Selection: pick best expert
-                best_m = np.argmax(pi_prior)
-                y_gated[i] = expert_preds[i, best_m]
+                y_gated[pos] = expert_preds[pos, int(np.argmax(pi))]
             else:
-                # Soft Averaging (DMA)
-                y_gated[i] = np.sum(pi_prior * expert_preds[i])
+                y_gated[pos] = float(np.dot(pi, expert_preds[pos]))
 
-            # 3. Recursive Bayesian Update if ground truth is available
-            if y_true is not None and not np.isnan(y_true[i]):
-                actual = y_true[i]
-                abs_errors = np.abs(actual - expert_preds[i])  # (M,)
-                
-                # Recursive volatility update
-                sigma_m = 0.90 * sigma_m + 0.10 * abs_errors
-                self.country_volatilities[iso] = sigma_m
-
-                # Laplace predictive likelihood
-                log_lik = - (abs_errors / np.maximum(sigma_m, 1e-4))
-                log_lik -= np.max(log_lik)  # Numerical stability
-                lik = np.exp(log_lik)
-                
-                # Posterior update
-                pi_post = pi_prior * lik
-                pi_post = pi_post / np.maximum(np.sum(pi_post), 1e-12)
-                self.country_states[iso] = pi_post
+            # 4. Queue this origin's own realisation; unusable until t + horizon.
+            if y_arr is not None and np.isfinite(y_arr[pos]):
+                self._pending[iso].append((t, expert_preds[pos].copy(), float(y_arr[pos])))
 
         return y_gated, weights

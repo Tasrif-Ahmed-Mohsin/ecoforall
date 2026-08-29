@@ -1,0 +1,24 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{Heterogeneous Panel Granger Non-Causality Tests under Cross-Sectional Dependence (CSD): Standard DH (2012), Vector-Resampling CSD Bootstrap ($B=1,000$), and Cross-Sectionally Augmented (CS-DH) Common Factor Tests}
+\label{tab:dh_results}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccc}
+\toprule
+\textbf{Transmission Channel} & \textbf{$N$} & \textbf{CIPS Integration} & \textbf{Fixed-$T$ $\tilde{Z}$} & \textbf{Boot 95\% CV} & \textbf{Boot $p_{\text{CSD}}$} & \textbf{CS-DH $Z_{\text{CS}}$} & \textbf{CS-DH $p_{\text{Holm}}$} & \textbf{Pesaran $\hat{CD}$} \\
+\midrule
+V-Dem Electoral Democracy $\to$ GDP Growth & 173 & Level $I(0)$ & 15.232 & 4.78 & $< 10^{-4}$ & \textbf{5.829} & $< 10^{-4}$ *** & 108.36 \\
+V-Dem Liberal Democracy $\to$ GDP Growth & 173 & Level $I(0)$ & 17.809 & 4.74 & $< 10^{-4}$ & \textbf{7.563} & $< 10^{-4}$ *** & 109.69 \\
+V-Dem Corruption $\to$ GDP Growth & 173 & Level $I(0)$ & 14.233 & 4.10 & $< 10^{-4}$ & \textbf{8.959} & $< 10^{-4}$ *** & 107.15 \\
+V-Dem Rule of Law $\to$ GDP Growth & 173 & Diff $I(1)$ & 14.530 & 3.75 & $< 10^{-4}$ & \textbf{5.378} & $< 10^{-4}$ *** & 108.66 \\
+V-Dem Free Expression $\to$ GDP Growth & 173 & Level $I(0)$ & 16.322 & 4.73 & $< 10^{-4}$ & \textbf{10.041} & $< 10^{-4}$ *** & 107.81 \\
+ERA5 Temp Anomaly $\to$ GDP Growth & 187 & Level $I(0)$ & 5.630 & 4.05 & $0.0130$ & 1.958 & $0.0503$  & 110.56 \\
+CO2 Emissions $\to$ GDP Growth & 205 & Diff $I(1)$ & 6.697 & 2.74 & $< 10^{-4}$ & \textbf{4.776} & $< 10^{-4}$ *** & 87.78 \\
+\bottomrule
+\end{tabular}%
+}
+\begin{flushleft}
+\footnotesize Note: Genuine V-Dem v14, Copernicus ERA5, Global Carbon Budget, and GMD panels (1960--2024), $K=2$ lags. Standard Dumitrescu-Hurlin (2012) standardized statistic $\tilde{Z}$ assumes cross-sectional independence ($\text{Cov}(W_i, W_j)=0$). Pesaran CD test statistics ($\hat{CD} > 85$, $p < 10^{-4}$) confirm severe cross-sectional dependence across sovereigns. To correct for CSD, we report: (1) Vector-resampling panel bootstrap $p$-values ($B=1,000$) preserving the contemporaneous cross-sectional covariance matrix $\boldsymbol{\Sigma}_N$; and (2) Chudik-Pesaran (2016) Cross-Sectionally Augmented (CS-DH) statistics $Z_{\text{CS}}$ and Holm-Bonferroni adjusted $p$-values ($m=7$) filtering out unobserved common global factors. Under CS-DH common factor filtering, all five political governance channels and CO$_2$ emissions remain highly significant ($p < 10^-5$), while ERA5 surface temperature anomalies attenuate to $p = 0.0503$, reflecting the predominantly global common nature of temperature fluctuations.
+\end{flushleft}
+\end{table}

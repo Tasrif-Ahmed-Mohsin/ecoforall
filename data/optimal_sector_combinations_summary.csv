@@ -1,7 +1,0 @@
-target_variable,best_combination,best_num_sectors,best_oof_rmse,best_oof_r2,max_improvement_pct,dm_p_value,stat_significant_lift
-gdp_pc_growth_1y_fwd,S1_Eco,1,0.0316,0.4485,0.0,1.0,False
-stability_momentum_annual_mean,S2_Pol,1,0.2836,0.9947,0.0,1.0,False
-co2_emissions_per_capita,S3_Env,1,1.0288,0.5079,0.0,1.0,False
-psychology_trust,S3_Env+S4_Hum,2,1.967,0.9947,0.26,0.0005,True
-psychology_fear,S1_Eco+S3_Env+S4_Hum,3,2.2541,0.9924,2.09,0.0,True
-disaster_economic_damage_usd,S1_Eco+S3_Env,2,105675.3549,0.9381,75.76,0.0,True

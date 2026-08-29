@@ -1,4 +1,0 @@
-horizon_weeks,5fold_cv_rmse_ensemble,5fold_cv_rmse_naive,5fold_cv_mae,5fold_cv_r2_score,dm_stat,p_value,significant_outperformance
-4,238.5457,329.765,135.9031,0.7183,-83.3864,0.0,True
-26,238.8873,330.6493,135.9986,0.7176,-81.9767,0.0,True
-52,239.0459,331.0588,136.218,0.7173,-84.8064,0.0,True

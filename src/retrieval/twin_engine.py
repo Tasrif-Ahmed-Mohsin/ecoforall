@@ -49,8 +49,10 @@ class QuadDomainTwinEngine:
             col = X[:, j]
             sorted_vals = np.sort(col)
             self.col_sorted_values[j] = sorted_vals
-            # Percentile rank [0, 1]
-            ranks = np.searchsorted(sorted_vals, col).astype(np.float32) / max(1.0, float(len(col) - 1))
+            # Percentile rank [0, 1] with tie handling
+            r_left = np.searchsorted(sorted_vals, col, side="left").astype(np.float32)
+            r_right = np.searchsorted(sorted_vals, col, side="right").astype(np.float32)
+            ranks = 0.5 * (r_left + r_right) / max(1.0, float(len(col) - 1))
             X_ranked[:, j] = ranks
 
         # Build FAISS L2 Euclidean index on ranked coordinates
@@ -85,7 +87,9 @@ class QuadDomainTwinEngine:
             if np.isnan(val) or not np.isfinite(val):
                 val = 0.0
             sorted_vals = self.col_sorted_values[j]
-            rank = float(np.searchsorted(sorted_vals, val)) / max(1.0, float(len(sorted_vals) - 1))
+            r_left = float(np.searchsorted(sorted_vals, val, side="left"))
+            r_right = float(np.searchsorted(sorted_vals, val, side="right"))
+            rank = 0.5 * (r_left + r_right) / max(1.0, float(len(sorted_vals) - 1))
             q_ranked[0, j] = rank
         
         # Query FAISS

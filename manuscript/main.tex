@@ -13,12 +13,14 @@
 \usepackage{microtype}
 \usepackage{multirow}
 \usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{enumitem}
 \geometry{margin=1in}
 
-\title{\textbf{The Cross-Domain Macroeconomic Forecasting Paradox:\\Panel Causality, Information Dilution, and State-Space Sovereign Gating}}
+\title{\textbf{When Does Cross-Domain Information Help Macroeconomic Forecasting?\\Panel Predictive Precedence, Information Dilution, and Dynamic Model Averaging}}
+
 \author{
-  \textbf{Anonymous Authors} \\
-  \textit{Department of Economics and Computer Science}
+  \textbf{Anonymous Authors}
 }
 \date{\today}
 
@@ -26,19 +28,22 @@
 \newtheorem{proposition}{Proposition}
 \newtheorem{lemma}{Lemma}
 \newtheorem{corollary}{Corollary}
+\newtheorem{remark}{Remark}
 
 \begin{document}
 
 \maketitle
 
 \begin{abstract}
-A foundational premise in institutional economics and political economy is that structural output is driven by non-economic forces: institutional trust, political instability, climate anomalies, and collective societal psychology. In this paper, we conduct an exhaustive econometric and machine learning investigation of multi-horizon sovereign forecasting using a harmonized 65-year panel spanning 169 economies (1960--2025; 11,046 country-years). We uncover a striking \textit{Cross-Domain Forecasting Paradox}: while formal Dumitrescu-Hurlin (2012) panel tests confirm that institutional trust ($\tilde{Z} = 6.52, p < 10^{-6}$) and climate temperature shocks ($\tilde{Z} = 17.05, p < 10^{-6}$) decisively Granger-cause long-run GDP per capita growth under family-wise error control, \textit{uniform cross-domain feature augmentation yields a statistically negligible forecasting lift over pure single-domain economic models ($p = 0.96$ via Diebold-Mariano testing)}. 
+A foundational proposition in political economy holds that sovereign development trajectories are governed not solely by macroeconomic fundamentals but also by institutional quality, democratic constraints, and biophysical climate shocks. We subject this hypothesis to an exhaustive forecasting audit using a harmonised 65-year unbalanced panel spanning 237 economies (1960--2024; $N = 15{,}071$ country-years) integrating the Global Macro Database (GMD v6), Varieties of Democracy (V-Dem v14), and Copernicus ERA5 surface temperature anomalies.
 
-Through finite-sample estimation theory, we prove that non-economic features introduce high-dimensional estimation variance $\mathcal{O}(d/N)$ that dilutes predictive accuracy during tranquil steady-states. To resolve this dilemma, we introduce \textbf{StateSpaceMoE}, a unified Mixture-of-Experts architecture fusing recursive Bayesian state-space filtering ($\lambda = 0.92$), Martins-Astudillo Sparsemax boundary simplex gating, and continuous empirical loss regret minimization. Across 5-fold rolling-origin walk-forward cross-validation ($N = 11,088$ test observations), we demonstrate that \textbf{StateSpaceMoE significantly outperforms modern deep time-series transformers}---including PatchTST (ICLR 2023; $+33.9\%$ gain, $p < 10^{-15}$), iTransformer (ICLR 2024; $+9.5\%$ gain, $p < 10^{-5}$), and DLinear (AAAI 2023; $+8.4\%$ gain, $p < 10^{-6}$) at $h=5$ years. Crucially, we document that multi-domain gains are horizon-dependent: while simple AR(1) persistence holds an edge at $h=1$ year ($-5.9\%$ relative difference), StateSpaceMoE decisively dominates across medium-to-long horizons ($h \ge 3$ years) and delivers $+20.1\%$ to $+26.1\%$ error reductions under zero-shot transfer across 33 completely unseen countries ($p < 10^{-5}$).
+We evaluate \emph{predictive precedence} under pervasive cross-sectional dependence ($\hat{CD} > 85$) by coupling finite-$T$ \citet{dumitrescu2012} tests with \citet{pesaran2007} CIPS unit root pre-testing, vector-resampling CSD panel bootstrap ($B=1{,}000$), and \citet{chudik2016} Cross-Sectionally Augmented (CS-DH) common factor filtering under Holm-Bonferroni FWER control ($m=7$). Five political governance channels and $\text{CO}_2$ emissions maintain robust predictive precedence ($Z_{\text{CS}} \in [4.78, 10.04]$, $p_{\text{Holm}} < 10^{-5}$), whereas surface temperature anomalies attenuate to $p_{\text{Holm}} = 0.0503$, demonstrating that apparent temperature predictability in standard tests was confounded by global common shocks. Despite verified predictive precedence for institutional governance, we document the \textbf{Cross-Domain Forecasting Paradox}: standard feature concatenation degrades out-of-sample accuracy across linear models at all horizons ($h \in \{1, 3, 5\}$ years), confirmed by year-clustered \citet{clark2007} nested model tests, while non-linear concatenation benefits are strictly confined to the ultra-short horizon ($h=1$) before succumbing to dilution at $h \in \{3, 5\}$. Grounded in finite-sample estimation theory, we show that extraneous indicators introduce a parameter estimation variance penalty $\mathcal{O}(d_2/N)$ that persists across regularisations $\alpha \in [10, 200]$.
+
+To resolve this paradox, we implement recursive Bayesian \textbf{Dynamic Model Averaging} \citep[DMA;][]{koop2012} via an online probability-discounted expert-weighting rule ($\lambda = 0.92$) with country-level residual variance and calendar release-date gating. The DMA router achieves $+9.71\%$ ($h{=}1$), $+13.75\%$ ($h{=}3$), and $+17.43\%$ ($h{=}5$) MAE gains over per-country autoregressive baselines ($p < 10^{-4}$ via year-clustered inference). Relative to the equal-weight forecast combination benchmark \citep{bates1969, clemen1989}, DMA achieves $+2.02\%$ ($h{=}1, p = 0.0020$), $+1.62\%$ ($h{=}3, p = 0.0682$), and $+2.28\%$ ($h{=}5, p = 0.0053$). Under Holm-Bonferroni correction over the three horizons ($m=3$), the DMA margin over equal-weight averaging is statistically significant at $h=1$ ($p_{\text{adj}} = 0.0061$) and $h=5$ ($p_{\text{adj}} = 0.0106$), but fails to achieve significance at $h=3$ ($p_{\text{adj}} = 0.0682$). At $h=5$, the DMA advantage over the best single specialist (Economy LightGBM) is $+1.14\%$ ($p = 0.2010$). Under \citet{hansen2011} Model Confidence Set analysis ($\widehat{\mathcal{M}}_{90\%}$), DMA is the sole surviving model at $h=1$, joins Equal-Weight and LightGBM models at $h=3$ ($p_{\text{MCS}} = 0.113$), and narrows to DMA ($p_{\text{MCS}} = 1.000$) and Economy LightGBM ($p_{\text{MCS}} = 0.243$) at $h=5$. We read our findings as an honest negative result for uniform data-expansion paradigms: predictive precedence does not translate to brute-force feature concatenation gains.
 \end{abstract}
 
 \vspace{0.5em}
-\noindent \textbf{Keywords:} Macroeconomic Panel Forecasting, Cross-Domain Information Gating, Panel Granger Causality, Dynamic Model Selection, Sovereign Risk, Bias-Variance Tradeoff.
+\noindent \textbf{Keywords:} Macroeconomic Panel Forecasting, Cross-Domain Information Dilution, Panel Granger Causality, Cross-Sectional Dependence, Dynamic Model Averaging, Forecast Combination, Model Confidence Set.
 
 \vspace{0.5em}
 \noindent \textbf{JEL Classifications:} C23, C53, E17, E37, O47.
@@ -46,375 +51,386 @@ Through finite-sample estimation theory, we prove that non-economic features int
 \newpage
 
 \section{Introduction}
-Multi-year forecasting of real gross domestic product (GDP) per capita is the cornerstone of sovereign debt sustainability analysis, fiscal framework design, and multilateral surveillance \citep{coulibaly2019, stock2006}. In parallel, seminal contributions across empirical macroeconomics have established that sovereign development trajectories are intimately linked to non-economic institutional, environmental, and collective social dynamics \citep{knack1997, acemoglu2001, algan2010, burke2015}. Consequently, modern macroeconomic research and machine learning practices have increasingly converged on a shared intuition: \textit{expanding feature representations to encompass political unrest, climate stress, and collective societal sentiment should substantially enhance multi-horizon GDP forecasting}.
+\label{sec:intro}
 
-In this study, we subject this hypothesis to an exhaustive, preregistered empirical audit using a newly unified 65-year harmonized global panel of 169 countries spanning 1960 to 2025 ($N = 11,046$ country-year observations). The central empirical finding of our paper is the identification of the **Cross-Domain Macroeconomic Forecasting Paradox**:
+Multi-year forecasting of real gross domestic product (GDP) per capita is essential for sovereign debt sustainability analysis, medium-term fiscal framework design, and multilateral macroeconomic surveillance \citep{stock2006, timmermann2006}. In parallel, seminal contributions across empirical macroeconomics and political economy have established that sovereign development paths are governed by non-economic fundamentals: institutional quality \citep{knack1997, algan2010}, property rights and democratic constraints \citep{acemoglu2001, acemoglu2005}, and biophysical climate shocks \citep{burke2015, dell2014}. Consequently, a shared intuition has emerged in applied macroeconometrics: \textit{expanding empirical feature representations to encompass institutional quality and climate stress should substantially enhance multi-horizon sovereign forecasting}.
+
+This study subjects this hypothesis to an exhaustive empirical audit using a unified 65-year harmonised global panel of 237 sovereign economies spanning 1960 to 2024 ($N = 15{,}071$ country-year observations). Our central empirical finding is the identification of the \textbf{Cross-Domain Forecasting Paradox}:
 \begin{quote}
-\textit{Non-economic indicators (institutional trust, democratic governance, climate temperature anomalies, and societal fear) exhibit decisive, multiplicity-corrected panel Granger causality with respect to real GDP growth. However, standard uniform multi-domain feature blending yields no statistically significant out-of-sample forecast improvement over single-domain economic baselines ($p > 0.96$ via Diebold-Mariano test).}
+\textit{Non-economic indicators (electoral democracy, liberal institutions, rule of law, and carbon emissions) exhibit robust, multiplicity-corrected panel Granger predictive precedence with respect to real GDP growth. However, standard uniform multi-domain feature concatenation yields no reliable forecast improvement over domain-specialised economic baselines, and frequently degrades out-of-sample accuracy.}
 \end{quote}
 
-\subsection{Why Does Uniform Multi-Domain Blending Fail?}
-We show theoretically and empirically that the failure of uniform cross-domain feature blending is rooted in the **asymmetry of macroeconomic regimes**. In tranquil steady-states (which constitute $\approx 75\%$ of historical observations), the marginal data-generating process of GDP growth is heavily concentrated around low-dimensional autoregressive dynamics. In these periods, adding hundreds of political, environmental, and sentiment regressors introduces finite-sample parameter estimation error $\mathcal{O}(d/N)$ without providing fresh localized variance reduction. Conversely, during structural crises (e.g., sovereign defaults, severe climate disruptions, or hyperinflationary cycles), non-economic forces dominate the trajectory, and purely economic models suffer catastrophic forecast breakdowns.
+\subsection{Why Does Uniform Multi-Domain Augmentation Fail?}
 
-\subsection{Contributions of This Paper}
-To bridge the gap between verified causal relevance and out-of-sample predictive utility, we make four main contributions:
+We show both theoretically and empirically that the failure of uniform cross-domain feature blending is rooted in the \textbf{structural asymmetry of macroeconomic regimes}. In tranquil steady states---which constitute the majority of historical observations---the marginal data-generating process of GDP growth is concentrated around low-dimensional macroeconomic and autoregressive dynamics. In these periods, adding dozens of political and environmental regressors introduces finite-sample parameter estimation error $\mathcal{O}(d_2/N)$ without providing fresh localised variance reduction \citep{mallows1973}. Conversely, during structural crises (abrupt institutional transitions, extreme climate disruptions), non-economic forces dominate sovereign trajectories. The information dilution penalty persists across all tested Ridge regularisations $\alpha \in [10, 200]$, establishing it as a structural property rather than a tuning artefact.
 
-\begin{enumerate}
-    \item \textbf{Rigorous Econometric Identification}: We deploy the \citet{dumitrescu2012} heterogeneous panel Granger non-causality test with Holm-Bonferroni family-wise error rate control. We establish that institutional trust ($\tilde{Z} = 6.52, p < 10^{-6}$), democratic institutions ($\tilde{Z} = 7.27, p < 10^{-6}$), and climate temperature anomalies ($\tilde{Z} = 17.05, p < 10^{-6}$) exert invariant causal transmission onto future growth.
-    \item \textbf{Finite-Sample Information Dilution Theory}: We derive the analytical conditions governing the bias-variance tradeoff in multi-domain panel forecasting, explaining why static multi-domain models fail to beat AR(1) in peaceful high-income economies.
-    \item \textbf{Dynamic Sovereign Gating & State-Space Filtering}: We benchmark eight routing architectures across 5-fold walk-forward cross-validation ($h \in \{1, 3, 5\}$ years). We discover that while zero-shot LLM gates suffer from conservatism bias, \citet{koop2012} Bayesian Dynamic Model Selection (DMS) with state-space memory ($\lambda = 0.92$) closes **67.79\% of the theoretical hindsight upper bound at 5 years** ($\text{DM} = 24.84, p < 10^{-15}$).
-    \item \textbf{Sovereign Typology & Out-of-Distribution Generalization}: We show that Sovereign-Segmented Adaptive Routing overcomes the Western low-volatility penalty while delivering **+26.14\% to +39.42\% error reductions** across emerging markets and on 33 completely unseen out-of-distribution countries ($p < 10^{-5}$).
+\subsection{Contributions}
+
+To bridge the gap between verified predictive precedence and out-of-sample predictive utility, we make five contributions:
+
+\begin{enumerate}[leftmargin=*, label=\arabic*.]
+    \item \textbf{Econometric identification under cross-sectional dependence}: To address severe cross-sectional dependence ($\hat{CD} > 85$), we implement a multi-tiered identification suite: \citet{pesaran2007} CIPS second-generation panel unit root pre-testing, \citet{pedroni2004} residual cointegration tests, exact unbalanced finite-$T$ \citet{dumitrescu2012} tests, \citet{emirmahmutoglu2011, lopez2017} vector-resampling CSD panel bootstrap ($B=1{,}000$), and \citet{chudik2016} Cross-Sectionally Augmented Granger tests (CS-DH) filtering unobserved global common factors. We show that while 5 institutional governance channels and $\text{CO}_2$ emissions survive all CSD filters ($p_{\text{Holm}} < 10^{-5}$), ERA5 temperature anomalies attenuate ($p_{\text{Holm}} = 0.0503$), resolving a critical identification challenge.
+    \item \textbf{Honest negative result}: We establish that verified Granger predictive precedence does not translate to improved out-of-sample forecast accuracy under uniform feature concatenation. Linear concatenation (Ridge) fails decisively across all horizons ($p_{\text{CW}} \ge 0.67$), while non-linear concatenation (LightGBM) achieves a minor nested gain only at $h=1$ ($p_{\text{CW}} = 0.0096$; $\Delta\text{MAE} = -0.21\%$) that entirely disappears at $h=3$ ($p = 0.0514$) and $h=5$ ($p = 0.3553$), directly confirming the information dilution prediction.
+    \item \textbf{Dynamic Model Averaging with state-space memory}: We implement an online Bayesian DMA router with state-space probability discounting ($\lambda = 0.92$) and calendar release-date gating over domain-quarantined specialists. DMA achieves decisive gains over autoregressive baselines ($+9.71\%$ to $+17.43\%$, $p < 10^{-4}$). Relative to the equal-weight combination benchmark \citep{bates1969, clemen1989}, DMA yields $+2.02\%$ ($h{=}1, p = 0.0020$), $+1.62\%$ ($h{=}3, p = 0.0682$), and $+2.28\%$ ($h{=}5, p = 0.0053$). Under Holm FWER stepdown ($m=3$), the DMA-vs-EW margin is significant at $h \in \{1, 5\}$, but insignificant at $h=3$, confirming that simple averaging captures the bulk of combination gains. At $h=5$, DMA does not statistically separate from the strongest single specialist (Economy LightGBM, $p = 0.2010$).
+    \item \textbf{Model Confidence Set validation}: Using \citet{hansen2011} block-bootstrapped Model Confidence Set ($\widehat{\mathcal{M}}_{90\%}$) analysis with horizon-appropriate block sizes ($\max(2, h)$), we establish that DMA is in $\widehat{\mathcal{M}}_{90\%}$ across all horizons ($p_{\text{MCS}} = 1.000$). It is the sole survivor at $h=1$, is joined by Equal-Weight, Economy LightGBM, and All-Domain LightGBM at $h=3$ ($p_{\text{MCS}} = 0.113$), and is joined solely by Economy LightGBM at $h=5$ ($p_{\text{MCS}} = 0.243$), while all linear models and long-horizon concatenation are eliminated.
+    \item \textbf{Regime-conditional audit and robustness grid}: We provide an empirical regime breakdown disaggregating forecast performance across tranquil expansions, macro crises, and institutional transitions, alongside an extensive hyperparameter sensitivity audit across $\lambda \in [0.85, 1.00]$ and $\alpha \in [10, 200]$.
 \end{enumerate}
 
----
+The remainder of the paper is organised as follows. Section~\ref{sec:literature} surveys the related literature. Section~\ref{sec:data} describes the data architecture and econometric identification strategy. Section~\ref{sec:paradox} formalises the information dilution mechanism and provides the regime-conditional empirical validation. Section~\ref{sec:dms} presents the DMA routing framework and clarifies its online expert-weighting structure. Section~\ref{sec:benchmarks} reports the forecasting tournament and model confidence set analysis. Section~\ref{sec:limitations} discusses limitations. Section~\ref{sec:conclusion} concludes.
 
-\section{Related Work}
 
-\subsection{Macroeconomic Panel Forecasting & Machine Learning}
-Classical macroeconomic panel forecasting has relied on vector autoregressions (VAR), dynamic factor models \citep{stock2002}, and penalised linear regressions. Recent advances have established the superiority of non-linear gradient-boosted decision trees \citep{ke2017lightgbm} and stacked super-learners \citep{salesi2016, goulletcoulombe2022} for capturing threshold effects and non-linear sovereign dynamics. However, existing panel forecasting literature predominantly restricts feature spaces to economic and financial indicators, leaving open the question of whether multi-domain expansion provides genuine forecast lift.
 
-\subsection{Institutional & Climate Determinants of Long-Run Growth}
-The causal link between non-economic fundamentals and economic performance is extensively documented. \citet{knack1997} and \citet{algan2010} demonstrate that social trust and civic cooperation are primary determinants of capital accumulation. \citet{acemoglu2001, acemoglu2005} establish that institutional constraints against executive expropriation drive long-run prosperity. More recently, \citet{burke2015} show non-linear temperature effects on national production. Our work builds on this empirical foundation by investigating whether these causal channels survive rigorous out-of-sample forecast validation.
+\section{Related Literature}
+\label{sec:literature}
 
-\subsection{Dynamic Model Averaging & Learning to Defer}
-In time-varying parameter econometrics, \citet{koop2012} introduced Dynamic Model Averaging (DMA) and Dynamic Model Selection (DMS) for inflation forecasting. In machine learning, Mixture-of-Experts \citep{jacobs1991}, Sparsemax simplex projections \citep{martins2016}, and Cost-Sensitive Learning-to-Defer (L2D) \citep{mozannar2020} have emerged as premier frameworks for adaptive expert selection. We synthesize these two literatures into a unified state-space gating framework tailored to sovereign panel heterogeneity.
+Our investigation intersects several foundational bodies of literature in econometrics, empirical macroeconomics, and applied forecasting.
 
----
+\subsection{Forecast Combination vs.\ High-Dimensional Feature Concatenation}
 
-\section{Data Architecture & Harmonized Quad-Domain Panel}
+The tension between combining forecasts versus pooling regressors traces back to the seminal work of \citet{bates1969}. \citet{clemen1989} documents that the simple average of forecasts is a consistently strong benchmark, a finding reinforced by \citet{genre2013} who demonstrate that nothing consistently beats the simple average in an ECB forecasting exercise. \citet{timmermann2006} provides a comprehensive theoretical framework, showing that individual model estimation errors are diversified under combination but compounded under concatenation. \citet{smithwallis2009} explain the ``forecast combination puzzle''---that simple averages outperform estimated optimal combination weights---as a consequence of finite-sample estimation error in the combination weights themselves.
+
+In macroeconomic settings with dozens of potential predictors, \citet{stock2002, stock2004, stock2006} demonstrate that factor models and model averaging deliver superior predictive stability compared to unconstrained parameter estimation. \citet{bai2006} and \citet{bai2008} develop targeted predictor selection to manage the bias-variance tradeoff in factor-augmented regressions. Our findings directly reinforce these principles in a multi-domain sovereign setting: combining specialised domain models circumvents the finite-sample parameter estimation penalties that cripple concatenated cross-domain feature matrices.
+
+\subsection{Machine Learning for Macroeconomic Forecasting}
+
+Recent advances in machine learning for macro panels demonstrate that flexible non-linear estimators can capture complex macroeconomic interactions. \citet{goulletcoulombe2022} provide a systematic evaluation of ML methods for macroeconomic forecasting, finding that gradient-boosted trees and random forests consistently outperform linear benchmarks for short horizons but that gains diminish at longer horizons. \citet{medeiros2021} reach similar conclusions for inflation forecasting. \citet{gu2020} demonstrate the power of machine learning for cross-sectional return prediction, while \citet{giannone2021} argue that macroeconomic data are often insufficiently sparse to benefit from LASSO-type selection, favouring ridge-like shrinkage. Our finding that LightGBM captures most of the nonlinear economic signal within a single domain (206 features) is consistent with these assessments.
+
+\subsection{The M-Competition Tradition}
+
+The M4 \citep{makridakis2018} and M5 \citep{makridakis2022} competitions established benchmark protocols for large-scale forecasting comparisons. Key insights from these competitions---that simple methods are hard to beat, that combination outperforms selection for point forecasts, and that evaluation must be done on genuinely held-out data---inform our experimental design. We adopt the M-competition ethos of honest baseline comparison, using fitted per-country AR(1) with empirical-Bayes shrinkage and equal-weight combination as mandatory benchmarks.
+
+\subsection{Forecasting under Structural Instability and Dynamic Model Averaging}
+
+Macroeconomic relationships are rarely constant across time. As surveyed by \citet{rossi2013}, predictive relationships are plagued by pervasive structural instability, regime shifts, and time-varying parameters. To address instability without overparameterisation, \citet{raftery2010} and \citet{koop2011, koop2012} developed Dynamic Model Averaging (DMA) and Dynamic Model Selection (DMS) using state-space forgetting factors. \citet{korobilis2020} extended this paradigm to high-dimensional panel forecasting with regularised DMA. \citet{aastveit2014} apply DMA to oil price forecasting, and \citet{aastveit2019} extend the framework to MIDAS settings. We build upon this foundation by adapting DMA to multi-horizon sovereign panels with strict calendar release-date gating, ensuring that model probability updates condition only on realised historical data.
+
+\subsection{Non-Economic Fundamentals and Sovereign Development}
+
+A vast political economy literature establishes that institutional constraints, executive corruption, and democratic governance are primary long-run determinants of economic development \citep{acemoglu2001, acemoglu2005, knack1997, algan2010}. Concurrently, climate econometrics has documented non-linear impacts of biophysical temperature shocks on national output \citep{burke2015, dell2014, hsiang2016}. However, whether these institutional and climate signals provide actionable \emph{short- to medium-term predictive value} in annual sovereign panels remains an open question---which this paper systematically addresses by distinguishing between Granger predictive precedence (which we confirm) and out-of-sample forecast improvement (which we do not find under concatenation).
+
+\subsection{Panel Econometrics under Cross-Sectional Dependence}
+
+Sovereign macroeconomic panels exhibit strong cross-sectional dependence due to shared global shocks (oil, financial contagion, pandemics). First-generation unit root and Granger tests suffer severe size distortions under CSD \citep{pesaran2006, pesaran2021cd}. We employ the \citet{pesaran2007} CIPS test, which augments individual ADF regressions with cross-sectional averages, and acknowledge that the \citet{dumitrescu2012} panel Granger test does not itself adjust for CSD---a limitation we discuss explicitly. For forecast inference, we follow \citet{driscollkraay1998} by clustering standard errors at the year level, which reduces the effective sample size from ${\sim}5{,}000$ country-years to ${\sim}25$ origin years.
+
+
+\section{Data Architecture \& Econometric Identification}
+\label{sec:data}
 
 \subsection{Dataset Scope and Dimensions}
-The empirical analysis is conducted on the Geo-Macroeconomic Dataset (GMD) v6, spanning 169 sovereign nations from 1960 to 2025 ($N = 11,046$ annual observations). The dataset integrates four distinct measurement domains:
 
-\begin{enumerate}
-    \item \textbf{Domain 1: Macroeconomics \& Trade ($d_1 = 184$)}: GDP per capita (constant 2015 USD), gross capital formation, government debt/GDP, CPI inflation, real interest rates, terms of trade, current account balance, and bilateral trade flows (World Bank, IMF WEO, OECD).
-    \item \textbf{Domain 2: Political Stability \& Institutional Governance ($d_2 = 142$)}: V-Dem v14 electoral democracy index, executive corruption, rule of law, political terror scale, regime transitions, and conflict event counts from UCDP/PRIO.
-    \item \textbf{Domain 3: Environmental, Climate \& Disaster Stress ($d_3 = 96$)}: NOAA land-surface temperature anomalies, EM-DAT natural disaster frequencies (droughts, floods, storms), total economic damage as a percentage of GDP, and carbon intensity.
-    \item \textbf{Domain 4: Collective Societal Psychology ($d_4 = 64$)}: Harmonized multi-source societal sentiment indices (GDELT, World Values Survey, Gallup World Poll) capturing collective institutional trust, protest unrest, and consumer economic fear.
+The empirical analysis is conducted on a harmonised multi-domain panel spanning 237 sovereign nations from 1960 to 2024 ($N = 15{,}071$ annual country-year observations). The dataset integrates three measurement domains:
+\begin{enumerate}[leftmargin=*, label=\arabic*.]
+    \item \textbf{Macroeconomics \& Trade ($d_1 = 206$)}: Real GDP per capita, gross capital formation, government debt/GDP, CPI inflation, terms of trade, current account balance, and bilateral trade flows from the Global Macro Database (GMD v6; \citealt{muller2025gmd}), World Bank, and IMF WEO.
+    \item \textbf{Political Stability \& Institutional Governance ($d_2 = 25$)}: Varieties of Democracy (V-Dem v14) indices spanning electoral democracy, liberal democracy, executive corruption, rule of law, and freedom of expression.
+    \item \textbf{Climate \& Environmental Stress ($d_3 = 10$)}: Copernicus ERA5 country-level surface temperature anomalies and Global Carbon Budget annual total territorial $\text{CO}_2$ emissions (in megatonnes from Our World in Data).
 \end{enumerate}
 
-\subsection{Target Formulation & Strict Anti-Leakage Protocol}
-Let $Y_{i,t}$ denote real GDP per capita for country $i$ in year $t$. The multi-horizon target variable is the annualized log growth rate:
+Let $Y_{i,t}$ denote real GDP per capita for country $i$ in year $t$. The multi-horizon target is the \emph{cumulative} $h$-year growth rate:
 \begin{equation}
-y_{i, t+h} = \frac{1}{h} \ln\left(\frac{Y_{i, t+h}}{Y_{i,t}}\right), \quad h \in \{1, 3, 5, 10\} \text{ years}.
+y_{i, t+h} = \frac{Y_{i, t+h}}{Y_{i,t}} - 1, \quad h \in \{1, 3, 5\} \text{ years}.
 \end{equation}
 
-To guarantee strict zero-leakage validity, our experimental protocol enforces four non-negotiable rules:
-\begin{enumerate}
-    \item \textbf{Temporal Origin Quarantine}: When evaluating origin year $T$, training sets contain strictly $t \le T - h$. All data from $t \in [T - h + 1, 2025]$ is quarantined.
-    \item \textbf{Isolated Preprocessing}: SimpleImputer medians, rank-transformations, and StandardScalers are fitted exclusively on the historical training slice.
-    \item \textbf{Target Purging}: Forward targets are entirely excluded from feature matrices.
-    \item \textbf{Zero Country-ID Memorization}: No one-hot country dummy variables are included; models operate exclusively on structural observables.
+\subsection{Missing Data Treatment and Real-Time Availability}
+\label{sec:imputation}
+
+The panel is fundamentally unbalanced across historical eras and indicators. While core macroeconomic series average ${\sim}80\%$ coverage over 1980--2024, coverage is lower in earlier decades, and specialized indicators (e.g., real house price indices) have coverage below $20\%$. In the recent 2019--2024 test window, political indicators exhibit $23.5\%$ missingness and surface temperature anomalies exhibit $16.0\%$ missingness across sovereign entities.
+
+We employ \textbf{per-fold, per-domain median imputation}: within each walk-forward cross-validation fold, a domain-specific \texttt{SimpleImputer(strategy="median")} is fitted exclusively on the training partition and applied to both training and evaluation data. This ensures (i) no test-to-train information leakage through the imputer, and (ii) domain quarantine---the economic imputer never observes political or climate features, and vice versa. After imputation, all features are standardised via per-fold \texttt{StandardScaler} and clipped to $\pm 5$ standard deviations.
+
+\begin{remark}[Imputation vs.\ Real-Time Availability]
+Median imputation yields a rectangular numerical matrix required for linear and tree-based estimators, but it does not generate observed historical data. Furthermore, while the DMA target update strictly respects calendar release dates ($t_0 + h \le t$), features are indexed by nominal country-year $t$. In operational multilateral surveillance, official annual national accounts and V-Dem indicators are published with reporting lags (3 to 12 months post-period) and undergo subsequent statistical revisions. Operational real-time deployment would necessitate vintage-aware databases and nowcasting pipelines.
+\end{remark}
+
+\subsection{Second-Generation Unit Root and Panel Cointegration Diagnostics}
+
+Because sovereign macroeconomic panels exhibit strong cross-sectional dependence ($\hat{CD} > 85$; \citealt{pesaran2021cd}), first-generation unit root tests suffer severe size distortions. We estimate the \citet{pesaran2007} Cross-Sectionally Augmented IPS (CIPS) statistic:
+\begin{equation}
+\text{CIPS}(N, T) = \frac{1}{N} \sum_{i=1}^N \text{CADF}_i,
+\end{equation}
+where $\text{CADF}_i$ is the $t$-ratio from the cross-sectionally augmented Dickey-Fuller regression incorporating cross-sectional averages $\bar{y}_{t-1}$ and $\Delta \bar{y}_{t-j}$. Critical values from \citet{pesaran2007} Table IIb (Case II with intercept, $-2.10$ at 5\%) provide the asymptotic benchmark.
+
+CIPS tests establish that rule of law and CO$_2$ emissions possess unit roots in levels ($p \ge 0.05$) and achieve strict stationarity in first differences ($p < 0.01$), while electoral democracy, liberal democracy, corruption, freedom of expression, and ERA5 temperature anomalies are stationary in levels ($p < 0.05$).
+
+For non-stationary $I(1)$ series, we test for panel cointegration against log real GDP per capita using the \citet{pedroni1999, pedroni2004} residual-based panel cointegration test (Group-Mean ADF statistic $Z_{\text{P-ADF}}$). Table \ref{tab:cointegration_results} reports the cointegration diagnostics.
+
+\input{tables/tab_cointegration_results.tex}
+
+As shown in Table~\ref{tab:cointegration_results}, the Pedroni test decisively fails to reject the null of no cointegration ($p > 0.99$). This failure to reject no cointegration is consistent with an absence of stable cointegrating vectors in finite sample, motivating first-differencing integrated series without omitting an error-correction mechanism \citep{westerlund2007}.
+
+\subsection{Heterogeneous Panel Granger Non-Causality under Cross-Sectional Dependence}
+
+The standard \citet{dumitrescu2012} test calculates the average Wald statistic $\bar{W} = \frac{1}{N}\sum_{i=1}^N W_i$ across individual sovereign regressions:
+\begin{equation}
+y_{i,t} = \alpha_i + \sum_{k=1}^K \gamma_{i,k} y_{i,t-k} + \sum_{k=1}^K \beta_{i,k} x_{i,t-k} + \varepsilon_{i,t},
+\end{equation}
+testing the homogeneous non-causality null $H_0: \beta_{i,1} = \dots = \beta_{i,K} = 0$ for all $i$. Under the assumption of cross-sectional independence ($\text{Cov}(W_i, W_j) = 0$), the standardized statistic $\tilde{Z} \sim \mathcal{N}(0, 1)$ uses exact finite-$T$ moments \citep{dumitrescu2012}.
+
+\begin{remark}[Predictive Precedence vs.\ Structural Causality]
+We emphasize the foundational econometric distinction: rejection of the Dumitrescu-Hurlin Granger non-causality null establishes \textbf{predictive precedence} (temporal informational content in past lags), not structural, simultaneous, or counterfactual causality.
+\end{remark}
+
+However, sovereign macroeconomic panels exhibit extreme cross-sectional dependence ($\hat{CD} \in [87.78, 110.56]$, $p < 10^{-4}$; \citealt{pesaran2021cd}). When error terms share common global shocks, $\text{Cov}(W_i, W_j) > 0$, severely deflating the standard error of $\bar{W}$ and inflating naive $\tilde{Z}$ statistics to double digits ($\tilde{Z} \in [5.63, 17.81]$). Crucially, while second-generation CIPS pre-testing ensures individual series stationarity under CSD, it does \emph{not} repair contemporaneous cross-sectional correlation in the subsequent Granger regressions.
+
+To achieve econometrically valid inference, we implement two complementary CSD-robust testing frameworks:
+\begin{enumerate}[leftmargin=*, label=(\roman*)]
+    \item \textbf{Vector-Resampling Panel Bootstrap} \citep{emirmahmutoglu2011, lopez2017}: Under $H_0$, we estimate restricted autoregressive models and construct the empirical $T \times N$ error matrix $\mathbf{E} = [\hat{e}_{1,t}, \dots, \hat{e}_{N,t}]_{t=1}^T$. Resampling entire cross-sectional error vectors with replacement over $B=1{,}000$ replications strictly preserves the empirical contemporaneous covariance matrix $\boldsymbol{\Sigma}_N = \mathbb{E}[\mathbf{e}_t \mathbf{e}_t']$.
+    \item \textbf{Cross-Sectionally Augmented Granger Test (CS-DH)} \citep{chudik2015, chudik2016}: Country-level regressions are augmented with contemporaneous and lagged cross-sectional averages of both target and regressors:
+    \begin{equation}
+    y_{i,t} = \alpha_i + \sum_{k=1}^K \gamma_{i,k} y_{i,t-k} + \sum_{k=1}^K \beta_{i,k} x_{i,t-k} + \sum_{k=0}^K \delta_{i,k} \bar{y}_{t-k} + \sum_{k=0}^K \psi_{i,k} \bar{x}_{t-k} + \varepsilon_{i,t},
+    \end{equation}
+    filtering out unobserved global common factors before computing standardized Wald statistics $Z_{\text{CS}}$.
 \end{enumerate}
 
----
+Table~\ref{tab:dh_results} reports the full suite of Granger non-causality diagnostics under CIPS integration orders, CSD bootstrap distributions, and CS-DH common factor filtering with Holm-Bonferroni FWER control ($m=7$).
 
-\section{Econometric Identification: Panel Granger Causality}
+\input{tables/tab_dh_results.tex}
 
-\subsection{The Dumitrescu-Hurlin (2012) Test Formulation}
-To rigorously evaluate whether cross-domain signals contain predictive information regarding future GDP growth, we implement the heterogeneous panel non-causality test of \citet{dumitrescu2012}. For country $i$ and year $t$, we specify the linear panel autoregression:
-\begin{equation}
-y_{i,t} = \alpha_i + \sum_{k=1}^K \gamma_{i}^{(k)} y_{i, t-k} + \sum_{k=1}^K \beta_{i}^{(k)} x_{i, t-k} + \varepsilon_{i,t},
-\end{equation}
-where $x_{i,t}$ is a non-economic candidate predictor. The null hypothesis of Homogeneous Non-Causality (HNC) tests whether the predictor coefficients are identically zero across all cross-sectional units:
-\begin{equation}
-H_0: \beta_i = (\beta_i^{(1)}, \dots, \beta_i^{(K)})' = \mathbf{0} \quad \forall i \in \{1, \dots, N\},
-\end{equation}
-against the heterogeneous alternative that causality operates in at least a non-empty subset of sovereigns:
-\begin{equation}
-H_1: \begin{cases} \beta_i = \mathbf{0} & \forall i \in \{1, \dots, N_1\} \\ \beta_i \neq \mathbf{0} & \forall i \in \{N_1+1, \dots, N\} \end{cases}, \quad 0 \le N_1 < N.
-\end{equation}
+As documented in Table~\ref{tab:dh_results}, the empirical 95\% bootstrap critical values range from $2.74$ to $4.78$, substantially higher than the standard normal threshold of $1.645$. Under CS-DH common factor filtering:
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Political Institutional Governance}: All five V-Dem institutional channels remain highly significant ($Z_{\text{CS}} \in [5.38, 10.04]$, $p_{\text{Holm}} < 10^{-5}$). Freedom of expression ($Z_{\text{CS}} = 10.04$), executive corruption ($Z_{\text{CS}} = 8.96$), and liberal democracy ($Z_{\text{CS}} = 7.56$) exhibit the strongest predictive precedence.
+    \item \textbf{Carbon Emissions}: $\text{CO}_2$ emissions maintain robust predictive precedence ($Z_{\text{CS}} = 4.78$, $p_{\text{Holm}} = 3.57 \times 10^{-6}$).
+    \item \textbf{Climate Anomaly Attenuation}: In contrast, ERA5 surface temperature anomaly attenuates from naive $\tilde{Z} = 5.63$ down to $Z_{\text{CS}} = 1.958$, failing to reject the non-causality null under Holm-Bonferroni control ($p_{\text{Holm}} = 0.0503$). This indicates that apparent bivariate Granger predictive precedence for temperature in standard DH was confounded by common global climate and economic cycles rather than sovereign-specific predictive precedence.
+\end{itemize}
 
-The cross-sectional average Wald statistic is defined as:
-\begin{equation}
-\bar{W} = \frac{1}{N} \sum_{i=1}^N W_i,
-\end{equation}
-where $W_i$ is the standard individual Wald statistic testing $H_0: \beta_i = \mathbf{0}$. For fixed $T > 5 + 3K$, the standardized panel test statistic is:
-\begin{equation}
-\tilde{Z} = \sqrt{\frac{N}{2K \cdot \frac{T - 2K - 5}{T - K - 3}}} \left[ \left( \frac{T - 2K - 5}{T - 2K - 1} \right) \bar{W} - K \right] \xrightarrow{d} \mathcal{N}(0, 1).
-\end{equation}
 
-\subsection{Multiplicity-Corrected Empirical Causality Results}
-Table \ref{tab:dh_results} reports the formal Dumitrescu-Hurlin test statistics across all core macro-transmission hypotheses with Holm-Bonferroni family-wise error control ($m=16$).
 
-\begin{table}[ht]
-\centering
-\small
-\caption{Dumitrescu-Hurlin (2012) Panel Granger Non-Causality Empirical Test Results}
-\label{tab:dh_results}
-\begin{tabular}{lcccccc}
-\toprule
-\textbf{Causal Transmission Hypothesis} & \textbf{Lags ($K$)} & \textbf{Panel $N$} & \textbf{Avg Wald $\bar{W}$} & \textbf{Standardized $\tilde{Z}$} & \textbf{Raw $p$-value} & \textbf{Bonferroni $p$} \\
-\midrule
-Social Trust $\to$ GDP Growth & 2 & 95 & 3.821 & \textbf{6.520} & $< 10^{-6}$ & $< 10^{-5}$ *** \\
-Institutional Governance $\to$ GDP Growth & 2 & 95 & 3.965 & \textbf{7.270} & $< 10^{-6}$ & $< 10^{-5}$ *** \\
-Climate Temp Anomaly $\to$ GDP Growth & 1 & 50 & 4.652 & \textbf{17.047} & $< 10^{-6}$ & $< 10^{-5}$ *** \\
-Societal Fear $\to$ Material Conflict & 2 & 95 & 2.955 & \textbf{3.211} & 0.0013 & 0.0397 ** \\
-Societal Fear $\to$ Protest Unrest & 1 & 95 & 1.594 & \textbf{3.085} & 0.0020 & 0.0611 * \\
-Trust $\to$ Political Stability & 2 & 95 & 3.529 & \textbf{5.570} & $< 10^{-6}$ & $< 10^{-5}$ *** \\
-\bottomrule
-\end{tabular}
-\end{table}
+\section{The Cross-Domain Paradox: Theory and Empirical Validation}
+\label{sec:paradox}
 
-The results in Table \ref{tab:dh_results} establish decisive panel Granger causality from trust, governance, and climate shocks to long-run GDP per capita growth surviving stringent family-wise error control.
+\subsection{Finite-Sample Information Dilution}
 
----
+Given that cross-domain indicators exhibit robust Granger predictive precedence for GDP growth, why does static multi-domain feature inclusion fail out-of-sample?
 
-\section{The Cross-Domain Paradox: Finite-Sample Estimation Theory}
 
-\subsection{Theoretical Bias-Variance Dilemma}
-Given that cross-domain indicators Granger-cause GDP growth, why does static multi-domain feature inclusion fail to improve out-of-sample forecasting?
-
-Let $y \in \mathbb{R}^N$ be generated by a two-state regime:
+\begin{proposition}[Information Dilution Penalty]
+\label{prop:dilution}
+Consider a two-state data-generating process:
 \begin{equation}
 y = \mathbf{X}_{\text{eco}} \beta_{\text{eco}} + \mathbb{I}(s = \text{Stress}) \mathbf{X}_{\text{cross}} \beta_{\text{cross}} + \varepsilon, \quad \varepsilon \sim \mathcal{N}(0, \sigma^2 \mathbf{I}_N),
 \end{equation}
 where $\mathbb{P}(s = \text{Stress}) = \pi \in (0, 1)$, $\mathbf{X}_{\text{eco}} \in \mathbb{R}^{N \times d_1}$, and $\mathbf{X}_{\text{cross}} \in \mathbb{R}^{N \times d_2}$.
 
-\begin{theorem}[Information Dilution in Tranquil Regimes]
-Consider an ordinary least squares or regularized linear estimator fitted on the concatenated feature matrix $\mathbf{X} = [\mathbf{X}_{\text{eco}}, \mathbf{X}_{\text{cross}}]$. In tranquil regimes ($s = \text{Tranquil}$), the expected out-of-sample Mean Squared Error (MSE) of the augmented model satisfies:
+In tranquil regimes ($s = \text{Tranquil}$), $\beta_{\text{cross}} = \mathbf{0}$. Fitting an unconstrained OLS estimator on the augmented matrix $[\mathbf{X}_{\text{eco}}, \mathbf{X}_{\text{cross}}]$ yields an expected out-of-sample MSE of
 \begin{equation}
-\mathbb{E}[\text{MSE}(\hat{y}_{\text{augmented}}) \mid s = \text{Tranquil}] = \sigma^2 \left( 1 + \frac{d_1 + d_2}{N} \right),
+\mathbb{E}[\text{MSE}(\hat{y}_{\text{aug}}) \mid s = \text{Tranquil}] = \sigma^2 \left( 1 + \frac{d_1 + d_2}{N} \right),
 \end{equation}
-whereas the pure economic model satisfies:
+whereas the domain-quarantined model yields $\sigma^2 (1 + d_1/N)$, imposing a dilution penalty of $\Delta \text{MSE} = \sigma^2 d_2/N > 0$. Under Ridge regularisation with shrinkage parameter $\alpha$, the penalty is governed by the effective degrees of freedom $\text{df}(\alpha) = \sum_{j=1}^{d_1+d_2} s_j^2 / (s_j^2 + \alpha)$, which strictly increases with the addition of non-zero singular values from $\mathbf{X}_{\text{cross}}$.
+\end{proposition}
+
+\begin{remark}
+Proposition~\ref{prop:dilution} applies the classical $C_p$ result of \citet{mallows1973} to the panel forecasting setting. The key insight is not the formula itself---which is standard---but the empirical implication: when tranquil regimes dominate the sample ($\pi \ll 0.5$), the dilution penalty accumulates across the majority of observations, overwhelming the conditional gains during the minority of stress episodes.
+\end{remark}
+
+\subsection{Clark-West Nested Model Tests}
+\label{sec:clark_west}
+
+Because the all-domain model (241 features) nests the economy-only model (206 features), the standard \citet{diebold1995} test is invalid for comparing their forecast accuracy. We apply the \citet{clark2007} test, which adjusts the MSFE differential for finite-sample parameter estimation noise in the larger model. The Clark-West adjustment term $({\hat{y}}_1 - {\hat{y}}_2)^2$ penalises the larger model for the additional estimation noise from its extra parameters, producing a correctly sized test under the null that the additional regressors have zero population coefficients.
+
+Year-clustered Clark-West statistics confirm the dilution prediction for linear architectures: the 241-feature Ridge model fails to significantly improve over the 206-feature economic baseline at any horizon ($p_{\text{CW}} \ge 0.67$). For non-linear LightGBM, all-domain concatenation yields a marginal nested gain only at $h=1$ ($p_{\text{CW}} = 0.0096$), which reverses at $h=3$ ($p = 0.0514$) and $h=5$ ($p = 0.3553$) where Economy-Only LightGBM strictly dominates. This validates Proposition~\ref{prop:dilution}'s core prediction that the finite-sample variance penalty from extraneous cross-domain features overwhelms any localized signal across multi-year horizons.
+
+\subsection{Empirical Validation across Macroeconomic Regimes}
+
+Table~\ref{tab:regime_breakdown} empirically validates the variance penalty by disaggregating out-of-sample forecast accuracy across backward-looking regimes: Tranquil Macro Expansions vs.\ Macro Crises (GFC 2008--2009, COVID 2020, or growth $< -3\%$), and Stable Democratic States vs.\ Institutional Transitions ($|\Delta_{3y} \text{V-Dem}| \ge 0.05$).
+
+\input{tables/tab_regime_breakdown.tex}
+
+The results confirm the dilution mechanism: during tranquil expansions, static concatenation imposes a persistent error penalty of $+1.99\%$ ($h{=}1$), $+2.67\%$ ($h{=}3$), and $+2.97\%$ ($h{=}5$). During institutional transitions, linear concatenation degrades by $+5.12\%$ ($h{=}5$). In contrast, Dynamic Model Selection achieves the lowest error across all sub-samples, demonstrating that the state-space filter correctly routes to domain-specialised models when appropriate.
+
+
+\section{State-Space Dynamic Model Averaging}
+\label{sec:dms}
+
+To resolve the variance penalty without sacrificing crisis predictive power, we employ an online recursive state-space combination architecture inspired by the \citet{koop2012} Dynamic Model Averaging (DMA) framework.
+
+\subsection{Online Recursive State-Space Gating: DMA vs.\ DMS}
+
+Let $M$ denote the number of candidate domain specialist models ($M=5$ in our benchmark tournament: per-country AR(1), Economy Ridge, Politics Ridge, Climate Ridge, and Economy LightGBM). Each specialist produces an out-of-fold point forecast $\hat{y}_{i,t}^{(m)}$ for sovereign economy $i$ at origin year $t$.
+
+The router maintains recursive Bayesian state-space model probabilities $\pi_{t|t-1, m}^{(i)}$ for each sovereign economy over time. Prior to observing the realization, probabilities update via state-space discounting with forgetting factor $\lambda \in (0, 1]$:
 \begin{equation}
-\mathbb{E}[\text{MSE}(\hat{y}_{\text{eco}}) \mid s = \text{Tranquil}] = \sigma^2 \left( 1 + \frac{d_1}{N} \right).
+\pi_{t|t-1, m}^{(i)} = \frac{(\pi_{t-1|t-1, m}^{(i)})^\lambda}{\sum_{j=1}^M (\pi_{t-1|t-1, j}^{(i)})^\lambda}.
 \end{equation}
-Thus, the static cross-domain model incurs a strict variance penalty of $\Delta \text{MSE} = \sigma^2 \frac{d_2}{N} > 0$.
-\end{theorem}
-
-Because tranquil steady-states dominate the historical sample ($\pi \approx 0.25$), the variance penalty incurred across the 75\% tranquil sample outweighs the crisis gains when models are statically combined.
-
----
-
-# 6. Dynamic Model Selection & State-Space Sovereign Gating
-
-To solve the variance inflation penalty without sacrificing crisis predictive power, we develop dynamic routing frameworks that allocate predictive weight only when regime conditions warrant.
-
-## 6.1 Koop-Korobilis (2012) Dynamic Model Selection (DMS)
-Let $M$ denote the number of candidate domain specialist models (Economic Ridge, Non-Linear Quad-Domain LightGBM, Robust Huber Tail Regressor). Under DMS, each model $m \in \{1, \dots, M\}$ produces a predictive density $p_m(y_{i,t} \mid \mathbf{x}_{i,t})$.
-
-The prior probability of model $m$ at year $t$ given information up to $t-1$ is updated via a recursive state-space filter with forgetting factor $\lambda \in (0, 1]$:
+Upon observing a realized target $y_{i,t}$, the measurement update computes the posterior probability using Gaussian predictive likelihoods:
 \begin{equation}
-\pi_{t|t-1, m}^{(i)} = \frac{(\pi_{t-1|t-1, m}^{(i)})^\lambda}{\sum_{j=1}^M (\pi_{t-1|t-1, j}^{(i)})^\lambda},
+\pi_{t|t, m}^{(i)} = \frac{\pi_{t|t-1, m}^{(i)} \cdot \mathcal{L}_m(y_{i,t})}{\sum_{j=1}^M \pi_{t|t-1, j}^{(i)} \cdot \mathcal{L}_j(y_{i,t})}, \quad \mathcal{L}_m(y) = \frac{1}{\sqrt{2\pi \sigma_{i,t}^2}} \exp\left(-\frac{(y - \hat{y}_{i,t}^{(m)})^2}{2\sigma_{i,t}^2}\right),
 \end{equation}
-and the posterior model probability upon observing actual realization $y_{i,t}$ is:
+where $\sigma_{i,t}^2$ is an online exponentially decaying country-level residual variance:
 \begin{equation}
-\pi_{t|t, m}^{(i)} = \frac{\pi_{t|t-1, m}^{(i)} \cdot \mathcal{L}_m(y_{i,t})}{\sum_{j=1}^M \pi_{t|t-1, j}^{(i)} \cdot \mathcal{L}_j(y_{i,t})}, \quad \mathcal{L}_m(y) = \frac{1}{\sqrt{2\pi \sigma_m^2}} \exp\left(-\frac{(y - \hat{y}_m)^2}{2\sigma_m^2}\right).
+\sigma_{i,t}^2 = \kappa \sigma_{i,t-1}^2 + (1-\kappa) \frac{1}{M} \sum_{m=1}^M (y_{i,t} - \hat{y}_{i,t}^{(m)})^2, \quad \kappa = 0.90.
 \end{equation}
 
-By setting $\lambda = 0.92$, the state-space router retains multi-year sovereign memory of ongoing crises while smoothly reverting to low-variance economic baselines during tranquil recoveries.
+\noindent \textbf{Forecast Generation: Averaging (DMA) vs.\ Selection (DMS)}. The framework admits two forecast rules:
+\begin{enumerate}[leftmargin=*, label=(\alph*)]
+    \item \textbf{Dynamic Model Averaging (DMA)}: A probability-weighted convex combination:
+    \begin{equation}
+    \hat{y}_{i,t}^{\text{DMA}} = \sum_{m=1}^M \pi_{t|t-1, m}^{(i)} \hat{y}_{i,t}^{(m)}.
+    \end{equation}
+    \item \textbf{Dynamic Model Selection (DMS)}: Hard selection of the specialist with maximal posterior probability:
+    \begin{equation}
+    \hat{y}_{i,t}^{\text{DMS}} = \hat{y}_{i,t}^{(\hat{m})}, \quad \text{where } \hat{m} = \arg\max_{m \in \{1,\dots,M\}} \pi_{t|t-1, m}^{(i)}.
+    \end{equation}
+\end{enumerate}
+Our headline benchmark is instantiated in averaging mode ($\text{mode} = \text{``dma''}$). Setting $\lambda = 0.92$ allows the router to dynamically shift weight to political or climate specialists during structural stress while reverting to parsimonious economic baselines during tranquil periods. When $\lambda = 1.00$ (no forgetting), DMA reduces to static recursive Bayesian Model Averaging (BMA).
 
-\subsection{The Unified StateSpaceMoE Architecture}
-We unify state-space Bayesian filtering, Martins-Astudillo sparse simplex projection, and continuous regret minimization into a single differentiable architecture: **StateSpaceMoE**.
+\subsection{Methodological Scope: Online Expert Weighting vs.\ Canonical Koop-Korobilis DMA}
 
-Let $\mathbf{P}_i \in \mathbb{R}^{M}$ be the vector of specialist predictions for country $i$, and let $\mathbf{C}_i = |y_i \mathbf{1} - \mathbf{P}_i| \in \mathbb{R}^M$ denote the empirical regret matrix. The spatial gating network computes logits $\mathbf{z}_i = \mathbf{W}_{\text{gate}}^\top \mathbf{x}_i + \mathbf{b}_{\text{gate}}$ and projects onto the boundary of the probability simplex via the exact Sparsemax projection:
+We explicitly delineate the econometric structure of our router relative to the canonical \citet{koop2012} DMA system. In a standard Koop-Korobilis framework, $M$ individual linear state-space models $y_t = z_t^{(m)} \theta_t^{(m)} + \varepsilon_t^{(m)}$ are estimated in parallel, where parameter vectors $\theta_t^{(m)}$ and innovation variances $F_t^{(m)}$ are updated via separate Kalman filters. In our multi-domain panel setting, where candidate models are heterogeneous functional specialists (including non-linear gradient-boosted trees and dynamic factor models) fit on quarantined historical training partitions, our router operates as an \textbf{online recursive Bayesian expert-weighting rule with a shared country-level residual variance $\sigma_{i,t}^2$}. It adopts the model-probability discounting dynamics ($\pi_{t|t-1}^{\lambda}$) and predictive likelihood updating of \citet{koop2012} as a dynamic meta-learner across pre-trained specialists, rather than estimating internal Kalman filter state equations within the underlying models.
+
+\subsection{Release-Date Gating of the Measurement Update}
+
+For multi-step forecasts ($h > 1$), target $y_{i,t+h}$ is unobservable until calendar year $t+h$. We strictly enforce calendar release-date gating:
 \begin{equation}
-\mathbf{w}_i^{\text{spatial}} = \text{Sparsemax}(\mathbf{z}_i) = \arg\min_{\mathbf{p} \in \Delta^{M-1}} \|\mathbf{p} - \mathbf{z}_i\|_2^2.
+\mathcal{I}_{i,t} = \left\{ \left(\hat{y}^{(m)}_{i,t_0}, y_{i,t_0+h}\right) : t_0 + h \le t \right\}.
 \end{equation}
-The temporal state-space filter recursively updates sovereign memory vector $\boldsymbol{\pi}_{t|t-1}^{(i)} \propto (\boldsymbol{\pi}_{t-1|t-1}^{(i)})^\lambda$. The fused predictive weight vector is:
-\begin{equation}
-\mathbf{w}_i^* = \frac{1}{2} \mathbf{w}_i^{\text{spatial}} + \frac{1}{2} \boldsymbol{\pi}_{t|t-1}^{(i)}, \quad \hat{y}_i = \langle \mathbf{w}_i^*, \mathbf{P}_i \rangle.
-\end{equation}
+If feedback is disabled ($\mathcal{I}_{i,t} = \emptyset$), the posterior remains locked at the $1/M$ prior, algebraically coinciding with Equal-Weight averaging to machine precision. The measured difference between the DMA router with and without feedback therefore represents the \emph{entire value} of the state-space filter.
 
-\begin{theorem}[Out-of-Distribution Generalization Bound under Regime Shifts]
-Let $\mathcal{H}$ be the hypothesis class of StateSpaceMoE routers over $M$ domain experts. Suppose sovereign regimes follow a Markov transition chain with bounded spectral gap $\gamma > 0$. Then with probability at least $1 - \delta$ over the random draw of $N$ sovereign training instances across $T$ periods, the excess generalization risk on an unseen out-of-distribution country satisfies:
-\begin{equation}
-\mathcal{R}_{\text{OOD}}(\text{StateSpaceMoE}) - \mathcal{R}(\mathcal{S}^*) \le \mathcal{O}\left( \sqrt{\frac{M \ln d + \ln(1/\delta)}{N}} + \frac{1 - \lambda}{\gamma \sqrt{T}} \right),
-\end{equation}
-where $\mathcal{S}^*$ is the optimal hindsight oracle sequence.
-\end{theorem}
+\subsection{Marginal Contribution of State-Space Memory}
+\label{sec:dms_margin}
 
----
+A central question for practitioners is whether the complexity of state-space filtering is warranted relative to the simpler equal-weight combination benchmark of \citet{bates1969}. Pairwise year-clustered Diebold-Mariano tests (Table~\ref{tab:tournament_results}) reveal the exact statistical margins:
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Horizon $h=1$}: $+2.02\%$ MAE reduction (DMA: 0.03255 vs.\ EW: 0.03322; $\text{DM} = 3.48, p = 0.0020$; Holm $p_{\text{adj}} = 0.0061$, statistically significant).
+    \item \textbf{Horizon $h=3$}: $+1.62\%$ MAE reduction (DMA: 0.07715 vs.\ EW: 0.07842; $\text{DM} = 1.92, p = 0.0682$; Holm $p_{\text{adj}} = 0.0682$, statistically insignificant at $\alpha = 0.05$).
+    \item \textbf{Horizon $h=5$}: $+2.28\%$ MAE reduction (DMA: 0.11589 vs.\ EW: 0.11860; $\text{DM} = 3.15, p = 0.0053$; Holm $p_{\text{adj}} = 0.0106$, statistically significant).
+\end{itemize}
+These findings demonstrate that simple equal weighting captures the vast majority of cross-domain forecast gains. While state-space memory provides statistically significant refinements at short and long horizons, the advantage is modest ($+1.6\%$ to $+2.3\%$) and does not achieve significance at $h=3$. Furthermore, at $h=5$, the DMA router's $+1.14\%$ margin over the strongest single specialist (Economy LightGBM: 0.11589 vs.\ 0.11723) is statistically insignificant ($\text{DM} = 1.33, p = 0.2010$), illustrating the ``forecast combination puzzle'' \citep{smithwallis2009}.
 
-\section{Empirical Benchmarks \& Multi-Horizon Audit}
 
-\subsection{Deep Time-Series Benchmark Matrix: StateSpaceMoE vs. SOTA Panel Transformers}
-Table \ref{tab:deep_benchmarks} compares StateSpaceMoE against leading deep time-series transformer and linear decomposition architectures across all 169 countries under 5-fold walk-forward cross-validation.
 
-\begin{table}[ht]
-\centering
-\small
-\caption{Deep Time-Series Benchmark Matrix: StateSpaceMoE vs. PatchTST, iTransformer, and DLinear}
-\label{tab:deep_benchmarks}
-\begin{tabular}{lcccccc}
-\toprule
-\textbf{Model Architecture} & \textbf{Conference / Venue} & \textbf{$h=1$Y MAE} & \textbf{$h=3$Y MAE} & \textbf{$h=5$Y MAE} & \textbf{5Y Lift vs. Eco} & \textbf{Diebold-Mariano ($p$)} \\
-\midrule
-1. Autoregressive AR(1) & Classical Baseline & 0.03030 & 0.08104 & 0.12362 & $+21.90\%$ & $\text{DM} = 2.08$ ($p = 0.038$) \\
-2. Single Economy (Ridge) & Standard Linear & 0.04598 & 0.10357 & 0.15828 & \textit{Baseline} & $\text{DM} = 14.84$ ($p < 10^{-15}$) \\
-3. DLinear \citep{zheng2023} & AAAI 2023 & 0.03582 & 0.08199 & 0.12779 & $+19.26\%$ & $\text{DM} = 5.00$ ($p < 10^{-6}$) \\
-4. PatchTST \citep{nie2023patchtst} & ICLR 2023 & 0.05352 & 0.12430 & 0.17716 & $-11.93\%$ & $\text{DM} = 16.39$ ($p < 10^{-15}$) \\
-5. iTransformer \citep{liu2024itransformer} & ICLR 2024 & 0.03550 & 0.08771 & 0.12935 & $+18.28\%$ & $\text{DM} = 4.42$ ($p < 10^{-5}$) \\
-\textbf{6. StateSpaceMoE (Ours)} & \textbf{Proposed} & \textbf{0.03253} & \textbf{0.08024} & \textbf{0.11709} & \textbf{+26.03\%} & \textbf{Target / Best} \\
-\midrule
-\textit{7. Hindsight Upper Bound} & \textit{Theoretical} & \textit{0.02004} & \textit{0.04376} & \textit{0.06152} & \textit{+59.87\%} & $\text{DM} = 34.76$ ($p < 10^{-15}$) \\
-\bottomrule
-\end{tabular}
-\end{table}
 
-\subsection{Comprehensive Multi-Horizon 8-Way Ablation Matrix}
-Table \ref{tab:ablation_8way} reports the out-of-fold performance across all 8 configurations across the 5 rolling-origin walk-forward folds ($N = 9,302$).
+\section{Empirical Benchmarks \& Multi-Horizon Tournament}
+\label{sec:benchmarks}
 
-\begin{table}[ht]
-\centering
-\small
-\caption{Comprehensive Multi-Horizon Walk-Forward CV Mean Absolute Error (MAE) Ablation Suite}
-\label{tab:ablation_8way}
-\begin{tabular}{lcccc}
-\toprule
-\textbf{Model Architecture / Gating Strategy} & \textbf{$h=1$Y MAE} & \textbf{$h=3$Y MAE} & \textbf{$h=5$Y MAE} & \textbf{Avg Lift vs. Eco} \\
-\midrule
-\textbf{A. Economy-Only Baseline (LGBM + Ridge)} & 0.02657 & 0.06036 & 0.07994 & \textit{Baseline} \\
-\textbf{B. Uniform Cross-Domain Mixture} & 0.02652 & 0.05960 & 0.07860 & $+1.04\%$ ($p=0.96$) \\
-\textbf{C. Random Dirichlet Gating} & 0.02651 & 0.05991 & 0.07914 & $+0.65\%$ ($p=0.88$) \\
-\textbf{D. Heuristic Rule-Based Gating} & 0.02650 & 0.05997 & 0.07900 & $+0.69\%$ ($p=0.42$) \\
-\textbf{E. Zero-Shot LLM Gate (DeepSeek-V4)} & 0.02653 & 0.06009 & 0.07926 & $+0.48\%$ ($p=0.53$) \\
-\textbf{F. Hamilton (1989) Markov-Switching AR} & 0.02792 & 0.06654 & 0.08937 & $-7.85\%$ ($p < 0.01$) \\
-\textbf{G. Calibrated Meta-Gated LGCF} & 0.02676 & 0.06000 & 0.07926 & $+0.85\%$ ($p < 0.05$ crisis) \\
-\midrule
-\textit{H. Hindsight Upper Bound (Infeasible Ceiling)} & \textit{0.02323} & \textit{0.05086} & \textit{0.06518} & \textit{+15.59\% ($p < 10^{-4}$)} \\
-\bottomrule
-\end{tabular}
-\end{table}
+\subsection{Experimental Protocol}
 
-\subsection{The Oracle Gap Tournament: Capturing 67.8\% of the Upper Bound}
-Table \ref{tab:tournament_results} summarizes the head-to-head tournament evaluating four advanced routing paradigms against the single-domain baseline and the theoretical hindsight ceiling.
+We evaluate eleven competing architectures across 5-fold walk-forward cross-validation with rolling origins from 2000 to 2024. Training windows are strictly quarantined at $t \le t_{\text{start}} - h - 1$. The AR(1) baseline uses a contract-checked regressor (growth realised into the origin year); the same column is enforced at estimation and prediction time. All forecasts are clipped to $[-0.5, 0.5]$ and all features to $\pm 5$ standard deviations after scaling, identically across models.
 
-\begin{table}[ht]
-\centering
-\small
-\caption{The Oracle Gap Tournament: Benchmark of Advanced Routing Architectures (1960--2025)}
-\label{tab:tournament_results}
-\begin{tabular}{lccccc}
-\toprule
-\textbf{Routing Architecture} & \textbf{$h=1$Y MAE} & \textbf{$h=3$Y MAE} & \textbf{$h=5$Y MAE} & \textbf{5Y Lift vs. Eco} & \textbf{5Y Gap Closed} \\
-\midrule
-1. Economy Baseline (Ridge) & 0.04323 & 0.10122 & 0.15329 & \textit{Baseline} & 0.0\% \\
-2. Baseline Softmax Router & 0.03095 & 0.07035 & 0.10409 & $+32.10\%$ ($p < 10^{-15}$) & 53.62\% \\
-3. Sparsemax Direct MAE \citep{martins2016} & 0.03073 & 0.07182 & 0.11148 & $+27.28\%$ ($p < 10^{-15}$) & 45.56\% \\
-4. Cost-Sensitive L2D \citep{mozannar2020} & 0.03027 & 0.07092 & 0.10601 & $+30.84\%$ ($p < 10^{-15}$) & 51.52\% \\
-\textbf{5. Koop-Korobilis DMS (State-Space)} & \textbf{0.03011} & \textbf{0.06475} & \textbf{0.09108} & \textbf{+40.59\% ($p < 10^{-15}$)} & \textbf{67.79\%} \\
-6. Hybrid DMS-Sparsemax & 0.03036 & 0.06929 & 0.10501 & $+31.50\%$ ($p < 10^{-15}$) & 52.61\% \\
-\midrule
-\textit{7. Hindsight Upper Bound (Infeasible Ceiling)} & \textit{0.02004} & \textit{0.04376} & \textit{0.06152} & \textit{+59.87\% ($p < 10^{-15}$)} & \textit{100.00\%} \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\subsection{External Generalization: Spatial OOD & Decade Freeze}
-Table \ref{tab:external_benchmarks} reports performance under zero-shot Spatial OOD (33 completely unseen countries) and a 10-year frozen parameter test (2015--2025).
-
-\begin{table}[ht]
-\centering
-\small
-\caption{External Generalization: Spatial Out-of-Distribution Transfer \& Temporal Decade Freeze}
-\label{tab:external_benchmarks}
-\begin{tabular}{lcccccc}
-\toprule
-\textbf{Evaluation Protocol} & \textbf{Horizon} & \textbf{Test Obs} & \textbf{AR(1) MAE} & \textbf{Gated MAE} & \textbf{Lift vs. AR(1)} & \textbf{DM Test ($p$-value)} \\
-\midrule
-\textbf{Spatial OOD Transfer} & $h=1$Y & 1,971 & 0.06755 & \textbf{0.04989} & \textbf{+26.14\%} & $\text{DM} = 10.95$ ($p < 10^{-15}$) \\
-\textbf{Spatial OOD Transfer} & $h=3$Y & 1,905 & 0.15031 & \textbf{0.11899} & \textbf{+20.84\%} & $\text{DM} = 6.04$ ($p = 1.5 \times 10^{-9}$) \\
-\textbf{Spatial OOD Transfer} & $h=5$Y & 1,839 & 0.23175 & \textbf{0.18509} & \textbf{+20.13\%} & $\text{DM} = 4.44$ ($p = 8.9 \times 10^{-6}$) \\
-\midrule
-\textbf{Temporal Decade Freeze} & $h=1$Y & 1,512 & 0.03471 & \textbf{0.03275} & \textbf{+5.64\%} & $\text{DM} = 19.67$ ($p < 10^{-15}$) \\
-\textbf{Temporal Decade Freeze} & $h=3$Y & 1,176 & 0.07878 & \textbf{0.07337} & \textbf{+6.86\%} & $\text{DM} = 15.36$ ($p < 10^{-15}$) \\
-\textbf{Temporal Decade Freeze} & $h=5$Y & 840 & 0.09812 & \textbf{0.09108} & \textbf{+7.17\%} & $\text{DM} = 14.31$ ($p < 10^{-15}$) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\subsection{Regional Multi-Horizon Breakdown \& Critical Heterogeneity}
-Table \ref{tab:regional_summary} details the regional performance across all 8 World Bank geographic regions under the Sovereign-Segmented Adaptive Router, reporting 95\% empirical bootstrap confidence intervals (2,000 resamples).
-
-\begin{table}[ht]
-\centering
-\small
-\caption{Multi-Horizon Regional Breakdown with 95\% Bootstrap Confidence Intervals}
-\label{tab:regional_summary}
-\begin{tabular}{lccccc}
-\toprule
-\textbf{World Bank Geographic Region} & \textbf{Obs ($N$)} & \textbf{$h=1$Y Lift [95\% CI]} & \textbf{$h=3$Y Lift [95\% CI]} & \textbf{$h=5$Y Lift [95\% CI]} & \textbf{5Y Outcome} \\
-\midrule
-\textbf{East Asia \& Pacific} & 240 & $-24.52\%$ [$-31.2, -17.8$] & \textbf{+30.49\%} [$+23.4, +37.1$] & \textbf{+39.42\%} [$+31.8, +46.5$] & 👑 Dominant Win \\
-\textbf{South Asia (India, etc.)} & 120 & $-6.73\%$ [$-14.2, +0.8$] & \textbf{+26.24\%} [$+17.5, +34.2$] & \textbf{+32.63\%} [$+22.9, +41.5$] & 👑 Dominant Win \\
-\textbf{Other / Emerging Panel} & 1,600 & \textbf{+0.21\%} [$-1.8, +2.2$] & \textbf{+10.55\%} [$+7.8, +13.2$] & \textbf{+14.35\%} [$+11.2, +17.4$] & 👑 Consistent Win \\
-\textbf{Sub-Saharan Africa} & 300 & $-29.60\%$ [$-38.4, -20.9$] & \textbf{+6.56\%} [$-0.4, +13.1$] & \textbf{+11.90\%} [$+4.8, +18.7$] & 👑 Consistent Win \\
-\textbf{North America (USA, CAN)$^\dagger$} & 40 & $-16.96\%$ [$-28.4, -5.2$] & $-8.51\%$ [$-19.2, +2.1$] & \textbf{+11.19\%} [$-1.4, +23.8$] & 👑 Flipped to Win \\
-\textbf{Latin America \& Caribbean} & 300 & $-11.58\%$ [$-18.2, -4.9$] & \textbf{+8.35\%} [$+2.1, +14.5$] & \textbf{+10.69\%} [$+4.2, +17.0$] & 👑 Consistent Win \\
-\textbf{Europe \& Central Asia} & 480 & $-5.46\%$ [$-9.8, -1.1$] & $-4.59\%$ [$-9.2, +0.1$] & $-0.35\%$ [$-4.9, +4.2$] & Neutral / Tie \\
-\textbf{Middle East \& North Africa} & 280 & $-8.62\%$ [$-15.1, -2.1$] & $-20.89\%$ [$-29.4, -12.3$] & $-25.17\%$ [$-34.8, -15.2$] & Commodity Vol \\
-\bottomrule
-\end{tabular}
-\begin{flushleft}
-\footnotesize $^\dagger$Note: North America represents a small cross-sectional sample ($N=40$ country-years; USA and Canada), yielding wider bootstrap confidence intervals.
-\end{flushleft}
-\end{table}
-
-\subsection{Forensic Empirical Qualifications: Where Multi-Domain Routing Fails}
-To maintain rigorous scientific fidelity, we highlight two critical empirical qualifications:
-\begin{enumerate}
-    \item \textbf{Short-Horizon Single-Year Lags ($h=1$Y)}: At $h=1$, StateSpaceMoE underperforms simple AR(1) persistence across 7 of 8 geographic regions. In tranquil single-year forward steps, univariate inertia is virtually optimal; multi-domain parameter estimation noise creates a $-5.9\%$ global variance penalty. StateSpaceMoE should strictly be deployed for multi-year structural horizons ($h \ge 3$).
-    \item \textbf{Commodity-Dependent Macro Structures (MENA $-25.17\%$ at $h=5$Y)}: In resource-dominated economies (OPEC members), long-term growth is driven primarily by exogenous global crude oil price shocks rather than domestic political or institutional indices. Consequently, multi-domain features fail to provide predictive lift in this specific structural regime.
+The competitor set includes:
+\begin{enumerate}[leftmargin=*, label=(\roman*)]
+    \item Per-country AR(1) with empirical-Bayes shrinkage toward the pooled panel estimate;
+    \item Economy-Only Ridge (206 features);
+    \item All-Domain Ridge (241 features: concatenation of all domains);
+    \item Politics-Only Ridge (25 V-Dem features);
+    \item Climate-Only Ridge (10 ERA5/CO$_2$ features);
+    \item Economy-Only LightGBM \citep{ke2017lightgbm};
+    \item All-Domain LightGBM (241 features);
+    \item Stock-Watson Dynamic Factor Model \citep{stock2002} with 5 factors;
+    \item Equal-Weight forecast combination ($1/M$ average) of AR(1), Economy Ridge, Politics Ridge, Climate Ridge, and Economy LightGBM;
+    \item Dynamic Model Averaging (DMA) State-Space Router ($\lambda = 0.92$, release-date gated);
+    \item DMA with feedback disabled (diagnostic: must equal row ix).
 \end{enumerate}
 
----
+Statistical inference uses year-clustered \citet{diebold1995} tests with \citet{driscollkraay1998}-style Newey-West HAC adjustment (bandwidth $= h$) for non-nested comparisons, and year-clustered \citet{clark2007} tests for nested comparisons (Economy-Only vs.\ All-Domain within each model class). Because countries share contemporaneous global shocks, the effective sample size for inference is the number of distinct evaluation years ($G = 25$ at $h=1$, $G = 23$ at $h=3$, and $G = 21$ at $h=5$), rather than the pooled number of country-years (${\sim}5{,}000$). Test statistics are compared against Student-$t(G-1)$ distributions to prevent finite-cluster size distortion.
 
-\section{Discussion \& Policy Implications}
+\subsection{Tournament Results}
 
-\subsection{Reframing the LLM Role: Diagnostic Filters over Direct Forecasters}
-Our findings provide a critical caution for the deployment of foundation models in macroeconomic forecasting. LLMs prompted zero-shot exhibit structural conservatism, allocating near-uniform weights in tranquil regimes. However, when integrated as diagnostic regime classifiers within a state-space Bayesian filter, foundation models successfully detect qualitative crisis triggers (e.g., geopolitical escalation or sovereign debt negotiations) before they manifest in lagging tabular data.
+Table~\ref{tab:tournament_results} reports the full tournament. Three primary findings emerge:
 
-\subsection{Implications for Sovereign Debt \& Multilateral Surveillance}
-For institutions such as the IMF and World Bank, our results show that multi-year sovereign debt solvency models should not uniformly incorporate massive social media or climate feature sets into baseline forecasts. Rather, surveillance systems should deploy state-space dynamic model selection that prunes non-economic noise during steady-state expansion while automatically activating crisis specialists when structural transition indicators fire.
+\input{tables/tab_tournament_results.tex}
 
----
+\begin{enumerate}[leftmargin=*, label=\arabic*.]
+    \item \textbf{Concatenation Dilution}: Static concatenation of all 241 features degrades Ridge forecast accuracy by $-1.71\%$ ($h{=}1$), $-2.32\%$ ($h{=}3$), and $-1.97\%$ ($h{=}5$) relative to the economy-only baseline ($p_{\text{CW}} \ge 0.67$). For LightGBM, a minor nested gain at $h=1$ ($\Delta\text{MAE} = -0.21\%$, $p_{\text{CW}} = 0.0096$) is quickly reversed by dilution at $h=3$ ($+0.52\%$, $p = 0.0514$) and $h=5$ ($+1.51\%$, $p = 0.3553$).
+    \item \textbf{DMA Superiority over AR(1)}: Release-date gated DMA attains the lowest MAE across all horizons, outperforming fitted AR(1) baselines by $+9.71\%$ ($h{=}1$), $+13.75\%$ ($h{=}3$), and $+17.43\%$ ($h{=}5$) ($p < 10^{-4}$ via year-clustered inference).
+    \item \textbf{Marginal DMA-vs-EW and Specialist Gains}: The DMA advantage over equal-weight combination is $+2.02\%$ ($h{=}1, p = 0.0020$), $+1.62\%$ ($h{=}3, p = 0.0682$), and $+2.28\%$ ($h{=}5, p = 0.0053$). Under Holm FWER stepdown over the three horizons ($m=3$), the DMA margin is statistically significant at $h=1$ ($p_{\text{adj}} = 0.0061$) and $h=5$ ($p_{\text{adj}} = 0.0106$), but fails to reach significance at $h=3$ ($p_{\text{adj}} = 0.0682$). Against the strongest single specialist (Economy LightGBM), DMA achieves a $+1.14\%$ MAE margin at $h=5$ that is not statistically significant ($p = 0.2010$), confirming that most of the combination gain is already captured by simple averaging or non-linear single-domain models.
+\end{enumerate}
+
+\subsection{Model Confidence Set Analysis}
+
+Table~\ref{tab:mcs_results} presents the \citet{hansen2011} Model Confidence Set ($\widehat{\mathcal{M}}_{90\%}$) using moving-block bootstrap ($B=1{,}000$ replications) on year-clustered loss differentials, with block sizes set to $\max(2, h)$ to capture multi-step serial correlation in the loss differentials.
+
+\input{tables/tab_mcs_results.tex}
+
+At $h=1$, the DMA router is the sole model surviving in $\widehat{\mathcal{M}}_{90\%}$ ($p_{\text{MCS}} = 1.000$, with all other models eliminated at $p_{\text{MCS}} \le 0.029$). At $h=3$, four architectures enter $\widehat{\mathcal{M}}_{90\%}$: DMA ($p_{\text{MCS}} = 1.000$), Equal-Weight Multi-Domain ($p_{\text{MCS}} = 0.113$), Economy LightGBM ($p_{\text{MCS}} = 0.113$), and All-Domain LightGBM ($p_{\text{MCS}} = 0.113$). At $h=5$, $\widehat{\mathcal{M}}_{90\%}$ narrows to DMA ($p_{\text{MCS}} = 1.000$) and Economy LightGBM ($p_{\text{MCS}} = 0.243$), while all linear models, Equal-Weight ($p_{\text{MCS}} = 0.048$), and static all-domain concatenation ($p_{\text{MCS}} = 0.023$) are eliminated.
+
+\subsection{Hyperparameter Sensitivity and Robustness Grid}
+
+Table~\ref{tab:robustness_grid} reports the sensitivity grid evaluated across the exact 5-fold rolling walk-forward CV (2000--2024), varying the forgetting factor $\lambda \in [0.85, 1.00]$ and Ridge regularisation $\alpha \in [10, 200]$.
+
+\input{tables/tab_robustness_grid.tex}
+
+Panel A shows that dynamic model adaptation ($\lambda \in [0.85, 0.92]$) consistently outperforms static recursive BMA ($\lambda = 1.00$) across medium and long horizons ($0.07704$ vs.\ $0.07732$ at $h=3$; $0.11572$ vs.\ $0.11613$ at $h=5$). Panel B demonstrates that the information dilution penalty of all-domain concatenation relative to domain-specialized Ridge persists across all tested regularisation penalties ($+1.60\%$ to $+2.67\%$, with mean horizon penalty $+1.81\%$ to $+2.28\%$), confirming that dilution is a structural econometric property rather than a regularisation artefact. At the headline regularisation $\alpha = 100$, the robustness grid yields the exact tournament MAEs (Economy Ridge: 0.03402, 0.08265, 0.12855; Concat Ridge: 0.03461, 0.08457, 0.13109).
+
+
+
+\section{Limitations and Future Work}
+\label{sec:limitations}
+
+Several methodological and empirical limitations of our analysis should be emphasized:
+
+\begin{enumerate}[leftmargin=*, label=\arabic*.]
+    \item \textbf{Cross-sectional dependence and common factor filtering}: While our vector-resampling bootstrap and CS-DH tests successfully control for severe CSD ($\hat{CD} > 85$), common global factor filtering attenuates the predictive precedence of biophysical temperature anomalies ($p_{\text{Holm}} = 0.0503$). This indicates that cross-domain indicators with high global synchronization primarily convey common macroeconomic cycles rather than sovereign-specific structural signals.
+    \item \textbf{Feature vintages and publication delays}: While target feedback in the DMA router is calendar-gated ($t_0 + h \le t$), features are indexed by nominal country-year $t$. In operational multilateral surveillance, official annual national accounts and V-Dem indicators are published with reporting delays (3 to 12 months post-period) and undergo subsequent revisions. True real-time operational deployment requires vintage databases and nowcasting pipelines.
+    \item \textbf{Annual frequency}: Our panel operates at annual frequency. Higher-frequency quarterly nowcasting panels with timely satellite and financial market data may capture localised cross-domain feedback faster, potentially reducing the dilution penalty.
+    \item \textbf{Online expert weighting vs.\ full TVP-Kalman DMA}: Our router implements the probability-discounting and predictive likelihood weighting mechanisms of \citet{koop2012} over pre-trained functional specialists with a shared country-level error variance $\sigma_i^2$. It operates as an online meta-learner rather than jointly estimating internal time-varying regression coefficients or specialist-specific innovation variances via full Kalman filters. Extending the routing layer to track individual predictive density variances or endogenously update base specialists represents a natural avenue for future work.
+    \item \textbf{DMA-vs-EW and DMA-vs-Specialist margins}: The marginal contribution of DMA over equal-weight combination is $+1.6\%$ to $+2.3\%$ MAE. This margin is statistically significant at $h=1$ ($p = 0.0020$) and $h=5$ ($p = 0.0053$), but is insignificant at $h=3$ ($p = 0.0682$). Furthermore, at $h=5$, DMA does not statistically separate from the strongest single specialist (Economy LightGBM, $p = 0.2010$). Practitioners should weigh this modest improvement against the implementation complexity of the state-space filter.
+    \item \textbf{Finite cluster counts in inference}: Year-clustered DM and MCS inference operates on $G \in \{21, 23, 25\}$ annual clusters. While using $t(G-1)$ distributions prevents extreme size distortions, finite cluster counts inevitably limit statistical power.
+    \item \textbf{Cointegration and unit root approximations}: Our CIPS critical values from \citet{pesaran2007} are tabulated for balanced panels, serving as asymptotic benchmarks for the unbalanced panel. The Pedroni test uses asymptotic moment adjustments; we emphasize that failure to reject the no-cointegration null ($p > 0.99$) is not mathematical proof that no cointegration exists, but indicates lack of empirical evidence for a stable error-correction term in finite sample.
+    \item \textbf{Imputation effects}: Per-fold median imputation, while preventing leakage, introduces noise proportional to the missingness rate. Variables with very low coverage (e.g., house price indices at 15\%) contribute effectively zero signal after imputation, potentially inflating the dilution penalty in the all-domain model.
+    \item \textbf{Alternative combination rules}: While we bench against Equal-Weight combination, future work could expand the tournament to include stacked generalization, out-of-fold elastic-net blending, and inverse-loss weighting.
+    \item \textbf{Non-linear tail events}: While our focus was on point forecasting of GDP growth, cross-domain interactions may exhibit greater predictive value for non-linear sovereign tail events such as defaults or currency crises. Extending DMA to density or quantile forecasting represents an important agenda.
+\end{enumerate}
+
 
 \section{Conclusion}
-This paper demonstrates that the challenge of macroeconomic forecasting across heterogeneous global panels is fundamentally a problem of dynamic information routing. While non-economic political, climate, and collective sentiment forces exhibit decisive, multiplicity-corrected panel Granger causality with respect to real GDP growth, static cross-domain feature augmentation fails due to variance inflation in tranquil regimes. By deploying state-space dynamic model selection and sovereign typology segmentation, forecasters can capture over two-thirds of the theoretical hindsight ceiling, delivering robust predictive gains across emerging economies, crisis regimes, and out-of-distribution sovereign states.
+\label{sec:conclusion}
+
+This paper investigates whether verified cross-domain predictive precedence from political governance and biophysical climate stress translates into out-of-sample predictive accuracy for multi-year sovereign growth. Across a harmonised 65-year panel spanning 237 economies, we document the Cross-Domain Forecasting Paradox: while democratic institutions, the rule of law, and carbon emissions exhibit robust panel Granger predictive precedence under CSD-robust bootstrap and common factor filtering ($p_{\text{Holm}} < 10^{-5}$), uniform feature concatenation fails to improve out-of-sample forecasts. Grounded in finite-sample estimation theory and empirical regime breakdowns, we demonstrate that extraneous features inflate parameter estimation variance $\mathcal{O}(d_2/N)$ during tranquil regimes---which constitute the majority of sovereign history---generating an empirical dilution penalty that persists across regularisations. Year-clustered \citet{clark2007} nested model tests confirm that linear augmented models fail to significantly improve over the economic baseline at any horizon ($p_{\text{CW}} \ge 0.67$), with non-linear concatenation gains strictly confined to the 1-year horizon before succumbing to parameter variance.
+
+Dynamic Model Averaging (DMA) with recursive state-space probability discounting and calendar release-date gating \citep{koop2012} resolves the dilution paradox by dynamically weighting specialised domain models. The DMA router achieves statistically significant gains over the per-country AR(1) baseline ($+9.71\%$ to $+17.43\%$ MAE, $p < 10^{-4}$) and belongs to the \citet{hansen2011} 90\% Model Confidence Set across all horizons. We report honestly that the marginal DMA advantage over the equal-weight combination benchmark is modest ($+1.6\%$ to $+2.3\%$ MAE) and statistically significant only at $h \in \{1, 5\}$ ($p < 0.01$), failing to reach significance at $h=3$ ($p = 0.0682$), while failing to statistically separate from Economy LightGBM at $h=5$ ($p = 0.2010$). In the 90\% Model Confidence Set, DMA is the sole survivor at $h=1$, but is joined by Equal-Weight and LightGBM models at $h=3$ and by Economy LightGBM at $h=5$, consistent with the ``forecast combination puzzle'' documented by \citet{smithwallis2009} and the robust performance of simple averages demonstrated by \citet{genre2013}.
+
+From an applied policy perspective, these findings carry direct implications for multilateral surveillance institutions, central banks, and sovereign credit rating agencies. In tools such as the IMF-World Bank Debt Sustainability Framework, practitioners face pressure to incorporate expanding batteries of institutional and ESG indicators. Our results show that brute-force feature inclusion in monolithic macroeconomic models is counterproductive. Instead, policy institutions should maintain domain-quarantined specialist models and combine them through dynamic state-space weighting or, when implementation complexity is a concern, through simple equal-weight averaging---which captures the majority of the cross-domain combination gain.
+
+
+
+
+\section*{Data Availability Statement}
+
+All empirical datasets, raw input files, data ingestion pipelines, econometric testing suites, and benchmark output artifacts are openly available in the replication repository. Raw inputs in \texttt{data/raw/} include the Global Macro Database (GMD v6) macroeconomic base panel (\texttt{gmd\_macro\_panel\_raw.csv.gz}), Varieties of Democracy (V-Dem v14) institutional indicators, Copernicus ERA5 surface temperature anomalies, and Global Carbon Budget $\text{CO}_2$ emissions. The unified empirical panel is generated via \texttt{python src/harmonization/ingest\_real\_cross\_domain\_panel.py}, producing \texttt{data/processed\_panels/real\_cross\_domain\_annual\_panel.parquet} (SHA-256: \texttt{4d6706d03724469b8fd5a8ca171057617e74643a9bab4b6d6795ae9aaf95135a}). All econometric tests, walk-forward forecasting tournaments, and table generation pipelines are fully reproducible via automated scripts in \texttt{scripts/}.
+
+
+\section*{Declaration of Generative AI in Scientific Writing}
+
+During the preparation of this work, the author utilised AI-assisted coding and language tools to assist with data harmonisation scripts, \LaTeX{} typesetting, and grammatical refinement. All empirical models, econometric tests, and results were executed on verified public datasets, and the author reviewed and takes full responsibility for the methodology, analyses, and conclusions presented herein.
 
 \bibliographystyle{plainnat}
 \bibliography{references}
 
 \newpage
 \appendix
-\section{Theoretical Appendix: Proof of Theorem 2}
 
-\subsection{Regularity Assumptions}
-We specify the formal regularity conditions under which the PAC-Bayes excess risk bound holds:
-\begin{enumerate}
-    \item \textbf{Assumption 1 (Markovian Regime Ergodicity)}: The latent sovereign regime sequence $\{s_{i,t}\}_{t=1}^T$ evolves according to a time-homogeneous Markov chain with finite state space $\mathcal{S}$, stationary distribution $\boldsymbol{\mu}$, and absolute spectral gap $\gamma = 1 - \lambda_2(\mathbf{P}) > 0$, satisfying exponential mixing with mixing time $\tau_{\text{mix}} \le \frac{1}{\gamma} \ln(2/\delta)$.
-    \item \textbf{Assumption 2 (Bounded Sub-Gaussian Specialist Losses)}: For each domain specialist $m \in \{1, \dots, M\}$, the prediction error $\ell_m(x, y) = |y - f_m(x)|$ is $\sigma_0$-sub-Gaussian with almost surely bounded support $\ell_m \in [0, B]$.
-    \item \textbf{Assumption 3 (Sparse Simplex Boundary Regularity)}: The Martins-Astudillo Sparsemax projection $\Pi_{\Delta^{M-1}}(z)$ is 1-Lipschitz continuous with respect to the $\ell_2$-norm: $\|\Pi_{\Delta}(z_1) - \Pi_{\Delta}(z_2)\|_2 \le \|z_1 - z_2\|_2$.
+\section{DMS State-Space Derivation}
+\label{app:dms}
+
+The DMS/DMA framework of \citet{koop2012} models a time-varying model probability vector $\boldsymbol{\pi}_t \in \Delta^{M-1}$ (the $(M{-}1)$-simplex) for $M$ competing specialist models. The state-space dynamics comprise:
+
+\paragraph{Prediction step.} Given the posterior at $t{-}1$, the prediction step applies the forgetting factor $\lambda \in (0, 1]$:
+\[
+\pi_{t|t-1, m} = \frac{(\pi_{t-1|t-1, m})^\lambda}{\sum_{j=1}^M (\pi_{t-1|t-1, j})^\lambda}.
+\]
+When $\lambda < 1$, this flattens the probability vector toward uniform, allowing the filter to ``forget'' past performance and track structural breaks. When $\lambda = 1$, the prediction step is the identity, recovering static BMA.
+
+\paragraph{Measurement update.} Upon observing the realised target $y_t$, the posterior updates via the Gaussian predictive likelihood:
+\[
+\pi_{t|t, m} \propto \pi_{t|t-1, m} \cdot \phi(y_t \mid \hat{y}_{t,m}, \hat{\sigma}^2_t),
+\]
+where $\hat{\sigma}^2_t$ is an EWMA variance estimate with decay $\kappa = 0.90$:
+$\hat{\sigma}^2_t = \kappa \hat{\sigma}^2_{t-1} + (1 - \kappa) \bar{e}^2_t$, with $\bar{e}^2_t$ the mean squared forecast error across specialists at $t$.
+
+\paragraph{Release-date gating.} For $h$-step-ahead forecasts, target $y_{t+h}$ is unavailable until calendar year $t + h$. The measurement update at origin $t$ therefore conditions only on $\{y_{t_0 + h} : t_0 + h \le t\}$. In the absence of any released observation, the posterior equals the prediction-step output; if no updates have ever occurred, this equals $1/M$ by construction.
+
+\paragraph{DMS vs.\ DMA.} Under DMA, the combined forecast is $\hat{y}_t^{\text{DMA}} = \sum_m \pi_{t|t-1,m} \hat{y}_{t,m}$. Under DMS, it is $\hat{y}_t^{\text{DMS}} = \hat{y}_{t, m^*}$ where $m^* = \arg\max_m \pi_{t|t-1,m}$. Our implementation uses DMA (probability-weighted averaging) throughout the tournament.
+
+
+\section{Data Construction Details}
+\label{app:data}
+
+The harmonised panel integrates three public databases:
+
+\begin{enumerate}[leftmargin=*, label=\arabic*.]
+    \item \textbf{Global Macro Database (GMD v6)}: Downloaded from \url{https://www.globalmacrodata.com}. Provides 206 macroeconomic and trade variables for 237 economies (1960--2024) including GDP, inflation, trade, fiscal, and financial indicators. All variables are in their original reported units without log transformation.
+    \item \textbf{Varieties of Democracy (V-Dem v14)}: Downloaded from \url{https://v-dem.net}. Five core indices are retained: electoral democracy (polyarchy), liberal democracy, political corruption, rule of law, and freedom of expression. Each is augmented with 1-year and 5-year lags, 5-year rolling means, and 5-year differences, yielding 25 features.
+    \item \textbf{Copernicus ERA5 \& Global Carbon Budget}: ERA5 surface temperature anomalies (degrees C above the 1960--1990 baseline) and Global Carbon Budget CO$_2$ emissions per capita. Each is augmented with lags and differences, yielding 10 features.
 \end{enumerate}
 
-\subsection{Proof of Theorem 2}
-\begin{proof}
-Let $\mathcal{W} = \{ \mathbf{w} \in \Delta^{M-1} \}$ denote the probability simplex over $M$ specialists. For any country $i$ across $T$ observation periods, let $\mathbf{w}_t^{(i)}$ be the predictive weights generated by StateSpaceMoE.
-
-Under the recursive Bayesian update with forgetting parameter $\lambda \in (0, 1]$, the state-space prediction step satisfies:
-\begin{equation}
-\boldsymbol{\pi}_{t|t-1}^{(i)} = \frac{(\boldsymbol{\pi}_{t-1|t-1}^{(i)})^\lambda}{\sum_{j=1}^M (\boldsymbol{\pi}_{t-1|t-1, j}^{(i)})^\lambda}.
-\end{equation}
-By the tracking lemma for exponentially discounted Bayesian online filters \citep{koop2012}, the cumulative regret of the state-space sequence against any static benchmark model $m^*$ over horizon $T$ is bounded by:
-\begin{equation}
-\sum_{t=1}^T \ell(\boldsymbol{\pi}_{t|t-1}, y_t) - \sum_{t=1}^T \ell(f_{m^*}(x_t), y_t) \le \frac{\ln M}{1 - \lambda} + (1 - \lambda) B^2 T.
-\end{equation}
-Setting the optimal forgetting parameter $\lambda^* = 1 - \frac{1}{\sqrt{T}}$ yields a dynamic tracking regret of $\mathcal{O}(B \sqrt{T \ln M})$.
-
-Next, consider the spatial Sparsemax gating network parameterized by $\mathbf{W} \in \mathbb{R}^{d \times M}$. By the PAC-Bayes theorem for non-stationary $\beta$-mixing processes with spectral gap $\gamma$ \citep{chernozhukov2018}, for any prior $\mathcal{P}_0$ and posterior $\mathcal{Q}$, with probability at least $1 - \delta$:
-\begin{equation}
-\mathbb{E}_{\mathbf{w} \sim \mathcal{Q}}[\mathcal{R}(\mathbf{w})] \le \hat{\mathcal{R}}(\mathbf{w}) + \sqrt{\frac{\text{KL}(\mathcal{Q} \parallel \mathcal{P}_0) + \ln(2/\delta)}{2 N_{\text{eff}}}},
-\end{equation}
-where the effective sample size under Markovian dependence is $N_{\text{eff}} = \frac{N}{\tau_{\text{mix}}} \ge \gamma N$.
-
-Substituting the Rademacher complexity of linear Sparsemax projections $\mathcal{O}(\sqrt{M \ln d / N})$ and combining the spatial generalization bound with the temporal tracking regret yields the unified excess risk:
-\begin{equation}
-\mathcal{R}_{\text{OOD}}(\text{StateSpaceMoE}) - \mathcal{R}(\mathcal{S}^*) \le \mathcal{O}\left( \sqrt{\frac{M \ln d + \ln(1/\delta)}{N}} + \frac{1 - \lambda}{\gamma \sqrt{T}} \right).
-\end{equation}
-This completes the proof.
-\end{proof}
+Country-years are merged on ISO-3166-1 alpha-3 codes and calendar year. No synthetic gap-filling is applied; missingness is handled exclusively through per-fold median imputation as described in Section~\ref{sec:imputation}.
 
 \end{document}
-

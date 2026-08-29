@@ -1,0 +1,9 @@
+Variable,Column,CIPS_Level,CIPS_Level_PVal,Order_Level,CIPS_Diff,CIPS_Diff_PVal,Order_Diff,N_Countries,Verdict_Under_CSD
+V-Dem Electoral Democracy,vdem_electoral_democracy,-2.6805,< 0.01,I(0) Stationary,-5.244,< 0.01,I(0) Stationary,174,I(0) Stationary in Levels
+V-Dem Liberal Democracy,vdem_liberal_democracy,-2.5036,< 0.01,I(0) Stationary,-5.1108,< 0.01,I(0) Stationary,174,I(0) Stationary in Levels
+V-Dem Political Corruption,vdem_political_corruption,-2.1963,< 0.05,I(0) Stationary,-5.0203,< 0.01,I(0) Stationary,173,I(0) Stationary in Levels
+V-Dem Rule of Law,vdem_rule_of_law,-2.0529,< 0.10,I(1) Unit Root,-4.9407,< 0.01,I(0) Stationary,174,I(1) Unit Root in Levels -> Must First-Difference
+V-Dem Free Expression,vdem_freedom_expression,-2.3794,< 0.01,I(0) Stationary,-5.1046,< 0.01,I(0) Stationary,174,I(0) Stationary in Levels
+ERA5 Temperature Anomaly,climate_temperature_anomaly,-5.033,< 0.01,I(0) Stationary,-6.1862,< 0.01,I(0) Stationary,191,I(0) Stationary in Levels
+Annual CO2 Emissions,climate_annual_co2,-1.5032,>= 0.10 (Unit Root),I(1) Unit Root,-4.923,< 0.01,I(0) Stationary,211,I(1) Unit Root in Levels -> Must First-Difference
+Real GDP per capita Growth,gdp_growth,-4.3131,< 0.01,I(0) Stationary,-6.0508,< 0.01,I(0) Stationary,220,I(0) Stationary in Levels

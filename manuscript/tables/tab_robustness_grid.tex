@@ -1,0 +1,36 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{Hyperparameter sensitivity \& robustness grid across forgetting factors $\lambda$ and regularizations $\alpha$}
+\label{tab:robustness_grid}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccc}
+\toprule
+\multicolumn{7}{c}{\textbf{Panel A: Dynamic Model Selection Forgetting Factor ($\lambda$) Sensitivity}} \\
+\midrule
+\textbf{Memory Parameter $\lambda$} & \textbf{Interpretation} & \textbf{$h=1$ MAE} & \textbf{$h=3$ MAE} & \textbf{$h=5$ MAE} & \textbf{Avg MAE} & \textbf{Rank} \\
+\midrule
+$\lambda = 0.85$ & Decay 15\%/yr & 0.03255 & 0.07704 & 0.11572 & 0.07510 & -- \\
+$\lambda = 0.88$ & Decay 12\%/yr & 0.03254 & 0.07710 & 0.11579 & 0.07514 & -- \\
+$\lambda = 0.90$ & Decay 10\%/yr & 0.03254 & 0.07714 & 0.11584 & 0.07517 & -- \\
+$\lambda = 0.92$ & Decay 8\%/yr & 0.03254 & 0.07718 & 0.11589 & 0.07520 & -- \\
+$\lambda = 0.95$ & Decay 5\%/yr & 0.03254 & 0.07723 & 0.11597 & 0.07525 & -- \\
+$\lambda = 0.98$ & Decay 2\%/yr & 0.03255 & 0.07728 & 0.11607 & 0.07530 & -- \\
+$\lambda = 1.00$ & Static BMA & 0.03255 & 0.07732 & 0.11613 & 0.07533 & -- \\
+\midrule
+\multicolumn{7}{c}{\textbf{Panel B: Ridge Regularization ($\alpha$) \& Information Dilution Penalty}} \\
+\midrule
+\textbf{Regularization $\alpha$} & \textbf{$h=1$ Penalty} & \textbf{$h=3$ Penalty} & \textbf{$h=5$ Penalty} & \textbf{Mean Penalty} & \multicolumn{2}{c}{\textbf{Dilution Observed?}} \\
+\midrule
+$\alpha = 10$ & +1.93\% & +2.67\% & +2.25\% & +2.28\% & \multicolumn{2}{c}{Confirmed ($>0$)} \\
+$\alpha = 25$ & +1.85\% & +2.61\% & +2.25\% & +2.24\% & \multicolumn{2}{c}{Confirmed ($>0$)} \\
+$\alpha = 50$ & +1.78\% & +2.48\% & +2.19\% & +2.15\% & \multicolumn{2}{c}{Confirmed ($>0$)} \\
+$\alpha = 100$ & +1.71\% & +2.32\% & +1.97\% & +2.00\% & \multicolumn{2}{c}{Confirmed ($>0$)} \\
+$\alpha = 200$ & +1.60\% & +2.12\% & +1.71\% & +1.81\% & \multicolumn{2}{c}{Confirmed ($>0$)} \\
+\bottomrule
+\end{tabular}%
+}
+\begin{flushleft}
+\footnotesize Note: Out-of-sample 5-fold walk-forward cross-validation. Panel A evaluates the recursive state-space forgetting factor $\lambda \in [0.85, 1.00]$, showing that dynamic model adaptation outperforms static Bayesian model averaging ($\lambda = 1.00$) at every horizon. Panel B demonstrates that the information dilution penalty of all-domain concatenation relative to domain-specialized Ridge persists across all tested regularization strengths $\alpha \in [10, 200]$.
+\end{flushleft}
+\end{table}

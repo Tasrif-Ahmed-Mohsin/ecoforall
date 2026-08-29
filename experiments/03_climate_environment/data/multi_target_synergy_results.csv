@@ -1,6 +1,0 @@
-target_indicator,horizon,r2_score,rmse,top_predictive_drivers
-co2_emissions_per_capita,5_years,0.9936,0.2453,"co2_emissions_per_capita_roll_mean_10y, protected_area_pct_roll_mean_10y, energy_use_per_capita_roll_mean_10y"
-temp_anomaly_celsius,5_years,0.7296,0.1578,"protected_area_pct_roll_mean_10y, renewable_energy_pct_share_roll_mean_10y, co2_emissions_per_capita_velocity_3y"
-forest_area_pct_land,5_years,0.997,1.045,"forest_area_pct_land_roll_mean_10y, greenhouse_gas_total_kt_roll_mean_10y, protected_area_pct_roll_mean_10y"
-extreme_disasters_count,5_years,0.15,1.2755,"protected_area_pct_roll_mean_10y, renewable_energy_pct_share_roll_mean_10y, temp_anomaly_celsius_roll_mean_10y"
-renewable_energy_pct_share,5_years,0.9819,1.6153,"protected_area_pct_roll_mean_10y, renewable_energy_pct_share_roll_mean_10y, co2_emissions_per_capita_roll_mean_10y"

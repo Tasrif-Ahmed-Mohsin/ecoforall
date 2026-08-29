@@ -1,0 +1,43 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{Multi-horizon walk-forward forecasting tournament and cross-domain paradox audit}
+\label{tab:tournament_results}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccc}
+\toprule
+& \multicolumn{2}{c}{$h=1$} & \multicolumn{2}{c}{$h=3$} & \multicolumn{2}{c}{$h=5$} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+\textbf{Model Architecture} & MAE & Lift & MAE & Lift & MAE & Lift \\
+\midrule
+AR(1) Baseline & 0.03605 & --- & 0.08945 & --- & 0.14035 & --- \\
+Economy-Only Ridge & 0.03402 & $+$5.62\% & 0.08265 & $+$7.60\% & 0.12855 & $+$8.41\% \\
+\textit{All-Domain Ridge (Concat)} & 0.03461 & $+$4.00\% & 0.08457 & $+$5.46\% & 0.13109 & $+$6.60\% \\
+Politics Ridge (V-Dem) & 0.03580 & $+$0.69\% & 0.08500 & $+$4.97\% & 0.12857 & $+$8.39\% \\
+Climate Ridge (ERA5) & 0.03589 & $+$0.44\% & 0.08449 & $+$5.54\% & 0.12780 & $+$8.94\% \\
+Economy LightGBM & 0.03386 & $+$6.07\% & 0.07909 & $+$11.58\% & 0.11723 & $+$16.48\% \\
+\textit{All-Domain LightGBM (Concat)} & 0.03379 & $+$6.26\% & 0.07950 & $+$11.13\% & 0.11900 & $+$15.21\% \\
+Stock-Watson DFM & 0.03515 & $+$2.50\% & 0.08409 & $+$5.99\% & 0.12889 & $+$8.17\% \\
+\midrule
+Equal-Weight Multi-Domain & 0.03322 & $+$7.84\% & 0.07842 & $+$12.33\% & 0.11860 & $+$15.50\% \\
+DMS State-Space Router & 0.03255 & $+$9.71\% & 0.07715 & $+$13.75\% & 0.11589 & $+$17.43\% \\
+\textit{DMS (feedback disabled)} & 0.03322 & $+$7.84\% & 0.07842 & $+$12.33\% & 0.11860 & $+$15.50\% \\
+\midrule
+\multicolumn{7}{l}{\footnotesize \textit{Year-clustered Diebold-Mariano vs.\ AR(1) (MAE loss); $p$ two-sided}} \\
+\quad Economy LightGBM & 2.64 & $0.0148$ & 7.84 & $< 10^{-4}$ & 4.29 & $0.0004$ \\
+\quad Equal-Weight Multi-Domain & 4.30 & $0.0003$ & 8.05 & $< 10^{-4}$ & 4.36 & $0.0003$ \\
+\quad DMS State-Space Router & 5.79 & $< 10^{-4}$ & 9.20 & $< 10^{-4}$ & 5.24 & $< 10^{-4}$ \\
+\midrule
+\multicolumn{7}{l}{\footnotesize \textit{DMS vs.\ Equal-Weight (year-clustered DM, MAE loss); DMS vs.\ EW lift in parentheses}} \\
+\quad DMS vs.\ Equal-Weight & 3.48 ($+$2.0\%) & $0.0020$ & 1.92 ($+$1.6\%) & $0.0682$ & 3.15 ($+$2.3\%) & $0.0053$ \\
+\midrule
+\multicolumn{7}{l}{\footnotesize \textit{Clark-West (2007) nested tests: Economy-Only vs.\ All-Domain (year-clustered, one-sided)}} \\
+\quad Eco-Ridge vs.\ All-Ridge & -1.40 & $0.9118$ & -1.13 & $0.8647$ & -0.45 & $0.6720$ \\
+\quad Eco-LGBM vs.\ All-LGBM & 2.52 & $0.0096$ & 1.71 & $0.0514$ & 0.38 & $0.3553$ \\
+\bottomrule
+\end{tabular}%
+}
+\begin{flushleft}
+\footnotesize Note: Out-of-fold evaluation over 5-fold rolling-origin walk-forward CV (1960--2024); $N=5,211$ scored country-years at $h=1$, $N=4,773$ at $h=3$, $N=4,335$ at $h=5$, clustered into 24/22/20 origin years. Training windows are quarantined at $t \le t_{\text{start}} - h - 1$. The AR(1) benchmark is fitted per country with empirical-Bayes shrinkage on growth realised into the origin year; the same regressor is used at estimation and prediction. The DMS router receives each realisation only once it is observable ($t_0 + h \le t$), warmed up on the non-scored origins $[t_{\text{start}} - h,\, t_{\text{start}} - 1]$. All forecasts are clipped to $[-0.5, 0.5]$ and all features to $\pm 5$ SD after scaling, identically across models. Clark-West (2007) nested tests confirm that the augmented all-domain model fails to significantly improve over the parsimonious economic baseline at any horizon. Static concatenation is worse than single-domain in 5 of 6 architecture-horizon cells (Ridge $h=1$: +1.73\%; LightGBM $h=1$: -0.21\%; Ridge $h=3$: +2.32\%; LightGBM $h=3$: +0.52\%; Ridge $h=5$: +1.98\%; LightGBM $h=5$: +1.51\%). With feedback disabled the router's posterior never leaves its $1/M$ prior, so \textit{DMS (feedback disabled)} is algebraically identical to the equal-weight average at every horizon; the difference between it and the real-time router is the entire measured value of the state-space filter.
+\end{flushleft}
+\end{table}

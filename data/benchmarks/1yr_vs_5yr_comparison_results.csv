@@ -1,7 +1,0 @@
-target_variable,horizon_years,target_domain,baseline_type,hybrid_type,n_samples,rmse_baseline,rmse_hybrid,rmse_improvement_pct,mae_baseline,mae_hybrid,r2_baseline,r2_hybrid,dm_stat,p_value,significant_synergy
-gdp_pc_growth_1y_fwd,1 Year,Economic Growth (1Y),Economic Only,1Y Eco + Pol Synergy,5072,0.04168,0.04177,-0.22,0.02906,0.02912,0.0428,0.0386,-0.0757,0.9397,False
-gdp_pc_growth_5y_fwd,5 Year,Economic Growth (5Y),Economic Only,5Y Eco + Pol Synergy,4743,0.14389,0.14616,-1.57,0.10351,0.1043,0.0851,0.0561,-3.7242,0.0002,False
-goldstein_annual_mean_1y_fwd,1 Year,Political Risk (1Y),Political Only,1Y Eco + Pol Synergy,5376,1.13566,1.13566,0.0,0.93625,0.93625,0.9609,0.9609,0.0,1.0,False
-goldstein_annual_mean_5y_fwd,5 Year,Political Risk (5Y),Political Only,5Y Eco + Pol Synergy,5040,2.36608,2.37449,-0.36,1.92629,1.93263,0.8329,0.8317,-3.7379,0.0002,False
-material_conflict_annual_sum_1y_fwd,1 Year,Political Risk (1Y),Political Only,1Y Eco + Pol Synergy,5268,2569.65084,2584.39782,-0.57,1771.92934,1777.89727,0.979,0.9788,-3.0015,0.0027,False
-material_conflict_annual_sum_5y_fwd,5 Year,Political Risk (5Y),Political Only,5Y Eco + Pol Synergy,4939,2854.54841,2858.60649,-0.14,1998.62047,2001.64857,0.9744,0.9743,-1.0417,0.2975,False

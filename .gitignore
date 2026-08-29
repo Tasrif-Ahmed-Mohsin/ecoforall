@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+catboost_info/
 
 # Virtual environments
 .env
@@ -20,9 +21,20 @@ deepseek.txt
 .idea/
 .puku/
 
+# Archives & Duplicates
+archive/
+research 2/
+projectresearch/
+
 # Large Raw Data dumps (>50MB)
 *V-Dem-CY-Full+Others-v16.csv
 *.parquet
 *.joblib
 *.faiss
 *.log
+
+# Explicitly track verified empirical panel and data artifacts
+!data/processed_panels/real_cross_domain_annual_panel.parquet
+!data/raw/*.csv
+!data/raw/*.csv.gz
+!data/benchmarks/*.csv

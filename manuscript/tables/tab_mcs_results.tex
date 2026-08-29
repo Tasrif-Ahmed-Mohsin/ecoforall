@@ -1,0 +1,29 @@
+\begin{table}[ht]
+\centering
+\small
+\caption{Hansen, Lunde \& Nason (2011) Model Confidence Set ($\widehat{\mathcal{M}}_{90\%}$) across forecast horizons}
+\label{tab:mcs_results}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccc}
+\toprule
+& \multicolumn{2}{c}{$h=1$} & \multicolumn{2}{c}{$h=3$} & \multicolumn{2}{c}{$h=5$} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+\textbf{Model Architecture} & $p_{\text{MCS}}$ & In $\widehat{\mathcal{M}}_{90\%}$ & $p_{\text{MCS}}$ & In $\widehat{\mathcal{M}}_{90\%}$ & $p_{\text{MCS}}$ & In $\widehat{\mathcal{M}}_{90\%}$ \\
+\midrule
+DMS State-Space Router & \textbf{1.0000} & \checkmark & \textbf{1.0000} & \checkmark & \textbf{1.0000} & \checkmark \\
+Economy LightGBM & 0.0290 & --- & \textbf{0.1130} & \checkmark & \textbf{0.2430} & \checkmark \\
+Equal-Weight Multi-Domain & 0.0290 & --- & \textbf{0.1130} & \checkmark & 0.0480 & --- \\
+\textit{All-Domain LightGBM (Concat)} & 0.0290 & --- & \textbf{0.1130} & \checkmark & 0.0230 & --- \\
+Economy-Only Ridge & 0.0290 & --- & 0.0120 & --- & 0.0020 & --- \\
+Stock-Watson DFM & 0.0120 & --- & 0.0050 & --- & 0.0020 & --- \\
+\textit{All-Domain Ridge (Concat)} & 0.0120 & --- & 0.0010 & --- & 0.0000 & --- \\
+Climate Ridge (ERA5) & 0.0070 & --- & 0.0120 & --- & 0.0020 & --- \\
+Politics Ridge (V-Dem) & 0.0070 & --- & 0.0050 & --- & 0.0020 & --- \\
+AR(1) Baseline & 0.0120 & --- & 0.0000 & --- & 0.0020 & --- \\
+\bottomrule
+\end{tabular}%
+}
+\begin{flushleft}
+\footnotesize Note: Evaluated using moving-block bootstrap ($B=1,000$ replications, block size $= \max(2, h)$) on year-clustered MAE losses over 5-fold rolling-origin walk-forward CV. Block sizes are set to $\max(2, h)$ to capture multi-step serial correlation in the $h$-step loss differentials. $\widehat{\mathcal{M}}_{90\%}$ identifies the set of models containing the best model with 90\% asymptotic coverage ($p_{\text{MCS}} \ge 0.10$). At $h=1$, the DMS router is the sole model in $\widehat{\mathcal{M}}_{90\%}$ ($p_{\text{MCS}} = 1.000$). At $h=3$, four architectures enter $\widehat{\mathcal{M}}_{90\%}$ (DMS, Equal-Weight, Economy LightGBM, and All-Domain LightGBM, all with $p_{\text{MCS}} = 0.113$). At $h=5$, $\widehat{\mathcal{M}}_{90\%}$ narrows to DMS ($p=1.000$) and Economy LightGBM ($p=0.243$), while all linear models, Equal-Weight ($p=0.048$), and static all-domain concatenation ($p=0.023$) are eliminated.
+\end{flushleft}
+\end{table}

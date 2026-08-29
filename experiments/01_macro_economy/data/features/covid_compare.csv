@@ -1,5 +1,0 @@
-horizon,n_canonical,n_no_covid,mae_canonical,mae_no_covid,mae_delta,dir_acc_canonical,dir_acc_no_covid,prior_mae_canonical,prior_mae_no_covid
-h1,869,432,0.0541,0.0611,0.007,0.587,0.442,0.0587,0.0684
-h10,213,213,0.1216,0.1216,0.0,0.793,0.793,0.1334,0.1334
-h3,644,218,0.0869,0.0695,-0.0174,0.674,0.615,0.0939,0.0924
-h5,213,213,0.0431,0.0431,0.0,0.873,0.873,0.1102,0.1102

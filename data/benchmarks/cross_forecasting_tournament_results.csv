@@ -1,5 +1,0 @@
-target_variable,target_domain,baseline_type,hybrid_type,n_samples,rmse_baseline,rmse_hybrid,rmse_improvement_pct,mae_baseline,mae_hybrid,r2_baseline,r2_hybrid,dm_stat,p_value,significant_synergy
-gdp_pc_growth_5y_fwd,Economic Growth,Economic Only,Eco + Pol Synergy,4743,0.14575,0.14538,0.25,0.10334,0.10298,0.0614,0.0662,0.8005,0.4234,False
-gdp_pc_growth_1y_fwd,Economic Growth,Economic Only,Eco + Pol Synergy,5072,0.04103,0.04111,-0.2,0.02831,0.02838,0.0722,0.0685,-0.0662,0.9472,False
-material_conflict_annual_sum_1y_fwd,Political Risk,Political Only,Eco + Pol Synergy,5268,2348.91048,2369.76824,-0.89,1535.09869,1543.45077,0.9825,0.9821,-2.0844,0.0371,False
-goldstein_annual_mean_1y_fwd,Political Risk,Political Only,Eco + Pol Synergy,5376,1.28822,1.2945,-0.49,1.06489,1.07076,0.9497,0.9492,-7.1023,0.0,False

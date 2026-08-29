@@ -1,0 +1,3 @@
+Relationship,Y_Variable,X_Variable,T_Bar_ADF,Z_Group_ADF,P_Value,N_Countries,Cointegrated_5pct,Empirical_Verdict
+Log GDP pc ~ V-Dem Rule of Law,log_gdp_pc_real,vdem_rule_of_law,-1.6779,4.2122,0.9999873574520878,171,False,Fail to Reject H0: No Cointegration (Differencing Valid)
+Log GDP pc ~ Annual CO2 Emissions,log_gdp_pc_real,climate_annual_co2,-1.7659,3.3443,0.999587493181927,204,False,Fail to Reject H0: No Cointegration (Differencing Valid)
